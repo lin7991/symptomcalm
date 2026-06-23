@@ -1,0 +1,271 @@
+/* ===== SymptomCalm.com — Main Stylesheet ===== */
+
+:root {
+  --primary: #2C7A7B;
+  --primary-dark: #1A535C;
+  --primary-light: #4FD1C5;
+  --accent: #D69E2E;
+  --accent-light: #F6E05E;
+  --bg: #FFFFFF;
+  --bg-alt: #F7FAFC;
+  --bg-card: #FFFFFF;
+  --text: #2D3748;
+  --text-muted: #718096;
+  --text-light: #A0AEC0;
+  --border: #E2E8F0;
+  --border-light: #EDF2F7;
+  --shadow: 0 1px 3px rgba(0,0,0,0.08);
+  --shadow-lg: 0 10px 25px rgba(0,0,0,0.08);
+  --radius: 8px;
+  --radius-lg: 16px;
+  --font: 'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
+  --max-width: 1200px;
+}
+
+* { margin: 0; padding: 0; box-sizing: border-box; }
+
+body {
+  font-family: var(--font);
+  color: var(--text);
+  background: var(--bg);
+  line-height: 1.7;
+  font-size: 16px;
+  -webkit-font-smoothing: antialiased;
+}
+
+/* ===== Typography ===== */
+h1, h2, h3, h4 {
+  line-height: 1.3;
+  font-weight: 700;
+  color: var(--text);
+}
+h1 { font-size: 2.5rem; letter-spacing: -0.02em; margin-bottom: 1rem; }
+h2 { font-size: 1.75rem; margin-top: 2.5rem; margin-bottom: 1rem; }
+h3 { font-size: 1.25rem; margin-top: 1.5rem; margin-bottom: 0.75rem; }
+p { margin-bottom: 1.25rem; }
+a { color: var(--primary); text-decoration: none; transition: color 0.2s; }
+a:hover { color: var(--primary-dark); }
+
+/* ===== Layout ===== */
+.container { max-width: var(--max-width); margin: 0 auto; padding: 0 1.5rem; }
+.content { max-width: 740px; margin: 0 auto; }
+.content-wide { max-width: var(--max-width); margin: 0 auto; }
+
+/* ===== Header ===== */
+.site-header {
+  background: var(--bg);
+  border-bottom: 1px solid var(--border);
+  position: sticky;
+  top: 0;
+  z-index: 100;
+}
+.header-inner {
+  max-width: var(--max-width);
+  margin: 0 auto;
+  padding: 0 1.5rem;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  height: 64px;
+}
+.logo {
+  font-size: 1.4rem;
+  font-weight: 800;
+  color: var(--primary-dark);
+  letter-spacing: -0.02em;
+}
+.logo span { color: var(--accent); }
+.logo:hover { color: var(--primary-dark); }
+.tagline { font-size: 0.75rem; color: var(--text-muted); margin-top: -2px; }
+
+.main-nav { display: flex; gap: 2rem; align-items: center; }
+.main-nav a {
+  font-size: 0.9rem;
+  font-weight: 500;
+  color: var(--text-muted);
+  transition: color 0.2s;
+}
+.main-nav a:hover { color: var(--primary); }
+
+/* ===== Hero Section ===== */
+.hero {
+  padding: 5rem 0 4rem;
+  text-align: center;
+  background: linear-gradient(180deg, var(--bg-alt) 0%, var(--bg) 100%);
+}
+.hero h1 { font-size: 3rem; max-width: 800px; margin: 0 auto 1rem; }
+.hero p { font-size: 1.2rem; color: var(--text-muted); max-width: 600px; margin: 0 auto 2rem; }
+
+.hero-symptoms {
+  display: flex;
+  gap: 1rem;
+  justify-content: center;
+  flex-wrap: wrap;
+  margin-top: 2rem;
+}
+
+/* ===== Cards ===== */
+.card {
+  background: var(--bg-card);
+  border: 1px solid var(--border);
+  border-radius: var(--radius-lg);
+  padding: 2rem;
+  transition: box-shadow 0.3s, transform 0.2s;
+}
+.card:hover {
+  box-shadow: var(--shadow-lg);
+  transform: translateY(-2px);
+}
+.card-icon { font-size: 2rem; margin-bottom: 1rem; }
+.card h3 { margin-top: 0; }
+.card p { color: var(--text-muted); font-size: 0.95rem; margin-bottom: 0; }
+.card-link {
+  display: inline-block;
+  margin-top: 1rem;
+  font-weight: 600;
+  font-size: 0.9rem;
+}
+
+.symptom-card {
+  cursor: pointer;
+  flex: 0 0 280px;
+  text-align: center;
+}
+
+/* ===== Symptom Grid ===== */
+.grid-3 {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+  gap: 1.5rem;
+  margin: 2rem 0;
+}
+
+/* ===== Section ===== */
+.section { padding: 4rem 0; }
+.section-alt { background: var(--bg-alt); }
+.section-title { text-align: center; margin-bottom: 3rem; }
+.section-title h2 { margin-top: 0; }
+.section-title p { color: var(--text-muted); max-width: 500px; margin: 0 auto; }
+
+/* ===== Value Props ===== */
+.value-prop { display: flex; gap: 1rem; margin-bottom: 1.5rem; }
+.value-num {
+  font-size: 1.5rem;
+  font-weight: 800;
+  color: var(--primary);
+  min-width: 2rem;
+}
+
+/* ===== Disclaimer Banner ===== */
+.disclaimer-banner {
+  background: #FFF8E1;
+  border: 1px solid #FFF3CD;
+  border-radius: var(--radius);
+  padding: 1rem 1.25rem;
+  font-size: 0.8rem;
+  color: #856404;
+  margin-bottom: 2rem;
+  line-height: 1.5;
+}
+
+/* ===== Article / Content Page ===== */
+.article-header {
+  padding: 3rem 0 2rem;
+  border-bottom: 1px solid var(--border);
+  margin-bottom: 2rem;
+}
+.article-header h1 { margin-bottom: 0.5rem; }
+.article-header .meta { color: var(--text-muted); font-size: 0.9rem; }
+.article-body h2 { border-bottom: 1px solid var(--border-light); padding-bottom: 0.5rem; }
+.article-body ul, .article-body ol {
+  margin: 1rem 0 1.5rem 1.5rem;
+}
+.article-body li { margin-bottom: 0.5rem; }
+.article-body .callout {
+  background: #EBF8FF;
+  border-left: 4px solid var(--primary-light);
+  padding: 1.25rem;
+  border-radius: 0 var(--radius) var(--radius) 0;
+  margin: 1.5rem 0;
+}
+.article-body .callout strong { color: var(--primary-dark); }
+
+/* ===== Pattern Cards (for TCM patterns) ===== */
+.pattern-card {
+  background: var(--bg-alt);
+  border: 1px solid var(--border);
+  border-radius: var(--radius);
+  padding: 1.5rem;
+  margin: 1rem 0;
+}
+.pattern-card h4 { color: var(--primary-dark); margin-bottom: 0.5rem; }
+.pattern-card p:last-child { margin-bottom: 0; }
+
+/* ===== CTA Box ===== */
+.cta-box {
+  background: linear-gradient(135deg, var(--primary-dark), var(--primary));
+  color: white;
+  border-radius: var(--radius-lg);
+  padding: 2.5rem;
+  text-align: center;
+  margin: 3rem 0;
+}
+.cta-box h3 { color: white; margin-top: 0; }
+.cta-box p { color: rgba(255,255,255,0.85); }
+.cta-box a { color: var(--accent-light); }
+.cta-box a:hover { color: white; }
+
+/* ===== Footer ===== */
+.site-footer {
+  background: var(--primary-dark);
+  color: rgba(255,255,255,0.7);
+  padding: 3rem 0;
+  margin-top: 4rem;
+  font-size: 0.9rem;
+}
+.footer-inner {
+  max-width: var(--max-width);
+  margin: 0 auto;
+  padding: 0 1.5rem;
+  display: flex;
+  justify-content: space-between;
+  flex-wrap: wrap;
+  gap: 2rem;
+}
+.footer-links { display: flex; gap: 1.5rem; flex-wrap: wrap; }
+.footer-links a { color: rgba(255,255,255,0.6); font-size: 0.85rem; }
+.footer-links a:hover { color: white; }
+.footer-bottom {
+  max-width: var(--max-width);
+  margin: 2rem auto 0;
+  padding: 1.5rem 1.5rem 0;
+  border-top: 1px solid rgba(255,255,255,0.1);
+  text-align: center;
+  font-size: 0.8rem;
+}
+
+/* ===== Responsive ===== */
+@media (max-width: 768px) {
+  h1 { font-size: 2rem; }
+  .hero h1 { font-size: 2.2rem; }
+  .hero { padding: 3rem 0 2rem; }
+  .header-inner { flex-wrap: wrap; height: auto; padding: 0.75rem 1rem; }
+  .main-nav { gap: 1rem; }
+  .main-nav a { font-size: 0.8rem; }
+  .grid-3 { grid-template-columns: 1fr; }
+  .footer-inner { flex-direction: column; text-align: center; }
+  .footer-links { justify-content: center; }
+  .symptom-card { flex: 1 1 100%; }
+}
+
+/* ===== Table ===== */
+table { width: 100%; border-collapse: collapse; margin: 1.5rem 0; }
+th, td { padding: 0.75rem 1rem; text-align: left; border-bottom: 1px solid var(--border); }
+th { background: var(--bg-alt); font-weight: 600; color: var(--primary-dark); }
+tr:last-child td { border-bottom: none; }
+
+/* ===== FAQ Toggle ===== */
+.faq-item { border-bottom: 1px solid var(--border); padding: 1rem 0; }
+.faq-q { font-weight: 600; cursor: pointer; display: flex; justify-content: space-between; align-items: center; }
+.faq-a { display: none; margin-top: 0.75rem; color: var(--text-muted); }
+.faq-item.open .faq-a { display: block; }
