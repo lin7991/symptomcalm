@@ -215,6 +215,48 @@ a:hover { color: var(--primary-dark); }
 .cta-box a { color: var(--accent-light); }
 .cta-box a:hover { color: white; }
 
+/* ===== Partners / Friend Links ===== */
+.partners-grid {
+  display: flex;
+  gap: 1.5rem;
+  justify-content: center;
+  flex-wrap: wrap;
+}
+.partner-card {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 0.5rem;
+  padding: 1.5rem 2rem;
+  background: var(--bg-card);
+  border: 1px solid var(--border);
+  border-radius: var(--radius-lg);
+  text-align: center;
+  transition: box-shadow 0.3s, transform 0.2s;
+  min-width: 180px;
+}
+.partner-card:hover {
+  box-shadow: var(--shadow-lg);
+  transform: translateY(-2px);
+  text-decoration: none;
+}
+.partner-icon {
+  width: 48px;
+  height: 48px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.partner-card strong {
+  font-size: 1rem;
+  color: var(--text);
+}
+.partner-desc {
+  font-size: 0.8rem;
+  color: var(--text-muted);
+  line-height: 1.4;
+}
+
 /* ===== Footer ===== */
 .site-footer {
   background: var(--primary-dark);
