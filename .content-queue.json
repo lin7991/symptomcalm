@@ -4,20 +4,6 @@
   "note": "每3小时自动生产一篇内容。从队列头部取，完成后移到 published。",
   "queue": [
     {
-      "id": "03",
-      "path": "/symptoms/anxiety/liver-qi-stagnation/",
-      "title": "Liver Qi Stagnation: The TCM Pattern Behind Your Anxiety",
-      "type": "cluster",
-      "parent": "anxiety",
-      "estimated_read_time": 8,
-      "keywords": [
-        "liver qi stagnation",
-        "anxiety tcm",
-        "stagnant liver qi",
-        "stress and liver health"
-      ]
-    },
-    {
       "id": "04",
       "path": "/symptoms/back-pain/kidney-deficiency/",
       "title": "Kidney Deficiency and Back Pain: A TCM Perspective",
@@ -224,6 +210,20 @@
         "how does acupuncture work",
         "acupuncture points",
         "meridians"
+      ]
+    },
+    {
+      "id": "03",
+      "path": "/symptoms/anxiety/liver-qi-stagnation/",
+      "title": "Liver Qi Stagnation: The TCM Pattern Behind Your Anxiety",
+      "type": "cluster",
+      "parent": "anxiety",
+      "estimated_read_time": 8,
+      "keywords": [
+        "liver qi stagnation",
+        "anxiety tcm",
+        "stagnant liver qi",
+        "stress and liver health"
       ]
     }
   ]
