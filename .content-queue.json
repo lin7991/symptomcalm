@@ -4,19 +4,6 @@
   "note": "每3小时自动生产一篇内容。从队列头部取，完成后移到 published。",
   "queue": [
     {
-      "id": "08",
-      "path": "/symptoms/insomnia/acupressure-for-sleep/",
-      "title": "5 Acupressure Points for Better Sleep",
-      "type": "cluster",
-      "parent": "insomnia",
-      "estimated_read_time": 6,
-      "keywords": [
-        "acupressure for sleep",
-        "pressure points for sleep",
-        "insomnia self care tcm"
-      ]
-    },
-    {
       "id": "09",
       "path": "/tcm-basics/five-elements-guide/",
       "title": "The Five Elements: A TCM Guide to Your Body's Ecosystem",
@@ -224,6 +211,19 @@
         "acupuncture back pain",
         "chronic pain acupuncture",
         "tcm pain relief"
+      ]
+    },
+    {
+      "id": "08",
+      "path": "/symptoms/insomnia/acupressure-for-sleep/",
+      "title": "5 Acupressure Points for Better Sleep",
+      "type": "cluster",
+      "parent": "insomnia",
+      "estimated_read_time": 6,
+      "keywords": [
+        "acupressure for sleep",
+        "pressure points for sleep",
+        "insomnia self care tcm"
       ]
     }
   ]
