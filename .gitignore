@@ -1,3 +1,11 @@
 node_modules/
 .DS_Store
 *.tar.gz
+.cron/publish.log
+.cron/launchd.*.log
+.cron/reports/
+.cron/outreach/
+.cron/.cf_token
+.env
+*.pyc
+__pycache__/
