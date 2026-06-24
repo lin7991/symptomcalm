@@ -4,19 +4,6 @@
   "note": "每3小时自动生产一篇内容。从队列头部取，完成后移到 published。",
   "queue": [
     {
-      "id": "02",
-      "path": "/tcm-basics/how-acupuncture-works/",
-      "title": "How Acupuncture Works: A Modern Look at an Ancient Practice",
-      "type": "tcm-basics",
-      "estimated_read_time": 7,
-      "keywords": [
-        "acupuncture",
-        "how does acupuncture work",
-        "acupuncture points",
-        "meridians"
-      ]
-    },
-    {
       "id": "03",
       "path": "/symptoms/anxiety/liver-qi-stagnation/",
       "title": "Liver Qi Stagnation: The TCM Pattern Behind Your Anxiety",
@@ -224,6 +211,19 @@
         "tcm balance",
         "homeostasis",
         "traditional chinese medicine basics"
+      ]
+    },
+    {
+      "id": "02",
+      "path": "/tcm-basics/how-acupuncture-works/",
+      "title": "How Acupuncture Works: A Modern Look at an Ancient Practice",
+      "type": "tcm-basics",
+      "estimated_read_time": 7,
+      "keywords": [
+        "acupuncture",
+        "how does acupuncture work",
+        "acupuncture points",
+        "meridians"
       ]
     }
   ]
