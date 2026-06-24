@@ -4,19 +4,6 @@
   "note": "每3小时自动生产一篇内容。从队列头部取，完成后移到 published。",
   "queue": [
     {
-      "id": "07",
-      "path": "/symptoms/back-pain/acupuncture-for-back-pain/",
-      "title": "Acupuncture for Chronic Back Pain: A Research-Based Look",
-      "type": "cluster",
-      "parent": "back-pain",
-      "estimated_read_time": 6,
-      "keywords": [
-        "acupuncture back pain",
-        "chronic pain acupuncture",
-        "tcm pain relief"
-      ]
-    },
-    {
       "id": "08",
       "path": "/symptoms/insomnia/acupressure-for-sleep/",
       "title": "5 Acupressure Points for Better Sleep",
@@ -224,6 +211,19 @@
         "acupuncture for anxiety",
         "acupuncture stress relief",
         "anxiety treatment tcm"
+      ]
+    },
+    {
+      "id": "07",
+      "path": "/symptoms/back-pain/acupuncture-for-back-pain/",
+      "title": "Acupuncture for Chronic Back Pain: A Research-Based Look",
+      "type": "cluster",
+      "parent": "back-pain",
+      "estimated_read_time": 6,
+      "keywords": [
+        "acupuncture back pain",
+        "chronic pain acupuncture",
+        "tcm pain relief"
       ]
     }
   ]
