@@ -1,5 +1,3 @@
-email=mtvdoor@gmail.com
-password=ckhi otpx hwkd xbjq
-smtp_host=smtp.gmail.com
-smtp_port=587
-use_ssl=false
+api_key=re_5ifEDKmg_5gVfK9C4JytmLvwzV5T6cqRQ
+email=contact@symptomcalm.com
+sender_name=SymptomCalm

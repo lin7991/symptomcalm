@@ -18,7 +18,7 @@ Usage:
 SMTP credentials: stored in .cron/.smtp_config (not in git)
 """
 
-import csv, json, os, re, random, smtplib, sys, time
+import csv, json, os, random, re, subprocess, sys, time
 from datetime import datetime
 from email.mime.text import MIMEText
 from pathlib import Path
@@ -330,33 +330,41 @@ SymptomCalm""",
 
 
 def send_email(smtp_config, to_email, subject, body):
-    """Send an email via SMTP."""
+    """Send an email via Resend API."""
     if not smtp_config:
-        print("ERROR: SMTP not configured. Create ~/symptomcalm/.cron/.smtp_config")
+        print("ERROR: SMTP not configured.")
         return False
 
-    sender_email = smtp_config.get("email", "mtvdoor@gmail.com")
-    sender_password = smtp_config.get("password", "")
-    smtp_host = smtp_config.get("smtp_host", "smtp.gmail.com")
-    smtp_port = int(smtp_config.get("smtp_port", "587"))
-    use_ssl = smtp_config.get("use_ssl", "false").lower() == "true"
+    api_key = smtp_config.get("api_key", "")
+    sender_email = smtp_config.get("email", "contact@symptomcalm.com")
+    sender_name = smtp_config.get("sender_name", "SymptomCalm")
 
-    msg = MIMEText(body, "plain", "utf-8")
-    msg["From"] = f"SymptomCalm <{sender_email}>"
-    msg["To"] = to_email
-    msg["Subject"] = subject
+    if not api_key:
+        print("ERROR: No Resend API key configured")
+        return False
+
+    payload = json.dumps({
+        "from": f"{sender_name} <{sender_email}>",
+        "to": [to_email],
+        "subject": subject,
+        "text": body,
+    })
 
     try:
-        if use_ssl:
-            server = smtplib.SMTP_SSL(smtp_host, smtp_port, timeout=30)
+        result = subprocess.run(
+            ["curl", "-s", "-X", "POST", "https://api.resend.com/emails",
+             "-H", f"Authorization: Bearer {api_key}",
+             "-H", "Content-Type: application/json",
+             "-d", payload],
+            capture_output=True, text=True, timeout=30
+        )
+        resp = json.loads(result.stdout)
+        if resp.get("id"):
+            print(f"✅ Email sent to {to_email} (ID: {resp['id']})")
+            return True
         else:
-            server = smtplib.SMTP(smtp_host, smtp_port, timeout=30)
-            server.starttls()
-        server.login(sender_email, sender_password)
-        server.sendmail(sender_email, [to_email], msg.as_string())
-        server.quit()
-        print(f"✅ Email sent to {to_email}")
-        return True
+            print(f"❌ Resend error: {resp.get('message', result.stdout)}")
+            return False
     except Exception as e:
         print(f"❌ Failed to send to {to_email}: {e}")
         return False
