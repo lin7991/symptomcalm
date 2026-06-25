@@ -4,19 +4,6 @@
   "note": "每3小时自动生产一篇内容。从队列头部取，完成后移到 published。",
   "queue": [
     {
-      "id": "14",
-      "path": "/symptoms/headaches/liver-fire-headaches/",
-      "title": "Liver Fire Headaches: The TCM Pattern Behind Migraines",
-      "type": "cluster",
-      "parent": "headaches",
-      "estimated_read_time": 7,
-      "keywords": [
-        "liver fire headache",
-        "migraine tcm",
-        "headache patterns"
-      ]
-    },
-    {
       "id": "15",
       "path": "/tcm-basics/tcm-vs-western-medicine/",
       "title": "TCM vs Western Medicine: Different Maps, Same Body",
@@ -224,6 +211,19 @@
         "spleen qi deficiency",
         "poor digestion tcm",
         "tcm digestive patterns"
+      ]
+    },
+    {
+      "id": "14",
+      "path": "/symptoms/headaches/liver-fire-headaches/",
+      "title": "Liver Fire Headaches: The TCM Pattern Behind Migraines",
+      "type": "cluster",
+      "parent": "headaches",
+      "estimated_read_time": 7,
+      "keywords": [
+        "liver fire headache",
+        "migraine tcm",
+        "headache patterns"
       ]
     }
   ]
