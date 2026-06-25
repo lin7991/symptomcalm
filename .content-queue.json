@@ -4,18 +4,6 @@
   "note": "每3小时自动生产一篇内容。从队列头部取，完成后移到 published。",
   "queue": [
     {
-      "id": "15",
-      "path": "/tcm-basics/tcm-vs-western-medicine/",
-      "title": "TCM vs Western Medicine: Different Maps, Same Body",
-      "type": "tcm-basics",
-      "estimated_read_time": 7,
-      "keywords": [
-        "tcm vs western medicine",
-        "integrative medicine",
-        "east meets west health"
-      ]
-    },
-    {
       "id": "16",
       "path": "/treatments/acupuncture/",
       "title": "Acupuncture: What to Expect, How It Works, and What It Treats",
@@ -224,6 +212,18 @@
         "liver fire headache",
         "migraine tcm",
         "headache patterns"
+      ]
+    },
+    {
+      "id": "15",
+      "path": "/tcm-basics/tcm-vs-western-medicine/",
+      "title": "TCM vs Western Medicine: Different Maps, Same Body",
+      "type": "tcm-basics",
+      "estimated_read_time": 7,
+      "keywords": [
+        "tcm vs western medicine",
+        "integrative medicine",
+        "east meets west health"
       ]
     }
   ]
