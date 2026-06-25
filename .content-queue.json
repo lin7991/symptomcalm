@@ -4,19 +4,6 @@
   "note": "每3小时自动生产一篇内容。从队列头部取，完成后移到 published。",
   "queue": [
     {
-      "id": "10",
-      "path": "/symptoms/digestion/",
-      "title": "Digestive Health: A TCM Perspective on Bloating, Gas, and More",
-      "type": "pillar",
-      "estimated_read_time": 8,
-      "keywords": [
-        "tcm digestion",
-        "bloating tcm",
-        "spleen qi deficiency",
-        "digestive health chinese medicine"
-      ]
-    },
-    {
       "id": "11",
       "path": "/symptoms/headaches/",
       "title": "Headaches: A TCM Perspective on Tension, Migraines, and Triggers",
@@ -224,6 +211,19 @@
         "wu xing",
         "wood fire earth metal water",
         "tcm theory"
+      ]
+    },
+    {
+      "id": "10",
+      "path": "/symptoms/digestion/",
+      "title": "Digestive Health: A TCM Perspective on Bloating, Gas, and More",
+      "type": "pillar",
+      "estimated_read_time": 8,
+      "keywords": [
+        "tcm digestion",
+        "bloating tcm",
+        "spleen qi deficiency",
+        "digestive health chinese medicine"
       ]
     }
   ]
