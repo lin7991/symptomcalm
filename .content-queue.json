@@ -2,20 +2,7 @@
   "schema_version": 1,
   "created": "2026-06-23",
   "note": "每3小时自动生产一篇内容。从队列头部取，完成后移到 published。",
-  "queue": [
-    {
-      "id": "17",
-      "path": "/treatments/herbal-medicine/",
-      "title": "Herbal Medicine in TCM: A Beginner's Guide",
-      "type": "treatment",
-      "estimated_read_time": 7,
-      "keywords": [
-        "chinese herbal medicine",
-        "tcm herbs",
-        "herbal formulas tcm"
-      ]
-    }
-  ],
+  "queue": [],
   "published": [
     {
       "id": "01",
@@ -224,6 +211,18 @@
         "acupuncture treatment",
         "what to expect acupuncture",
         "acupuncture benefits"
+      ]
+    },
+    {
+      "id": "17",
+      "path": "/treatments/herbal-medicine/",
+      "title": "Herbal Medicine in TCM: A Beginner's Guide",
+      "type": "treatment",
+      "estimated_read_time": 7,
+      "keywords": [
+        "chinese herbal medicine",
+        "tcm herbs",
+        "herbal formulas tcm"
       ]
     }
   ]
