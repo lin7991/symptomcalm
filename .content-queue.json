@@ -4,19 +4,6 @@
   "note": "每3小时自动生产一篇内容。从队列头部取，完成后移到 published。",
   "queue": [
     {
-      "id": "09",
-      "path": "/tcm-basics/five-elements-guide/",
-      "title": "The Five Elements: A TCM Guide to Your Body's Ecosystem",
-      "type": "tcm-basics",
-      "estimated_read_time": 8,
-      "keywords": [
-        "five elements tcm",
-        "wu xing",
-        "wood fire earth metal water",
-        "tcm theory"
-      ]
-    },
-    {
       "id": "10",
       "path": "/symptoms/digestion/",
       "title": "Digestive Health: A TCM Perspective on Bloating, Gas, and More",
@@ -224,6 +211,19 @@
         "acupressure for sleep",
         "pressure points for sleep",
         "insomnia self care tcm"
+      ]
+    },
+    {
+      "id": "09",
+      "path": "/tcm-basics/five-elements-guide/",
+      "title": "The Five Elements: A TCM Guide to Your Body's Ecosystem",
+      "type": "tcm-basics",
+      "estimated_read_time": 8,
+      "keywords": [
+        "five elements tcm",
+        "wu xing",
+        "wood fire earth metal water",
+        "tcm theory"
       ]
     }
   ]
