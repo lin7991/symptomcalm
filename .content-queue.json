@@ -4,19 +4,6 @@
   "note": "每3小时自动生产一篇内容。从队列头部取，完成后移到 published。",
   "queue": [
     {
-      "id": "12",
-      "path": "/symptoms/fatigue/",
-      "title": "Chronic Fatigue: A TCM Perspective on Energy and Vitality",
-      "type": "pillar",
-      "estimated_read_time": 8,
-      "keywords": [
-        "chronic fatigue tcm",
-        "low energy tcm",
-        "qi deficiency",
-        "adrenal fatigue tcm"
-      ]
-    },
-    {
       "id": "13",
       "path": "/symptoms/digestion/spleen-qi-deficiency/",
       "title": "Spleen Qi Deficiency: The TCM Pattern Behind Poor Digestion",
@@ -224,6 +211,19 @@
         "migraine tcm",
         "tension headache",
         "headache patterns tcm"
+      ]
+    },
+    {
+      "id": "12",
+      "path": "/symptoms/fatigue/",
+      "title": "Chronic Fatigue: A TCM Perspective on Energy and Vitality",
+      "type": "pillar",
+      "estimated_read_time": 8,
+      "keywords": [
+        "chronic fatigue tcm",
+        "low energy tcm",
+        "qi deficiency",
+        "adrenal fatigue tcm"
       ]
     }
   ]
