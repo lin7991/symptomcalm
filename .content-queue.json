@@ -4,18 +4,6 @@
   "note": "每3小时自动生产一篇内容。从队列头部取，完成后移到 published。",
   "queue": [
     {
-      "id": "16",
-      "path": "/treatments/acupuncture/",
-      "title": "Acupuncture: What to Expect, How It Works, and What It Treats",
-      "type": "treatment",
-      "estimated_read_time": 8,
-      "keywords": [
-        "acupuncture treatment",
-        "what to expect acupuncture",
-        "acupuncture benefits"
-      ]
-    },
-    {
       "id": "17",
       "path": "/treatments/herbal-medicine/",
       "title": "Herbal Medicine in TCM: A Beginner's Guide",
@@ -224,6 +212,18 @@
         "tcm vs western medicine",
         "integrative medicine",
         "east meets west health"
+      ]
+    },
+    {
+      "id": "16",
+      "path": "/treatments/acupuncture/",
+      "title": "Acupuncture: What to Expect, How It Works, and What It Treats",
+      "type": "treatment",
+      "estimated_read_time": 8,
+      "keywords": [
+        "acupuncture treatment",
+        "what to expect acupuncture",
+        "acupuncture benefits"
       ]
     }
   ]
