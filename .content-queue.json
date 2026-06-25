@@ -4,19 +4,6 @@
   "note": "每3小时自动生产一篇内容。从队列头部取，完成后移到 published。",
   "queue": [
     {
-      "id": "13",
-      "path": "/symptoms/digestion/spleen-qi-deficiency/",
-      "title": "Spleen Qi Deficiency: The TCM Pattern Behind Poor Digestion",
-      "type": "cluster",
-      "parent": "digestion",
-      "estimated_read_time": 7,
-      "keywords": [
-        "spleen qi deficiency",
-        "poor digestion tcm",
-        "tcm digestive patterns"
-      ]
-    },
-    {
       "id": "14",
       "path": "/symptoms/headaches/liver-fire-headaches/",
       "title": "Liver Fire Headaches: The TCM Pattern Behind Migraines",
@@ -224,6 +211,19 @@
         "low energy tcm",
         "qi deficiency",
         "adrenal fatigue tcm"
+      ]
+    },
+    {
+      "id": "13",
+      "path": "/symptoms/digestion/spleen-qi-deficiency/",
+      "title": "Spleen Qi Deficiency: The TCM Pattern Behind Poor Digestion",
+      "type": "cluster",
+      "parent": "digestion",
+      "estimated_read_time": 7,
+      "keywords": [
+        "spleen qi deficiency",
+        "poor digestion tcm",
+        "tcm digestive patterns"
       ]
     }
   ]
