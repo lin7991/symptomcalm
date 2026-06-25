@@ -4,19 +4,6 @@
   "note": "每3小时自动生产一篇内容。从队列头部取，完成后移到 published。",
   "queue": [
     {
-      "id": "11",
-      "path": "/symptoms/headaches/",
-      "title": "Headaches: A TCM Perspective on Tension, Migraines, and Triggers",
-      "type": "pillar",
-      "estimated_read_time": 8,
-      "keywords": [
-        "tcm headache",
-        "migraine tcm",
-        "tension headache",
-        "headache patterns tcm"
-      ]
-    },
-    {
       "id": "12",
       "path": "/symptoms/fatigue/",
       "title": "Chronic Fatigue: A TCM Perspective on Energy and Vitality",
@@ -224,6 +211,19 @@
         "bloating tcm",
         "spleen qi deficiency",
         "digestive health chinese medicine"
+      ]
+    },
+    {
+      "id": "11",
+      "path": "/symptoms/headaches/",
+      "title": "Headaches: A TCM Perspective on Tension, Migraines, and Triggers",
+      "type": "pillar",
+      "estimated_read_time": 8,
+      "keywords": [
+        "tcm headache",
+        "migraine tcm",
+        "tension headache",
+        "headache patterns tcm"
       ]
     }
   ]
