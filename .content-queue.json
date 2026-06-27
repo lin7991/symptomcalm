@@ -4,20 +4,6 @@
   "note": "每3小时自动生产一篇内容。从队列头部取，完成后移到 published。",
   "queue": [
     {
-      "title": "Tension Headaches: The TCM View on Muscle Tension and Qi Stagnation",
-      "path": "/symptoms/headaches/tension-headache-tcm/",
-      "type": "cluster",
-      "parent": "headaches",
-      "estimated_read_time": 7,
-      "keywords": [
-        "tension headache",
-        "qi stagnation headache",
-        "tcm headache patterns",
-        "stress headache"
-      ],
-      "id": "21"
-    },
-    {
       "title": "Eating for Calm: A TCM Dietary Approach to Managing Anxiety",
       "path": "/symptoms/anxiety/tcm-diet-anxiety/",
       "type": "cluster",
@@ -429,6 +415,20 @@
         "heavy digestion tcm"
       ],
       "id": "20"
+    },
+    {
+      "title": "Tension Headaches: The TCM View on Muscle Tension and Qi Stagnation",
+      "path": "/symptoms/headaches/tension-headache-tcm/",
+      "type": "cluster",
+      "parent": "headaches",
+      "estimated_read_time": 7,
+      "keywords": [
+        "tension headache",
+        "qi stagnation headache",
+        "tcm headache patterns",
+        "stress headache"
+      ],
+      "id": "21"
     }
   ]
 }
