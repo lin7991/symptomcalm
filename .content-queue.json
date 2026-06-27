@@ -4,20 +4,6 @@
   "note": "每3小时自动生产一篇内容。从队列头部取，完成后移到 published。",
   "queue": [
     {
-      "title": "Dampness and Bloating: The TCM Pattern Behind Heavy Digestion",
-      "path": "/symptoms/digestion/dampness-and-bloating/",
-      "type": "cluster",
-      "parent": "digestion",
-      "estimated_read_time": 7,
-      "keywords": [
-        "dampness tcm",
-        "bloating",
-        "spleen dampness",
-        "heavy digestion tcm"
-      ],
-      "id": "20"
-    },
-    {
       "title": "Tension Headaches: The TCM View on Muscle Tension and Qi Stagnation",
       "path": "/symptoms/headaches/tension-headache-tcm/",
       "type": "cluster",
@@ -429,6 +415,20 @@
         "burnout tcm"
       ],
       "id": "19"
+    },
+    {
+      "title": "Dampness and Bloating: The TCM Pattern Behind Heavy Digestion",
+      "path": "/symptoms/digestion/dampness-and-bloating/",
+      "type": "cluster",
+      "parent": "digestion",
+      "estimated_read_time": 7,
+      "keywords": [
+        "dampness tcm",
+        "bloating",
+        "spleen dampness",
+        "heavy digestion tcm"
+      ],
+      "id": "20"
     }
   ]
 }
