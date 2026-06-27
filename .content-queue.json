@@ -4,20 +4,6 @@
   "note": "每3小时自动生产一篇内容。从队列头部取，完成后移到 published。",
   "queue": [
     {
-      "title": "Eating for Calm: A TCM Dietary Approach to Managing Anxiety",
-      "path": "/symptoms/anxiety/tcm-diet-anxiety/",
-      "type": "cluster",
-      "parent": "anxiety",
-      "estimated_read_time": 7,
-      "keywords": [
-        "tcm diet for anxiety",
-        "anxiety nutrition",
-        "calming foods tcm",
-        "liver qi diet"
-      ],
-      "id": "22"
-    },
-    {
       "title": "TCM-Based Stretches and Movement for Lower Back Pain",
       "path": "/symptoms/back-pain/tcm-stretches-back-pain/",
       "type": "cluster",
@@ -429,6 +415,20 @@
         "stress headache"
       ],
       "id": "21"
+    },
+    {
+      "title": "Eating for Calm: A TCM Dietary Approach to Managing Anxiety",
+      "path": "/symptoms/anxiety/tcm-diet-anxiety/",
+      "type": "cluster",
+      "parent": "anxiety",
+      "estimated_read_time": 7,
+      "keywords": [
+        "tcm diet for anxiety",
+        "anxiety nutrition",
+        "calming foods tcm",
+        "liver qi diet"
+      ],
+      "id": "22"
     }
   ]
 }
