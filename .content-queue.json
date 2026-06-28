@@ -4,19 +4,6 @@
   "note": "每3小时自动生产一篇内容。从队列头部取，完成后移到 published。",
   "queue": [
     {
-      "title": "Cupping Therapy: What It Is, How It Works, and What to Expect",
-      "path": "/treatments/cupping-therapy/",
-      "type": "treatment",
-      "estimated_read_time": 7,
-      "keywords": [
-        "cupping therapy",
-        "what is cupping",
-        "cupping benefits",
-        "tcm cupping"
-      ],
-      "id": "28"
-    },
-    {
       "title": "Moxibustion: The TCM Heat Therapy for Pain and Digestion",
       "path": "/treatments/moxibustion/",
       "type": "treatment",
@@ -429,6 +416,19 @@
         "skin inflammation"
       ],
       "id": "27"
+    },
+    {
+      "title": "Cupping Therapy: What It Is, How It Works, and What to Expect",
+      "path": "/treatments/cupping-therapy/",
+      "type": "treatment",
+      "estimated_read_time": 7,
+      "keywords": [
+        "cupping therapy",
+        "what is cupping",
+        "cupping benefits",
+        "tcm cupping"
+      ],
+      "id": "28"
     }
   ]
 }
