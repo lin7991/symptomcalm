@@ -4,19 +4,6 @@
   "note": "每3小时自动生产一篇内容。从队列头部取，完成后移到 published。",
   "queue": [
     {
-      "title": "How TCM Practitioners Diagnose: Tongue, Pulse, and Beyond",
-      "path": "/tcm-basics/tcm-diagnosis-methods/",
-      "type": "tcm-basics",
-      "estimated_read_time": 6,
-      "keywords": [
-        "tcm diagnosis",
-        "tongue diagnosis",
-        "pulse diagnosis",
-        "tcm consultation"
-      ],
-      "id": "30"
-    },
-    {
       "title": "Stomach Heat: The TCM Pattern Behind Acid Reflux and Heartburn",
       "path": "/symptoms/digestion/stomach-heat/",
       "type": "cluster",
@@ -640,6 +627,19 @@
         "acupuncture with moxa"
       ],
       "id": "29"
+    },
+    {
+      "title": "How TCM Practitioners Diagnose: Tongue, Pulse, and Beyond",
+      "path": "/tcm-basics/tcm-diagnosis-methods/",
+      "type": "tcm-basics",
+      "estimated_read_time": 6,
+      "keywords": [
+        "tcm diagnosis",
+        "tongue diagnosis",
+        "pulse diagnosis",
+        "tcm consultation"
+      ],
+      "id": "30"
     }
   ]
 }
