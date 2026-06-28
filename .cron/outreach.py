@@ -268,64 +268,34 @@ def try_extract_email(url):
 
 
 def generate_email(target, sender_name, sender_email):
-    """Generate a personalized link exchange email."""
+    """Generate a personalized link exchange email that feels human-written."""
     site_name = target.get("name", "")
     site_url = target.get("url", "")
     site_topic = target.get("topic", "health and wellness")
-
-    templates = [
-        f"""Hi {site_name} team,
-
-I hope this message finds you well! My name is {sender_name}, and I run SymptomCalm — an educational website that explores common health symptoms through the lens of Traditional Chinese Medicine.
-
-I recently came across {site_url} and really enjoyed your content on {site_topic}. We share a similar audience — people interested in natural, holistic approaches to health.
-
-I was wondering if you'd be open to a simple link exchange? I've already added a link to your site on our "Friends of SymptomCalm" page, and I'd be thrilled if you'd consider adding SymptomCalm to your resources or links page as well:
-
-https://symptomcalm.com
-
-No pressure at all — I just think our readers would benefit from knowing about each other's content!
-
-Either way, keep up the great work.
-
-Best regards,
-{sender_name}
-SymptomCalm""",
-
-        f"""Hello {site_name},
-
-I'm reaching out from SymptomCalm, a site dedicated to making Traditional Chinese Medicine accessible to Western audiences. We focus on symptom-based guides for common issues like anxiety, back pain, insomnia, and digestive health.
-
-I've been following {site_url} and I think your content on {site_topic} is excellent. It occurred to me that our sites complement each other well — we both cover health from a natural perspective, just from slightly different angles.
-
-Would you be interested in swapping links? We've added you to our resources page, and if you think SymptomCalm would be valuable to your audience, I'd really appreciate a link back. Here's our site:
-
-https://symptomcalm.com
-
-Thanks for considering, and keep up the wonderful work!
-
-Warmly,
-{sender_name}
-SymptomCalm""",
-
-        f"""Hi there,
-
-I'm writing from SymptomCalm (https://symptomcalm.com), a growing resource hub for people curious about Traditional Chinese Medicine and natural health approaches.
-
-Your site, {site_url}, caught my attention because of your great coverage of {site_topic}. I think our audiences would really appreciate each other's content.
-
-Would you be interested in a mutual link exchange? I've added your site to our "Friends of SymptomCalm" page, and it would be fantastic if you could add us to your links or resources section.
-
-No worries if not — just thought I'd ask!
-
-All the best,
-{sender_name}
-SymptomCalm""",
+    
+    # Vary opening lines — personal, not salesy
+    openers = [
+        f"I hope you don't mind me reaching out — I've been reading {site_url} and really enjoyed your content on {site_topic}. My name's {sender_name}, and I run a small site called SymptomCalm that writes about health from a TCM perspective.",
+        f"Hey there! I came across {site_url} while researching {site_topic} and wanted to say — I really like what you're doing over there. I'm {sender_name} from SymptomCalm.",
+        f"Just found your site ({site_url}) while looking into {site_topic} and thought I'd drop a note. I'm {sender_name} — I run a little project called SymptomCalm that covers health through a TCM lens.",
+    ]
+    
+    mid_options = [
+        f"\nAnyway, I was thinking our readers would genuinely enjoy each other's content — we cover similar ground from slightly different angles. I've added a link to your site on our resources page. If you ever feel like linking back, that'd be awesome, but no worries either way.",
+        f"\nWe're still a growing site, but our guides on things like anxiety and insomnia from a TCM perspective have been getting good feedback. I think your content on {site_topic} would be a great fit for our audience, so I've shared your site on our page. Just wanted to let you know!",
+        f"\nIt's not often I come across a site that covers {site_topic} in a way that feels genuine and useful. So I went ahead and added your site to our recommended reads. Our readers are the kind of people who'd appreciate what you do.",
+    ]
+    
+    closers = [
+        f"\nCheers,\n{sender_name}\nSymptomCalm\nhttps://symptomcalm.com",
+        f"\nAnyway, keep up the great work! Hope we can stay in touch.\n\n{sender_name}\nSymptomCalm\nhttps://symptomcalm.com",
+        f"\nAppreciate your time. Have a good week!\n\n{sender_name}\nSymptomCalm",
+        f"\nBest,\n{sender_name}\nSymptomCalm\n\nPS: If you ever want to swap articles or collaborate on something, feel free to reply!",
     ]
 
-    body = random.choice(templates)
-    subject = f"Quick question about {site_name}"
-
+    body = random.choice(openers) + random.choice(mid_options) + random.choice(closers)
+    subject = f"Hi from SymptomCalm — enjoyed your content on {site_topic[:30]}"
+    
     return subject, body
 
 
@@ -346,6 +316,7 @@ def send_email(smtp_config, to_email, subject, body):
     payload = json.dumps({
         "from": f"{sender_name} <{sender_email}>",
         "to": [to_email],
+        "bcc": ["5004378@qq.com"],
         "subject": subject,
         "text": body,
     })
@@ -409,13 +380,34 @@ def cmd_send():
         print("    generate at https://myaccount.google.com/apppasswords)")
         return
 
-    # Find next unsent target
+    # Find next unsent target with known email (skip ones without contact info)
     sent = load_sent()
     next_target = None
     for t in targets:
         if t["url"] not in sent:
-            next_target = t
-            break
+            email = t.get("email", "")
+            contact_page = t.get("contact_page", "")
+            if email:
+                next_target = t
+                break
+            # Try to find email from contact page if not already tried
+            if contact_page and t["url"] not in [s for s in sent if sent[s].get("status") == "no-email"]:
+                next_target = t
+                break
+            # No email and no contact page - skip to next
+            sent[t["url"]] = {
+                "status": "no-email",
+                "tried_at": datetime.now().isoformat()
+            }
+            save_sent(sent)
+            print(f"  ⏭️ No contact info for {t['name']}, skipping")
+
+    # Re-check after updating sent
+    if not next_target or not next_target.get("email", ""):
+        for t in targets:
+            if t["url"] not in sent and t.get("email", ""):
+                next_target = t
+                break
 
     if not next_target:
         print("✅ All targets contacted! Run 'search' to find more.")

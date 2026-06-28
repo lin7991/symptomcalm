@@ -78,57 +78,32 @@ echo ""
 echo "## 📈 流量概览"
 echo ""
 CF_TOKEN_FILE="$HOME/symptomcalm/.cron/.cf_token"
+CF_ZONE_ID="7aa4bb63b3a0a60571d3b6675c660161"
 if [ -f "$CF_TOKEN_FILE" ]; then
   CF_TOKEN=$(cat "$CF_TOKEN_FILE")
+  TODAY=$(date +%Y-%m-%d)
+  YESTERDAY=$(date -v-7d +%Y-%m-%d)
+  
+  ANALYTICS=$(curl -s --max-time 10 -X POST "https://api.cloudflare.com/client/v4/graphql" \
+    -H "Authorization: Bearer $CF_TOKEN" \
+    -H "Content-Type: application/json" \
+    -d "{\"query\":\"{viewer{zones(filter:{zoneTag:\\\"$CF_ZONE_ID\\\"}){httpRequests1dGroups(limit:7,filter:{date_gt:\\\"$YESTERDAY\\\"}){dimensions{date}sum{requests bytes}}}}}\"}" 2>/dev/null)
+  
+  TOTAL_REQUESTS=$(echo "$ANALYTICS" | python3 -c "
+import json,sys
+try:
+    d=json.load(sys.stdin)
+    days = d['data']['viewer']['zones'][0]['httpRequests1dGroups']
+    total = sum(day['sum']['requests'] for day in days)
+    bw = sum(day['sum']['bytes'] for day in days)
+    print(f'{total} requests / {bw/1024/1024:.1f} MB')
+except: print('N/A')
+" 2>/dev/null)
+  
+  echo "  最近7天: $TOTAL_REQUESTS"
+  echo "  数据来源: Cloudflare GraphQL API"
 else
   echo "  无法获取流量数据（CF token 文件不存在）"
-  echo "  建议：在 Cloudflare Dashboard 查看 analytics"
-  echo ""
-  echo "---"
-  echo "*报告由 SymptomCalm Auto-Reporter 自动生成*"
-  exit 0
-fi
-CF_ZONE_ID=$(curl -s -H "Authorization: Bearer $CF_TOKEN" \
-  "https://api.cloudflare.com/client/v4/zones?name=symptomcalm.com" 2>/dev/null | \
-  python3 -c "import json,sys; d=json.load(sys.stdin); print(d['result'][0]['id'])" 2>/dev/null)
-
-if [ -n "$CF_ZONE_ID" ]; then
-  YESTERDAY_DATE=$(date -v-1d +%Y-%m-%d)
-  TODAY_DATE=$(date +%Y-%m-%d)
-  
-  # Get analytics for the last 24 hours
-  ANALYTICS=$(curl -s -H "Authorization: Bearer $CF_TOKEN" \
-    "https://api.cloudflare.com/client/v4/zones/$CF_ZONE_ID/analytics/dashboard" 2>/dev/null)
-  
-  REQUESTS=$(echo "$ANALYTICS" | python3 -c "
-import json,sys
-try:
-    d=json.load(sys.stdin)
-    if d.get('success'):
-        r = d['result']['totals']['requests']['all']
-        print(r)
-    else:
-        print('N/A')
-except: print('N/A')" 2>/dev/null)
-  
-  BANDWIDTH=$(echo "$ANALYTICS" | python3 -c "
-import json,sys
-try:
-    d=json.load(sys.stdin)
-    if d.get('success'):
-        b = d['result']['totals']['bandwidth']['all']
-        print(f'{b/1024/1024:.1f} MB')
-    else:
-        print('N/A')
-except: print('N/A')" 2>/dev/null)
-
-  echo "  请求数: ${REQUESTS:-N/A}"
-  echo "  带宽: ${BANDWIDTH:-N/A}"
-  
-  # Top URLs (simplified)
-  echo "  数据来源: Cloudflare Analytics"
-else
-  echo "  无法获取流量数据（CF API 未配置或域名未识别）"
   echo "  建议：在 Cloudflare Dashboard 查看 analytics"
 fi
 echo ""
@@ -147,3 +122,15 @@ echo "*报告由 SymptomCalm Auto-Reporter 自动生成*"
 
 # Output to stdout for delivery
 cat "$REPORT_FILE"
+
+# Deliver to user's email via Resend API
+REPORT_BODY=$(cat "$REPORT_FILE")
+API_KEY=$(cat "$HOME/symptomcalm/.cron/.smtp_config" | grep api_key | cut -d= -f2)
+if [ -n "$API_KEY" ] && [ ${#API_KEY} -gt 20 ]; then
+  curl -s --max-time 15 -X POST "https://api.resend.com/emails" \
+    -H "Authorization: Bearer $API_KEY" \
+    -H "Content-Type: application/json" \
+    -d "{\"from\":\"SymptomCalm <contact@symptomcalm.com>\",\"to\":[\"5004378@qq.com\"],\"subject\":\"📊 SymptomCalm 每日报告 $(date +%Y-%m-%d)\",\"text\":$(echo "$REPORT_BODY" | python3 -c "import json,sys; print(json.dumps(sys.stdin.read()))")}" 2>/dev/null
+  echo "" >> "$REPORT_FILE"
+  echo "Email delivered to 5004378@qq.com" >> "$REPORT_FILE"
+fi
