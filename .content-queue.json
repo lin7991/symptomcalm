@@ -4,19 +4,6 @@
   "note": "每3小时自动生产一篇内容。从队列头部取，完成后移到 published。",
   "queue": [
     {
-      "title": "Moxibustion: The TCM Heat Therapy for Pain and Digestion",
-      "path": "/treatments/moxibustion/",
-      "type": "treatment",
-      "estimated_read_time": 7,
-      "keywords": [
-        "moxibustion",
-        "moxa",
-        "tcm heat therapy",
-        "acupuncture with moxa"
-      ],
-      "id": "29"
-    },
-    {
       "title": "How TCM Practitioners Diagnose: Tongue, Pulse, and Beyond",
       "path": "/tcm-basics/tcm-diagnosis-methods/",
       "type": "tcm-basics",
@@ -55,6 +42,217 @@
         "tcm gynecology"
       ],
       "id": "32"
+    },
+    {
+      "title": "Blood Heat: The TCM Pattern Behind Acne and Skin Inflammation",
+      "path": "/symptoms/skin-conditions/blood-heat-acne/",
+      "type": "cluster",
+      "parent": "skin-conditions",
+      "estimated_read_time": 7,
+      "keywords": [
+        "blood heat tcm",
+        "acne tcm",
+        "skin inflammation",
+        "tcm dermatology"
+      ],
+      "id": "33"
+    },
+    {
+      "title": "Eczema and Wind-Damp: A TCM View on Dry, Itchy Skin",
+      "path": "/symptoms/skin-conditions/eczema-wind-damp/",
+      "type": "cluster",
+      "parent": "skin-conditions",
+      "estimated_read_time": 7,
+      "keywords": [
+        "eczema tcm",
+        "wind damp skin",
+        "itchy skin tcm",
+        "tcm eczema treatment"
+      ],
+      "id": "34"
+    },
+    {
+      "title": "Acupressure for Allergy Relief: Pressure Points for Clear Breathing",
+      "path": "/symptoms/allergies/acupressure-allergy-relief/",
+      "type": "cluster",
+      "parent": "allergies",
+      "estimated_read_time": 6,
+      "keywords": [
+        "acupressure allergies",
+        "pressure points sinus",
+        "allergy relief tcm",
+        "acupressure hay fever"
+      ],
+      "id": "35"
+    },
+    {
+      "title": "Menstrual Cramps: A TCM Approach to Period Pain",
+      "path": "/symptoms/womens-health/menstrual-cramps/",
+      "type": "cluster",
+      "parent": "womens-health",
+      "estimated_read_time": 7,
+      "keywords": [
+        "menstrual cramps tcm",
+        "period pain",
+        "dysmenorrhea tcm",
+        "stagnant blood period"
+      ],
+      "id": "36"
+    },
+    {
+      "title": "PCOS from a TCM Perspective: Pattern Differentiation and Dietary Support",
+      "path": "/symptoms/womens-health/pcos-tcm/",
+      "type": "cluster",
+      "parent": "womens-health",
+      "estimated_read_time": 8,
+      "keywords": [
+        "pcos tcm",
+        "polycystic ovary syndrome tcm",
+        "hormonal imbalance",
+        "phlegm dampness"
+      ],
+      "id": "37"
+    },
+    {
+      "title": "Menopause and TCM: Managing Hot Flashes, Mood Swings, and Sleep Changes",
+      "path": "/symptoms/womens-health/menopause-tcm/",
+      "type": "cluster",
+      "parent": "womens-health",
+      "estimated_read_time": 7,
+      "keywords": [
+        "menopause tcm",
+        "hot flashes tcm",
+        "kidney yin deficiency menopause",
+        "perimenopause"
+      ],
+      "id": "38"
+    },
+    {
+      "title": "Joint Pain and Stiffness: A TCM Perspective on Arthritis and Inflammation",
+      "path": "/symptoms/joint-pain/",
+      "type": "pillar",
+      "estimated_read_time": 8,
+      "keywords": [
+        "joint pain tcm",
+        "arthritis tcm",
+        "rheumatoid arthritis tcm",
+        "bi syndrome",
+        "joint stiffness"
+      ],
+      "id": "39"
+    },
+    {
+      "title": "Wind-Cold-Damp Bi: The TCM Pattern Behind Achy Joints and Arthritis",
+      "path": "/symptoms/joint-pain/bi-syndrome/",
+      "type": "cluster",
+      "parent": "joint-pain",
+      "estimated_read_time": 7,
+      "keywords": [
+        "bi syndrome",
+        "arthritis tcm",
+        "wind cold damp",
+        "joint pain tcm pattern",
+        "rheumatism"
+      ],
+      "id": "40"
+    },
+    {
+      "title": "Tui Na: The TCM Bodywork Therapy for Pain, Tension, and Recovery",
+      "path": "/treatments/tui-na-massage/",
+      "type": "treatment",
+      "estimated_read_time": 7,
+      "keywords": [
+        "tui na",
+        "chinese massage",
+        "tcm bodywork",
+        "tui na massage benefits"
+      ],
+      "id": "41"
+    },
+    {
+      "title": "Gua Sha: The TCM Scraping Therapy for Pain and Muscle Tension",
+      "path": "/treatments/gua-sha/",
+      "type": "treatment",
+      "estimated_read_time": 6,
+      "keywords": [
+        "gua sha",
+        "gua sha therapy",
+        "scraping therapy tcm",
+        "gua sha benefits"
+      ],
+      "id": "42"
+    },
+    {
+      "title": "Tai Chi and Qi Gong: Gentle Movement Practices for Body and Mind",
+      "path": "/treatments/tai-chi-qigong/",
+      "type": "treatment",
+      "estimated_read_time": 7,
+      "keywords": [
+        "tai chi",
+        "qi gong",
+        "moving meditation",
+        "tcm exercise",
+        "qigong for health"
+      ],
+      "id": "43"
+    },
+    {
+      "title": "The Spleen in TCM: Your Body's Digestion, Energy, and Immunity Hub",
+      "path": "/tcm-basics/spleen-in-tcm/",
+      "type": "tcm-basics",
+      "estimated_read_time": 7,
+      "keywords": [
+        "spleen tcm",
+        "spleen qi deficiency",
+        "tcm digestion",
+        "spleen function tcm"
+      ],
+      "id": "44"
+    },
+    {
+      "title": "Emotions and Organs in TCM: How Anger, Worry, and Grief Affect Your Body",
+      "path": "/tcm-basics/emotions-and-organs/",
+      "type": "tcm-basics",
+      "estimated_read_time": 8,
+      "keywords": [
+        "emotions tcm",
+        "five emotions",
+        "anger liver",
+        "worry spleen",
+        "grief lungs",
+        "tcm mind body"
+      ],
+      "id": "45"
+    },
+    {
+      "title": "Blood Deficiency: The TCM Pattern Behind Fatigue, Pale Skin, and Dizziness",
+      "path": "/symptoms/fatigue/blood-deficiency/",
+      "type": "cluster",
+      "parent": "fatigue",
+      "estimated_read_time": 7,
+      "keywords": [
+        "blood deficiency tcm",
+        "fatigue tcm",
+        "anemia tcm",
+        "pale skin tcm",
+        "dizziness tcm"
+      ],
+      "id": "46"
+    },
+    {
+      "title": "Dampness and Fatigue: The TCM Pattern Behind Heavy Limbs and Brain Fog",
+      "path": "/symptoms/fatigue/dampness-fatigue/",
+      "type": "cluster",
+      "parent": "fatigue",
+      "estimated_read_time": 7,
+      "keywords": [
+        "dampness fatigue",
+        "tcm brain fog",
+        "heavy limbs tcm",
+        "spleen dampness fatigue",
+        "phlegm dampness"
+      ],
+      "id": "47"
     }
   ],
   "published": [
@@ -429,6 +627,19 @@
         "tcm cupping"
       ],
       "id": "28"
+    },
+    {
+      "title": "Moxibustion: The TCM Heat Therapy for Pain and Digestion",
+      "path": "/treatments/moxibustion/",
+      "type": "treatment",
+      "estimated_read_time": 7,
+      "keywords": [
+        "moxibustion",
+        "moxa",
+        "tcm heat therapy",
+        "acupuncture with moxa"
+      ],
+      "id": "29"
     }
   ]
 }
