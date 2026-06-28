@@ -4,20 +4,6 @@
   "note": "每3小时自动生产一篇内容。从队列头部取，完成后移到 published。",
   "queue": [
     {
-      "title": "TCM Sleep Hygiene: Evening Routines for Deeper Rest",
-      "path": "/symptoms/insomnia/sleep-hygiene-tcm/",
-      "type": "cluster",
-      "parent": "insomnia",
-      "estimated_read_time": 7,
-      "keywords": [
-        "tcm sleep hygiene",
-        "evening routine insomnia",
-        "sleep better naturally",
-        "circadian rhythm tcm"
-      ],
-      "id": "24"
-    },
-    {
       "title": "Seasonal Allergies: A TCM Perspective on Hay Fever and Sinus Health",
       "path": "/symptoms/allergies/",
       "type": "pillar",
@@ -429,6 +415,20 @@
         "qi gong for back pain"
       ],
       "id": "23"
+    },
+    {
+      "title": "TCM Sleep Hygiene: Evening Routines for Deeper Rest",
+      "path": "/symptoms/insomnia/sleep-hygiene-tcm/",
+      "type": "cluster",
+      "parent": "insomnia",
+      "estimated_read_time": 7,
+      "keywords": [
+        "tcm sleep hygiene",
+        "evening routine insomnia",
+        "sleep better naturally",
+        "circadian rhythm tcm"
+      ],
+      "id": "24"
     }
   ]
 }
