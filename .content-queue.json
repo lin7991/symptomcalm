@@ -4,20 +4,6 @@
   "note": "每3小时自动生产一篇内容。从队列头部取，完成后移到 published。",
   "queue": [
     {
-      "title": "Wei Qi Deficiency: Why Seasonal Allergies Hit You Harder",
-      "path": "/symptoms/allergies/wei-qi-deficiency/",
-      "type": "cluster",
-      "parent": "allergies",
-      "estimated_read_time": 7,
-      "keywords": [
-        "wei qi deficiency",
-        "immune system tcm",
-        "allergies wei qi",
-        "protective qi"
-      ],
-      "id": "26"
-    },
-    {
       "title": "Skin Health from a TCM Perspective: Acne, Eczema, and Inflammation",
       "path": "/symptoms/skin-conditions/",
       "type": "pillar",
@@ -429,6 +415,20 @@
         "allergy relief tcm"
       ],
       "id": "25"
+    },
+    {
+      "title": "Wei Qi Deficiency: Why Seasonal Allergies Hit You Harder",
+      "path": "/symptoms/allergies/wei-qi-deficiency/",
+      "type": "cluster",
+      "parent": "allergies",
+      "estimated_read_time": 7,
+      "keywords": [
+        "wei qi deficiency",
+        "immune system tcm",
+        "allergies wei qi",
+        "protective qi"
+      ],
+      "id": "26"
     }
   ]
 }
