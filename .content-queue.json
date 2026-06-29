@@ -4,20 +4,6 @@
   "note": "每3小时自动生产一篇内容。从队列头部取，完成后移到 published。",
   "queue": [
     {
-      "title": "PCOS from a TCM Perspective: Pattern Differentiation and Dietary Support",
-      "path": "/symptoms/womens-health/pcos-tcm/",
-      "type": "cluster",
-      "parent": "womens-health",
-      "estimated_read_time": 8,
-      "keywords": [
-        "pcos tcm",
-        "polycystic ovary syndrome tcm",
-        "hormonal imbalance",
-        "phlegm dampness"
-      ],
-      "id": "37"
-    },
-    {
       "title": "Menopause and TCM: Managing Hot Flashes, Mood Swings, and Sleep Changes",
       "path": "/symptoms/womens-health/menopause-tcm/",
       "type": "cluster",
@@ -640,6 +626,20 @@
         "stagnant blood period"
       ],
       "id": "36"
+    },
+    {
+      "title": "PCOS from a TCM Perspective: Pattern Differentiation and Dietary Support",
+      "path": "/symptoms/womens-health/pcos-tcm/",
+      "type": "cluster",
+      "parent": "womens-health",
+      "estimated_read_time": 8,
+      "keywords": [
+        "pcos tcm",
+        "polycystic ovary syndrome tcm",
+        "hormonal imbalance",
+        "phlegm dampness"
+      ],
+      "id": "37"
     }
   ]
 }
