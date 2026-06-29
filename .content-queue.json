@@ -4,20 +4,6 @@
   "note": "每3小时自动生产一篇内容。从队列头部取，完成后移到 published。",
   "queue": [
     {
-      "title": "Blood Heat: The TCM Pattern Behind Acne and Skin Inflammation",
-      "path": "/symptoms/skin-conditions/blood-heat-acne/",
-      "type": "cluster",
-      "parent": "skin-conditions",
-      "estimated_read_time": 7,
-      "keywords": [
-        "blood heat tcm",
-        "acne tcm",
-        "skin inflammation",
-        "tcm dermatology"
-      ],
-      "id": "33"
-    },
-    {
       "title": "Eczema and Wind-Damp: A TCM View on Dry, Itchy Skin",
       "path": "/symptoms/skin-conditions/eczema-wind-damp/",
       "type": "cluster",
@@ -640,6 +626,20 @@
         "tcm gynecology"
       ],
       "id": "32"
+    },
+    {
+      "title": "Blood Heat: The TCM Pattern Behind Acne and Skin Inflammation",
+      "path": "/symptoms/skin-conditions/blood-heat-acne/",
+      "type": "cluster",
+      "parent": "skin-conditions",
+      "estimated_read_time": 7,
+      "keywords": [
+        "blood heat tcm",
+        "acne tcm",
+        "skin inflammation",
+        "tcm dermatology"
+      ],
+      "id": "33"
     }
   ]
 }
