@@ -4,20 +4,6 @@
   "note": "每3小时自动生产一篇内容。从队列头部取，完成后移到 published。",
   "queue": [
     {
-      "title": "Joint Pain and Stiffness: A TCM Perspective on Arthritis and Inflammation",
-      "path": "/symptoms/joint-pain/",
-      "type": "pillar",
-      "estimated_read_time": 8,
-      "keywords": [
-        "joint pain tcm",
-        "arthritis tcm",
-        "rheumatoid arthritis tcm",
-        "bi syndrome",
-        "joint stiffness"
-      ],
-      "id": "39"
-    },
-    {
       "title": "Wind-Cold-Damp Bi: The TCM Pattern Behind Achy Joints and Arthritis",
       "path": "/symptoms/joint-pain/bi-syndrome/",
       "type": "cluster",
@@ -640,6 +626,20 @@
         "perimenopause"
       ],
       "id": "38"
+    },
+    {
+      "title": "Joint Pain and Stiffness: A TCM Perspective on Arthritis and Inflammation",
+      "path": "/symptoms/joint-pain/",
+      "type": "pillar",
+      "estimated_read_time": 8,
+      "keywords": [
+        "joint pain tcm",
+        "arthritis tcm",
+        "rheumatoid arthritis tcm",
+        "bi syndrome",
+        "joint stiffness"
+      ],
+      "id": "39"
     }
   ]
 }
