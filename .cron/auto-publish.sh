@@ -31,3 +31,14 @@ Verify the page is live with curl.
 " --skills tcm-content-production 2>&1 >> "$HOME/symptomcalm/.cron/publish.log"
 
 echo "$(date): Auto-publish run complete" >> "$HOME/symptomcalm/.cron/publish.log"
+
+# Step 3: Generate FAQ schema for the new article
+echo "$(date): Generating FAQ schema..." >> "$HOME/symptomcalm/.cron/publish.log"
+python3 .cron/add-faq-schema.py >> "$HOME/symptomcalm/.cron/publish.log" 2>&1
+
+# Commit FAQ schema changes
+cd "$HOME/symptomcalm"
+git add -A 2>/dev/null
+git diff --cached --quiet || git commit -m "Auto FAQ schema update" && git push origin main 2>/dev/null
+
+echo "$(date): Auto-publish cycle finished" >> "$HOME/symptomcalm/.cron/publish.log"
