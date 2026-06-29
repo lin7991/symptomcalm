@@ -4,19 +4,6 @@
   "note": "每3小时自动生产一篇内容。从队列头部取，完成后移到 published。",
   "queue": [
     {
-      "title": "Women's Health: A TCM Perspective on Menstrual Health and Hormonal Balance",
-      "path": "/symptoms/womens-health/",
-      "type": "pillar",
-      "estimated_read_time": 8,
-      "keywords": [
-        "tcm women's health",
-        "menstrual health",
-        "hormonal balance",
-        "tcm gynecology"
-      ],
-      "id": "32"
-    },
-    {
       "title": "Blood Heat: The TCM Pattern Behind Acne and Skin Inflammation",
       "path": "/symptoms/skin-conditions/blood-heat-acne/",
       "type": "cluster",
@@ -640,6 +627,19 @@
         "digestive fire"
       ],
       "id": "31"
+    },
+    {
+      "title": "Women's Health: A TCM Perspective on Menstrual Health and Hormonal Balance",
+      "path": "/symptoms/womens-health/",
+      "type": "pillar",
+      "estimated_read_time": 8,
+      "keywords": [
+        "tcm women's health",
+        "menstrual health",
+        "hormonal balance",
+        "tcm gynecology"
+      ],
+      "id": "32"
     }
   ]
 }
