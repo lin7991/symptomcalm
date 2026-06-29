@@ -4,20 +4,6 @@
   "note": "每3小时自动生产一篇内容。从队列头部取，完成后移到 published。",
   "queue": [
     {
-      "title": "Menstrual Cramps: A TCM Approach to Period Pain",
-      "path": "/symptoms/womens-health/menstrual-cramps/",
-      "type": "cluster",
-      "parent": "womens-health",
-      "estimated_read_time": 7,
-      "keywords": [
-        "menstrual cramps tcm",
-        "period pain",
-        "dysmenorrhea tcm",
-        "stagnant blood period"
-      ],
-      "id": "36"
-    },
-    {
       "title": "PCOS from a TCM Perspective: Pattern Differentiation and Dietary Support",
       "path": "/symptoms/womens-health/pcos-tcm/",
       "type": "cluster",
@@ -640,6 +626,20 @@
         "acupressure hay fever"
       ],
       "id": "35"
+    },
+    {
+      "title": "Menstrual Cramps: A TCM Approach to Period Pain",
+      "path": "/symptoms/womens-health/menstrual-cramps/",
+      "type": "cluster",
+      "parent": "womens-health",
+      "estimated_read_time": 7,
+      "keywords": [
+        "menstrual cramps tcm",
+        "period pain",
+        "dysmenorrhea tcm",
+        "stagnant blood period"
+      ],
+      "id": "36"
     }
   ]
 }
