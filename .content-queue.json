@@ -4,20 +4,6 @@
   "note": "每3小时自动生产一篇内容。从队列头部取，完成后移到 published。",
   "queue": [
     {
-      "title": "Acupressure for Allergy Relief: Pressure Points for Clear Breathing",
-      "path": "/symptoms/allergies/acupressure-allergy-relief/",
-      "type": "cluster",
-      "parent": "allergies",
-      "estimated_read_time": 6,
-      "keywords": [
-        "acupressure allergies",
-        "pressure points sinus",
-        "allergy relief tcm",
-        "acupressure hay fever"
-      ],
-      "id": "35"
-    },
-    {
       "title": "Menstrual Cramps: A TCM Approach to Period Pain",
       "path": "/symptoms/womens-health/menstrual-cramps/",
       "type": "cluster",
@@ -640,6 +626,20 @@
         "tcm eczema treatment"
       ],
       "id": "34"
+    },
+    {
+      "title": "Acupressure for Allergy Relief: Pressure Points for Clear Breathing",
+      "path": "/symptoms/allergies/acupressure-allergy-relief/",
+      "type": "cluster",
+      "parent": "allergies",
+      "estimated_read_time": 6,
+      "keywords": [
+        "acupressure allergies",
+        "pressure points sinus",
+        "allergy relief tcm",
+        "acupressure hay fever"
+      ],
+      "id": "35"
     }
   ]
 }
