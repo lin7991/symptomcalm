@@ -4,19 +4,6 @@
   "note": "每3小时自动生产一篇内容。从队列头部取，完成后移到 published。",
   "queue": [
     {
-      "title": "The Spleen in TCM: Your Body's Digestion, Energy, and Immunity Hub",
-      "path": "/tcm-basics/spleen-in-tcm/",
-      "type": "tcm-basics",
-      "estimated_read_time": 7,
-      "keywords": [
-        "spleen tcm",
-        "spleen qi deficiency",
-        "tcm digestion",
-        "spleen function tcm"
-      ],
-      "id": "44"
-    },
-    {
       "title": "Emotions and Organs in TCM: How Anger, Worry, and Grief Affect Your Body",
       "path": "/tcm-basics/emotions-and-organs/",
       "type": "tcm-basics",
@@ -60,6 +47,229 @@
         "phlegm dampness"
       ],
       "id": "47"
+    },
+    {
+      "title": "Stress Overload: A TCM Perspective on Your Body's Stress Response",
+      "path": "/symptoms/stress/",
+      "type": "pillar",
+      "estimated_read_time": 8,
+      "keywords": [
+        "stress tcm",
+        "stress overload",
+        "body stress response tcm",
+        "qi stagnation stress",
+        "adrenal stress tcm"
+      ],
+      "id": "48"
+    },
+    {
+      "title": "Liver Qi Stagnation and Stress: Why You Feel Tension in Your Shoulders and Jaw",
+      "path": "/symptoms/stress/liver-qi-stagnation-stress/",
+      "type": "cluster",
+      "parent": "stress",
+      "estimated_read_time": 7,
+      "keywords": [
+        "liver qi stagnation",
+        "stress tension",
+        "shoulder tension tcm",
+        "jaw clenching tcm",
+        "stress patterns"
+      ],
+      "id": "49"
+    },
+    {
+      "title": "Sciatica from a TCM Perspective: Patterns of Pain and Pathways to Relief",
+      "path": "/symptoms/back-pain/sciatica-tcm/",
+      "type": "cluster",
+      "parent": "back-pain",
+      "estimated_read_time": 7,
+      "keywords": [
+        "sciatica tcm",
+        "sciatic pain relief",
+        "back pain tcm",
+        "kidney deficiency sciatica",
+        "bi syndrome sciatica"
+      ],
+      "id": "50"
+    },
+    {
+      "title": "Lung Qi Deficiency: The TCM Pattern Behind Frequent Colds and Allergies",
+      "path": "/symptoms/allergies/lung-qi-deficiency/",
+      "type": "cluster",
+      "parent": "allergies",
+      "estimated_read_time": 7,
+      "keywords": [
+        "lung qi deficiency",
+        "frequent colds tcm",
+        "allergies immune system",
+        "wei qi tcm",
+        "weak immune system tcm"
+      ],
+      "id": "51"
+    },
+    {
+      "title": "Hives and Urticaria: A TCM Approach to Itchy, Red Skin",
+      "path": "/symptoms/skin-conditions/hives-tcm/",
+      "type": "cluster",
+      "parent": "skin-conditions",
+      "estimated_read_time": 7,
+      "keywords": [
+        "hives tcm",
+        "urticaria tcm",
+        "wind heat skin",
+        "itchy skin tcm",
+        "skin rashes tcm"
+      ],
+      "id": "52"
+    },
+    {
+      "title": "Stomach Yin Deficiency: The TCM Pattern Behind Chronic Dry Mouth and Gastritis",
+      "path": "/symptoms/digestion/stomach-yin-deficiency/",
+      "type": "cluster",
+      "parent": "digestion",
+      "estimated_read_time": 7,
+      "keywords": [
+        "stomach yin deficiency",
+        "gastritis tcm",
+        "dry mouth digestion",
+        "chronic gastritis tcm",
+        "tcm digestion patterns"
+      ],
+      "id": "53"
+    },
+    {
+      "title": "Heart Fire Blazing: The TCM Pattern Behind Racing Thoughts and Restlessness",
+      "path": "/symptoms/anxiety/heart-fire-anxiety/",
+      "type": "cluster",
+      "parent": "anxiety",
+      "estimated_read_time": 7,
+      "keywords": [
+        "heart fire tcm",
+        "racing thoughts",
+        "restlessness tcm",
+        "anxiety heart pattern",
+        "palpitations tcm"
+      ],
+      "id": "54"
+    },
+    {
+      "title": "Liver Fire Insomnia: Waking Between 1-3 AM? A TCM Explanation",
+      "path": "/symptoms/insomnia/liver-fire-insomnia/",
+      "type": "cluster",
+      "parent": "insomnia",
+      "estimated_read_time": 7,
+      "keywords": [
+        "liver fire insomnia",
+        "waking 1-3am",
+        "insomnia tcm patterns",
+        "liver heat sleep",
+        "early waking tcm"
+      ],
+      "id": "55"
+    },
+    {
+      "title": "Fertility Support from a TCM Perspective: Nourishing the Body for Conception",
+      "path": "/symptoms/womens-health/fertility-tcm/",
+      "type": "cluster",
+      "parent": "womens-health",
+      "estimated_read_time": 8,
+      "keywords": [
+        "fertility tcm",
+        "tcm fertility",
+        "conception tcm",
+        "kidney essence fertility",
+        "fertility support"
+      ],
+      "id": "56"
+    },
+    {
+      "title": "Wind-Cold Headaches: Why Weather Changes Trigger Your Head Pain",
+      "path": "/symptoms/headaches/wind-cold-headache/",
+      "type": "cluster",
+      "parent": "headaches",
+      "estimated_read_time": 6,
+      "keywords": [
+        "wind cold headache",
+        "weather headache",
+        "headache tcm patterns",
+        "tension headache weather",
+        "cold invading body"
+      ],
+      "id": "57"
+    },
+    {
+      "title": "Spleen Qi Deficiency: The Most Common TCM Pattern Behind Afternoon Energy Crashes",
+      "path": "/symptoms/fatigue/spleen-qi-energy-crash/",
+      "type": "cluster",
+      "parent": "fatigue",
+      "estimated_read_time": 7,
+      "keywords": [
+        "spleen qi deficiency",
+        "afternoon energy crash",
+        "post meal fatigue tcm",
+        "brain fog digestion",
+        "low energy tcm pattern"
+      ],
+      "id": "58"
+    },
+    {
+      "title": "Overwork and Burnout: A TCM Guide to Rebuilding Your Vitality",
+      "path": "/symptoms/stress/overwork-burnout/",
+      "type": "cluster",
+      "parent": "stress",
+      "estimated_read_time": 7,
+      "keywords": [
+        "burnout tcm",
+        "overwork syndrome",
+        "adrenal burnout",
+        "kidney yin deficiency burnout",
+        "chronic stress tcm"
+      ],
+      "id": "59"
+    },
+    {
+      "title": "Rheumatoid Arthritis from a TCM Perspective: Heat, Wind, and Inflammatory Patterns",
+      "path": "/symptoms/joint-pain/rheumatoid-arthritis-tcm/",
+      "type": "cluster",
+      "parent": "joint-pain",
+      "estimated_read_time": 7,
+      "keywords": [
+        "rheumatoid arthritis tcm",
+        "inflammatory arthritis",
+        "heat bi syndrome",
+        "joint inflammation tcm",
+        "autoimmune joint pain"
+      ],
+      "id": "60"
+    },
+    {
+      "title": "Liver Attacking the Spleen: The TCM Explanation for Stress-Related IBS",
+      "path": "/symptoms/digestion/liver-attacking-spleen/",
+      "type": "cluster",
+      "parent": "digestion",
+      "estimated_read_time": 7,
+      "keywords": [
+        "liver attacking spleen",
+        "stress digestion",
+        "ibs tcm",
+        "nervous stomach",
+        "tcm stress digestion"
+      ],
+      "id": "61"
+    },
+    {
+      "title": "The Meridian System: How Energy Channels Connect Your Body in TCM",
+      "path": "/tcm-basics/meridian-system/",
+      "type": "tcm-basics",
+      "estimated_read_time": 7,
+      "keywords": [
+        "meridian system",
+        "acupuncture channels",
+        "energy pathways",
+        "tcm meridian theory",
+        "qi circulation"
+      ],
+      "id": "62"
     }
   ],
   "published": [
@@ -640,6 +850,19 @@
         "qigong for health"
       ],
       "id": "43"
+    },
+    {
+      "title": "The Spleen in TCM: Your Body's Digestion, Energy, and Immunity Hub",
+      "path": "/tcm-basics/spleen-in-tcm/",
+      "type": "tcm-basics",
+      "estimated_read_time": 7,
+      "keywords": [
+        "spleen tcm",
+        "spleen qi deficiency",
+        "tcm digestion",
+        "spleen function tcm"
+      ],
+      "id": "44"
     }
   ]
 }
