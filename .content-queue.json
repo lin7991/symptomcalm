@@ -4,20 +4,6 @@
   "note": "每3小时自动生产一篇内容。从队列头部取，完成后移到 published。",
   "queue": [
     {
-      "title": "Tai Chi and Qi Gong: Gentle Movement Practices for Body and Mind",
-      "path": "/treatments/tai-chi-qigong/",
-      "type": "treatment",
-      "estimated_read_time": 7,
-      "keywords": [
-        "tai chi",
-        "qi gong",
-        "moving meditation",
-        "tcm exercise",
-        "qigong for health"
-      ],
-      "id": "43"
-    },
-    {
       "title": "The Spleen in TCM: Your Body's Digestion, Energy, and Immunity Hub",
       "path": "/tcm-basics/spleen-in-tcm/",
       "type": "tcm-basics",
@@ -640,6 +626,20 @@
         "gua sha benefits"
       ],
       "id": "42"
+    },
+    {
+      "title": "Tai Chi and Qi Gong: Gentle Movement Practices for Body and Mind",
+      "path": "/treatments/tai-chi-qigong/",
+      "type": "treatment",
+      "estimated_read_time": 7,
+      "keywords": [
+        "tai chi",
+        "qi gong",
+        "moving meditation",
+        "tcm exercise",
+        "qigong for health"
+      ],
+      "id": "43"
     }
   ]
 }
