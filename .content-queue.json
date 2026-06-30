@@ -4,21 +4,6 @@
   "note": "每3小时自动生产一篇内容。从队列头部取，完成后移到 published。",
   "queue": [
     {
-      "title": "Blood Deficiency: The TCM Pattern Behind Fatigue, Pale Skin, and Dizziness",
-      "path": "/symptoms/fatigue/blood-deficiency/",
-      "type": "cluster",
-      "parent": "fatigue",
-      "estimated_read_time": 7,
-      "keywords": [
-        "blood deficiency tcm",
-        "fatigue tcm",
-        "anemia tcm",
-        "pale skin tcm",
-        "dizziness tcm"
-      ],
-      "id": "46"
-    },
-    {
       "title": "Dampness and Fatigue: The TCM Pattern Behind Heavy Limbs and Brain Fog",
       "path": "/symptoms/fatigue/dampness-fatigue/",
       "type": "cluster",
@@ -863,6 +848,21 @@
         "tcm mind body"
       ],
       "id": "45"
+    },
+    {
+      "title": "Blood Deficiency: The TCM Pattern Behind Fatigue, Pale Skin, and Dizziness",
+      "path": "/symptoms/fatigue/blood-deficiency/",
+      "type": "cluster",
+      "parent": "fatigue",
+      "estimated_read_time": 7,
+      "keywords": [
+        "blood deficiency tcm",
+        "fatigue tcm",
+        "anemia tcm",
+        "pale skin tcm",
+        "dizziness tcm"
+      ],
+      "id": "46"
     }
   ]
 }
