@@ -4,21 +4,6 @@
   "note": "每3小时自动生产一篇内容。从队列头部取，完成后移到 published。",
   "queue": [
     {
-      "title": "Emotions and Organs in TCM: How Anger, Worry, and Grief Affect Your Body",
-      "path": "/tcm-basics/emotions-and-organs/",
-      "type": "tcm-basics",
-      "estimated_read_time": 8,
-      "keywords": [
-        "emotions tcm",
-        "five emotions",
-        "anger liver",
-        "worry spleen",
-        "grief lungs",
-        "tcm mind body"
-      ],
-      "id": "45"
-    },
-    {
       "title": "Blood Deficiency: The TCM Pattern Behind Fatigue, Pale Skin, and Dizziness",
       "path": "/symptoms/fatigue/blood-deficiency/",
       "type": "cluster",
@@ -863,6 +848,21 @@
         "spleen function tcm"
       ],
       "id": "44"
+    },
+    {
+      "title": "Emotions and Organs in TCM: How Anger, Worry, and Grief Affect Your Body",
+      "path": "/tcm-basics/emotions-and-organs/",
+      "type": "tcm-basics",
+      "estimated_read_time": 8,
+      "keywords": [
+        "emotions tcm",
+        "five emotions",
+        "anger liver",
+        "worry spleen",
+        "grief lungs",
+        "tcm mind body"
+      ],
+      "id": "45"
     }
   ]
 }
