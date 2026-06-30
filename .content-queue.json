@@ -4,19 +4,6 @@
   "note": "每3小时自动生产一篇内容。从队列头部取，完成后移到 published。",
   "queue": [
     {
-      "title": "Tui Na: The TCM Bodywork Therapy for Pain, Tension, and Recovery",
-      "path": "/treatments/tui-na-massage/",
-      "type": "treatment",
-      "estimated_read_time": 7,
-      "keywords": [
-        "tui na",
-        "chinese massage",
-        "tcm bodywork",
-        "tui na massage benefits"
-      ],
-      "id": "41"
-    },
-    {
       "title": "Gua Sha: The TCM Scraping Therapy for Pain and Muscle Tension",
       "path": "/treatments/gua-sha/",
       "type": "treatment",
@@ -640,6 +627,19 @@
         "rheumatism"
       ],
       "id": "40"
+    },
+    {
+      "title": "Tui Na: The TCM Bodywork Therapy for Pain, Tension, and Recovery",
+      "path": "/treatments/tui-na-massage/",
+      "type": "treatment",
+      "estimated_read_time": 7,
+      "keywords": [
+        "tui na",
+        "chinese massage",
+        "tcm bodywork",
+        "tui na massage benefits"
+      ],
+      "id": "41"
     }
   ]
 }
