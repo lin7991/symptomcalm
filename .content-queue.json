@@ -4,21 +4,6 @@
   "note": "每3小时自动生产一篇内容。从队列头部取，完成后移到 published。",
   "queue": [
     {
-      "title": "Liver Qi Stagnation and Stress: Why You Feel Tension in Your Shoulders and Jaw",
-      "path": "/symptoms/stress/liver-qi-stagnation-stress/",
-      "type": "cluster",
-      "parent": "stress",
-      "estimated_read_time": 7,
-      "keywords": [
-        "liver qi stagnation",
-        "stress tension",
-        "shoulder tension tcm",
-        "jaw clenching tcm",
-        "stress patterns"
-      ],
-      "id": "49"
-    },
-    {
       "title": "Sciatica from a TCM Perspective: Patterns of Pain and Pathways to Relief",
       "path": "/symptoms/back-pain/sciatica-tcm/",
       "type": "cluster",
@@ -863,6 +848,21 @@
         "adrenal stress tcm"
       ],
       "id": "48"
+    },
+    {
+      "title": "Liver Qi Stagnation and Stress: Why You Feel Tension in Your Shoulders and Jaw",
+      "path": "/symptoms/stress/liver-qi-stagnation-stress/",
+      "type": "cluster",
+      "parent": "stress",
+      "estimated_read_time": 7,
+      "keywords": [
+        "liver qi stagnation",
+        "stress tension",
+        "shoulder tension tcm",
+        "jaw clenching tcm",
+        "stress patterns"
+      ],
+      "id": "49"
     }
   ]
 }
