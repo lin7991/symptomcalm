@@ -4,21 +4,6 @@
   "note": "每3小时自动生产一篇内容。从队列头部取，完成后移到 published。",
   "queue": [
     {
-      "title": "Hives and Urticaria: A TCM Approach to Itchy, Red Skin",
-      "path": "/symptoms/skin-conditions/hives-tcm/",
-      "type": "cluster",
-      "parent": "skin-conditions",
-      "estimated_read_time": 7,
-      "keywords": [
-        "hives tcm",
-        "urticaria tcm",
-        "wind heat skin",
-        "itchy skin tcm",
-        "skin rashes tcm"
-      ],
-      "id": "52"
-    },
-    {
       "title": "Stomach Yin Deficiency: The TCM Pattern Behind Chronic Dry Mouth and Gastritis",
       "path": "/symptoms/digestion/stomach-yin-deficiency/",
       "type": "cluster",
@@ -863,6 +848,21 @@
         "weak immune system tcm"
       ],
       "id": "51"
+    },
+    {
+      "title": "Hives and Urticaria: A TCM Approach to Itchy, Red Skin",
+      "path": "/symptoms/skin-conditions/hives-tcm/",
+      "type": "cluster",
+      "parent": "skin-conditions",
+      "estimated_read_time": 7,
+      "keywords": [
+        "hives tcm",
+        "urticaria tcm",
+        "wind heat skin",
+        "itchy skin tcm",
+        "skin rashes tcm"
+      ],
+      "id": "52"
     }
   ]
 }
