@@ -4,21 +4,6 @@
   "note": "每3小时自动生产一篇内容。从队列头部取，完成后移到 published。",
   "queue": [
     {
-      "title": "Heart Fire Blazing: The TCM Pattern Behind Racing Thoughts and Restlessness",
-      "path": "/symptoms/anxiety/heart-fire-anxiety/",
-      "type": "cluster",
-      "parent": "anxiety",
-      "estimated_read_time": 7,
-      "keywords": [
-        "heart fire tcm",
-        "racing thoughts",
-        "restlessness tcm",
-        "anxiety heart pattern",
-        "palpitations tcm"
-      ],
-      "id": "54"
-    },
-    {
       "title": "Liver Fire Insomnia: Waking Between 1-3 AM? A TCM Explanation",
       "path": "/symptoms/insomnia/liver-fire-insomnia/",
       "type": "cluster",
@@ -863,6 +848,21 @@
         "tcm digestion patterns"
       ],
       "id": "53"
+    },
+    {
+      "title": "Heart Fire Blazing: The TCM Pattern Behind Racing Thoughts and Restlessness",
+      "path": "/symptoms/anxiety/heart-fire-anxiety/",
+      "type": "cluster",
+      "parent": "anxiety",
+      "estimated_read_time": 7,
+      "keywords": [
+        "heart fire tcm",
+        "racing thoughts",
+        "restlessness tcm",
+        "anxiety heart pattern",
+        "palpitations tcm"
+      ],
+      "id": "54"
     }
   ]
 }
