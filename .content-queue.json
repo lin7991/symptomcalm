@@ -4,21 +4,6 @@
   "note": "每3小时自动生产一篇内容。从队列头部取，完成后移到 published。",
   "queue": [
     {
-      "title": "Sciatica from a TCM Perspective: Patterns of Pain and Pathways to Relief",
-      "path": "/symptoms/back-pain/sciatica-tcm/",
-      "type": "cluster",
-      "parent": "back-pain",
-      "estimated_read_time": 7,
-      "keywords": [
-        "sciatica tcm",
-        "sciatic pain relief",
-        "back pain tcm",
-        "kidney deficiency sciatica",
-        "bi syndrome sciatica"
-      ],
-      "id": "50"
-    },
-    {
       "title": "Lung Qi Deficiency: The TCM Pattern Behind Frequent Colds and Allergies",
       "path": "/symptoms/allergies/lung-qi-deficiency/",
       "type": "cluster",
@@ -863,6 +848,21 @@
         "stress patterns"
       ],
       "id": "49"
+    },
+    {
+      "title": "Sciatica from a TCM Perspective: Patterns of Pain and Pathways to Relief",
+      "path": "/symptoms/back-pain/sciatica-tcm/",
+      "type": "cluster",
+      "parent": "back-pain",
+      "estimated_read_time": 7,
+      "keywords": [
+        "sciatica tcm",
+        "sciatic pain relief",
+        "back pain tcm",
+        "kidney deficiency sciatica",
+        "bi syndrome sciatica"
+      ],
+      "id": "50"
     }
   ]
 }
