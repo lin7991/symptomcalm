@@ -46,7 +46,7 @@
 <section class="hero">
   <div class="container">
     <h1>Understand Your Symptoms.<br> A Different Perspective.</h1>
-    <p>From anxiety to chronic pain — explore how Traditional Chinese Medicine sees the health challenges of modern life. No jargon. No miracle claims. Just clear, grounded wisdom.</p>
+    <p>SymptomCalm is a free resource for anyone curious about how Traditional Chinese Medicine views common health challenges — from anxiety and chronic pain to insomnia, digestive issues, and women's health concerns. Whether you're a complete newcomer to TCM or someone looking to complement what you already know, our goal is to explain these concepts in plain, accessible language. No jargon, no oversimplified miracle claims — just clear explanations that respect both modern medical understanding and ancient wisdom. We break down what each symptom means from a TCM perspective, explore the underlying patterns of imbalance, and offer practical, actionable takeaways you can discuss with a qualified practitioner.</p>
     <div class="hero-symptoms">
       <a href="/symptoms/anxiety/" class="card symptom-card">
         <div class="card-icon">🧠</div>
@@ -79,15 +79,38 @@
     <div class="grid-3">
       <div class="card">
         <h3>🔄 Root Cause, Not Just Symptoms</h3>
-        <p>Instead of suppressing symptoms, TCM looks for the underlying pattern — the imbalance that created the problem in the first place.</p>
+        <p>Instead of suppressing symptoms with a one-size-fits-all approach, TCM investigates the deeper imbalance that gave rise to the symptom in the first place. For example, recurring headaches might point to Liver Yang rising, while persistent fatigue often signals Spleen Qi deficiency. By treating the root pattern rather than chasing individual symptoms, TCM offers a path toward lasting relief rather than temporary suppression.</p>
       </div>
       <div class="card">
         <h3>🧩 Whole Body, Not Separate Parts</h3>
-        <p>Your anxiety isn't just in your head. Your back pain isn't just in your spine. TCM sees the body as an interconnected system.</p>
+        <p>Your anxiety isn't just in your head. Your back pain isn't just in your spine. TCM views the body as an interconnected system where emotional states, digestive health, and physical pain all influence one another. A chronic cough may be linked to Kidney Qi not holding properly; digestive bloating might reflect Liver Qi invading the Spleen. This holistic map helps explain why symptoms often show up in pairs — and why treating one can unexpectedly help another.</p>
       </div>
       <div class="card">
         <h3>📜 2,000+ Years of Observation</h3>
-        <p>Before microscopes and MRIs, TCM practitioners developed a detailed map of human health through careful clinical observation — much of it validated by modern research.</p>
+        <p>Long before microscopes and MRIs, TCM practitioners developed a remarkably detailed map of human physiology through centuries of careful clinical observation. Concepts like the meridian system, Five Element theory, and the organ clock were refined by tracking patterns across thousands of patients. Modern research continues to validate many of these insights — from acupuncture's measurable effects on inflammation to herbal formulas now studied in peer-reviewed clinical trials.</p>
+      </div>
+    </div>
+  </div>
+</section>
+
+<section class="section section-alt">
+  <div class="container">
+    <div class="section-title">
+      <h2>What You'll Find Here</h2>
+      <p>Explore our growing collection of thoughtfully written guides, symptom deep-dives, and TCM explainers — all in plain English.</p>
+    </div>
+    <div class="grid-3">
+      <div class="card">
+        <h3>📋 In-Depth Symptom Guides</h3>
+        <p>Each symptom gets its own comprehensive guide covering the conventional medical understanding, the TCM perspective with pattern differentiation, and practical lifestyle and dietary tips. From anxiety to back pain to insomnia — we connect the dots between what modern medicine knows and what centuries of clinical observation revealed. Every guide ends with actionable takeaways you can discuss with a qualified practitioner.</p>
+      </div>
+      <div class="card">
+        <h3>🧭 TCM Basics Made Simple</h3>
+        <p>New to concepts like Qi, Yin-Yang, or the Five Elements? Our TCM Basics section breaks down these foundational ideas without the complexity or mysticism. Each guide is written for the everyday reader using real-world analogies — explaining Qi as your body's operating system, Yin and Yang as a constant dance of homeostasis, and the meridian system as your body's communication network.</p>
+      </div>
+      <div class="card">
+        <h3>💡 Treatments &amp; Practical Takeaways</h3>
+        <p>Every guide ends with actionable insights — dietary adjustments you can try tonight, acupressure points for self-care, lifestyle shifts that support specific patterns, and thoughtful questions to ask your TCM practitioner. We focus on what you can actually use, not theory for theory's sake. Each recommendation is grounded in both TCM principles and available scientific research.</p>
       </div>
     </div>
   </div>
@@ -186,6 +209,17 @@
       <p style="margin-top:0.3rem;font-size:0.8rem;">Contact: <a href="mailto:contact@symptomcalm.com" style="color:var(--accent-light);">contact@symptomcalm.com</a></p>
   </div>
 </footer>
+
+<div id="cookie-banner" style="position:fixed;bottom:0;left:0;right:0;background:#1A535C;color:white;padding:1rem 1.5rem;z-index:9999;display:none;font-size:0.85rem;line-height:1.5;">
+  <div style="max-width:1200px;margin:0 auto;display:flex;align-items:center;flex-wrap:wrap;gap:1rem;">
+    <p style="flex:1;margin:0;">We use cookies to understand how visitors use our site and to improve your experience. By continuing to browse, you agree to our use of cookies. See our <a href="/about/privacy-policy/" style="color:#F6E05E;text-decoration:underline;">Privacy Policy</a> for details.</p>
+    <button onclick="document.getElementById('cookie-banner').style.display='none';localStorage.setItem('cookieConsent','accepted');" style="background:#D69E2E;color:white;border:none;padding:0.6rem 1.5rem;border-radius:6px;cursor:pointer;font-weight:600;white-space:nowrap;">Accept</button>
+    <button onclick="document.getElementById('cookie-banner').style.display='none';localStorage.setItem('cookieConsent','declined');" style="background:transparent;color:rgba(255,255,255,0.7);border:1px solid rgba(255,255,255,0.3);padding:0.6rem 1.5rem;border-radius:6px;cursor:pointer;white-space:nowrap;">Decline</button>
+  </div>
+</div>
+<script>
+if(!localStorage.getItem('cookieConsent')){document.getElementById('cookie-banner').style.display='block';}
+</script>
 
 </body>
 </html>
