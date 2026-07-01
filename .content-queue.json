@@ -4,21 +4,6 @@
   "note": "每3小时自动生产一篇内容。从队列头部取，完成后移到 published。",
   "queue": [
     {
-      "title": "Lung Qi Deficiency: The TCM Pattern Behind Frequent Colds and Allergies",
-      "path": "/symptoms/allergies/lung-qi-deficiency/",
-      "type": "cluster",
-      "parent": "allergies",
-      "estimated_read_time": 7,
-      "keywords": [
-        "lung qi deficiency",
-        "frequent colds tcm",
-        "allergies immune system",
-        "wei qi tcm",
-        "weak immune system tcm"
-      ],
-      "id": "51"
-    },
-    {
       "title": "Hives and Urticaria: A TCM Approach to Itchy, Red Skin",
       "path": "/symptoms/skin-conditions/hives-tcm/",
       "type": "cluster",
@@ -863,6 +848,21 @@
         "bi syndrome sciatica"
       ],
       "id": "50"
+    },
+    {
+      "title": "Lung Qi Deficiency: The TCM Pattern Behind Frequent Colds and Allergies",
+      "path": "/symptoms/allergies/lung-qi-deficiency/",
+      "type": "cluster",
+      "parent": "allergies",
+      "estimated_read_time": 7,
+      "keywords": [
+        "lung qi deficiency",
+        "frequent colds tcm",
+        "allergies immune system",
+        "wei qi tcm",
+        "weak immune system tcm"
+      ],
+      "id": "51"
     }
   ]
 }
