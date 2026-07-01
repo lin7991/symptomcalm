@@ -4,20 +4,6 @@
   "note": "每3小时自动生产一篇内容。从队列头部取，完成后移到 published。",
   "queue": [
     {
-      "title": "Stress Overload: A TCM Perspective on Your Body's Stress Response",
-      "path": "/symptoms/stress/",
-      "type": "pillar",
-      "estimated_read_time": 8,
-      "keywords": [
-        "stress tcm",
-        "stress overload",
-        "body stress response tcm",
-        "qi stagnation stress",
-        "adrenal stress tcm"
-      ],
-      "id": "48"
-    },
-    {
       "title": "Liver Qi Stagnation and Stress: Why You Feel Tension in Your Shoulders and Jaw",
       "path": "/symptoms/stress/liver-qi-stagnation-stress/",
       "type": "cluster",
@@ -863,6 +849,20 @@
         "phlegm dampness"
       ],
       "id": "47"
+    },
+    {
+      "title": "Stress Overload: A TCM Perspective on Your Body's Stress Response",
+      "path": "/symptoms/stress/",
+      "type": "pillar",
+      "estimated_read_time": 8,
+      "keywords": [
+        "stress tcm",
+        "stress overload",
+        "body stress response tcm",
+        "qi stagnation stress",
+        "adrenal stress tcm"
+      ],
+      "id": "48"
     }
   ]
 }
