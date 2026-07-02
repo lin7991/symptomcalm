@@ -4,21 +4,6 @@
   "note": "每3小时自动生产一篇内容。从队列头部取，完成后移到 published。",
   "queue": [
     {
-      "title": "Liver Attacking the Spleen: The TCM Explanation for Stress-Related IBS",
-      "path": "/symptoms/digestion/liver-attacking-spleen/",
-      "type": "cluster",
-      "parent": "digestion",
-      "estimated_read_time": 7,
-      "keywords": [
-        "liver attacking spleen",
-        "stress digestion",
-        "ibs tcm",
-        "nervous stomach",
-        "tcm stress digestion"
-      ],
-      "id": "61"
-    },
-    {
       "title": "The Meridian System: How Energy Channels Connect Your Body in TCM",
       "path": "/tcm-basics/meridian-system/",
       "type": "tcm-basics",
@@ -1075,6 +1060,21 @@
         "autoimmune joint pain"
       ],
       "id": "60"
+    },
+    {
+      "title": "Liver Attacking the Spleen: The TCM Explanation for Stress-Related IBS",
+      "path": "/symptoms/digestion/liver-attacking-spleen/",
+      "type": "cluster",
+      "parent": "digestion",
+      "estimated_read_time": 7,
+      "keywords": [
+        "liver attacking spleen",
+        "stress digestion",
+        "ibs tcm",
+        "nervous stomach",
+        "tcm stress digestion"
+      ],
+      "id": "61"
     }
   ]
 }
