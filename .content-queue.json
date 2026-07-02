@@ -4,20 +4,6 @@
   "note": "每3小时自动生产一篇内容。从队列头部取，完成后移到 published。",
   "queue": [
     {
-      "title": "TCM Breathing Techniques for Stress Relief: Calming the Shen",
-      "path": "/symptoms/stress/tcm-breathing-stress/",
-      "type": "cluster",
-      "parent": "stress",
-      "estimated_read_time": 6,
-      "keywords": [
-        "tcm breathing",
-        "stress relief breathing",
-        "qi gong breathing",
-        "calm shen"
-      ],
-      "id": "64"
-    },
-    {
       "title": "TCM Dietary Approaches for Joint Health: Cooling Inflammation Naturally",
       "path": "/symptoms/joint-pain/joint-health-diet-tcm/",
       "type": "cluster",
@@ -1075,6 +1061,20 @@
         "can not sleep stress"
       ],
       "id": "63"
+    },
+    {
+      "title": "TCM Breathing Techniques for Stress Relief: Calming the Shen",
+      "path": "/symptoms/stress/tcm-breathing-stress/",
+      "type": "cluster",
+      "parent": "stress",
+      "estimated_read_time": 6,
+      "keywords": [
+        "tcm breathing",
+        "stress relief breathing",
+        "qi gong breathing",
+        "calm shen"
+      ],
+      "id": "64"
     }
   ]
 }
