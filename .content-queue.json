@@ -4,21 +4,6 @@
   "note": "每3小时自动生产一篇内容。从队列头部取，完成后移到 published。",
   "queue": [
     {
-      "title": "Fertility Support from a TCM Perspective: Nourishing the Body for Conception",
-      "path": "/symptoms/womens-health/fertility-tcm/",
-      "type": "cluster",
-      "parent": "womens-health",
-      "estimated_read_time": 8,
-      "keywords": [
-        "fertility tcm",
-        "tcm fertility",
-        "conception tcm",
-        "kidney essence fertility",
-        "fertility support"
-      ],
-      "id": "56"
-    },
-    {
       "title": "Wind-Cold Headaches: Why Weather Changes Trigger Your Head Pain",
       "path": "/symptoms/headaches/wind-cold-headache/",
       "type": "cluster",
@@ -863,6 +848,21 @@
         "early waking tcm"
       ],
       "id": "55"
+    },
+    {
+      "title": "Fertility Support from a TCM Perspective: Nourishing the Body for Conception",
+      "path": "/symptoms/womens-health/fertility-tcm/",
+      "type": "cluster",
+      "parent": "womens-health",
+      "estimated_read_time": 8,
+      "keywords": [
+        "fertility tcm",
+        "tcm fertility",
+        "conception tcm",
+        "kidney essence fertility",
+        "fertility support"
+      ],
+      "id": "56"
     }
   ]
 }
