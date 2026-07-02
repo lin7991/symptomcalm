@@ -4,20 +4,6 @@
   "note": "每3小时自动生产一篇内容。从队列头部取，完成后移到 published。",
   "queue": [
     {
-      "title": "Stress-Related Insomnia: The Heart and Liver Connection in TCM",
-      "path": "/symptoms/stress/stress-insomnia-tcm/",
-      "type": "cluster",
-      "parent": "stress",
-      "estimated_read_time": 7,
-      "keywords": [
-        "stress insomnia tcm",
-        "heart fire insomnia",
-        "liver fire insomnia",
-        "can not sleep stress"
-      ],
-      "id": "63"
-    },
-    {
       "title": "TCM Breathing Techniques for Stress Relief: Calming the Shen",
       "path": "/symptoms/stress/tcm-breathing-stress/",
       "type": "cluster",
@@ -1075,6 +1061,20 @@
         "qi circulation"
       ],
       "id": "62"
+    },
+    {
+      "title": "Stress-Related Insomnia: The Heart and Liver Connection in TCM",
+      "path": "/symptoms/stress/stress-insomnia-tcm/",
+      "type": "cluster",
+      "parent": "stress",
+      "estimated_read_time": 7,
+      "keywords": [
+        "stress insomnia tcm",
+        "heart fire insomnia",
+        "liver fire insomnia",
+        "can not sleep stress"
+      ],
+      "id": "63"
     }
   ]
 }
