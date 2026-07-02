@@ -4,21 +4,6 @@
   "note": "每3小时自动生产一篇内容。从队列头部取，完成后移到 published。",
   "queue": [
     {
-      "title": "Wind-Cold Headaches: Why Weather Changes Trigger Your Head Pain",
-      "path": "/symptoms/headaches/wind-cold-headache/",
-      "type": "cluster",
-      "parent": "headaches",
-      "estimated_read_time": 6,
-      "keywords": [
-        "wind cold headache",
-        "weather headache",
-        "headache tcm patterns",
-        "tension headache weather",
-        "cold invading body"
-      ],
-      "id": "57"
-    },
-    {
       "title": "Spleen Qi Deficiency: The Most Common TCM Pattern Behind Afternoon Energy Crashes",
       "path": "/symptoms/fatigue/spleen-qi-energy-crash/",
       "type": "cluster",
@@ -863,6 +848,21 @@
         "fertility support"
       ],
       "id": "56"
+    },
+    {
+      "title": "Wind-Cold Headaches: Why Weather Changes Trigger Your Head Pain",
+      "path": "/symptoms/headaches/wind-cold-headache/",
+      "type": "cluster",
+      "parent": "headaches",
+      "estimated_read_time": 6,
+      "keywords": [
+        "wind cold headache",
+        "weather headache",
+        "headache tcm patterns",
+        "tension headache weather",
+        "cold invading body"
+      ],
+      "id": "57"
     }
   ]
 }
