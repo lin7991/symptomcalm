@@ -4,20 +4,6 @@
   "note": "每3小时自动生产一篇内容。从队列头部取，完成后移到 published。",
   "queue": [
     {
-      "title": "The Meridian System: How Energy Channels Connect Your Body in TCM",
-      "path": "/tcm-basics/meridian-system/",
-      "type": "tcm-basics",
-      "estimated_read_time": 7,
-      "keywords": [
-        "meridian system",
-        "acupuncture channels",
-        "energy pathways",
-        "tcm meridian theory",
-        "qi circulation"
-      ],
-      "id": "62"
-    },
-    {
       "title": "Stress-Related Insomnia: The Heart and Liver Connection in TCM",
       "path": "/symptoms/stress/stress-insomnia-tcm/",
       "type": "cluster",
@@ -1075,6 +1061,20 @@
         "tcm stress digestion"
       ],
       "id": "61"
+    },
+    {
+      "title": "The Meridian System: How Energy Channels Connect Your Body in TCM",
+      "path": "/tcm-basics/meridian-system/",
+      "type": "tcm-basics",
+      "estimated_read_time": 7,
+      "keywords": [
+        "meridian system",
+        "acupuncture channels",
+        "energy pathways",
+        "tcm meridian theory",
+        "qi circulation"
+      ],
+      "id": "62"
     }
   ]
 }
