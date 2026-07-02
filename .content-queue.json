@@ -4,21 +4,6 @@
   "note": "每3小时自动生产一篇内容。从队列头部取，完成后移到 published。",
   "queue": [
     {
-      "title": "Rheumatoid Arthritis from a TCM Perspective: Heat, Wind, and Inflammatory Patterns",
-      "path": "/symptoms/joint-pain/rheumatoid-arthritis-tcm/",
-      "type": "cluster",
-      "parent": "joint-pain",
-      "estimated_read_time": 7,
-      "keywords": [
-        "rheumatoid arthritis tcm",
-        "inflammatory arthritis",
-        "heat bi syndrome",
-        "joint inflammation tcm",
-        "autoimmune joint pain"
-      ],
-      "id": "60"
-    },
-    {
       "title": "Liver Attacking the Spleen: The TCM Explanation for Stress-Related IBS",
       "path": "/symptoms/digestion/liver-attacking-spleen/",
       "type": "cluster",
@@ -1075,6 +1060,21 @@
         "chronic stress tcm"
       ],
       "id": "59"
+    },
+    {
+      "title": "Rheumatoid Arthritis from a TCM Perspective: Heat, Wind, and Inflammatory Patterns",
+      "path": "/symptoms/joint-pain/rheumatoid-arthritis-tcm/",
+      "type": "cluster",
+      "parent": "joint-pain",
+      "estimated_read_time": 7,
+      "keywords": [
+        "rheumatoid arthritis tcm",
+        "inflammatory arthritis",
+        "heat bi syndrome",
+        "joint inflammation tcm",
+        "autoimmune joint pain"
+      ],
+      "id": "60"
     }
   ]
 }
