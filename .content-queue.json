@@ -4,20 +4,6 @@
   "note": "每3小时自动生产一篇内容。从队列头部取，完成后移到 published。",
   "queue": [
     {
-      "title": "Endometriosis from a TCM Perspective: Blood Stasis and Cold Patterns",
-      "path": "/symptoms/womens-health/endometriosis-tcm/",
-      "type": "cluster",
-      "parent": "womens-health",
-      "estimated_read_time": 7,
-      "keywords": [
-        "endometriosis tcm",
-        "blood stasis",
-        "pelvic pain tcm",
-        "fertility tcm endometriosis"
-      ],
-      "id": "72"
-    },
-    {
       "title": "The Body Clock: TCM Circadian Rhythms and When Each Organ Peaks",
       "path": "/tcm-basics/body-clock-tcm/",
       "type": "tcm-basics",
@@ -1075,6 +1061,20 @@
         "period cramps tcm"
       ],
       "id": "71"
+    },
+    {
+      "title": "Endometriosis from a TCM Perspective: Blood Stasis and Cold Patterns",
+      "path": "/symptoms/womens-health/endometriosis-tcm/",
+      "type": "cluster",
+      "parent": "womens-health",
+      "estimated_read_time": 7,
+      "keywords": [
+        "endometriosis tcm",
+        "blood stasis",
+        "pelvic pain tcm",
+        "fertility tcm endometriosis"
+      ],
+      "id": "72"
     }
   ]
 }
