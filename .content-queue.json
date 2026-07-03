@@ -4,20 +4,6 @@
   "note": "每3小时自动生产一篇内容。从队列头部取，完成后移到 published。",
   "queue": [
     {
-      "title": "Headache Dietary Triggers and Supports: A TCM Nutritional View",
-      "path": "/symptoms/headaches/headache-diet-tcm/",
-      "type": "cluster",
-      "parent": "headaches",
-      "estimated_read_time": 7,
-      "keywords": [
-        "headache diet",
-        "migraine triggers tcm",
-        "food headache tcm",
-        "tcm nutrition headaches"
-      ],
-      "id": "69"
-    },
-    {
       "title": "Phlegm and Allergies: The TCM View on Sinus Congestion and Mucus",
       "path": "/symptoms/allergies/phlegm-allergies-tcm/",
       "type": "cluster",
@@ -1075,6 +1061,20 @@
         "skin health nutrition"
       ],
       "id": "68"
+    },
+    {
+      "title": "Headache Dietary Triggers and Supports: A TCM Nutritional View",
+      "path": "/symptoms/headaches/headache-diet-tcm/",
+      "type": "cluster",
+      "parent": "headaches",
+      "estimated_read_time": 7,
+      "keywords": [
+        "headache diet",
+        "migraine triggers tcm",
+        "food headache tcm",
+        "tcm nutrition headaches"
+      ],
+      "id": "69"
     }
   ]
 }
