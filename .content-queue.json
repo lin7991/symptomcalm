@@ -4,20 +4,6 @@
   "note": "每3小时自动生产一篇内容。从队列头部取，完成后移到 published。",
   "queue": [
     {
-      "title": "TCM Dietary Guide for Healthy Skin: Foods That Cool Blood and Nourish Yin",
-      "path": "/symptoms/skin-conditions/tcm-diet-skin/",
-      "type": "cluster",
-      "parent": "skin-conditions",
-      "estimated_read_time": 7,
-      "keywords": [
-        "tcm diet skin",
-        "clear skin diet",
-        "anti inflammatory diet tcm",
-        "skin health nutrition"
-      ],
-      "id": "68"
-    },
-    {
       "title": "Headache Dietary Triggers and Supports: A TCM Nutritional View",
       "path": "/symptoms/headaches/headache-diet-tcm/",
       "type": "cluster",
@@ -1075,6 +1061,20 @@
         "autoimmune skin tcm"
       ],
       "id": "67"
+    },
+    {
+      "title": "TCM Dietary Guide for Healthy Skin: Foods That Cool Blood and Nourish Yin",
+      "path": "/symptoms/skin-conditions/tcm-diet-skin/",
+      "type": "cluster",
+      "parent": "skin-conditions",
+      "estimated_read_time": 7,
+      "keywords": [
+        "tcm diet skin",
+        "clear skin diet",
+        "anti inflammatory diet tcm",
+        "skin health nutrition"
+      ],
+      "id": "68"
     }
   ]
 }
