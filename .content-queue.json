@@ -4,21 +4,6 @@
   "note": "每3小时自动生产一篇内容。从队列头部取，完成后移到 published。",
   "queue": [
     {
-      "title": "Phlegm and Allergies: The TCM View on Sinus Congestion and Mucus",
-      "path": "/symptoms/allergies/phlegm-allergies-tcm/",
-      "type": "cluster",
-      "parent": "allergies",
-      "estimated_read_time": 7,
-      "keywords": [
-        "phlegm tcm",
-        "sinus congestion",
-        "mucus allergies",
-        "dampness sinus",
-        "tcm allergies"
-      ],
-      "id": "70"
-    },
-    {
       "title": "PMS and Liver Qi: The TCM Pattern Behind Monthly Mood Swings and Cramps",
       "path": "/symptoms/womens-health/pms-liver-qi/",
       "type": "cluster",
@@ -1075,6 +1060,21 @@
         "tcm nutrition headaches"
       ],
       "id": "69"
+    },
+    {
+      "title": "Phlegm and Allergies: The TCM View on Sinus Congestion and Mucus",
+      "path": "/symptoms/allergies/phlegm-allergies-tcm/",
+      "type": "cluster",
+      "parent": "allergies",
+      "estimated_read_time": 7,
+      "keywords": [
+        "phlegm tcm",
+        "sinus congestion",
+        "mucus allergies",
+        "dampness sinus",
+        "tcm allergies"
+      ],
+      "id": "70"
     }
   ]
 }
