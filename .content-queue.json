@@ -4,20 +4,6 @@
   "note": "每3小时自动生产一篇内容。从队列头部取，完成后移到 published。",
   "queue": [
     {
-      "title": "TCM Dietary Approaches for Joint Health: Cooling Inflammation Naturally",
-      "path": "/symptoms/joint-pain/joint-health-diet-tcm/",
-      "type": "cluster",
-      "parent": "joint-pain",
-      "estimated_read_time": 7,
-      "keywords": [
-        "joint pain diet",
-        "anti-inflammatory foods tcm",
-        "damp heat joint pain",
-        "tcm nutrition joints"
-      ],
-      "id": "65"
-    },
-    {
       "title": "Acupressure Points for Joint Pain Relief: A Self-Care Guide",
       "path": "/symptoms/joint-pain/acupressure-joint-pain/",
       "type": "cluster",
@@ -1075,6 +1061,20 @@
         "calm shen"
       ],
       "id": "64"
+    },
+    {
+      "title": "TCM Dietary Approaches for Joint Health: Cooling Inflammation Naturally",
+      "path": "/symptoms/joint-pain/joint-health-diet-tcm/",
+      "type": "cluster",
+      "parent": "joint-pain",
+      "estimated_read_time": 7,
+      "keywords": [
+        "joint pain diet",
+        "anti-inflammatory foods tcm",
+        "damp heat joint pain",
+        "tcm nutrition joints"
+      ],
+      "id": "65"
     }
   ]
 }
