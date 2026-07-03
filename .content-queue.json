@@ -4,20 +4,6 @@
   "note": "每3小时自动生产一篇内容。从队列头部取，完成后移到 published。",
   "queue": [
     {
-      "title": "PMS and Liver Qi: The TCM Pattern Behind Monthly Mood Swings and Cramps",
-      "path": "/symptoms/womens-health/pms-liver-qi/",
-      "type": "cluster",
-      "parent": "womens-health",
-      "estimated_read_time": 7,
-      "keywords": [
-        "pms tcm",
-        "liver qi stagnation pms",
-        "menstrual mood swings",
-        "period cramps tcm"
-      ],
-      "id": "71"
-    },
-    {
       "title": "Endometriosis from a TCM Perspective: Blood Stasis and Cold Patterns",
       "path": "/symptoms/womens-health/endometriosis-tcm/",
       "type": "cluster",
@@ -1075,6 +1061,20 @@
         "tcm allergies"
       ],
       "id": "70"
+    },
+    {
+      "title": "PMS and Liver Qi: The TCM Pattern Behind Monthly Mood Swings and Cramps",
+      "path": "/symptoms/womens-health/pms-liver-qi/",
+      "type": "cluster",
+      "parent": "womens-health",
+      "estimated_read_time": 7,
+      "keywords": [
+        "pms tcm",
+        "liver qi stagnation pms",
+        "menstrual mood swings",
+        "period cramps tcm"
+      ],
+      "id": "71"
     }
   ]
 }
