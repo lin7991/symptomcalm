@@ -4,20 +4,6 @@
   "note": "每3小时自动生产一篇内容。从队列头部取，完成后移到 published。",
   "queue": [
     {
-      "title": "Acupressure for Self-Care: A Complete Beginner's Guide",
-      "path": "/treatments/acupressure-beginners-guide/",
-      "type": "treatment",
-      "parent": "",
-      "estimated_read_time": 7,
-      "keywords": [
-        "acupressure self care",
-        "pressure points guide",
-        "acupressure for beginners",
-        "tcm self massage"
-      ],
-      "id": "76"
-    },
-    {
       "title": "TCM Dietary Tips for Supporting Back Health: Foods for Kidney and Spine",
       "path": "/symptoms/back-pain/back-health-diet-tcm/",
       "type": "cluster",
@@ -1291,6 +1277,20 @@
         "traditional formulas"
       ],
       "id": "75"
+    },
+    {
+      "title": "Acupressure for Self-Care: A Complete Beginner's Guide",
+      "path": "/treatments/acupressure-beginners-guide/",
+      "type": "treatment",
+      "parent": "",
+      "estimated_read_time": 7,
+      "keywords": [
+        "acupressure self care",
+        "pressure points guide",
+        "acupressure for beginners",
+        "tcm self massage"
+      ],
+      "id": "76"
     }
   ]
 }
