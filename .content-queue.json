@@ -4,20 +4,6 @@
   "note": "每3小时自动生产一篇内容。从队列头部取，完成后移到 published。",
   "queue": [
     {
-      "title": "Asthma and TCM: Patterns, Triggers, and Breathing Support",
-      "path": "/symptoms/respiratory-health/asthma-tcm/",
-      "type": "cluster",
-      "parent": "respiratory-health",
-      "estimated_read_time": 7,
-      "keywords": [
-        "asthma tcm",
-        "breathing difficulties",
-        "lung qi deficiency asthma",
-        "wheezing tcm"
-      ],
-      "id": "79"
-    },
-    {
       "title": "Mental-Emotional Health: A TCM Perspective on Depression, Grief, and Mood",
       "path": "/symptoms/mental-emotional-health/",
       "type": "pillar",
@@ -1291,6 +1277,20 @@
         "asthma tcm"
       ],
       "id": "78"
+    },
+    {
+      "title": "Asthma and TCM: Patterns, Triggers, and Breathing Support",
+      "path": "/symptoms/respiratory-health/asthma-tcm/",
+      "type": "cluster",
+      "parent": "respiratory-health",
+      "estimated_read_time": 7,
+      "keywords": [
+        "asthma tcm",
+        "breathing difficulties",
+        "lung qi deficiency asthma",
+        "wheezing tcm"
+      ],
+      "id": "79"
     }
   ]
 }
