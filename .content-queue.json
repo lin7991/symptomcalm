@@ -4,21 +4,6 @@
   "note": "每3小时自动生产一篇内容。从队列头部取，完成后移到 published。",
   "queue": [
     {
-      "title": "TCM Food Energetics: Understanding Warm, Cool, and Neutral Foods",
-      "path": "/tcm-basics/food-energetics-tcm/",
-      "type": "tcm-basics",
-      "parent": "",
-      "estimated_read_time": 7,
-      "keywords": [
-        "tcm food energetics",
-        "warming foods",
-        "cooling foods",
-        "chinese nutrition",
-        "food nature tcm"
-      ],
-      "id": "74"
-    },
-    {
       "title": "Chinese Herbal Formulas: How TCM Combines Herbs for Specific Patterns",
       "path": "/treatments/chinese-herbal-formulas/",
       "type": "treatment",
@@ -59,6 +44,222 @@
         "lower back support nutrition"
       ],
       "id": "77"
+    },
+    {
+      "title": "Respiratory Health: A TCM Perspective on Coughs, Colds, and Lung Health",
+      "path": "/symptoms/respiratory-health/",
+      "type": "pillar",
+      "parent": "",
+      "estimated_read_time": 8,
+      "keywords": [
+        "tcm respiratory health",
+        "cough tcm",
+        "lung health",
+        "colds tcm",
+        "asthma tcm"
+      ],
+      "id": "78"
+    },
+    {
+      "title": "Asthma and TCM: Patterns, Triggers, and Breathing Support",
+      "path": "/symptoms/respiratory-health/asthma-tcm/",
+      "type": "cluster",
+      "parent": "respiratory-health",
+      "estimated_read_time": 7,
+      "keywords": [
+        "asthma tcm",
+        "breathing difficulties",
+        "lung qi deficiency asthma",
+        "wheezing tcm"
+      ],
+      "id": "79"
+    },
+    {
+      "title": "Mental-Emotional Health: A TCM Perspective on Depression, Grief, and Mood",
+      "path": "/symptoms/mental-emotional-health/",
+      "type": "pillar",
+      "parent": "",
+      "estimated_read_time": 8,
+      "keywords": [
+        "depression tcm",
+        "grief tcm",
+        "mood tcm",
+        "emotional health tcm",
+        "heart spirit"
+      ],
+      "id": "80"
+    },
+    {
+      "title": "Acupressure Points for Anxiety Relief: A Step-by-Step Self-Care Guide",
+      "path": "/symptoms/anxiety/acupressure-anxiety/",
+      "type": "cluster",
+      "parent": "anxiety",
+      "estimated_read_time": 6,
+      "keywords": [
+        "acupressure anxiety",
+        "pressure points for stress",
+        "self care tcm",
+        "pericardium 6"
+      ],
+      "id": "81"
+    },
+    {
+      "title": "IBS from a TCM Perspective: Patterns of Digestive Distress",
+      "path": "/symptoms/digestion/ibs-tcm/",
+      "type": "cluster",
+      "parent": "digestion",
+      "estimated_read_time": 7,
+      "keywords": [
+        "ibs tcm",
+        "irritable bowel syndrome",
+        "liver spleen digestion",
+        "diarrhea tcm",
+        "constipation tcm"
+      ],
+      "id": "82"
+    },
+    {
+      "title": "Food Allergies and Histamine from a TCM View: The Spleen-Damp Connection",
+      "path": "/symptoms/allergies/food-allergies-tcm/",
+      "type": "cluster",
+      "parent": "allergies",
+      "estimated_read_time": 7,
+      "keywords": [
+        "food allergies tcm",
+        "histamine intolerance",
+        "food sensitivity tcm",
+        "spleen dampness allergies"
+      ],
+      "id": "83"
+    },
+    {
+      "title": "Rosacea from a TCM Perspective: Stomach Heat and Facial Redness",
+      "path": "/symptoms/skin-conditions/rosacea-tcm/",
+      "type": "cluster",
+      "parent": "skin-conditions",
+      "estimated_read_time": 7,
+      "keywords": [
+        "rosacea tcm",
+        "facial redness",
+        "stomach heat skin",
+        "skin flushing tcm"
+      ],
+      "id": "84"
+    },
+    {
+      "title": "Morning Sickness and TCM: Nausea Relief in Early Pregnancy",
+      "path": "/symptoms/womens-health/morning-sickness-tcm/",
+      "type": "cluster",
+      "parent": "womens-health",
+      "estimated_read_time": 7,
+      "keywords": [
+        "morning sickness tcm",
+        "pregnancy nausea",
+        "acupressure morning sickness",
+        "p6 point"
+      ],
+      "id": "85"
+    },
+    {
+      "title": "Gout from a TCM Perspective: Damp-Heat and Dietary Inflammation",
+      "path": "/symptoms/joint-pain/gout-tcm/",
+      "type": "cluster",
+      "parent": "joint-pain",
+      "estimated_read_time": 7,
+      "keywords": [
+        "gout tcm",
+        "damp heat joint pain",
+        "purine diet tcm",
+        "foot pain gout"
+      ],
+      "id": "86"
+    },
+    {
+      "title": "The Three Treasures: Jing, Qi, and Shen in TCM",
+      "path": "/tcm-basics/three-treasures-tcm/",
+      "type": "tcm-basics",
+      "parent": "",
+      "estimated_read_time": 7,
+      "keywords": [
+        "three treasures tcm",
+        "jing qi shen",
+        "vital substances",
+        "tcm essence",
+        "spirit tcm"
+      ],
+      "id": "87"
+    },
+    {
+      "title": "TCM Tongue Diagnosis: What Your Tongue Says About Your Health",
+      "path": "/tcm-basics/tongue-diagnosis-guide/",
+      "type": "tcm-basics",
+      "parent": "",
+      "estimated_read_time": 7,
+      "keywords": [
+        "tongue diagnosis tcm",
+        "tongue coating",
+        "tongue body tcm",
+        "tcm diagnosis"
+      ],
+      "id": "88"
+    },
+    {
+      "title": "Dietary Therapy in TCM: Using Food as Medicine",
+      "path": "/treatments/tcm-dietary-therapy/",
+      "type": "treatment",
+      "parent": "",
+      "estimated_read_time": 7,
+      "keywords": [
+        "tcm dietary therapy",
+        "food as medicine",
+        "chinese nutrition",
+        "healing foods tcm"
+      ],
+      "id": "89"
+    },
+    {
+      "title": "Living with the Seasons: TCM Seasonal Wellness Through the Year",
+      "path": "/treatments/tcm-seasonal-wellness/",
+      "type": "treatment",
+      "parent": "",
+      "estimated_read_time": 7,
+      "keywords": [
+        "seasonal wellness tcm",
+        "tcm seasons",
+        "spring liver summer heart",
+        "seasonal living"
+      ],
+      "id": "90"
+    },
+    {
+      "title": "Morning Fatigue: Why You Wake Up Tired (A TCM View)",
+      "path": "/symptoms/fatigue/morning-fatigue-tcm/",
+      "type": "cluster",
+      "parent": "fatigue",
+      "estimated_read_time": 6,
+      "keywords": [
+        "morning fatigue",
+        "waking up tired",
+        "sleep inertia tcm",
+        "spleen qi morning",
+        "low energy morning"
+      ],
+      "id": "91"
+    },
+    {
+      "title": "Eye Strain and Screen Headaches: A TCM Approach to Digital Fatigue",
+      "path": "/symptoms/headaches/eye-strain-headache-tcm/",
+      "type": "cluster",
+      "parent": "headaches",
+      "estimated_read_time": 6,
+      "keywords": [
+        "eye strain tcm",
+        "computer headache",
+        "digital eye fatigue",
+        "liver blood eyes",
+        "screen headache relief"
+      ],
+      "id": "92"
     }
   ],
   "published": [
@@ -1075,6 +1276,21 @@
         "chinese medicine clock"
       ],
       "id": "73"
+    },
+    {
+      "title": "TCM Food Energetics: Understanding Warm, Cool, and Neutral Foods",
+      "path": "/tcm-basics/food-energetics-tcm/",
+      "type": "tcm-basics",
+      "parent": "",
+      "estimated_read_time": 7,
+      "keywords": [
+        "tcm food energetics",
+        "warming foods",
+        "cooling foods",
+        "chinese nutrition",
+        "food nature tcm"
+      ],
+      "id": "74"
     }
   ]
 }
