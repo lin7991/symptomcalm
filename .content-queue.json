@@ -4,20 +4,6 @@
   "note": "每3小时自动生产一篇内容。从队列头部取，完成后移到 published。",
   "queue": [
     {
-      "title": "The Body Clock: TCM Circadian Rhythms and When Each Organ Peaks",
-      "path": "/tcm-basics/body-clock-tcm/",
-      "type": "tcm-basics",
-      "parent": "",
-      "estimated_read_time": 7,
-      "keywords": [
-        "tcm body clock",
-        "circadian rhythm tcm",
-        "organ clock",
-        "chinese medicine clock"
-      ],
-      "id": "73"
-    },
-    {
       "title": "TCM Food Energetics: Understanding Warm, Cool, and Neutral Foods",
       "path": "/tcm-basics/food-energetics-tcm/",
       "type": "tcm-basics",
@@ -1075,6 +1061,20 @@
         "fertility tcm endometriosis"
       ],
       "id": "72"
+    },
+    {
+      "title": "The Body Clock: TCM Circadian Rhythms and When Each Organ Peaks",
+      "path": "/tcm-basics/body-clock-tcm/",
+      "type": "tcm-basics",
+      "parent": "",
+      "estimated_read_time": 7,
+      "keywords": [
+        "tcm body clock",
+        "circadian rhythm tcm",
+        "organ clock",
+        "chinese medicine clock"
+      ],
+      "id": "73"
     }
   ]
 }
