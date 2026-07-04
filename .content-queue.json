@@ -4,21 +4,6 @@
   "note": "每3小时自动生产一篇内容。从队列头部取，完成后移到 published。",
   "queue": [
     {
-      "title": "Respiratory Health: A TCM Perspective on Coughs, Colds, and Lung Health",
-      "path": "/symptoms/respiratory-health/",
-      "type": "pillar",
-      "parent": "",
-      "estimated_read_time": 8,
-      "keywords": [
-        "tcm respiratory health",
-        "cough tcm",
-        "lung health",
-        "colds tcm",
-        "asthma tcm"
-      ],
-      "id": "78"
-    },
-    {
       "title": "Asthma and TCM: Patterns, Triggers, and Breathing Support",
       "path": "/symptoms/respiratory-health/asthma-tcm/",
       "type": "cluster",
@@ -1291,6 +1276,21 @@
         "lower back support nutrition"
       ],
       "id": "77"
+    },
+    {
+      "title": "Respiratory Health: A TCM Perspective on Coughs, Colds, and Lung Health",
+      "path": "/symptoms/respiratory-health/",
+      "type": "pillar",
+      "parent": "",
+      "estimated_read_time": 8,
+      "keywords": [
+        "tcm respiratory health",
+        "cough tcm",
+        "lung health",
+        "colds tcm",
+        "asthma tcm"
+      ],
+      "id": "78"
     }
   ]
 }
