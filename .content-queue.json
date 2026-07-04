@@ -4,20 +4,6 @@
   "note": "每3小时自动生产一篇内容。从队列头部取，完成后移到 published。",
   "queue": [
     {
-      "title": "TCM Dietary Tips for Supporting Back Health: Foods for Kidney and Spine",
-      "path": "/symptoms/back-pain/back-health-diet-tcm/",
-      "type": "cluster",
-      "parent": "back-pain",
-      "estimated_read_time": 7,
-      "keywords": [
-        "back pain diet",
-        "kidney foods",
-        "bone health tcm",
-        "lower back support nutrition"
-      ],
-      "id": "77"
-    },
-    {
       "title": "Respiratory Health: A TCM Perspective on Coughs, Colds, and Lung Health",
       "path": "/symptoms/respiratory-health/",
       "type": "pillar",
@@ -1291,6 +1277,20 @@
         "tcm self massage"
       ],
       "id": "76"
+    },
+    {
+      "title": "TCM Dietary Tips for Supporting Back Health: Foods for Kidney and Spine",
+      "path": "/symptoms/back-pain/back-health-diet-tcm/",
+      "type": "cluster",
+      "parent": "back-pain",
+      "estimated_read_time": 7,
+      "keywords": [
+        "back pain diet",
+        "kidney foods",
+        "bone health tcm",
+        "lower back support nutrition"
+      ],
+      "id": "77"
     }
   ]
 }
