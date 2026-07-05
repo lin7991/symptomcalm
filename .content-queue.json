@@ -4,21 +4,6 @@
   "note": "每3小时自动生产一篇内容。从队列头部取，完成后移到 published。",
   "queue": [
     {
-      "title": "The Three Treasures: Jing, Qi, and Shen in TCM",
-      "path": "/tcm-basics/three-treasures-tcm/",
-      "type": "tcm-basics",
-      "parent": "",
-      "estimated_read_time": 7,
-      "keywords": [
-        "three treasures tcm",
-        "jing qi shen",
-        "vital substances",
-        "tcm essence",
-        "spirit tcm"
-      ],
-      "id": "87"
-    },
-    {
       "title": "TCM Tongue Diagnosis: What Your Tongue Says About Your Health",
       "path": "/tcm-basics/tongue-diagnosis-guide/",
       "type": "tcm-basics",
@@ -1291,6 +1276,21 @@
         "foot pain gout"
       ],
       "id": "86"
+    },
+    {
+      "title": "The Three Treasures: Jing, Qi, and Shen in TCM",
+      "path": "/tcm-basics/three-treasures-tcm/",
+      "type": "tcm-basics",
+      "parent": "",
+      "estimated_read_time": 7,
+      "keywords": [
+        "three treasures tcm",
+        "jing qi shen",
+        "vital substances",
+        "tcm essence",
+        "spirit tcm"
+      ],
+      "id": "87"
     }
   ]
 }
