@@ -4,20 +4,6 @@
   "note": "每3小时自动生产一篇内容。从队列头部取，完成后移到 published。",
   "queue": [
     {
-      "title": "Gout from a TCM Perspective: Damp-Heat and Dietary Inflammation",
-      "path": "/symptoms/joint-pain/gout-tcm/",
-      "type": "cluster",
-      "parent": "joint-pain",
-      "estimated_read_time": 7,
-      "keywords": [
-        "gout tcm",
-        "damp heat joint pain",
-        "purine diet tcm",
-        "foot pain gout"
-      ],
-      "id": "86"
-    },
-    {
       "title": "The Three Treasures: Jing, Qi, and Shen in TCM",
       "path": "/tcm-basics/three-treasures-tcm/",
       "type": "tcm-basics",
@@ -1291,6 +1277,20 @@
         "p6 point"
       ],
       "id": "85"
+    },
+    {
+      "title": "Gout from a TCM Perspective: Damp-Heat and Dietary Inflammation",
+      "path": "/symptoms/joint-pain/gout-tcm/",
+      "type": "cluster",
+      "parent": "joint-pain",
+      "estimated_read_time": 7,
+      "keywords": [
+        "gout tcm",
+        "damp heat joint pain",
+        "purine diet tcm",
+        "foot pain gout"
+      ],
+      "id": "86"
     }
   ]
 }
