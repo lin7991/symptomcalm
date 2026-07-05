@@ -4,20 +4,6 @@
   "note": "每3小时自动生产一篇内容。从队列头部取，完成后移到 published。",
   "queue": [
     {
-      "title": "Morning Sickness and TCM: Nausea Relief in Early Pregnancy",
-      "path": "/symptoms/womens-health/morning-sickness-tcm/",
-      "type": "cluster",
-      "parent": "womens-health",
-      "estimated_read_time": 7,
-      "keywords": [
-        "morning sickness tcm",
-        "pregnancy nausea",
-        "acupressure morning sickness",
-        "p6 point"
-      ],
-      "id": "85"
-    },
-    {
       "title": "Gout from a TCM Perspective: Damp-Heat and Dietary Inflammation",
       "path": "/symptoms/joint-pain/gout-tcm/",
       "type": "cluster",
@@ -1291,6 +1277,20 @@
         "skin flushing tcm"
       ],
       "id": "84"
+    },
+    {
+      "title": "Morning Sickness and TCM: Nausea Relief in Early Pregnancy",
+      "path": "/symptoms/womens-health/morning-sickness-tcm/",
+      "type": "cluster",
+      "parent": "womens-health",
+      "estimated_read_time": 7,
+      "keywords": [
+        "morning sickness tcm",
+        "pregnancy nausea",
+        "acupressure morning sickness",
+        "p6 point"
+      ],
+      "id": "85"
     }
   ]
 }
