@@ -4,20 +4,6 @@
   "note": "每3小时自动生产一篇内容。从队列头部取，完成后移到 published。",
   "queue": [
     {
-      "title": "Acupressure Points for Anxiety Relief: A Step-by-Step Self-Care Guide",
-      "path": "/symptoms/anxiety/acupressure-anxiety/",
-      "type": "cluster",
-      "parent": "anxiety",
-      "estimated_read_time": 6,
-      "keywords": [
-        "acupressure anxiety",
-        "pressure points for stress",
-        "self care tcm",
-        "pericardium 6"
-      ],
-      "id": "81"
-    },
-    {
       "title": "IBS from a TCM Perspective: Patterns of Digestive Distress",
       "path": "/symptoms/digestion/ibs-tcm/",
       "type": "cluster",
@@ -1291,6 +1277,20 @@
         "heart spirit"
       ],
       "id": "80"
+    },
+    {
+      "title": "Acupressure Points for Anxiety Relief: A Step-by-Step Self-Care Guide",
+      "path": "/symptoms/anxiety/acupressure-anxiety/",
+      "type": "cluster",
+      "parent": "anxiety",
+      "estimated_read_time": 6,
+      "keywords": [
+        "acupressure anxiety",
+        "pressure points for stress",
+        "self care tcm",
+        "pericardium 6"
+      ],
+      "id": "81"
     }
   ]
 }
