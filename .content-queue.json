@@ -4,21 +4,6 @@
   "note": "每3小时自动生产一篇内容。从队列头部取，完成后移到 published。",
   "queue": [
     {
-      "title": "IBS from a TCM Perspective: Patterns of Digestive Distress",
-      "path": "/symptoms/digestion/ibs-tcm/",
-      "type": "cluster",
-      "parent": "digestion",
-      "estimated_read_time": 7,
-      "keywords": [
-        "ibs tcm",
-        "irritable bowel syndrome",
-        "liver spleen digestion",
-        "diarrhea tcm",
-        "constipation tcm"
-      ],
-      "id": "82"
-    },
-    {
       "title": "Food Allergies and Histamine from a TCM View: The Spleen-Damp Connection",
       "path": "/symptoms/allergies/food-allergies-tcm/",
       "type": "cluster",
@@ -1291,6 +1276,21 @@
         "pericardium 6"
       ],
       "id": "81"
+    },
+    {
+      "title": "IBS from a TCM Perspective: Patterns of Digestive Distress",
+      "path": "/symptoms/digestion/ibs-tcm/",
+      "type": "cluster",
+      "parent": "digestion",
+      "estimated_read_time": 7,
+      "keywords": [
+        "ibs tcm",
+        "irritable bowel syndrome",
+        "liver spleen digestion",
+        "diarrhea tcm",
+        "constipation tcm"
+      ],
+      "id": "82"
     }
   ]
 }
