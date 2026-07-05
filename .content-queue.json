@@ -4,20 +4,6 @@
   "note": "每3小时自动生产一篇内容。从队列头部取，完成后移到 published。",
   "queue": [
     {
-      "title": "TCM Tongue Diagnosis: What Your Tongue Says About Your Health",
-      "path": "/tcm-basics/tongue-diagnosis-guide/",
-      "type": "tcm-basics",
-      "parent": "",
-      "estimated_read_time": 7,
-      "keywords": [
-        "tongue diagnosis tcm",
-        "tongue coating",
-        "tongue body tcm",
-        "tcm diagnosis"
-      ],
-      "id": "88"
-    },
-    {
       "title": "Dietary Therapy in TCM: Using Food as Medicine",
       "path": "/treatments/tcm-dietary-therapy/",
       "type": "treatment",
@@ -1291,6 +1277,20 @@
         "spirit tcm"
       ],
       "id": "87"
+    },
+    {
+      "title": "TCM Tongue Diagnosis: What Your Tongue Says About Your Health",
+      "path": "/tcm-basics/tongue-diagnosis-guide/",
+      "type": "tcm-basics",
+      "parent": "",
+      "estimated_read_time": 7,
+      "keywords": [
+        "tongue diagnosis tcm",
+        "tongue coating",
+        "tongue body tcm",
+        "tcm diagnosis"
+      ],
+      "id": "88"
     }
   ]
 }
