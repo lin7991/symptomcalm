@@ -18,7 +18,8 @@ CONTENT_DIRS = [
     "symptoms/anxiety", "symptoms/back-pain", "symptoms/insomnia",
     "symptoms/digestion", "symptoms/headaches", "symptoms/fatigue",
     "symptoms/allergies", "symptoms/skin-conditions", "symptoms/womens-health",
-    "symptoms/joint-pain",
+    "symptoms/joint-pain", "symptoms/mental-emotional-health",
+    "symptoms/respiratory-health", "symptoms/stress",
     "tcm-basics",
     "treatments",
 ]
