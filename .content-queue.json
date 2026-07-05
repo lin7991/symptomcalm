@@ -4,20 +4,6 @@
   "note": "每3小时自动生产一篇内容。从队列头部取，完成后移到 published。",
   "queue": [
     {
-      "title": "Rosacea from a TCM Perspective: Stomach Heat and Facial Redness",
-      "path": "/symptoms/skin-conditions/rosacea-tcm/",
-      "type": "cluster",
-      "parent": "skin-conditions",
-      "estimated_read_time": 7,
-      "keywords": [
-        "rosacea tcm",
-        "facial redness",
-        "stomach heat skin",
-        "skin flushing tcm"
-      ],
-      "id": "84"
-    },
-    {
       "title": "Morning Sickness and TCM: Nausea Relief in Early Pregnancy",
       "path": "/symptoms/womens-health/morning-sickness-tcm/",
       "type": "cluster",
@@ -1291,6 +1277,20 @@
         "spleen dampness allergies"
       ],
       "id": "83"
+    },
+    {
+      "title": "Rosacea from a TCM Perspective: Stomach Heat and Facial Redness",
+      "path": "/symptoms/skin-conditions/rosacea-tcm/",
+      "type": "cluster",
+      "parent": "skin-conditions",
+      "estimated_read_time": 7,
+      "keywords": [
+        "rosacea tcm",
+        "facial redness",
+        "stomach heat skin",
+        "skin flushing tcm"
+      ],
+      "id": "84"
     }
   ]
 }
