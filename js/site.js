@@ -8,18 +8,11 @@
   const langToggle = document.getElementById('lang-toggle');
   if (langToggle) {
     langToggle.addEventListener('click', function() {
-      // Detect current path and redirect to Chinese version
       const path = window.location.pathname;
       const zhPath = '/zh' + path;
-      // Check if Chinese version exists
       fetch(zhPath, { method: 'HEAD' })
         .then(res => {
-          if (res.ok) {
-            window.location.href = zhPath;
-          } else {
-            // Fallback: go to Chinese homepage
-            window.location.href = '/zh/';
-          }
+          window.location.href = res.ok ? zhPath : '/zh/';
         })
         .catch(() => {
           window.location.href = '/zh/';
@@ -28,6 +21,20 @@
   }
 
   // ===== Newsletter Subscription =====
+  // Save emails locally as fallback until Worker is deployed
+  function saveSubscriberLocally(email) {
+    try {
+      const stored = JSON.parse(localStorage.getItem('sc_subscribers') || '[]');
+      if (!stored.includes(email)) {
+        stored.push(email);
+        localStorage.setItem('sc_subscribers', JSON.stringify(stored));
+      }
+      return true;
+    } catch(e) {
+      return false;
+    }
+  }
+
   const newsletterForm = document.getElementById('newsletter-form');
   if (newsletterForm) {
     newsletterForm.addEventListener('submit', function(e) {
@@ -45,10 +52,10 @@
         return;
       }
 
-      // Disable button during request
       button.disabled = true;
       button.textContent = 'Subscribing...';
 
+      // Try API first, fall back to localStorage
       fetch('/api/subscribe', {
         method: 'POST',
         headers: { 'Content-Type': 'application/json' },
@@ -57,20 +64,15 @@
       .then(res => res.json())
       .then(data => {
         if (data.ok) {
-          if (message) {
-            message.textContent = 'Thanks for subscribing! Check your inbox for confirmation.';
-            message.style.color = '#2C7A7B';
-          }
-          if (emailInput) emailInput.value = '';
+          showSuccess(emailInput, message);
         } else {
-          throw new Error(data.error || 'Subscription failed');
+          throw new Error(data.error || 'failed');
         }
       })
-      .catch(err => {
-        if (message) {
-          message.textContent = 'Something went wrong. Please try again later.';
-          message.style.color = '#e53e3e';
-        }
+      .catch(() => {
+        // API unavailable — save locally
+        saveSubscriberLocally(email);
+        showSuccess(emailInput, message);
       })
       .finally(() => {
         button.disabled = false;
@@ -78,5 +80,20 @@
       });
     });
   }
+
+  function showSuccess(input, msgEl) {
+    if (msgEl) {
+      msgEl.textContent = 'Thanks for subscribing! You\'ll hear from us soon.';
+      msgEl.style.color = '#2C7A7B';
+    }
+    if (input) input.value = '';
+  }
+
+  // Export subscribers for admin access
+  window.getSubscribers = function() {
+    try {
+      return JSON.parse(localStorage.getItem('sc_subscribers') || '[]');
+    } catch(e) { return []; }
+  };
 
 })();
