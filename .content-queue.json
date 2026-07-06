@@ -4,21 +4,6 @@
   "note": "每3小时自动生产一篇内容。从队列头部取，完成后移到 published。",
   "queue": [
     {
-      "title": "PMS and TCM: Understanding the Patterns Behind Monthly Symptoms",
-      "path": "/symptoms/womens-health/pms-tcm/",
-      "type": "cluster",
-      "parent": "womens-health",
-      "estimated_read_time": 7,
-      "keywords": [
-        "pms tcm",
-        "premenstrual syndrome",
-        "menstrual cramps",
-        "liver qi stagnation pms",
-        "hormonal balance tcm"
-      ],
-      "id": "93"
-    },
-    {
       "title": "Menopause and TCM: A Natural Perspective on the Transition",
       "path": "/symptoms/womens-health/menopause-tcm/",
       "type": "cluster",
@@ -1516,6 +1501,21 @@
         "screen headache relief"
       ],
       "id": "92"
+    },
+    {
+      "title": "PMS and TCM: Understanding the Patterns Behind Monthly Symptoms",
+      "path": "/symptoms/womens-health/pms-tcm/",
+      "type": "cluster",
+      "parent": "womens-health",
+      "estimated_read_time": 7,
+      "keywords": [
+        "pms tcm",
+        "premenstrual syndrome",
+        "menstrual cramps",
+        "liver qi stagnation pms",
+        "hormonal balance tcm"
+      ],
+      "id": "93"
     }
   ]
 }
