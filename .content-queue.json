@@ -4,21 +4,6 @@
   "note": "每3小时自动生产一篇内容。从队列头部取，完成后移到 published。",
   "queue": [
     {
-      "title": "Eye Strain and Screen Headaches: A TCM Approach to Digital Fatigue",
-      "path": "/symptoms/headaches/eye-strain-headache-tcm/",
-      "type": "cluster",
-      "parent": "headaches",
-      "estimated_read_time": 6,
-      "keywords": [
-        "eye strain tcm",
-        "computer headache",
-        "digital eye fatigue",
-        "liver blood eyes",
-        "screen headache relief"
-      ],
-      "id": "92"
-    },
-    {
       "title": "PMS and TCM: Understanding the Patterns Behind Monthly Symptoms",
       "path": "/symptoms/womens-health/pms-tcm/",
       "type": "cluster",
@@ -1516,6 +1501,21 @@
         "low energy morning"
       ],
       "id": "91"
+    },
+    {
+      "title": "Eye Strain and Screen Headaches: A TCM Approach to Digital Fatigue",
+      "path": "/symptoms/headaches/eye-strain-headache-tcm/",
+      "type": "cluster",
+      "parent": "headaches",
+      "estimated_read_time": 6,
+      "keywords": [
+        "eye strain tcm",
+        "computer headache",
+        "digital eye fatigue",
+        "liver blood eyes",
+        "screen headache relief"
+      ],
+      "id": "92"
     }
   ]
 }
