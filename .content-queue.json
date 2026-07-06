@@ -4,21 +4,6 @@
   "note": "每3小时自动生产一篇内容。从队列头部取，完成后移到 published。",
   "queue": [
     {
-      "title": "Histamine Intolerance: A TCM Perspective on Food Sensitivities",
-      "path": "/symptoms/allergies/histamine-intolerance-tcm/",
-      "type": "cluster",
-      "parent": "allergies",
-      "estimated_read_time": 6,
-      "keywords": [
-        "histamine intolerance",
-        "tcm histamine",
-        "food sensitivity",
-        "dampness allergies",
-        "liver detox"
-      ],
-      "id": "97"
-    },
-    {
       "title": "Knee Pain: A TCM View on Liver and Kidney Patterns",
       "path": "/symptoms/joint-pain/knee-pain-tcm/",
       "type": "cluster",
@@ -1516,6 +1501,21 @@
         "tcm psoriasis"
       ],
       "id": "96"
+    },
+    {
+      "title": "Histamine Intolerance: A TCM Perspective on Food Sensitivities",
+      "path": "/symptoms/allergies/histamine-intolerance-tcm/",
+      "type": "cluster",
+      "parent": "allergies",
+      "estimated_read_time": 6,
+      "keywords": [
+        "histamine intolerance",
+        "tcm histamine",
+        "food sensitivity",
+        "dampness allergies",
+        "liver detox"
+      ],
+      "id": "97"
     }
   ]
 }
