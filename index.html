@@ -39,6 +39,7 @@
       <a href="/symptoms/womens-health/">Women's Health</a>
       <a href="/tcm-basics/what-is-qi/">TCM Basics</a>
       <a href="/about/">About</a>
+      <button id="lang-toggle" class="lang-toggle">中文</button>
     </nav>
   </div>
 </header>
@@ -190,6 +191,20 @@
   </div>
 </section>
 
+<section class="newsletter-section">
+  <div class="container">
+    <div class="newsletter-box">
+      <h3>Stay in the Loop</h3>
+      <p>Get weekly TCM insights delivered to your inbox.</p>
+      <div id="newsletter-form">
+        <input type="email" id="newsletter-email" placeholder="Your email address" required />
+        <button type="submit">Subscribe</button>
+      </div>
+      <p id="newsletter-message"></p>
+    </div>
+  </div>
+</section>
+
 <footer class="site-footer">
   <div class="footer-inner">
     <div>
@@ -221,5 +236,6 @@
 if(!localStorage.getItem('cookieConsent')){document.getElementById('cookie-banner').style.display='block';}
 </script>
 
+  <script src="/js/site.js"></script>
 </body>
 </html>

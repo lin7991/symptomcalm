@@ -257,6 +257,90 @@ a:hover { color: var(--primary-dark); }
   line-height: 1.4;
 }
 
+/* ===== Language Toggle ===== */
+.lang-toggle {
+  background: transparent;
+  border: 1px solid var(--border);
+  border-radius: 6px;
+  padding: 0.35rem 0.75rem;
+  font-size: 0.8rem;
+  font-weight: 500;
+  color: var(--text-muted);
+  cursor: pointer;
+  font-family: var(--font);
+  transition: all 0.2s;
+  line-height: 1.4;
+}
+.lang-toggle:hover {
+  border-color: var(--primary);
+  color: var(--primary);
+  background: var(--bg-alt);
+}
+
+/* ===== Newsletter Section ===== */
+.newsletter-section {
+  background: linear-gradient(135deg, var(--primary-dark), var(--primary));
+  border-radius: var(--radius-lg);
+  padding: 2.5rem;
+  margin: 3rem 0;
+  text-align: center;
+  color: white;
+}
+.newsletter-section h3 {
+  color: white;
+  margin-top: 0;
+  margin-bottom: 0.5rem;
+}
+.newsletter-section p {
+  color: rgba(255,255,255,0.85);
+  margin-bottom: 1.5rem;
+  font-size: 0.95rem;
+}
+.newsletter-box {
+  display: flex;
+  gap: 0.5rem;
+  justify-content: center;
+  flex-wrap: wrap;
+  max-width: 450px;
+  margin: 0 auto;
+}
+.newsletter-box input {
+  flex: 1;
+  min-width: 200px;
+  padding: 0.75rem 1rem;
+  border: none;
+  border-radius: var(--radius);
+  font-size: 0.9rem;
+  font-family: var(--font);
+  outline: none;
+}
+.newsletter-box button {
+  background: var(--accent);
+  color: white;
+  border: none;
+  border-radius: var(--radius);
+  padding: 0.75rem 1.5rem;
+  font-size: 0.9rem;
+  font-weight: 600;
+  cursor: pointer;
+  font-family: var(--font);
+  transition: background 0.2s;
+  white-space: nowrap;
+}
+.newsletter-box button:hover {
+  background: var(--accent-light);
+  color: var(--primary-dark);
+}
+.newsletter-box button:disabled {
+  opacity: 0.6;
+  cursor: not-allowed;
+}
+#newsletter-message {
+  margin-top: 0.75rem;
+  font-size: 0.85rem;
+  min-height: 1.5em;
+}
+
 /* ===== Footer ===== */
 .site-footer {
   background: var(--primary-dark);

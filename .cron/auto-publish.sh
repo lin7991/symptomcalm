@@ -22,10 +22,18 @@ If remaining < 5, you need to refill first:
   - Format as JSON array with title/path/type/parent/estimated_read_time/keywords
   - Pipe to: echo '[...]' | python3 .cron/publish-article.py add
 
-STEP 2: Read next item with 'python3 .cron/publish-article.py next'.
-Generate a complete HTML article using .cron/article-template.html.
-Write to /tmp/symptomcalm-article.html.
-Run 'python3 .cron/publish-article.py publish /tmp/symptomcalm-article.html'.
+|STEP 2: Read next item with 'python3 .cron/publish-article.py next'.
+|Generate a complete HTML article using .cron/article-template.html.
+|The template has a <!--NEWSLETTER_SECTION--> placeholder — replace it with:
+|<section class=\"newsletter-section\"><div class=\"container\"><div class=\"newsletter-box\">
+|<h3>Stay in the Loop</h3><p>Get weekly TCM insights delivered to your inbox.</p>
+|<form id=\"newsletter-form\" style=\"display:contents\">
+|<input type=\"email\" id=\"newsletter-email\" placeholder=\"Your email address\" required />
+|<button type=\"submit\">Subscribe</button>
+|</form><p id=\"newsletter-message\"></p></div></div></section>
+|The template also has <!--FAQ_SCHEMA--> — leave it as is (FAQ script handles it after publish).
+|Write the final HTML to /tmp/symptomcalm-article.html.
+|Run 'python3 .cron/publish-article.py publish /tmp/symptomcalm-article.html'.
 If the article's pillar page exists, update its CTA section to link to the new article.
 Verify the page is live with curl.
 " --skills tcm-content-production 2>&1 >> "$HOME/symptomcalm/.cron/publish.log"
