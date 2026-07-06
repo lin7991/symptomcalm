@@ -4,21 +4,6 @@
   "note": "每3小时自动生产一篇内容。从队列头部取，完成后移到 published。",
   "queue": [
     {
-      "title": "IBS and TCM: Understanding Spleen and Liver Patterns",
-      "path": "/symptoms/digestion/ibs-tcm-patterns/",
-      "type": "cluster",
-      "parent": "digestion",
-      "estimated_read_time": 7,
-      "keywords": [
-        "ibs tcm",
-        "irritable bowel syndrome",
-        "spleen liver disharmony",
-        "digestive patterns",
-        "tcm ibs treatment"
-      ],
-      "id": "100"
-    },
-    {
       "title": "Cluster Headaches: TCM Patterns and Acupressure Relief",
       "path": "/symptoms/headaches/cluster-headache-tcm/",
       "type": "cluster",
@@ -1516,6 +1501,21 @@
         "letting go tcm"
       ],
       "id": "99"
+    },
+    {
+      "title": "IBS and TCM: Understanding Spleen and Liver Patterns",
+      "path": "/symptoms/digestion/ibs-tcm-patterns/",
+      "type": "cluster",
+      "parent": "digestion",
+      "estimated_read_time": 7,
+      "keywords": [
+        "ibs tcm",
+        "irritable bowel syndrome",
+        "spleen liver disharmony",
+        "digestive patterns",
+        "tcm ibs treatment"
+      ],
+      "id": "100"
     }
   ]
 }
