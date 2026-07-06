@@ -4,20 +4,6 @@
   "note": "每3小时自动生产一篇内容。从队列头部取，完成后移到 published。",
   "queue": [
     {
-      "title": "Dietary Therapy in TCM: Using Food as Medicine",
-      "path": "/treatments/tcm-dietary-therapy/",
-      "type": "treatment",
-      "parent": "",
-      "estimated_read_time": 7,
-      "keywords": [
-        "tcm dietary therapy",
-        "food as medicine",
-        "chinese nutrition",
-        "healing foods tcm"
-      ],
-      "id": "89"
-    },
-    {
       "title": "Living with the Seasons: TCM Seasonal Wellness Through the Year",
       "path": "/treatments/tcm-seasonal-wellness/",
       "type": "treatment",
@@ -1516,6 +1502,20 @@
         "tcm diagnosis"
       ],
       "id": "88"
+    },
+    {
+      "title": "Dietary Therapy in TCM: Using Food as Medicine",
+      "path": "/treatments/tcm-dietary-therapy/",
+      "type": "treatment",
+      "parent": "",
+      "estimated_read_time": 7,
+      "keywords": [
+        "tcm dietary therapy",
+        "food as medicine",
+        "chinese nutrition",
+        "healing foods tcm"
+      ],
+      "id": "89"
     }
   ]
 }
