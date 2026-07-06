@@ -4,21 +4,6 @@
   "note": "每3小时自动生产一篇内容。从队列头部取，完成后移到 published。",
   "queue": [
     {
-      "title": "Menopause and TCM: A Natural Perspective on the Transition",
-      "path": "/symptoms/womens-health/menopause-tcm/",
-      "type": "cluster",
-      "parent": "womens-health",
-      "estimated_read_time": 7,
-      "keywords": [
-        "menopause tcm",
-        "hot flashes",
-        "yin deficiency",
-        "hormonal changes",
-        "perimenopause tcm"
-      ],
-      "id": "94"
-    },
-    {
       "title": "Eczema and TCM: Understanding Damp-Heat Patterns in Skin",
       "path": "/symptoms/skin-conditions/eczema-tcm/",
       "type": "cluster",
@@ -1516,6 +1501,21 @@
         "hormonal balance tcm"
       ],
       "id": "93"
+    },
+    {
+      "title": "Menopause and TCM: A Natural Perspective on the Transition",
+      "path": "/symptoms/womens-health/menopause-tcm/",
+      "type": "cluster",
+      "parent": "womens-health",
+      "estimated_read_time": 7,
+      "keywords": [
+        "menopause tcm",
+        "hot flashes",
+        "yin deficiency",
+        "hormonal changes",
+        "perimenopause tcm"
+      ],
+      "id": "94"
     }
   ]
 }
