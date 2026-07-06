@@ -4,21 +4,6 @@
   "note": "每3小时自动生产一篇内容。从队列头部取，完成后移到 published。",
   "queue": [
     {
-      "title": "Knee Pain: A TCM View on Liver and Kidney Patterns",
-      "path": "/symptoms/joint-pain/knee-pain-tcm/",
-      "type": "cluster",
-      "parent": "joint-pain",
-      "estimated_read_time": 6,
-      "keywords": [
-        "knee pain tcm",
-        "joint pain",
-        "liver kidney deficiency",
-        "osteoarthritis tcm",
-        "knee stiffness"
-      ],
-      "id": "98"
-    },
-    {
       "title": "Grief and the Lungs: TCM's View on Emotional Health",
       "path": "/symptoms/mental-emotional-health/grief-and-lungs/",
       "type": "cluster",
@@ -1516,6 +1501,21 @@
         "liver detox"
       ],
       "id": "97"
+    },
+    {
+      "title": "Knee Pain: A TCM View on Liver and Kidney Patterns",
+      "path": "/symptoms/joint-pain/knee-pain-tcm/",
+      "type": "cluster",
+      "parent": "joint-pain",
+      "estimated_read_time": 6,
+      "keywords": [
+        "knee pain tcm",
+        "joint pain",
+        "liver kidney deficiency",
+        "osteoarthritis tcm",
+        "knee stiffness"
+      ],
+      "id": "98"
     }
   ]
 }
