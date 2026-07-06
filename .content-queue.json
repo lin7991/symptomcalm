@@ -4,21 +4,6 @@
   "note": "每3小时自动生产一篇内容。从队列头部取，完成后移到 published。",
   "queue": [
     {
-      "title": "Psoriasis from a TCM View: Blood Heat and Blood Stasis Patterns",
-      "path": "/symptoms/skin-conditions/psoriasis-tcm/",
-      "type": "cluster",
-      "parent": "skin-conditions",
-      "estimated_read_time": 7,
-      "keywords": [
-        "psoriasis tcm",
-        "blood heat",
-        "skin plaques",
-        "autoimmune skin tcm",
-        "tcm psoriasis"
-      ],
-      "id": "96"
-    },
-    {
       "title": "Histamine Intolerance: A TCM Perspective on Food Sensitivities",
       "path": "/symptoms/allergies/histamine-intolerance-tcm/",
       "type": "cluster",
@@ -1516,6 +1501,21 @@
         "tcm eczema treatment"
       ],
       "id": "95"
+    },
+    {
+      "title": "Psoriasis from a TCM View: Blood Heat and Blood Stasis Patterns",
+      "path": "/symptoms/skin-conditions/psoriasis-tcm/",
+      "type": "cluster",
+      "parent": "skin-conditions",
+      "estimated_read_time": 7,
+      "keywords": [
+        "psoriasis tcm",
+        "blood heat",
+        "skin plaques",
+        "autoimmune skin tcm",
+        "tcm psoriasis"
+      ],
+      "id": "96"
     }
   ]
 }
