@@ -4,20 +4,6 @@
   "note": "每3小时自动生产一篇内容。从队列头部取，完成后移到 published。",
   "queue": [
     {
-      "title": "Living with the Seasons: TCM Seasonal Wellness Through the Year",
-      "path": "/treatments/tcm-seasonal-wellness/",
-      "type": "treatment",
-      "parent": "",
-      "estimated_read_time": 7,
-      "keywords": [
-        "seasonal wellness tcm",
-        "tcm seasons",
-        "spring liver summer heart",
-        "seasonal living"
-      ],
-      "id": "90"
-    },
-    {
       "title": "Morning Fatigue: Why You Wake Up Tired (A TCM View)",
       "path": "/symptoms/fatigue/morning-fatigue-tcm/",
       "type": "cluster",
@@ -1516,6 +1502,20 @@
         "healing foods tcm"
       ],
       "id": "89"
+    },
+    {
+      "title": "Living with the Seasons: TCM Seasonal Wellness Through the Year",
+      "path": "/treatments/tcm-seasonal-wellness/",
+      "type": "treatment",
+      "parent": "",
+      "estimated_read_time": 7,
+      "keywords": [
+        "seasonal wellness tcm",
+        "tcm seasons",
+        "spring liver summer heart",
+        "seasonal living"
+      ],
+      "id": "90"
     }
   ]
 }
