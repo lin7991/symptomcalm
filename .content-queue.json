@@ -4,21 +4,6 @@
   "note": "每3小时自动生产一篇内容。从队列头部取，完成后移到 published。",
   "queue": [
     {
-      "title": "Morning Fatigue: Why You Wake Up Tired (A TCM View)",
-      "path": "/symptoms/fatigue/morning-fatigue-tcm/",
-      "type": "cluster",
-      "parent": "fatigue",
-      "estimated_read_time": 6,
-      "keywords": [
-        "morning fatigue",
-        "waking up tired",
-        "sleep inertia tcm",
-        "spleen qi morning",
-        "low energy morning"
-      ],
-      "id": "91"
-    },
-    {
       "title": "Eye Strain and Screen Headaches: A TCM Approach to Digital Fatigue",
       "path": "/symptoms/headaches/eye-strain-headache-tcm/",
       "type": "cluster",
@@ -1516,6 +1501,21 @@
         "seasonal living"
       ],
       "id": "90"
+    },
+    {
+      "title": "Morning Fatigue: Why You Wake Up Tired (A TCM View)",
+      "path": "/symptoms/fatigue/morning-fatigue-tcm/",
+      "type": "cluster",
+      "parent": "fatigue",
+      "estimated_read_time": 6,
+      "keywords": [
+        "morning fatigue",
+        "waking up tired",
+        "sleep inertia tcm",
+        "spleen qi morning",
+        "low energy morning"
+      ],
+      "id": "91"
     }
   ]
 }
