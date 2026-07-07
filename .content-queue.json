@@ -4,21 +4,6 @@
   "note": "每3小时自动生产一篇内容。从队列头部取，完成后移到 published。",
   "queue": [
     {
-      "title": "The Spleen in TCM: Your Body's Digestion and Energy Center",
-      "path": "/tcm-basics/spleen-in-tcm/",
-      "type": "tcm-basics",
-      "parent": "",
-      "estimated_read_time": 7,
-      "keywords": [
-        "spleen tcm",
-        "spleen qi",
-        "digestion chinese medicine",
-        "spleen function tcm",
-        "tcm organs"
-      ],
-      "id": "102"
-    },
-    {
       "title": "The Liver in TCM: Stress, Emotions, and Smooth Flow",
       "path": "/tcm-basics/liver-in-tcm/",
       "type": "tcm-basics",
@@ -1516,6 +1501,21 @@
         "tcm headache patterns"
       ],
       "id": "101"
+    },
+    {
+      "title": "The Spleen in TCM: Your Body's Digestion and Energy Center",
+      "path": "/tcm-basics/spleen-in-tcm/",
+      "type": "tcm-basics",
+      "parent": "",
+      "estimated_read_time": 7,
+      "keywords": [
+        "spleen tcm",
+        "spleen qi",
+        "digestion chinese medicine",
+        "spleen function tcm",
+        "tcm organs"
+      ],
+      "id": "102"
     }
   ]
 }
