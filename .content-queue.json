@@ -4,21 +4,6 @@
   "note": "每3小时自动生产一篇内容。从队列头部取，完成后移到 published。",
   "queue": [
     {
-      "title": "The Kidney in TCM: Your Body's Battery Bank and Vital Energy Reserve",
-      "path": "/tcm-basics/kidney-in-tcm/",
-      "type": "tcm-basics",
-      "parent": "",
-      "estimated_read_time": 7,
-      "keywords": [
-        "kidney tcm",
-        "kidney yin",
-        "kidney yang",
-        "jing essence",
-        "tcm organs"
-      ],
-      "id": "108"
-    },
-    {
       "title": "The Heart in TCM: The Emperor Organ of Blood, Spirit, and Consciousness",
       "path": "/tcm-basics/heart-in-tcm/",
       "type": "tcm-basics",
@@ -1711,6 +1696,21 @@
         "gua sha technique"
       ],
       "id": "107"
+    },
+    {
+      "title": "The Kidney in TCM: Your Body's Battery Bank and Vital Energy Reserve",
+      "path": "/tcm-basics/kidney-in-tcm/",
+      "type": "tcm-basics",
+      "parent": "",
+      "estimated_read_time": 7,
+      "keywords": [
+        "kidney tcm",
+        "kidney yin",
+        "kidney yang",
+        "jing essence",
+        "tcm organs"
+      ],
+      "id": "108"
     }
   ]
 }
