@@ -4,21 +4,6 @@
   "note": "每3小时自动生产一篇内容。从队列头部取，完成后移到 published。",
   "queue": [
     {
-      "title": "Cluster Headaches: TCM Patterns and Acupressure Relief",
-      "path": "/symptoms/headaches/cluster-headache-tcm/",
-      "type": "cluster",
-      "parent": "headaches",
-      "estimated_read_time": 6,
-      "keywords": [
-        "cluster headache tcm",
-        "acupressure headache",
-        "severe headache",
-        "headache pain relief",
-        "tcm headache patterns"
-      ],
-      "id": "101"
-    },
-    {
       "title": "The Spleen in TCM: Your Body's Digestion and Energy Center",
       "path": "/tcm-basics/spleen-in-tcm/",
       "type": "tcm-basics",
@@ -1516,6 +1501,21 @@
         "tcm ibs treatment"
       ],
       "id": "100"
+    },
+    {
+      "title": "Cluster Headaches: TCM Patterns and Acupressure Relief",
+      "path": "/symptoms/headaches/cluster-headache-tcm/",
+      "type": "cluster",
+      "parent": "headaches",
+      "estimated_read_time": 6,
+      "keywords": [
+        "cluster headache tcm",
+        "acupressure headache",
+        "severe headache",
+        "headache pain relief",
+        "tcm headache patterns"
+      ],
+      "id": "101"
     }
   ]
 }
