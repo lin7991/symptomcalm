@@ -4,51 +4,6 @@
   "note": "每3小时自动生产一篇内容。从队列头部取，完成后移到 published。",
   "queue": [
     {
-      "title": "Emotions and Organs: The TCM Emotional Health Map",
-      "path": "/tcm-basics/emotions-and-organs/",
-      "type": "tcm-basics",
-      "parent": "",
-      "estimated_read_time": 6,
-      "keywords": [
-        "emotions tcm",
-        "five emotions",
-        "organ emotional connection",
-        "anger liver",
-        "sadness lungs tcm"
-      ],
-      "id": "104"
-    },
-    {
-      "title": "Tai Chi and Qi Gong: A Beginner's Guide to TCM Movement Practices",
-      "path": "/treatments/tai-chi-qi-gong-guide/",
-      "type": "treatment",
-      "parent": "",
-      "estimated_read_time": 7,
-      "keywords": [
-        "tai chi",
-        "qi gong",
-        "tcm movement",
-        "gentle exercise",
-        "energy practice"
-      ],
-      "id": "105"
-    },
-    {
-      "title": "Tui Na Massage: TCM's Hands-On Bodywork Explained",
-      "path": "/treatments/tui-na-massage/",
-      "type": "treatment",
-      "parent": "",
-      "estimated_read_time": 6,
-      "keywords": [
-        "tui na",
-        "chinese massage",
-        "tcm bodywork",
-        "acupressure massage",
-        "soft tissue therapy"
-      ],
-      "id": "106"
-    },
-    {
       "title": "Gua Sha: The TCM Scraping Therapy for Pain and Tension",
       "path": "/treatments/gua-sha-therapy/",
       "type": "treatment",
@@ -62,6 +17,231 @@
         "gua sha technique"
       ],
       "id": "107"
+    },
+    {
+      "title": "The Kidney in TCM: Your Body's Battery Bank and Vital Energy Reserve",
+      "path": "/tcm-basics/kidney-in-tcm/",
+      "type": "tcm-basics",
+      "parent": "",
+      "estimated_read_time": 7,
+      "keywords": [
+        "kidney tcm",
+        "kidney yin",
+        "kidney yang",
+        "jing essence",
+        "tcm organs"
+      ],
+      "id": "108"
+    },
+    {
+      "title": "The Heart in TCM: The Emperor Organ of Blood, Spirit, and Consciousness",
+      "path": "/tcm-basics/heart-in-tcm/",
+      "type": "tcm-basics",
+      "parent": "",
+      "estimated_read_time": 7,
+      "keywords": [
+        "heart tcm",
+        "shen spirit",
+        "heart blood",
+        "tcm heart function",
+        "sleep heart tcm"
+      ],
+      "id": "109"
+    },
+    {
+      "title": "The Lungs in TCM: Qi, Immunity, Breath, and Skin Health",
+      "path": "/tcm-basics/lungs-in-tcm/",
+      "type": "tcm-basics",
+      "parent": "",
+      "estimated_read_time": 7,
+      "keywords": [
+        "lungs tcm",
+        "lung qi",
+        "wei qi",
+        "tcm respiratory",
+        "skin lung connection"
+      ],
+      "id": "110"
+    },
+    {
+      "title": "Herbal Approaches for Back Pain: TCM Herbs That Support Spinal Health",
+      "path": "/symptoms/back-pain/herbal-remedies-back-pain/",
+      "type": "cluster",
+      "parent": "back-pain",
+      "estimated_read_time": 7,
+      "keywords": [
+        "herbs for back pain",
+        "tcm back pain herbs",
+        "du huo",
+        "kidney tonifying herbs",
+        "chinese herbal back pain"
+      ],
+      "id": "111"
+    },
+    {
+      "title": "Insomnia and Diet: TCM Food Wisdom for Deeper, More Restorative Sleep",
+      "path": "/symptoms/insomnia/insomnia-diet-tcm/",
+      "type": "cluster",
+      "parent": "insomnia",
+      "estimated_read_time": 7,
+      "keywords": [
+        "insomnia diet",
+        "foods for sleep tcm",
+        "sleep nutrition",
+        "heart calming foods",
+        "spleen nourishing diet"
+      ],
+      "id": "112"
+    },
+    {
+      "title": "Breathwork for Anxiety: A TCM Perspective on Using the Breath to Calm the Mind",
+      "path": "/symptoms/anxiety/anxiety-breathwork-tcm/",
+      "type": "cluster",
+      "parent": "anxiety",
+      "estimated_read_time": 6,
+      "keywords": [
+        "breathwork anxiety",
+        "tcm breathing",
+        "anxiety breathing exercises",
+        "lung qi anxiety",
+        "calming breath tcm"
+      ],
+      "id": "113"
+    },
+    {
+      "title": "Mental Exhaustion and Burnout: A TCM View on Overwork, Spleen, and Recovery",
+      "path": "/symptoms/fatigue/mind-body-fatigue-tcm/",
+      "type": "cluster",
+      "parent": "fatigue",
+      "estimated_read_time": 7,
+      "keywords": [
+        "mental exhaustion tcm",
+        "burnout tcm",
+        "spleen fatigue",
+        "overwork tcm",
+        "adrenal burnout"
+      ],
+      "id": "114"
+    },
+    {
+      "title": "Sinus Headaches and Face Pain: A TCM Guide to Stuffy Sinus Relief",
+      "path": "/symptoms/headaches/sinus-headache-tcm/",
+      "type": "cluster",
+      "parent": "headaches",
+      "estimated_read_time": 6,
+      "keywords": [
+        "sinus headache tcm",
+        "sinus pain",
+        "face pressure tcm",
+        "tcm sinus relief",
+        "phlegm headache"
+      ],
+      "id": "115"
+    },
+    {
+      "title": "Postpartum Recovery in TCM: Rebuilding Blood, Qi, and Warmth After Birth",
+      "path": "/symptoms/womens-health/postpartum-tcm/",
+      "type": "cluster",
+      "parent": "womens-health",
+      "estimated_read_time": 7,
+      "keywords": [
+        "postpartum tcm",
+        "postnatal recovery",
+        "blood rebuilding",
+        "sitting month",
+        "postpartum care tcm"
+      ],
+      "id": "116"
+    },
+    {
+      "title": "Damp-Heat Skin Patterns: A TCM Look at Oozing, Red, Inflamed Skin Conditions",
+      "path": "/symptoms/skin-conditions/damp-heat-skin-tcm/",
+      "type": "cluster",
+      "parent": "skin-conditions",
+      "estimated_read_time": 7,
+      "keywords": [
+        "damp heat skin",
+        "tcm skin inflammation",
+        "eczema damp heat",
+        "oozing skin",
+        "red inflamed skin tcm"
+      ],
+      "id": "117"
+    },
+    {
+      "title": "Acid Reflux and GERD: A TCM Pattern Guide to Stomach Rebellious Qi",
+      "path": "/symptoms/digestion/acid-reflux-tcm/",
+      "type": "cluster",
+      "parent": "digestion",
+      "estimated_read_time": 7,
+      "keywords": [
+        "acid reflux tcm",
+        "gerd tcm",
+        "stomach rebellious qi",
+        "heartburn tcm pattern",
+        "liver stomach digestion"
+      ],
+      "id": "118"
+    },
+    {
+      "title": "Osteoarthritis in TCM: Understanding Bone and Joint Degeneration Through Chinese Medicine",
+      "path": "/symptoms/joint-pain/osteoarthritis-tcm/",
+      "type": "cluster",
+      "parent": "joint-pain",
+      "estimated_read_time": 7,
+      "keywords": [
+        "osteoarthritis tcm",
+        "joint degeneration",
+        "bone health tcm",
+        "kidney bone",
+        "arthritis natural approach"
+      ],
+      "id": "119"
+    },
+    {
+      "title": "Seasonal Eating in TCM: How to Adjust Your Diet Through the Calendar Year",
+      "path": "/treatments/dietary-therapy-seasonal/",
+      "type": "treatment",
+      "parent": "",
+      "estimated_read_time": 7,
+      "keywords": [
+        "seasonal eating tcm",
+        "tcm seasonal diet",
+        "eating by season",
+        "spring diet tcm",
+        "winter nourishment tcm"
+      ],
+      "id": "120"
+    },
+    {
+      "title": "Qi Stagnation Explained: The Most Common Pattern in Modern Life",
+      "path": "/tcm-basics/qi-stagnation-explained/",
+      "type": "tcm-basics",
+      "parent": "",
+      "estimated_read_time": 7,
+      "keywords": [
+        "qi stagnation",
+        "stagnant qi",
+        "liver qi stagnation",
+        "tcm patterns",
+        "stress and qi"
+      ],
+      "id": "121"
+    },
+    {
+      "title": "Stress and Digestion: How Your Emotions Affect Your Gut in TCM",
+      "path": "/symptoms/stress/digestion-stress-tcm/",
+      "type": "cluster",
+      "parent": "stress",
+      "estimated_read_time": 7,
+      "keywords": [
+        "stress digestion tcm",
+        "liver stomach",
+        "gut brain tcm",
+        "ibs stress",
+        "emotional eating tcm"
+      ],
+      "id": "122"
     }
   ],
   "published": [
@@ -1516,6 +1696,21 @@
         "tcm organ systems"
       ],
       "id": "103"
+    },
+    {
+      "title": "Tai Chi and Qi Gong: A Beginner's Guide to TCM Movement Practices",
+      "path": "/treatments/tai-chi-qi-gong-guide/",
+      "type": "treatment",
+      "parent": "",
+      "estimated_read_time": 7,
+      "keywords": [
+        "tai chi",
+        "qi gong",
+        "tcm movement",
+        "gentle exercise",
+        "energy practice"
+      ],
+      "id": "105"
     }
   ]
 }
