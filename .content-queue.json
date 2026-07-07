@@ -4,21 +4,6 @@
   "note": "每3小时自动生产一篇内容。从队列头部取，完成后移到 published。",
   "queue": [
     {
-      "title": "Herbal Approaches for Back Pain: TCM Herbs That Support Spinal Health",
-      "path": "/symptoms/back-pain/herbal-remedies-back-pain/",
-      "type": "cluster",
-      "parent": "back-pain",
-      "estimated_read_time": 7,
-      "keywords": [
-        "herbs for back pain",
-        "tcm back pain herbs",
-        "du huo",
-        "kidney tonifying herbs",
-        "chinese herbal back pain"
-      ],
-      "id": "111"
-    },
-    {
       "title": "Insomnia and Diet: TCM Food Wisdom for Deeper, More Restorative Sleep",
       "path": "/symptoms/insomnia/insomnia-diet-tcm/",
       "type": "cluster",
@@ -1711,6 +1696,21 @@
         "skin lung connection"
       ],
       "id": "110"
+    },
+    {
+      "title": "Herbal Approaches for Back Pain: TCM Herbs That Support Spinal Health",
+      "path": "/symptoms/back-pain/herbal-remedies-back-pain/",
+      "type": "cluster",
+      "parent": "back-pain",
+      "estimated_read_time": 7,
+      "keywords": [
+        "herbs for back pain",
+        "tcm back pain herbs",
+        "du huo",
+        "kidney tonifying herbs",
+        "chinese herbal back pain"
+      ],
+      "id": "111"
     }
   ]
 }
