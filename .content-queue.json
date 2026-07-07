@@ -4,21 +4,6 @@
   "note": "每3小时自动生产一篇内容。从队列头部取，完成后移到 published。",
   "queue": [
     {
-      "title": "Postpartum Recovery in TCM: Rebuilding Blood, Qi, and Warmth After Birth",
-      "path": "/symptoms/womens-health/postpartum-tcm/",
-      "type": "cluster",
-      "parent": "womens-health",
-      "estimated_read_time": 7,
-      "keywords": [
-        "postpartum tcm",
-        "postnatal recovery",
-        "blood rebuilding",
-        "sitting month",
-        "postpartum care tcm"
-      ],
-      "id": "116"
-    },
-    {
       "title": "Damp-Heat Skin Patterns: A TCM Look at Oozing, Red, Inflamed Skin Conditions",
       "path": "/symptoms/skin-conditions/damp-heat-skin-tcm/",
       "type": "cluster",
@@ -1711,6 +1696,21 @@
         "phlegm headache"
       ],
       "id": "115"
+    },
+    {
+      "title": "Postpartum Recovery in TCM: Rebuilding Blood, Qi, and Warmth After Birth",
+      "path": "/symptoms/womens-health/postpartum-tcm/",
+      "type": "cluster",
+      "parent": "womens-health",
+      "estimated_read_time": 7,
+      "keywords": [
+        "postpartum tcm",
+        "postnatal recovery",
+        "blood rebuilding",
+        "sitting month",
+        "postpartum care tcm"
+      ],
+      "id": "116"
     }
   ]
 }
