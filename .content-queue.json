@@ -4,21 +4,6 @@
   "note": "每3小时自动生产一篇内容。从队列头部取，完成后移到 published。",
   "queue": [
     {
-      "title": "Acid Reflux and GERD: A TCM Pattern Guide to Stomach Rebellious Qi",
-      "path": "/symptoms/digestion/acid-reflux-tcm/",
-      "type": "cluster",
-      "parent": "digestion",
-      "estimated_read_time": 7,
-      "keywords": [
-        "acid reflux tcm",
-        "gerd tcm",
-        "stomach rebellious qi",
-        "heartburn tcm pattern",
-        "liver stomach digestion"
-      ],
-      "id": "118"
-    },
-    {
       "title": "Osteoarthritis in TCM: Understanding Bone and Joint Degeneration Through Chinese Medicine",
       "path": "/symptoms/joint-pain/osteoarthritis-tcm/",
       "type": "cluster",
@@ -1711,6 +1696,21 @@
         "red inflamed skin tcm"
       ],
       "id": "117"
+    },
+    {
+      "title": "Acid Reflux and GERD: A TCM Pattern Guide to Stomach Rebellious Qi",
+      "path": "/symptoms/digestion/acid-reflux-tcm/",
+      "type": "cluster",
+      "parent": "digestion",
+      "estimated_read_time": 7,
+      "keywords": [
+        "acid reflux tcm",
+        "gerd tcm",
+        "stomach rebellious qi",
+        "heartburn tcm pattern",
+        "liver stomach digestion"
+      ],
+      "id": "118"
     }
   ]
 }
