@@ -4,21 +4,6 @@
   "note": "每3小时自动生产一篇内容。从队列头部取，完成后移到 published。",
   "queue": [
     {
-      "title": "Gua Sha: The TCM Scraping Therapy for Pain and Tension",
-      "path": "/treatments/gua-sha-therapy/",
-      "type": "treatment",
-      "parent": "",
-      "estimated_read_time": 6,
-      "keywords": [
-        "gua sha",
-        "chinese scraping",
-        "facial gua sha",
-        "pain relief tcm",
-        "gua sha technique"
-      ],
-      "id": "107"
-    },
-    {
       "title": "The Kidney in TCM: Your Body's Battery Bank and Vital Energy Reserve",
       "path": "/tcm-basics/kidney-in-tcm/",
       "type": "tcm-basics",
@@ -1711,6 +1696,21 @@
         "energy practice"
       ],
       "id": "105"
+    },
+    {
+      "title": "Gua Sha: The TCM Scraping Therapy for Pain and Tension",
+      "path": "/treatments/gua-sha-therapy/",
+      "type": "treatment",
+      "parent": "",
+      "estimated_read_time": 6,
+      "keywords": [
+        "gua sha",
+        "chinese scraping",
+        "facial gua sha",
+        "pain relief tcm",
+        "gua sha technique"
+      ],
+      "id": "107"
     }
   ]
 }
