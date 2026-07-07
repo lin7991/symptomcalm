@@ -4,21 +4,6 @@
   "note": "每3小时自动生产一篇内容。从队列头部取，完成后移到 published。",
   "queue": [
     {
-      "title": "The Liver in TCM: Stress, Emotions, and Smooth Flow",
-      "path": "/tcm-basics/liver-in-tcm/",
-      "type": "tcm-basics",
-      "parent": "",
-      "estimated_read_time": 7,
-      "keywords": [
-        "liver tcm",
-        "liver qi stagnation",
-        "anger tcm",
-        "liver function chinese medicine",
-        "tcm organ systems"
-      ],
-      "id": "103"
-    },
-    {
       "title": "Emotions and Organs: The TCM Emotional Health Map",
       "path": "/tcm-basics/emotions-and-organs/",
       "type": "tcm-basics",
@@ -1516,6 +1501,21 @@
         "tcm organs"
       ],
       "id": "102"
+    },
+    {
+      "title": "The Liver in TCM: Stress, Emotions, and Smooth Flow",
+      "path": "/tcm-basics/liver-in-tcm/",
+      "type": "tcm-basics",
+      "parent": "",
+      "estimated_read_time": 7,
+      "keywords": [
+        "liver tcm",
+        "liver qi stagnation",
+        "anger tcm",
+        "liver function chinese medicine",
+        "tcm organ systems"
+      ],
+      "id": "103"
     }
   ]
 }
