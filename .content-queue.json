@@ -4,21 +4,6 @@
   "note": "每3小时自动生产一篇内容。从队列头部取，完成后移到 published。",
   "queue": [
     {
-      "title": "Breathwork for Anxiety: A TCM Perspective on Using the Breath to Calm the Mind",
-      "path": "/symptoms/anxiety/anxiety-breathwork-tcm/",
-      "type": "cluster",
-      "parent": "anxiety",
-      "estimated_read_time": 6,
-      "keywords": [
-        "breathwork anxiety",
-        "tcm breathing",
-        "anxiety breathing exercises",
-        "lung qi anxiety",
-        "calming breath tcm"
-      ],
-      "id": "113"
-    },
-    {
       "title": "Mental Exhaustion and Burnout: A TCM View on Overwork, Spleen, and Recovery",
       "path": "/symptoms/fatigue/mind-body-fatigue-tcm/",
       "type": "cluster",
@@ -1711,6 +1696,21 @@
         "spleen nourishing diet"
       ],
       "id": "112"
+    },
+    {
+      "title": "Breathwork for Anxiety: A TCM Perspective on Using the Breath to Calm the Mind",
+      "path": "/symptoms/anxiety/anxiety-breathwork-tcm/",
+      "type": "cluster",
+      "parent": "anxiety",
+      "estimated_read_time": 6,
+      "keywords": [
+        "breathwork anxiety",
+        "tcm breathing",
+        "anxiety breathing exercises",
+        "lung qi anxiety",
+        "calming breath tcm"
+      ],
+      "id": "113"
     }
   ]
 }
