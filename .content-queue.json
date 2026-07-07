@@ -4,21 +4,6 @@
   "note": "每3小时自动生产一篇内容。从队列头部取，完成后移到 published。",
   "queue": [
     {
-      "title": "The Lungs in TCM: Qi, Immunity, Breath, and Skin Health",
-      "path": "/tcm-basics/lungs-in-tcm/",
-      "type": "tcm-basics",
-      "parent": "",
-      "estimated_read_time": 7,
-      "keywords": [
-        "lungs tcm",
-        "lung qi",
-        "wei qi",
-        "tcm respiratory",
-        "skin lung connection"
-      ],
-      "id": "110"
-    },
-    {
       "title": "Herbal Approaches for Back Pain: TCM Herbs That Support Spinal Health",
       "path": "/symptoms/back-pain/herbal-remedies-back-pain/",
       "type": "cluster",
@@ -1711,6 +1696,21 @@
         "sleep heart tcm"
       ],
       "id": "109"
+    },
+    {
+      "title": "The Lungs in TCM: Qi, Immunity, Breath, and Skin Health",
+      "path": "/tcm-basics/lungs-in-tcm/",
+      "type": "tcm-basics",
+      "parent": "",
+      "estimated_read_time": 7,
+      "keywords": [
+        "lungs tcm",
+        "lung qi",
+        "wei qi",
+        "tcm respiratory",
+        "skin lung connection"
+      ],
+      "id": "110"
     }
   ]
 }
