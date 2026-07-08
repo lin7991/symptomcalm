@@ -4,21 +4,6 @@
   "note": "每3小时自动生产一篇内容。从队列头部取，完成后移到 published。",
   "queue": [
     {
-      "title": "Seasonal Eating in TCM: How to Adjust Your Diet Through the Calendar Year",
-      "path": "/treatments/dietary-therapy-seasonal/",
-      "type": "treatment",
-      "parent": "",
-      "estimated_read_time": 7,
-      "keywords": [
-        "seasonal eating tcm",
-        "tcm seasonal diet",
-        "eating by season",
-        "spring diet tcm",
-        "winter nourishment tcm"
-      ],
-      "id": "120"
-    },
-    {
       "title": "Qi Stagnation Explained: The Most Common Pattern in Modern Life",
       "path": "/tcm-basics/qi-stagnation-explained/",
       "type": "tcm-basics",
@@ -1936,6 +1921,21 @@
         "arthritis natural approach"
       ],
       "id": "119"
+    },
+    {
+      "title": "Seasonal Eating in TCM: How to Adjust Your Diet Through the Calendar Year",
+      "path": "/treatments/dietary-therapy-seasonal/",
+      "type": "treatment",
+      "parent": "",
+      "estimated_read_time": 7,
+      "keywords": [
+        "seasonal eating tcm",
+        "tcm seasonal diet",
+        "eating by season",
+        "spring diet tcm",
+        "winter nourishment tcm"
+      ],
+      "id": "120"
     }
   ]
 }
