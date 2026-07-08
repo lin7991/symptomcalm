@@ -4,21 +4,6 @@
   "note": "每3小时自动生产一篇内容。从队列头部取，完成后移到 published。",
   "queue": [
     {
-      "title": "Social Anxiety From a TCM Perspective: When the Shen Is Unsettled",
-      "path": "/symptoms/anxiety/social-anxiety-tcm/",
-      "type": "cluster",
-      "parent": "anxiety",
-      "estimated_read_time": 7,
-      "keywords": [
-        "social anxiety tcm",
-        "shen disturbance",
-        "heart fire",
-        "anxiety chinese medicine",
-        "nervous system tcm"
-      ],
-      "id": "129"
-    },
-    {
       "title": "TCM Herbal Teas for Better Sleep: Natural Evening Rituals",
       "path": "/symptoms/insomnia/sleep-tea-tcm/",
       "type": "cluster",
@@ -1936,6 +1921,21 @@
         "calming mind tcm"
       ],
       "id": "128"
+    },
+    {
+      "title": "Social Anxiety From a TCM Perspective: When the Shen Is Unsettled",
+      "path": "/symptoms/anxiety/social-anxiety-tcm/",
+      "type": "cluster",
+      "parent": "anxiety",
+      "estimated_read_time": 7,
+      "keywords": [
+        "social anxiety tcm",
+        "shen disturbance",
+        "heart fire",
+        "anxiety chinese medicine",
+        "nervous system tcm"
+      ],
+      "id": "129"
     }
   ]
 }
