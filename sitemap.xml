@@ -1087,4 +1087,20 @@
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
-</urlset>
+  <url>
+    <loc>https://symptomcalm.com/zh/about/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  <url>
+    <loc>https://symptomcalm.com/zh/about/medical-disclaimer/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  <url>
+    <loc>https://symptomcalm.com/zh/about/privacy-policy/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  <url>
+    <loc>https://symptomcalm.com/zh/contact/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>  </url>  </url>  </url></urlset>
