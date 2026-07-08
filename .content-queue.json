@@ -4,21 +4,6 @@
   "note": "每3小时自动生产一篇内容。从队列头部取，完成后移到 published。",
   "queue": [
     {
-      "title": "Itchy Skin Through a TCM Lens: Wind, Blood, and Dampness Patterns",
-      "path": "/symptoms/skin-conditions/itchy-skin-tcm/",
-      "type": "cluster",
-      "parent": "skin-conditions",
-      "estimated_read_time": 7,
-      "keywords": [
-        "itchy skin tcm",
-        "wind pathogen skin",
-        "blood deficiency dry skin",
-        "damp heat skin",
-        "pruritus chinese medicine"
-      ],
-      "id": "131"
-    },
-    {
       "title": "TCM Stretching for Back Pain: Gentle Daily Movement Patterns",
       "path": "/symptoms/back-pain/back-pain-stretching-tcm/",
       "type": "cluster",
@@ -1936,6 +1921,21 @@
         "natural sleep aid"
       ],
       "id": "130"
+    },
+    {
+      "title": "Itchy Skin Through a TCM Lens: Wind, Blood, and Dampness Patterns",
+      "path": "/symptoms/skin-conditions/itchy-skin-tcm/",
+      "type": "cluster",
+      "parent": "skin-conditions",
+      "estimated_read_time": 7,
+      "keywords": [
+        "itchy skin tcm",
+        "wind pathogen skin",
+        "blood deficiency dry skin",
+        "damp heat skin",
+        "pruritus chinese medicine"
+      ],
+      "id": "131"
     }
   ]
 }
