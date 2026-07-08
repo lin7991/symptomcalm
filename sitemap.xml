@@ -1103,4 +1103,9 @@
     <loc>https://symptomcalm.com/zh/contact/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
-  </url>  </url>  </url>  </url></urlset>
+  </url>  </url>  </url>  </url>  <url>
+    <loc>https://symptomcalm.com/symptoms/womens-health/liver-blood-menstrual-health/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+</urlset>

@@ -4,21 +4,6 @@
   "note": "每3小时自动生产一篇内容。从队列头部取，完成后移到 published。",
   "queue": [
     {
-      "title": "Liver Blood and Menstrual Health: A TCM Guide to Monthly Rhythm",
-      "path": "/symptoms/womens-health/liver-blood-menstrual-health/",
-      "type": "cluster",
-      "parent": "womens-health",
-      "estimated_read_time": 7,
-      "keywords": [
-        "liver blood",
-        "menstrual health tcm",
-        "period regularity",
-        "blood deficiency",
-        "women health chinese medicine"
-      ],
-      "id": "127"
-    },
-    {
       "title": "Mindfulness Through a TCM Lens: The Mind-Body Continuum",
       "path": "/symptoms/stress/mindfulness-tcm-approach/",
       "type": "cluster",
@@ -1936,6 +1921,21 @@
         "allergic rhinitis tcm"
       ],
       "id": "126"
+    },
+    {
+      "title": "Liver Blood and Menstrual Health: A TCM Guide to Monthly Rhythm",
+      "path": "/symptoms/womens-health/liver-blood-menstrual-health/",
+      "type": "cluster",
+      "parent": "womens-health",
+      "estimated_read_time": 7,
+      "keywords": [
+        "liver blood",
+        "menstrual health tcm",
+        "period regularity",
+        "blood deficiency",
+        "women health chinese medicine"
+      ],
+      "id": "127"
     }
   ]
 }
