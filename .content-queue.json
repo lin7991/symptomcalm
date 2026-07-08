@@ -4,21 +4,6 @@
   "note": "每3小时自动生产一篇内容。从队列头部取，完成后移到 published。",
   "queue": [
     {
-      "title": "Osteoarthritis in TCM: Understanding Bone and Joint Degeneration Through Chinese Medicine",
-      "path": "/symptoms/joint-pain/osteoarthritis-tcm/",
-      "type": "cluster",
-      "parent": "joint-pain",
-      "estimated_read_time": 7,
-      "keywords": [
-        "osteoarthritis tcm",
-        "joint degeneration",
-        "bone health tcm",
-        "kidney bone",
-        "arthritis natural approach"
-      ],
-      "id": "119"
-    },
-    {
       "title": "Seasonal Eating in TCM: How to Adjust Your Diet Through the Calendar Year",
       "path": "/treatments/dietary-therapy-seasonal/",
       "type": "treatment",
@@ -62,6 +47,231 @@
         "emotional eating tcm"
       ],
       "id": "122"
+    },
+    {
+      "title": "The Spleen-Worry Connection: Understanding Anxiety Through TCM",
+      "path": "/symptoms/mental-emotional-health/anxiety-worry-spleen/",
+      "type": "cluster",
+      "parent": "mental-emotional-health",
+      "estimated_read_time": 7,
+      "keywords": [
+        "spleen qi",
+        "worry tcm",
+        "anxiety and digestion",
+        "spleen deficiency",
+        "rumination tcm"
+      ],
+      "id": "123"
+    },
+    {
+      "title": "Fear and the Kidneys: TCM Perspective on Chronic Stress Patterns",
+      "path": "/symptoms/mental-emotional-health/fear-kidney-tcm/",
+      "type": "cluster",
+      "parent": "mental-emotional-health",
+      "estimated_read_time": 7,
+      "keywords": [
+        "fear tcm",
+        "kidney qi deficiency",
+        "adrenal health tcm",
+        "chronic stress",
+        "kidney yin"
+      ],
+      "id": "124"
+    },
+    {
+      "title": "Lung Qi Exercises: Breathing Techniques From Traditional Chinese Medicine",
+      "path": "/symptoms/respiratory-health/lung-qi-exercises-tcm/",
+      "type": "cluster",
+      "parent": "respiratory-health",
+      "estimated_read_time": 7,
+      "keywords": [
+        "lung qi",
+        "breathing exercises",
+        "qi gong breathing",
+        "lung health tcm",
+        "respiratory support"
+      ],
+      "id": "125"
+    },
+    {
+      "title": "Spring Allergies Through a TCM Lens: Wind, Dampness and Wei Qi",
+      "path": "/symptoms/allergies/spring-allergies-tcm/",
+      "type": "cluster",
+      "parent": "allergies",
+      "estimated_read_time": 7,
+      "keywords": [
+        "spring allergies",
+        "seasonal allergies tcm",
+        "wind pathogen",
+        "wei qi",
+        "allergic rhinitis tcm"
+      ],
+      "id": "126"
+    },
+    {
+      "title": "Liver Blood and Menstrual Health: A TCM Guide to Monthly Rhythm",
+      "path": "/symptoms/womens-health/liver-blood-menstrual-health/",
+      "type": "cluster",
+      "parent": "womens-health",
+      "estimated_read_time": 7,
+      "keywords": [
+        "liver blood",
+        "menstrual health tcm",
+        "period regularity",
+        "blood deficiency",
+        "women health chinese medicine"
+      ],
+      "id": "127"
+    },
+    {
+      "title": "Mindfulness Through a TCM Lens: The Mind-Body Continuum",
+      "path": "/symptoms/stress/mindfulness-tcm-approach/",
+      "type": "cluster",
+      "parent": "stress",
+      "estimated_read_time": 7,
+      "keywords": [
+        "mindfulness tcm",
+        "shen spirit",
+        "stress reduction",
+        "meditation chinese medicine",
+        "calming mind tcm"
+      ],
+      "id": "128"
+    },
+    {
+      "title": "Social Anxiety From a TCM Perspective: When the Shen Is Unsettled",
+      "path": "/symptoms/anxiety/social-anxiety-tcm/",
+      "type": "cluster",
+      "parent": "anxiety",
+      "estimated_read_time": 7,
+      "keywords": [
+        "social anxiety tcm",
+        "shen disturbance",
+        "heart fire",
+        "anxiety chinese medicine",
+        "nervous system tcm"
+      ],
+      "id": "129"
+    },
+    {
+      "title": "TCM Herbal Teas for Better Sleep: Natural Evening Rituals",
+      "path": "/symptoms/insomnia/sleep-tea-tcm/",
+      "type": "cluster",
+      "parent": "insomnia",
+      "estimated_read_time": 7,
+      "keywords": [
+        "sleep tea tcm",
+        "herbal tea insomnia",
+        "chinese herbal tea sleep",
+        "evening ritual",
+        "natural sleep aid"
+      ],
+      "id": "130"
+    },
+    {
+      "title": "Itchy Skin Through a TCM Lens: Wind, Blood, and Dampness Patterns",
+      "path": "/symptoms/skin-conditions/itchy-skin-tcm/",
+      "type": "cluster",
+      "parent": "skin-conditions",
+      "estimated_read_time": 7,
+      "keywords": [
+        "itchy skin tcm",
+        "wind pathogen skin",
+        "blood deficiency dry skin",
+        "damp heat skin",
+        "pruritus chinese medicine"
+      ],
+      "id": "131"
+    },
+    {
+      "title": "TCM Stretching for Back Pain: Gentle Daily Movement Patterns",
+      "path": "/symptoms/back-pain/back-pain-stretching-tcm/",
+      "type": "cluster",
+      "parent": "back-pain",
+      "estimated_read_time": 7,
+      "keywords": [
+        "back pain stretching",
+        "tcm exercises back",
+        "kidney meridian stretch",
+        "back pain movement",
+        "qi flow back"
+      ],
+      "id": "132"
+    },
+    {
+      "title": "Wei Qi: Understanding Your Body's Defense System in TCM",
+      "path": "/tcm-basics/wei-qi-defense-tcm/",
+      "type": "tcm-basics",
+      "parent": "",
+      "estimated_read_time": 8,
+      "keywords": [
+        "wei qi",
+        "defensive qi",
+        "immune system tcm",
+        "body defense",
+        "protective qi"
+      ],
+      "id": "133"
+    },
+    {
+      "title": "Blood Stasis in TCM: When Circulation Slows Down",
+      "path": "/tcm-basics/blood-stasis-tcm/",
+      "type": "tcm-basics",
+      "parent": "",
+      "estimated_read_time": 8,
+      "keywords": [
+        "blood stasis",
+        "circulation tcm",
+        "xue yu",
+        "blood stagnation",
+        "pain chinese medicine"
+      ],
+      "id": "134"
+    },
+    {
+      "title": "The Six Pathogens: TCM's View on External Causes of Disease",
+      "path": "/tcm-basics/six-pathogens-tcm/",
+      "type": "tcm-basics",
+      "parent": "",
+      "estimated_read_time": 8,
+      "keywords": [
+        "six pathogens",
+        "external causes disease tcm",
+        "wind cold damp heat",
+        "tcm pathophysiology",
+        "environmental health tcm"
+      ],
+      "id": "135"
+    },
+    {
+      "title": "Tui Na at Home: A Beginner's Guide to Chinese Therapeutic Massage",
+      "path": "/treatments/tui-na-home-guide/",
+      "type": "treatment",
+      "parent": "",
+      "estimated_read_time": 7,
+      "keywords": [
+        "tui na",
+        "chinese massage",
+        "self massage tcm",
+        "acupressure home",
+        "tui na techniques"
+      ],
+      "id": "136"
+    },
+    {
+      "title": "Cupping Therapy for Muscle Recovery: What the Research Says",
+      "path": "/treatments/cupping-muscle-recovery/",
+      "type": "treatment",
+      "parent": "",
+      "estimated_read_time": 7,
+      "keywords": [
+        "cupping therapy",
+        "muscle recovery",
+        "sports cupping",
+        "myofascial release",
+        "athletic recovery cupping"
+      ],
+      "id": "137"
     }
   ],
   "published": [
@@ -1711,6 +1921,21 @@
         "liver stomach digestion"
       ],
       "id": "118"
+    },
+    {
+      "title": "Osteoarthritis in TCM: Understanding Bone and Joint Degeneration Through Chinese Medicine",
+      "path": "/symptoms/joint-pain/osteoarthritis-tcm/",
+      "type": "cluster",
+      "parent": "joint-pain",
+      "estimated_read_time": 7,
+      "keywords": [
+        "osteoarthritis tcm",
+        "joint degeneration",
+        "bone health tcm",
+        "kidney bone",
+        "arthritis natural approach"
+      ],
+      "id": "119"
     }
   ]
 }
