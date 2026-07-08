@@ -4,21 +4,6 @@
   "note": "每3小时自动生产一篇内容。从队列头部取，完成后移到 published。",
   "queue": [
     {
-      "title": "TCM Stretching for Back Pain: Gentle Daily Movement Patterns",
-      "path": "/symptoms/back-pain/back-pain-stretching-tcm/",
-      "type": "cluster",
-      "parent": "back-pain",
-      "estimated_read_time": 7,
-      "keywords": [
-        "back pain stretching",
-        "tcm exercises back",
-        "kidney meridian stretch",
-        "back pain movement",
-        "qi flow back"
-      ],
-      "id": "132"
-    },
-    {
       "title": "Wei Qi: Understanding Your Body's Defense System in TCM",
       "path": "/tcm-basics/wei-qi-defense-tcm/",
       "type": "tcm-basics",
@@ -1936,6 +1921,21 @@
         "pruritus chinese medicine"
       ],
       "id": "131"
+    },
+    {
+      "title": "TCM Stretching for Back Pain: Gentle Daily Movement Patterns",
+      "path": "/symptoms/back-pain/back-pain-stretching-tcm/",
+      "type": "cluster",
+      "parent": "back-pain",
+      "estimated_read_time": 7,
+      "keywords": [
+        "back pain stretching",
+        "tcm exercises back",
+        "kidney meridian stretch",
+        "back pain movement",
+        "qi flow back"
+      ],
+      "id": "132"
     }
   ]
 }
