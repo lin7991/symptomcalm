@@ -4,21 +4,6 @@
   "note": "每3小时自动生产一篇内容。从队列头部取，完成后移到 published。",
   "queue": [
     {
-      "title": "TCM Herbal Teas for Better Sleep: Natural Evening Rituals",
-      "path": "/symptoms/insomnia/sleep-tea-tcm/",
-      "type": "cluster",
-      "parent": "insomnia",
-      "estimated_read_time": 7,
-      "keywords": [
-        "sleep tea tcm",
-        "herbal tea insomnia",
-        "chinese herbal tea sleep",
-        "evening ritual",
-        "natural sleep aid"
-      ],
-      "id": "130"
-    },
-    {
       "title": "Itchy Skin Through a TCM Lens: Wind, Blood, and Dampness Patterns",
       "path": "/symptoms/skin-conditions/itchy-skin-tcm/",
       "type": "cluster",
@@ -1936,6 +1921,21 @@
         "nervous system tcm"
       ],
       "id": "129"
+    },
+    {
+      "title": "TCM Herbal Teas for Better Sleep: Natural Evening Rituals",
+      "path": "/symptoms/insomnia/sleep-tea-tcm/",
+      "type": "cluster",
+      "parent": "insomnia",
+      "estimated_read_time": 7,
+      "keywords": [
+        "sleep tea tcm",
+        "herbal tea insomnia",
+        "chinese herbal tea sleep",
+        "evening ritual",
+        "natural sleep aid"
+      ],
+      "id": "130"
     }
   ]
 }
