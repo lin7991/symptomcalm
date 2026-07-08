@@ -4,21 +4,6 @@
   "note": "每3小时自动生产一篇内容。从队列头部取，完成后移到 published。",
   "queue": [
     {
-      "title": "Qi Stagnation Explained: The Most Common Pattern in Modern Life",
-      "path": "/tcm-basics/qi-stagnation-explained/",
-      "type": "tcm-basics",
-      "parent": "",
-      "estimated_read_time": 7,
-      "keywords": [
-        "qi stagnation",
-        "stagnant qi",
-        "liver qi stagnation",
-        "tcm patterns",
-        "stress and qi"
-      ],
-      "id": "121"
-    },
-    {
       "title": "Stress and Digestion: How Your Emotions Affect Your Gut in TCM",
       "path": "/symptoms/stress/digestion-stress-tcm/",
       "type": "cluster",
@@ -1936,6 +1921,21 @@
         "winter nourishment tcm"
       ],
       "id": "120"
+    },
+    {
+      "title": "Qi Stagnation Explained: The Most Common Pattern in Modern Life",
+      "path": "/tcm-basics/qi-stagnation-explained/",
+      "type": "tcm-basics",
+      "parent": "",
+      "estimated_read_time": 7,
+      "keywords": [
+        "qi stagnation",
+        "stagnant qi",
+        "liver qi stagnation",
+        "tcm patterns",
+        "stress and qi"
+      ],
+      "id": "121"
     }
   ]
 }
