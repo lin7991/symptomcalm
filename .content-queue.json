@@ -4,21 +4,6 @@
   "note": "每3小时自动生产一篇内容。从队列头部取，完成后移到 published。",
   "queue": [
     {
-      "title": "Cupping Therapy for Muscle Recovery: What the Research Says",
-      "path": "/treatments/cupping-muscle-recovery/",
-      "type": "treatment",
-      "parent": "",
-      "estimated_read_time": 7,
-      "keywords": [
-        "cupping therapy",
-        "muscle recovery",
-        "sports cupping",
-        "myofascial release",
-        "athletic recovery cupping"
-      ],
-      "id": "137"
-    },
-    {
       "title": "Chronic Cough and TCM: A Different Approach to Respiratory Health",
       "path": "/symptoms/respiratory-health/chronic-cough-tcm/",
       "type": "symptom-guide",
@@ -2146,6 +2131,21 @@
         "tui na techniques"
       ],
       "id": "136"
+    },
+    {
+      "title": "Cupping Therapy for Muscle Recovery: What the Research Says",
+      "path": "/treatments/cupping-muscle-recovery/",
+      "type": "treatment",
+      "parent": "",
+      "estimated_read_time": 7,
+      "keywords": [
+        "cupping therapy",
+        "muscle recovery",
+        "sports cupping",
+        "myofascial release",
+        "athletic recovery cupping"
+      ],
+      "id": "137"
     }
   ]
 }
