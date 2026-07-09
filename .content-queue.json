@@ -4,20 +4,6 @@
   "note": "每3小时自动生产一篇内容。从队列头部取，完成后移到 published。",
   "queue": [
     {
-      "title": "TCM for Emotional Resilience: Strengthening Your Nervous System",
-      "path": "/symptoms/mental-emotional-health/emotional-resilience-tcm/",
-      "type": "symptom-guide",
-      "parent": "mental-emotional-health",
-      "estimated_read_time": 9,
-      "keywords": [
-        "emotional resilience",
-        "nervous system tcm",
-        "stress resilience",
-        "mental strength tcm"
-      ],
-      "id": "144"
-    },
-    {
       "title": "Stress and Skin: When Your Emotions Show on Your Face (TCM View)",
       "path": "/symptoms/stress/stress-skin-tcm/",
       "type": "symptom-guide",
@@ -2146,6 +2132,20 @@
         "lung congestion"
       ],
       "id": "143"
+    },
+    {
+      "title": "TCM for Emotional Resilience: Strengthening Your Nervous System",
+      "path": "/symptoms/mental-emotional-health/emotional-resilience-tcm/",
+      "type": "symptom-guide",
+      "parent": "mental-emotional-health",
+      "estimated_read_time": 9,
+      "keywords": [
+        "emotional resilience",
+        "nervous system tcm",
+        "stress resilience",
+        "mental strength tcm"
+      ],
+      "id": "144"
     }
   ]
 }
