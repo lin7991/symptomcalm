@@ -4,20 +4,6 @@
   "note": "每3小时自动生产一篇内容。从队列头部取，完成后移到 published。",
   "queue": [
     {
-      "title": "Spleen Qi Sinking: When Your Energy Feels Like It's Dragging",
-      "path": "/tcm-basics/spleen-qi-sinking/",
-      "type": "tcm-basics",
-      "parent": "",
-      "estimated_read_time": 7,
-      "keywords": [
-        "spleen qi sinking",
-        "organ prolapse tcm",
-        "heavy feeling tcm",
-        "spleen deficiency"
-      ],
-      "id": "140"
-    },
-    {
       "title": "TCM for Brain Fog: Clearing the Mental Mist",
       "path": "/symptoms/mental-emotional-health/brain-fog-tcm/",
       "type": "symptom-guide",
@@ -2146,6 +2132,20 @@
         "allergic rhinitis tcm"
       ],
       "id": "139"
+    },
+    {
+      "title": "Spleen Qi Sinking: When Your Energy Feels Like It's Dragging",
+      "path": "/tcm-basics/spleen-qi-sinking/",
+      "type": "tcm-basics",
+      "parent": "",
+      "estimated_read_time": 7,
+      "keywords": [
+        "spleen qi sinking",
+        "organ prolapse tcm",
+        "heavy feeling tcm",
+        "spleen deficiency"
+      ],
+      "id": "140"
     }
   ]
 }
