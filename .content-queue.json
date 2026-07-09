@@ -4,20 +4,6 @@
   "note": "每3小时自动生产一篇内容。从队列头部取，完成后移到 published。",
   "queue": [
     {
-      "title": "TCM for Brain Fog: Clearing the Mental Mist",
-      "path": "/symptoms/mental-emotional-health/brain-fog-tcm/",
-      "type": "symptom-guide",
-      "parent": "mental-emotional-health",
-      "estimated_read_time": 8,
-      "keywords": [
-        "brain fog",
-        "mental clarity tcm",
-        "cognitive function tcm",
-        "dampness brain fog"
-      ],
-      "id": "141"
-    },
-    {
       "title": "Tui Na Massage: What It Is and How It Works",
       "path": "/treatments/tui-na-therapy-guide/",
       "type": "treatment-guide",
@@ -2146,6 +2132,20 @@
         "spleen deficiency"
       ],
       "id": "140"
+    },
+    {
+      "title": "TCM for Brain Fog: Clearing the Mental Mist",
+      "path": "/symptoms/mental-emotional-health/brain-fog-tcm/",
+      "type": "symptom-guide",
+      "parent": "mental-emotional-health",
+      "estimated_read_time": 8,
+      "keywords": [
+        "brain fog",
+        "mental clarity tcm",
+        "cognitive function tcm",
+        "dampness brain fog"
+      ],
+      "id": "141"
     }
   ]
 }
