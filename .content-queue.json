@@ -4,21 +4,6 @@
   "note": "每3小时自动生产一篇内容。从队列头部取，完成后移到 published。",
   "queue": [
     {
-      "title": "Blood Stasis in TCM: When Circulation Slows Down",
-      "path": "/tcm-basics/blood-stasis-tcm/",
-      "type": "tcm-basics",
-      "parent": "",
-      "estimated_read_time": 8,
-      "keywords": [
-        "blood stasis",
-        "circulation tcm",
-        "xue yu",
-        "blood stagnation",
-        "pain chinese medicine"
-      ],
-      "id": "134"
-    },
-    {
       "title": "The Six Pathogens: TCM's View on External Causes of Disease",
       "path": "/tcm-basics/six-pathogens-tcm/",
       "type": "tcm-basics",
@@ -2146,6 +2131,21 @@
         "protective qi"
       ],
       "id": "133"
+    },
+    {
+      "title": "Blood Stasis in TCM: When Circulation Slows Down",
+      "path": "/tcm-basics/blood-stasis-tcm/",
+      "type": "tcm-basics",
+      "parent": "",
+      "estimated_read_time": 8,
+      "keywords": [
+        "blood stasis",
+        "circulation tcm",
+        "xue yu",
+        "blood stagnation",
+        "pain chinese medicine"
+      ],
+      "id": "134"
     }
   ]
 }
