@@ -4,20 +4,6 @@
   "note": "每3小时自动生产一篇内容。从队列头部取，完成后移到 published。",
   "queue": [
     {
-      "title": "Moxibustion for Breech Baby: Evidence and TCM Perspective",
-      "path": "/treatments/moxibustion-breech-baby/",
-      "type": "treatment-guide",
-      "parent": "",
-      "estimated_read_time": 7,
-      "keywords": [
-        "moxibustion breech",
-        "acupuncture breech",
-        "pregnancy tcm",
-        "moxa therapy"
-      ],
-      "id": "147"
-    },
-    {
       "title": "TCM for Weight Management: A Different Approach to Body Balance",
       "path": "/symptoms/digestion/weight-management-tcm/",
       "type": "symptom-guide",
@@ -2146,6 +2132,20 @@
         "element theory"
       ],
       "id": "146"
+    },
+    {
+      "title": "Moxibustion for Breech Baby: Evidence and TCM Perspective",
+      "path": "/treatments/moxibustion-breech-baby/",
+      "type": "treatment-guide",
+      "parent": "",
+      "estimated_read_time": 7,
+      "keywords": [
+        "moxibustion breech",
+        "acupuncture breech",
+        "pregnancy tcm",
+        "moxa therapy"
+      ],
+      "id": "147"
     }
   ]
 }
