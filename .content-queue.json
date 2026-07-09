@@ -4,20 +4,6 @@
   "note": "每3小时自动生产一篇内容。从队列头部取，完成后移到 published。",
   "queue": [
     {
-      "title": "Hay Fever Relief: A TCM Perspective on Seasonal Allergies",
-      "path": "/symptoms/allergies/hay-fever-tcm/",
-      "type": "symptom-guide",
-      "parent": "allergies",
-      "estimated_read_time": 8,
-      "keywords": [
-        "hay fever",
-        "seasonal allergies",
-        "pollen allergy tcm",
-        "allergic rhinitis tcm"
-      ],
-      "id": "139"
-    },
-    {
       "title": "Spleen Qi Sinking: When Your Energy Feels Like It's Dragging",
       "path": "/tcm-basics/spleen-qi-sinking/",
       "type": "tcm-basics",
@@ -2146,6 +2132,20 @@
         "persistent cough"
       ],
       "id": "138"
+    },
+    {
+      "title": "Hay Fever Relief: A TCM Perspective on Seasonal Allergies",
+      "path": "/symptoms/allergies/hay-fever-tcm/",
+      "type": "symptom-guide",
+      "parent": "allergies",
+      "estimated_read_time": 8,
+      "keywords": [
+        "hay fever",
+        "seasonal allergies",
+        "pollen allergy tcm",
+        "allergic rhinitis tcm"
+      ],
+      "id": "139"
     }
   ]
 }
