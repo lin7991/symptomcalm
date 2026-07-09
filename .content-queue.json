@@ -4,20 +4,6 @@
   "note": "每3小时自动生产一篇内容。从队列头部取，完成后移到 published。",
   "queue": [
     {
-      "title": "Five Elements in Daily Life: Applying TCM Philosophy Beyond Acupuncture",
-      "path": "/tcm-basics/five-elements-daily-life/",
-      "type": "tcm-basics",
-      "parent": "",
-      "estimated_read_time": 9,
-      "keywords": [
-        "five elements daily",
-        "wu xing practice",
-        "tcm philosophy",
-        "element theory"
-      ],
-      "id": "146"
-    },
-    {
       "title": "Moxibustion for Breech Baby: Evidence and TCM Perspective",
       "path": "/treatments/moxibustion-breech-baby/",
       "type": "treatment-guide",
@@ -2146,6 +2132,20 @@
         "stress acne tcm"
       ],
       "id": "145"
+    },
+    {
+      "title": "Five Elements in Daily Life: Applying TCM Philosophy Beyond Acupuncture",
+      "path": "/tcm-basics/five-elements-daily-life/",
+      "type": "tcm-basics",
+      "parent": "",
+      "estimated_read_time": 9,
+      "keywords": [
+        "five elements daily",
+        "wu xing practice",
+        "tcm philosophy",
+        "element theory"
+      ],
+      "id": "146"
     }
   ]
 }
