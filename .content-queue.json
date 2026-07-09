@@ -4,20 +4,6 @@
   "note": "每3小时自动生产一篇内容。从队列头部取，完成后移到 published。",
   "queue": [
     {
-      "title": "TCM for Weight Management: A Different Approach to Body Balance",
-      "path": "/symptoms/digestion/weight-management-tcm/",
-      "type": "symptom-guide",
-      "parent": "digestion",
-      "estimated_read_time": 9,
-      "keywords": [
-        "weight management tcm",
-        "tcm weight loss",
-        "spleen obesity",
-        "dampness weight gain"
-      ],
-      "id": "148"
-    },
-    {
       "title": "Chronic Fatigue and TCM: Beyond the Adrenal Glands",
       "path": "/symptoms/fatigue/chronic-fatigue-tcm/",
       "type": "symptom-guide",
@@ -2146,6 +2132,20 @@
         "moxa therapy"
       ],
       "id": "147"
+    },
+    {
+      "title": "TCM for Weight Management: A Different Approach to Body Balance",
+      "path": "/symptoms/digestion/weight-management-tcm/",
+      "type": "symptom-guide",
+      "parent": "digestion",
+      "estimated_read_time": 9,
+      "keywords": [
+        "weight management tcm",
+        "tcm weight loss",
+        "spleen obesity",
+        "dampness weight gain"
+      ],
+      "id": "148"
     }
   ]
 }
