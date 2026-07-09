@@ -4,20 +4,6 @@
   "note": "每3小时自动生产一篇内容。从队列头部取，完成后移到 published。",
   "queue": [
     {
-      "title": "Tui Na Massage: What It Is and How It Works",
-      "path": "/treatments/tui-na-therapy-guide/",
-      "type": "treatment-guide",
-      "parent": "",
-      "estimated_read_time": 7,
-      "keywords": [
-        "tui na",
-        "chinese massage",
-        "tcm bodywork",
-        "acupressure massage"
-      ],
-      "id": "142"
-    },
-    {
       "title": "Sinus Congestion and TCM: Clearing the Pathways",
       "path": "/symptoms/respiratory-health/sinus-congestion-tcm/",
       "type": "symptom-guide",
@@ -2146,6 +2132,20 @@
         "dampness brain fog"
       ],
       "id": "141"
+    },
+    {
+      "title": "Tui Na Massage: What It Is and How It Works",
+      "path": "/treatments/tui-na-therapy-guide/",
+      "type": "treatment-guide",
+      "parent": "",
+      "estimated_read_time": 7,
+      "keywords": [
+        "tui na",
+        "chinese massage",
+        "tcm bodywork",
+        "acupressure massage"
+      ],
+      "id": "142"
     }
   ]
 }
