@@ -4,21 +4,6 @@
   "note": "每3小时自动生产一篇内容。从队列头部取，完成后移到 published。",
   "queue": [
     {
-      "title": "Tui Na at Home: A Beginner's Guide to Chinese Therapeutic Massage",
-      "path": "/treatments/tui-na-home-guide/",
-      "type": "treatment",
-      "parent": "",
-      "estimated_read_time": 7,
-      "keywords": [
-        "tui na",
-        "chinese massage",
-        "self massage tcm",
-        "acupressure home",
-        "tui na techniques"
-      ],
-      "id": "136"
-    },
-    {
       "title": "Cupping Therapy for Muscle Recovery: What the Research Says",
       "path": "/treatments/cupping-muscle-recovery/",
       "type": "treatment",
@@ -2146,6 +2131,21 @@
         "environmental health tcm"
       ],
       "id": "135"
+    },
+    {
+      "title": "Tui Na at Home: A Beginner's Guide to Chinese Therapeutic Massage",
+      "path": "/treatments/tui-na-home-guide/",
+      "type": "treatment",
+      "parent": "",
+      "estimated_read_time": 7,
+      "keywords": [
+        "tui na",
+        "chinese massage",
+        "self massage tcm",
+        "acupressure home",
+        "tui na techniques"
+      ],
+      "id": "136"
     }
   ]
 }
