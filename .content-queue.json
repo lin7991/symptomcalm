@@ -4,21 +4,6 @@
   "note": "每3小时自动生产一篇内容。从队列头部取，完成后移到 published。",
   "queue": [
     {
-      "title": "The Six Pathogens: TCM's View on External Causes of Disease",
-      "path": "/tcm-basics/six-pathogens-tcm/",
-      "type": "tcm-basics",
-      "parent": "",
-      "estimated_read_time": 8,
-      "keywords": [
-        "six pathogens",
-        "external causes disease tcm",
-        "wind cold damp heat",
-        "tcm pathophysiology",
-        "environmental health tcm"
-      ],
-      "id": "135"
-    },
-    {
       "title": "Tui Na at Home: A Beginner's Guide to Chinese Therapeutic Massage",
       "path": "/treatments/tui-na-home-guide/",
       "type": "treatment",
@@ -2146,6 +2131,21 @@
         "pain chinese medicine"
       ],
       "id": "134"
+    },
+    {
+      "title": "The Six Pathogens: TCM's View on External Causes of Disease",
+      "path": "/tcm-basics/six-pathogens-tcm/",
+      "type": "tcm-basics",
+      "parent": "",
+      "estimated_read_time": 8,
+      "keywords": [
+        "six pathogens",
+        "external causes disease tcm",
+        "wind cold damp heat",
+        "tcm pathophysiology",
+        "environmental health tcm"
+      ],
+      "id": "135"
     }
   ]
 }
