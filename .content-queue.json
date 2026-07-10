@@ -4,19 +4,6 @@
   "note": "每3小时自动生产一篇内容。从队列头部取，完成后移到 published。",
   "queue": [
     {
-      "title": "Migraines and Tension Headaches: A TCM Pattern Guide",
-      "path": "/symptoms/headaches/migraine-tcm/",
-      "type": "cluster",
-      "parent": "headaches",
-      "estimated_read_time": 9,
-      "keywords": [
-        "migraine tcm",
-        "tension headache acupuncture",
-        "liver yang headache"
-      ],
-      "id": "153"
-    },
-    {
       "title": "Depression and Low Mood: Understanding Through a TCM Lens",
       "path": "/symptoms/mental-emotional-health/depression-tcm/",
       "type": "cluster",
@@ -2298,6 +2285,19 @@
         "gut health tcm"
       ],
       "id": "152"
+    },
+    {
+      "title": "Migraines and Tension Headaches: A TCM Pattern Guide",
+      "path": "/symptoms/headaches/migraine-tcm/",
+      "type": "cluster",
+      "parent": "headaches",
+      "estimated_read_time": 9,
+      "keywords": [
+        "migraine tcm",
+        "tension headache acupuncture",
+        "liver yang headache"
+      ],
+      "id": "153"
     }
   ]
 }
