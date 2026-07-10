@@ -4,20 +4,6 @@
   "note": "每3小时自动生产一篇内容。从队列头部取，完成后移到 published。",
   "queue": [
     {
-      "title": "Ear Acupuncture (Auriculotherapy): A Beginner's Guide",
-      "path": "/treatments/ear-acupuncture-guide/",
-      "type": "treatment-guide",
-      "parent": "",
-      "estimated_read_time": 7,
-      "keywords": [
-        "ear acupuncture",
-        "auriculotherapy",
-        "auricular acupuncture",
-        "ear seed therapy"
-      ],
-      "id": "151"
-    },
-    {
       "title": "TCM for Immune Support After Antibiotics: Rebuilding Your Defenses",
       "path": "/symptoms/respiratory-health/post-antibiotic-tcm/",
       "type": "symptom-guide",
@@ -2298,6 +2284,20 @@
         "tcm digestive system"
       ],
       "id": "150"
+    },
+    {
+      "title": "Ear Acupuncture (Auriculotherapy): A Beginner's Guide",
+      "path": "/treatments/ear-acupuncture-guide/",
+      "type": "treatment-guide",
+      "parent": "",
+      "estimated_read_time": 7,
+      "keywords": [
+        "ear acupuncture",
+        "auriculotherapy",
+        "auricular acupuncture",
+        "ear seed therapy"
+      ],
+      "id": "151"
     }
   ]
 }
