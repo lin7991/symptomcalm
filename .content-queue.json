@@ -4,20 +4,6 @@
   "note": "每3小时自动生产一篇内容。从队列头部取，完成后移到 published。",
   "queue": [
     {
-      "title": "TCM for Women Over 40: Navigating Hormonal Changes Naturally",
-      "path": "/symptoms/womens-health/women-over-40-tcm/",
-      "type": "cluster",
-      "parent": "womens-health",
-      "estimated_read_time": 9,
-      "keywords": [
-        "women over 40 tcm",
-        "perimenopause tcm",
-        "kidney yin women",
-        "hormonal balance tcm"
-      ],
-      "id": "161"
-    },
-    {
       "title": "Allergy Relief Through TCM: Building Respiratory Resilience",
       "path": "/symptoms/allergies/allergy-relief-tcm/",
       "type": "cluster",
@@ -2508,6 +2494,20 @@
         "nervous stomach"
       ],
       "id": "160"
+    },
+    {
+      "title": "TCM for Women Over 40: Navigating Hormonal Changes Naturally",
+      "path": "/symptoms/womens-health/women-over-40-tcm/",
+      "type": "cluster",
+      "parent": "womens-health",
+      "estimated_read_time": 9,
+      "keywords": [
+        "women over 40 tcm",
+        "perimenopause tcm",
+        "kidney yin women",
+        "hormonal balance tcm"
+      ],
+      "id": "161"
     }
   ]
 }
