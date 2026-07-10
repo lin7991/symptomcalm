@@ -4,20 +4,6 @@
   "note": "每3小时自动生产一篇内容。从队列头部取，完成后移到 published。",
   "queue": [
     {
-      "title": "Chronic Fatigue and TCM: Beyond the Adrenal Glands",
-      "path": "/symptoms/fatigue/chronic-fatigue-tcm/",
-      "type": "symptom-guide",
-      "parent": "fatigue",
-      "estimated_read_time": 9,
-      "keywords": [
-        "chronic fatigue",
-        "cfs tcm",
-        "myalgic encephalomyelitis tcm",
-        "energy recovery tcm"
-      ],
-      "id": "149"
-    },
-    {
       "title": "The Spleen-Stomach Axis: Why TCM Says Digestion Is Everything",
       "path": "/tcm-basics/spleen-stomach-axis/",
       "type": "tcm-basics",
@@ -58,6 +44,158 @@
         "gut health tcm"
       ],
       "id": "152"
+    },
+    {
+      "title": "Migraines and Tension Headaches: A TCM Pattern Guide",
+      "path": "/symptoms/headaches/migraine-tcm/",
+      "type": "cluster",
+      "parent": "headaches",
+      "estimated_read_time": 9,
+      "keywords": [
+        "migraine tcm",
+        "tension headache acupuncture",
+        "liver yang headache"
+      ],
+      "id": "153"
+    },
+    {
+      "title": "Depression and Low Mood: Understanding Through a TCM Lens",
+      "path": "/symptoms/mental-emotional-health/depression-tcm/",
+      "type": "cluster",
+      "parent": "mental-emotional-health",
+      "estimated_read_time": 9,
+      "keywords": [
+        "depression tcm",
+        "liver qi stagnation depression",
+        "heart spirit tcm"
+      ],
+      "id": "154"
+    },
+    {
+      "title": "Acne and Skin Breakouts: A TCM Approach to Clear Skin",
+      "path": "/symptoms/skin-conditions/acne-tcm/",
+      "type": "cluster",
+      "parent": "skin-conditions",
+      "estimated_read_time": 8,
+      "keywords": [
+        "acne tcm",
+        "skin breakouts tcm",
+        "lung heat acne",
+        "damp heat skin"
+      ],
+      "id": "155"
+    },
+    {
+      "title": "Joint Pain and Arthritis: A TCM Perspective on Mobility",
+      "path": "/symptoms/joint-pain/arthritis-tcm/",
+      "type": "cluster",
+      "parent": "joint-pain",
+      "estimated_read_time": 9,
+      "keywords": [
+        "arthritis tcm",
+        "joint pain acupuncture",
+        "bi syndrome tcm",
+        "cold dampness joints"
+      ],
+      "id": "156"
+    },
+    {
+      "title": "PMS and Menstrual Cramps: A TCM Guide to Monthly Balance",
+      "path": "/symptoms/womens-health/pms-cramps-tcm/",
+      "type": "cluster",
+      "parent": "womens-health",
+      "estimated_read_time": 8,
+      "keywords": [
+        "pms tcm",
+        "menstrual cramps acupuncture",
+        "liver qi pms",
+        "blood stagnation period"
+      ],
+      "id": "157"
+    },
+    {
+      "title": "Acupressure for Weight Management: Self-Care Points to Support Balance",
+      "path": "/treatments/acupressure-weight-management/",
+      "type": "treatment",
+      "parent": "treatments",
+      "estimated_read_time": 7,
+      "keywords": [
+        "acupressure weight loss",
+        "acupressure points metabolism",
+        "st36 weight management",
+        "spleen 6 acupressure"
+      ],
+      "id": "158"
+    },
+    {
+      "title": "TCM Herbal Teas: A Guide to Traditional Remedies for Common Ailments",
+      "path": "/treatments/herbal-tea-guide-tcm/",
+      "type": "treatment",
+      "parent": "treatments",
+      "estimated_read_time": 8,
+      "keywords": [
+        "tcm herbal tea",
+        "chinese herbal tea",
+        "traditional tea remedies",
+        "herbal tea digestion"
+      ],
+      "id": "159"
+    },
+    {
+      "title": "Stress and Digestion: How Your Emotions Affect Your Gut — A TCM Perspective",
+      "path": "/symptoms/stress/stress-digestion-tcm/",
+      "type": "cluster",
+      "parent": "stress",
+      "estimated_read_time": 8,
+      "keywords": [
+        "stress digestion tcm",
+        "gut brain axis tcm",
+        "liver spleen stress",
+        "nervous stomach"
+      ],
+      "id": "160"
+    },
+    {
+      "title": "TCM for Women Over 40: Navigating Hormonal Changes Naturally",
+      "path": "/symptoms/womens-health/women-over-40-tcm/",
+      "type": "cluster",
+      "parent": "womens-health",
+      "estimated_read_time": 9,
+      "keywords": [
+        "women over 40 tcm",
+        "perimenopause tcm",
+        "kidney yin women",
+        "hormonal balance tcm"
+      ],
+      "id": "161"
+    },
+    {
+      "title": "Allergy Relief Through TCM: Building Respiratory Resilience",
+      "path": "/symptoms/allergies/allergy-relief-tcm/",
+      "type": "cluster",
+      "parent": "allergies",
+      "estimated_read_time": 8,
+      "keywords": [
+        "allergy relief tcm",
+        "respiratory allergies tcm",
+        "lung qi allergy",
+        "allergy acupuncture"
+      ],
+      "id": "162"
+    },
+    {
+      "title": "Persistent Cough and Phlegm: TCM Patterns for Respiratory Clearing",
+      "path": "/symptoms/respiratory-health/persistent-cough-phlegm/",
+      "type": "cluster",
+      "parent": "respiratory-health",
+      "estimated_read_time": 8,
+      "keywords": [
+        "persistent cough tcm",
+        "phlegm patterns tcm",
+        "lung dampness",
+        "cough acupuncture"
+      ],
+      "id": "163"
     }
   ],
   "published": [
@@ -2146,6 +2284,20 @@
         "dampness weight gain"
       ],
       "id": "148"
+    },
+    {
+      "title": "Chronic Fatigue and TCM: Beyond the Adrenal Glands",
+      "path": "/symptoms/fatigue/chronic-fatigue-tcm/",
+      "type": "symptom-guide",
+      "parent": "fatigue",
+      "estimated_read_time": 9,
+      "keywords": [
+        "chronic fatigue",
+        "cfs tcm",
+        "myalgic encephalomyelitis tcm",
+        "energy recovery tcm"
+      ],
+      "id": "149"
     }
   ]
 }
