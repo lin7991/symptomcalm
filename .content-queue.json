@@ -4,20 +4,6 @@
   "note": "每3小时自动生产一篇内容。从队列头部取，完成后移到 published。",
   "queue": [
     {
-      "title": "The Spleen-Stomach Axis: Why TCM Says Digestion Is Everything",
-      "path": "/tcm-basics/spleen-stomach-axis/",
-      "type": "tcm-basics",
-      "parent": "",
-      "estimated_read_time": 8,
-      "keywords": [
-        "spleen stomach",
-        "digestion tcm",
-        "pi wei",
-        "tcm digestive system"
-      ],
-      "id": "150"
-    },
-    {
       "title": "Ear Acupuncture (Auriculotherapy): A Beginner's Guide",
       "path": "/treatments/ear-acupuncture-guide/",
       "type": "treatment-guide",
@@ -2298,6 +2284,20 @@
         "energy recovery tcm"
       ],
       "id": "149"
+    },
+    {
+      "title": "The Spleen-Stomach Axis: Why TCM Says Digestion Is Everything",
+      "path": "/tcm-basics/spleen-stomach-axis/",
+      "type": "tcm-basics",
+      "parent": "",
+      "estimated_read_time": 8,
+      "keywords": [
+        "spleen stomach",
+        "digestion tcm",
+        "pi wei",
+        "tcm digestive system"
+      ],
+      "id": "150"
     }
   ]
 }
