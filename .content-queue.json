@@ -4,20 +4,6 @@
   "note": "每3小时自动生产一篇内容。从队列头部取，完成后移到 published。",
   "queue": [
     {
-      "title": "PMS and Menstrual Cramps: A TCM Guide to Monthly Balance",
-      "path": "/symptoms/womens-health/pms-cramps-tcm/",
-      "type": "cluster",
-      "parent": "womens-health",
-      "estimated_read_time": 8,
-      "keywords": [
-        "pms tcm",
-        "menstrual cramps acupuncture",
-        "liver qi pms",
-        "blood stagnation period"
-      ],
-      "id": "157"
-    },
-    {
       "title": "Acupressure for Weight Management: Self-Care Points to Support Balance",
       "path": "/treatments/acupressure-weight-management/",
       "type": "treatment",
@@ -2298,6 +2284,20 @@
         "cold dampness joints"
       ],
       "id": "156"
+    },
+    {
+      "title": "PMS and Menstrual Cramps: A TCM Guide to Monthly Balance",
+      "path": "/symptoms/womens-health/pms-cramps-tcm/",
+      "type": "cluster",
+      "parent": "womens-health",
+      "estimated_read_time": 8,
+      "keywords": [
+        "pms tcm",
+        "menstrual cramps acupuncture",
+        "liver qi pms",
+        "blood stagnation period"
+      ],
+      "id": "157"
     }
   ]
 }
