@@ -4,20 +4,6 @@
   "note": "每3小时自动生产一篇内容。从队列头部取，完成后移到 published。",
   "queue": [
     {
-      "title": "Allergy Relief Through TCM: Building Respiratory Resilience",
-      "path": "/symptoms/allergies/allergy-relief-tcm/",
-      "type": "cluster",
-      "parent": "allergies",
-      "estimated_read_time": 8,
-      "keywords": [
-        "allergy relief tcm",
-        "respiratory allergies tcm",
-        "lung qi allergy",
-        "allergy acupuncture"
-      ],
-      "id": "162"
-    },
-    {
       "title": "Persistent Cough and Phlegm: TCM Patterns for Respiratory Clearing",
       "path": "/symptoms/respiratory-health/persistent-cough-phlegm/",
       "type": "cluster",
@@ -2508,6 +2494,20 @@
         "hormonal balance tcm"
       ],
       "id": "161"
+    },
+    {
+      "title": "Allergy Relief Through TCM: Building Respiratory Resilience",
+      "path": "/symptoms/allergies/allergy-relief-tcm/",
+      "type": "cluster",
+      "parent": "allergies",
+      "estimated_read_time": 8,
+      "keywords": [
+        "allergy relief tcm",
+        "respiratory allergies tcm",
+        "lung qi allergy",
+        "allergy acupuncture"
+      ],
+      "id": "162"
     }
   ]
 }
