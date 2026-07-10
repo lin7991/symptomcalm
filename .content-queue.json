@@ -4,20 +4,6 @@
   "note": "每3小时自动生产一篇内容。从队列头部取，完成后移到 published。",
   "queue": [
     {
-      "title": "TCM Herbal Teas: A Guide to Traditional Remedies for Common Ailments",
-      "path": "/treatments/herbal-tea-guide-tcm/",
-      "type": "treatment",
-      "parent": "treatments",
-      "estimated_read_time": 8,
-      "keywords": [
-        "tcm herbal tea",
-        "chinese herbal tea",
-        "traditional tea remedies",
-        "herbal tea digestion"
-      ],
-      "id": "159"
-    },
-    {
       "title": "Stress and Digestion: How Your Emotions Affect Your Gut — A TCM Perspective",
       "path": "/symptoms/stress/stress-digestion-tcm/",
       "type": "cluster",
@@ -2298,6 +2284,20 @@
         "spleen 6 acupressure"
       ],
       "id": "158"
+    },
+    {
+      "title": "TCM Herbal Teas: A Guide to Traditional Remedies for Common Ailments",
+      "path": "/treatments/herbal-tea-guide-tcm/",
+      "type": "treatment",
+      "parent": "treatments",
+      "estimated_read_time": 8,
+      "keywords": [
+        "tcm herbal tea",
+        "chinese herbal tea",
+        "traditional tea remedies",
+        "herbal tea digestion"
+      ],
+      "id": "159"
     }
   ]
 }
