@@ -4,20 +4,6 @@
   "note": "每3小时自动生产一篇内容。从队列头部取，完成后移到 published。",
   "queue": [
     {
-      "title": "Joint Pain and Arthritis: A TCM Perspective on Mobility",
-      "path": "/symptoms/joint-pain/arthritis-tcm/",
-      "type": "cluster",
-      "parent": "joint-pain",
-      "estimated_read_time": 9,
-      "keywords": [
-        "arthritis tcm",
-        "joint pain acupuncture",
-        "bi syndrome tcm",
-        "cold dampness joints"
-      ],
-      "id": "156"
-    },
-    {
       "title": "PMS and Menstrual Cramps: A TCM Guide to Monthly Balance",
       "path": "/symptoms/womens-health/pms-cramps-tcm/",
       "type": "cluster",
@@ -2298,6 +2284,20 @@
         "damp heat skin"
       ],
       "id": "155"
+    },
+    {
+      "title": "Joint Pain and Arthritis: A TCM Perspective on Mobility",
+      "path": "/symptoms/joint-pain/arthritis-tcm/",
+      "type": "cluster",
+      "parent": "joint-pain",
+      "estimated_read_time": 9,
+      "keywords": [
+        "arthritis tcm",
+        "joint pain acupuncture",
+        "bi syndrome tcm",
+        "cold dampness joints"
+      ],
+      "id": "156"
     }
   ]
 }
