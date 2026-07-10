@@ -4,20 +4,6 @@
   "note": "每3小时自动生产一篇内容。从队列头部取，完成后移到 published。",
   "queue": [
     {
-      "title": "Persistent Cough and Phlegm: TCM Patterns for Respiratory Clearing",
-      "path": "/symptoms/respiratory-health/persistent-cough-phlegm/",
-      "type": "cluster",
-      "parent": "respiratory-health",
-      "estimated_read_time": 8,
-      "keywords": [
-        "persistent cough tcm",
-        "phlegm patterns tcm",
-        "lung dampness",
-        "cough acupuncture"
-      ],
-      "id": "163"
-    },
-    {
       "title": "Constipation Relief Through TCM: Understanding Your Digestive Patterns",
       "path": "/symptoms/digestion/constipation-tcm/",
       "type": "cluster",
@@ -2508,6 +2494,20 @@
         "allergy acupuncture"
       ],
       "id": "162"
+    },
+    {
+      "title": "Persistent Cough and Phlegm: TCM Patterns for Respiratory Clearing",
+      "path": "/symptoms/respiratory-health/persistent-cough-phlegm/",
+      "type": "cluster",
+      "parent": "respiratory-health",
+      "estimated_read_time": 8,
+      "keywords": [
+        "persistent cough tcm",
+        "phlegm patterns tcm",
+        "lung dampness",
+        "cough acupuncture"
+      ],
+      "id": "163"
     }
   ]
 }
