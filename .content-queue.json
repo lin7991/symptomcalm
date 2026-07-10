@@ -4,19 +4,6 @@
   "note": "每3小时自动生产一篇内容。从队列头部取，完成后移到 published。",
   "queue": [
     {
-      "title": "Depression and Low Mood: Understanding Through a TCM Lens",
-      "path": "/symptoms/mental-emotional-health/depression-tcm/",
-      "type": "cluster",
-      "parent": "mental-emotional-health",
-      "estimated_read_time": 9,
-      "keywords": [
-        "depression tcm",
-        "liver qi stagnation depression",
-        "heart spirit tcm"
-      ],
-      "id": "154"
-    },
-    {
       "title": "Acne and Skin Breakouts: A TCM Approach to Clear Skin",
       "path": "/symptoms/skin-conditions/acne-tcm/",
       "type": "cluster",
@@ -2298,6 +2285,19 @@
         "liver yang headache"
       ],
       "id": "153"
+    },
+    {
+      "title": "Depression and Low Mood: Understanding Through a TCM Lens",
+      "path": "/symptoms/mental-emotional-health/depression-tcm/",
+      "type": "cluster",
+      "parent": "mental-emotional-health",
+      "estimated_read_time": 9,
+      "keywords": [
+        "depression tcm",
+        "liver qi stagnation depression",
+        "heart spirit tcm"
+      ],
+      "id": "154"
     }
   ]
 }
