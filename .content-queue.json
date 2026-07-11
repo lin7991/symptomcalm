@@ -4,20 +4,6 @@
   "note": "每3小时自动生产一篇内容。从队列头部取，完成后移到 published。",
   "queue": [
     {
-      "title": "Yin and Yang in Everyday Life: Practical Ways to Find Balance",
-      "path": "/tcm-basics/yin-yang-daily-life/",
-      "type": "cluster",
-      "parent": "",
-      "estimated_read_time": 7,
-      "keywords": [
-        "yin yang daily life",
-        "tcm balance lifestyle",
-        "yin yang practical tips",
-        "Chinese philosophy balance"
-      ],
-      "id": "171"
-    },
-    {
       "title": "Cupping at Home: A Beginner's Guide to Safe Self-Care",
       "path": "/treatments/cupping-home-guide/",
       "type": "cluster",
@@ -2508,6 +2494,20 @@
         "acupuncture needles"
       ],
       "id": "170"
+    },
+    {
+      "title": "Yin and Yang in Everyday Life: Practical Ways to Find Balance",
+      "path": "/tcm-basics/yin-yang-daily-life/",
+      "type": "cluster",
+      "parent": "",
+      "estimated_read_time": 7,
+      "keywords": [
+        "yin yang daily life",
+        "tcm balance lifestyle",
+        "yin yang practical tips",
+        "Chinese philosophy balance"
+      ],
+      "id": "171"
     }
   ]
 }
