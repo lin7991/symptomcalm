@@ -4,20 +4,6 @@
   "note": "每3小时自动生产一篇内容。从队列头部取，完成后移到 published。",
   "queue": [
     {
-      "title": "Allergic Rhinitis and Hay Fever: A TCM Perspective on Year-Round Relief",
-      "path": "/symptoms/respiratory-health/allergic-rhinitis-tcm/",
-      "type": "cluster",
-      "parent": "respiratory-health",
-      "estimated_read_time": 9,
-      "keywords": [
-        "allergic rhinitis tcm",
-        "hay fever Chinese medicine",
-        "tcm nasal allergies",
-        "lung qi allergy"
-      ],
-      "id": "175"
-    },
-    {
       "title": "Neck and Shoulder Tension Headaches: A TCM Guide to Relief",
       "path": "/symptoms/headaches/neck-tension-headache-tcm/",
       "type": "cluster",
@@ -2718,6 +2704,20 @@
         "tcm emotions liver"
       ],
       "id": "174"
+    },
+    {
+      "title": "Allergic Rhinitis and Hay Fever: A TCM Perspective on Year-Round Relief",
+      "path": "/symptoms/respiratory-health/allergic-rhinitis-tcm/",
+      "type": "cluster",
+      "parent": "respiratory-health",
+      "estimated_read_time": 9,
+      "keywords": [
+        "allergic rhinitis tcm",
+        "hay fever Chinese medicine",
+        "tcm nasal allergies",
+        "lung qi allergy"
+      ],
+      "id": "175"
     }
   ]
 }
