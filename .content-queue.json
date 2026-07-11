@@ -4,20 +4,6 @@
   "note": "每3小时自动生产一篇内容。从队列头部取，完成后移到 published。",
   "queue": [
     {
-      "title": "Constipation Relief Through TCM: Understanding Your Digestive Patterns",
-      "path": "/symptoms/digestion/constipation-tcm/",
-      "type": "cluster",
-      "parent": "digestion",
-      "estimated_read_time": 8,
-      "keywords": [
-        "constipation tcm",
-        "tcm constipation relief",
-        "constipation Chinese medicine",
-        "spleen qi constipation"
-      ],
-      "id": "164"
-    },
-    {
       "title": "Understanding Diarrhea Through TCM: Patterns and Dietary Support",
       "path": "/symptoms/digestion/diarrhea-tcm/",
       "type": "cluster",
@@ -2508,6 +2494,20 @@
         "cough acupuncture"
       ],
       "id": "163"
+    },
+    {
+      "title": "Constipation Relief Through TCM: Understanding Your Digestive Patterns",
+      "path": "/symptoms/digestion/constipation-tcm/",
+      "type": "cluster",
+      "parent": "digestion",
+      "estimated_read_time": 8,
+      "keywords": [
+        "constipation tcm",
+        "tcm constipation relief",
+        "constipation Chinese medicine",
+        "spleen qi constipation"
+      ],
+      "id": "164"
     }
   ]
 }
