@@ -4,20 +4,6 @@
   "note": "每3小时自动生产一篇内容。从队列头部取，完成后移到 published。",
   "queue": [
     {
-      "title": "Neck and Shoulder Tension Headaches: A TCM Guide to Relief",
-      "path": "/symptoms/headaches/neck-tension-headache-tcm/",
-      "type": "cluster",
-      "parent": "headaches",
-      "estimated_read_time": 8,
-      "keywords": [
-        "neck tension headache tcm",
-        "tension headache relief",
-        "shoulder tension Chinese medicine",
-        "acupressure neck pain"
-      ],
-      "id": "176"
-    },
-    {
       "title": "Breast Health from a TCM Perspective: Understanding Liver Qi and Breast Comfort",
       "path": "/symptoms/womens-health/breast-health-tcm/",
       "type": "cluster",
@@ -2718,6 +2704,20 @@
         "lung qi allergy"
       ],
       "id": "175"
+    },
+    {
+      "title": "Neck and Shoulder Tension Headaches: A TCM Guide to Relief",
+      "path": "/symptoms/headaches/neck-tension-headache-tcm/",
+      "type": "cluster",
+      "parent": "headaches",
+      "estimated_read_time": 8,
+      "keywords": [
+        "neck tension headache tcm",
+        "tension headache relief",
+        "shoulder tension Chinese medicine",
+        "acupressure neck pain"
+      ],
+      "id": "176"
     }
   ]
 }
