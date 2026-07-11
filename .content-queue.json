@@ -4,20 +4,6 @@
   "note": "每3小时自动生产一篇内容。从队列头部取，完成后移到 published。",
   "queue": [
     {
-      "title": "Hair Health from a TCM Perspective: Understanding Hair Loss and Thinning",
-      "path": "/symptoms/skin-conditions/hair-loss-tcm/",
-      "type": "cluster",
-      "parent": "skin-conditions",
-      "estimated_read_time": 8,
-      "keywords": [
-        "hair loss tcm",
-        "Chinese medicine hair loss",
-        "tcm hair thinning",
-        "kidney essence hair"
-      ],
-      "id": "168"
-    },
-    {
       "title": "Carpal Tunnel and Wrist Pain: A TCM Approach to Repetitive Strain",
       "path": "/symptoms/joint-pain/carpal-tunnel-tcm/",
       "type": "cluster",
@@ -2508,6 +2494,20 @@
         "acupuncture pregnancy"
       ],
       "id": "167"
+    },
+    {
+      "title": "Hair Health from a TCM Perspective: Understanding Hair Loss and Thinning",
+      "path": "/symptoms/skin-conditions/hair-loss-tcm/",
+      "type": "cluster",
+      "parent": "skin-conditions",
+      "estimated_read_time": 8,
+      "keywords": [
+        "hair loss tcm",
+        "Chinese medicine hair loss",
+        "tcm hair thinning",
+        "kidney essence hair"
+      ],
+      "id": "168"
     }
   ]
 }
