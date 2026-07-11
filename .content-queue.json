@@ -4,20 +4,6 @@
   "note": "每3小时自动生产一篇内容。从队列头部取，完成后移到 published。",
   "queue": [
     {
-      "title": "Cold and Flu Season: A TCM Guide to Supporting Your Immune System",
-      "path": "/symptoms/respiratory-health/cold-flu-tcm/",
-      "type": "cluster",
-      "parent": "respiratory-health",
-      "estimated_read_time": 9,
-      "keywords": [
-        "tcm cold and flu",
-        "Chinese medicine cold prevention",
-        "wei qi immune support",
-        "tcm winter health"
-      ],
-      "id": "166"
-    },
-    {
       "title": "Pregnancy Support with TCM: A Gentle Guide for Expecting Mothers",
       "path": "/symptoms/womens-health/pregnancy-tcm/",
       "type": "cluster",
@@ -2508,6 +2494,20 @@
         "loose stools Chinese medicine"
       ],
       "id": "165"
+    },
+    {
+      "title": "Cold and Flu Season: A TCM Guide to Supporting Your Immune System",
+      "path": "/symptoms/respiratory-health/cold-flu-tcm/",
+      "type": "cluster",
+      "parent": "respiratory-health",
+      "estimated_read_time": 9,
+      "keywords": [
+        "tcm cold and flu",
+        "Chinese medicine cold prevention",
+        "wei qi immune support",
+        "tcm winter health"
+      ],
+      "id": "166"
     }
   ]
 }
