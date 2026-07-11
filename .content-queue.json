@@ -58,6 +58,216 @@
         "moxa stick self-care"
       ],
       "id": "178"
+    },
+    {
+      "title": "Overthinking and Rumination: A TCM Approach to Calming the Busy Mind",
+      "path": "/symptoms/mental-emotional-health/overthinking-tcm/",
+      "type": "cluster",
+      "parent": "mental-emotional-health",
+      "estimated_read_time": 9,
+      "keywords": [
+        "overthinking tcm",
+        "rumination Chinese medicine",
+        "obsessive thoughts TCM",
+        "spleen overthinking"
+      ],
+      "id": "179"
+    },
+    {
+      "title": "The Spleen-Stomach Connection: TCM Wisdom for Balanced Digestion",
+      "path": "/symptoms/digestion/spleen-stomach-connection/",
+      "type": "cluster",
+      "parent": "digestion",
+      "estimated_read_time": 8,
+      "keywords": [
+        "spleen stomach tcm",
+        "digestive health Chinese medicine",
+        "spleen qi deficiency",
+        "digestion TCM"
+      ],
+      "id": "180"
+    },
+    {
+      "title": "Bloating and Gas: A TCM Guide to Understanding Digestive Discomfort",
+      "path": "/symptoms/digestion/bloating-tcm/",
+      "type": "cluster",
+      "parent": "digestion",
+      "estimated_read_time": 8,
+      "keywords": [
+        "bloating tcm",
+        "gas Chinese medicine",
+        "abdominal bloating remedies",
+        "digestive discomfort TCM"
+      ],
+      "id": "181"
+    },
+    {
+      "title": "Weather-Related Headaches: How TCM Explains Barometric Pressure Pain",
+      "path": "/symptoms/headaches/weather-headaches-tcm/",
+      "type": "cluster",
+      "parent": "headaches",
+      "estimated_read_time": 8,
+      "keywords": [
+        "weather headaches tcm",
+        "barometric pressure headache",
+        "wind cold headache",
+        "weather related migraine TCM"
+      ],
+      "id": "182"
+    },
+    {
+      "title": "Lower Back Pain and Kidney Health: A TCM Perspective",
+      "path": "/symptoms/back-pain/lower-back-kidney-tcm/",
+      "type": "cluster",
+      "parent": "back-pain",
+      "estimated_read_time": 9,
+      "keywords": [
+        "lower back pain kidney tcm",
+        "kidney deficiency back pain",
+        "low back pain Chinese medicine",
+        "TCM lower back relief"
+      ],
+      "id": "183"
+    },
+    {
+      "title": "Generalized Anxiety Disorder Through a TCM Lens",
+      "path": "/symptoms/anxiety/generalized-anxiety-tcm/",
+      "type": "cluster",
+      "parent": "anxiety",
+      "estimated_read_time": 9,
+      "keywords": [
+        "generalized anxiety tcm",
+        "GAD Chinese medicine",
+        "chronic anxiety TCM",
+        "anxiety patterns Chinese medicine"
+      ],
+      "id": "184"
+    },
+    {
+      "title": "Gua Sha at Home: A Beginner's Guide to Safe Self-Care",
+      "path": "/treatments/gua-sha-home-guide/",
+      "type": "cluster",
+      "parent": "treatments",
+      "estimated_read_time": 8,
+      "keywords": [
+        "gua sha at home",
+        "gua sha self care",
+        "gua sha beginner guide",
+        "gua sha facial Chinese medicine"
+      ],
+      "id": "185"
+    },
+    {
+      "title": "Understanding Dampness: TCM's Most Common Digestive and Fatigue Pattern",
+      "path": "/tcm-basics/dampness-tcm/",
+      "type": "tcm-basics",
+      "parent": "",
+      "estimated_read_time": 8,
+      "keywords": [
+        "dampness tcm",
+        "damp heat Chinese medicine",
+        "phlegm dampness TCM",
+        "dampness symptoms TCM"
+      ],
+      "id": "186"
+    },
+    {
+      "title": "The Six Excesses: How TCM Explains Weather and Environment as Health Factors",
+      "path": "/tcm-basics/six-excesses-tcm/",
+      "type": "tcm-basics",
+      "parent": "",
+      "estimated_read_time": 9,
+      "keywords": [
+        "six excesses tcm",
+        "six pathogenic factors",
+        "wind cold summer heat TCM",
+        "external pathogens Chinese medicine"
+      ],
+      "id": "187"
+    },
+    {
+      "title": "The Meridian System: TCM's Energy Highways Explained",
+      "path": "/tcm-basics/meridians-explained/",
+      "type": "tcm-basics",
+      "parent": "",
+      "estimated_read_time": 9,
+      "keywords": [
+        "meridian system tcm",
+        "energy channels Chinese medicine",
+        "acupuncture meridians explained",
+        "meridians TCM"
+      ],
+      "id": "188"
+    },
+    {
+      "title": "Bronchitis and TCM: Supporting Lung Recovery Naturally",
+      "path": "/symptoms/respiratory-health/bronchitis-tcm/",
+      "type": "cluster",
+      "parent": "respiratory-health",
+      "estimated_read_time": 8,
+      "keywords": [
+        "bronchitis tcm",
+        "bronchitis Chinese medicine",
+        "lung recovery TCM",
+        "persistent cough bronchitis"
+      ],
+      "id": "189"
+    },
+    {
+      "title": "Hormonal Headaches and Menstrual Migraines: A TCM Guide",
+      "path": "/symptoms/womens-health/hormonal-headaches-tcm/",
+      "type": "cluster",
+      "parent": "womens-health",
+      "estimated_read_time": 9,
+      "keywords": [
+        "hormonal headaches tcm",
+        "menstrual migraine Chinese medicine",
+        "period headaches TCM",
+        "liver qi women headaches"
+      ],
+      "id": "190"
+    },
+    {
+      "title": "Qigong for Beginners: Gentle Movements for Daily Energy and Calm",
+      "path": "/treatments/qigong-beginners-guide/",
+      "type": "cluster",
+      "parent": "treatments",
+      "estimated_read_time": 8,
+      "keywords": [
+        "qigong for beginners",
+        "daily qigong practice",
+        "qigong energy healing",
+        "gentle movement TCM"
+      ],
+      "id": "191"
+    },
+    {
+      "title": "Worry-Based Insomnia: Calming the Overactive Mind for Deep Sleep",
+      "path": "/symptoms/insomnia/worry-insomnia-tcm/",
+      "type": "cluster",
+      "parent": "insomnia",
+      "estimated_read_time": 9,
+      "keywords": [
+        "worry insomnia tcm",
+        "anxiety sleep TCM",
+        "overthinking at night Chinese medicine",
+        "spleen insomnia"
+      ],
+      "id": "192"
+    },
+    {
+      "title": "Posture and Back Health: TCM Principles for Desk Workers",
+      "path": "/symptoms/back-pain/posture-back-health-tcm/",
+      "type": "cluster",
+      "parent": "back-pain",
+      "estimated_read_time": 8,
+      "keywords": [
+        "posture back health tcm",
+        "desk worker back pain",
+        "sitting posture Chinese medicine",
+        "kidney back posture"
+      ],
+      "id": "193"
     }
   ],
   "published": [
