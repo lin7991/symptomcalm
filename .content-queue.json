@@ -4,20 +4,6 @@
   "note": "每3小时自动生产一篇内容。从队列头部取，完成后移到 published。",
   "queue": [
     {
-      "title": "Post-Illness Fatigue: TCM Support for Recovery and Rebuilding Energy",
-      "path": "/symptoms/fatigue/post-illness-fatigue-tcm/",
-      "type": "cluster",
-      "parent": "fatigue",
-      "estimated_read_time": 8,
-      "keywords": [
-        "post illness fatigue tcm",
-        "recovery after sickness tcm",
-        "rebuild qi after illness",
-        "tcm recovery support"
-      ],
-      "id": "173"
-    },
-    {
       "title": "Anger and Irritability Through a TCM Lens: The Liver-Emotion Connection",
       "path": "/symptoms/mental-emotional-health/anger-liver-tcm/",
       "type": "cluster",
@@ -2508,6 +2494,20 @@
         "cupping how to"
       ],
       "id": "172"
+    },
+    {
+      "title": "Post-Illness Fatigue: TCM Support for Recovery and Rebuilding Energy",
+      "path": "/symptoms/fatigue/post-illness-fatigue-tcm/",
+      "type": "cluster",
+      "parent": "fatigue",
+      "estimated_read_time": 8,
+      "keywords": [
+        "post illness fatigue tcm",
+        "recovery after sickness tcm",
+        "rebuild qi after illness",
+        "tcm recovery support"
+      ],
+      "id": "173"
     }
   ]
 }
