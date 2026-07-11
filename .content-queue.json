@@ -4,20 +4,6 @@
   "note": "每3小时自动生产一篇内容。从队列头部取，完成后移到 published。",
   "queue": [
     {
-      "title": "Your First Acupuncture Session: A Beginner's Guide to What to Expect",
-      "path": "/treatments/acupuncture-beginners-guide/",
-      "type": "cluster",
-      "parent": "acupuncture",
-      "estimated_read_time": 7,
-      "keywords": [
-        "acupuncture first session",
-        "what to expect acupuncture",
-        "acupuncture beginner guide",
-        "acupuncture needles"
-      ],
-      "id": "170"
-    },
-    {
       "title": "Yin and Yang in Everyday Life: Practical Ways to Find Balance",
       "path": "/tcm-basics/yin-yang-daily-life/",
       "type": "cluster",
@@ -2508,6 +2494,20 @@
         "acupressure carpal tunnel"
       ],
       "id": "169"
+    },
+    {
+      "title": "Your First Acupuncture Session: A Beginner's Guide to What to Expect",
+      "path": "/treatments/acupuncture-beginners-guide/",
+      "type": "cluster",
+      "parent": "acupuncture",
+      "estimated_read_time": 7,
+      "keywords": [
+        "acupuncture first session",
+        "what to expect acupuncture",
+        "acupuncture beginner guide",
+        "acupuncture needles"
+      ],
+      "id": "170"
     }
   ]
 }
