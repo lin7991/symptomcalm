@@ -4,20 +4,6 @@
   "note": "每3小时自动生产一篇内容。从队列头部取，完成后移到 published。",
   "queue": [
     {
-      "title": "Pregnancy Support with TCM: A Gentle Guide for Expecting Mothers",
-      "path": "/symptoms/womens-health/pregnancy-tcm/",
-      "type": "cluster",
-      "parent": "womens-health",
-      "estimated_read_time": 9,
-      "keywords": [
-        "pregnancy tcm",
-        "Chinese medicine pregnancy",
-        "tcm pregnancy support",
-        "acupuncture pregnancy"
-      ],
-      "id": "167"
-    },
-    {
       "title": "Hair Health from a TCM Perspective: Understanding Hair Loss and Thinning",
       "path": "/symptoms/skin-conditions/hair-loss-tcm/",
       "type": "cluster",
@@ -2508,6 +2494,20 @@
         "tcm winter health"
       ],
       "id": "166"
+    },
+    {
+      "title": "Pregnancy Support with TCM: A Gentle Guide for Expecting Mothers",
+      "path": "/symptoms/womens-health/pregnancy-tcm/",
+      "type": "cluster",
+      "parent": "womens-health",
+      "estimated_read_time": 9,
+      "keywords": [
+        "pregnancy tcm",
+        "Chinese medicine pregnancy",
+        "tcm pregnancy support",
+        "acupuncture pregnancy"
+      ],
+      "id": "167"
     }
   ]
 }
