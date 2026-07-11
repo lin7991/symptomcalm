@@ -4,20 +4,6 @@
   "note": "每3小时自动生产一篇内容。从队列头部取，完成后移到 published。",
   "queue": [
     {
-      "title": "Breast Health from a TCM Perspective: Understanding Liver Qi and Breast Comfort",
-      "path": "/symptoms/womens-health/breast-health-tcm/",
-      "type": "cluster",
-      "parent": "womens-health",
-      "estimated_read_time": 8,
-      "keywords": [
-        "breast health tcm",
-        "tcm breast pain",
-        "liver qi breast health",
-        "fibrocystic breast Chinese medicine"
-      ],
-      "id": "177"
-    },
-    {
       "title": "Moxibustion at Home: A Gentle Guide to Warming Therapy",
       "path": "/treatments/moxibustion-home-guide/",
       "type": "cluster",
@@ -2718,6 +2704,20 @@
         "acupressure neck pain"
       ],
       "id": "176"
+    },
+    {
+      "title": "Breast Health from a TCM Perspective: Understanding Liver Qi and Breast Comfort",
+      "path": "/symptoms/womens-health/breast-health-tcm/",
+      "type": "cluster",
+      "parent": "womens-health",
+      "estimated_read_time": 8,
+      "keywords": [
+        "breast health tcm",
+        "tcm breast pain",
+        "liver qi breast health",
+        "fibrocystic breast Chinese medicine"
+      ],
+      "id": "177"
     }
   ]
 }
