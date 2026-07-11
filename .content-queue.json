@@ -4,20 +4,6 @@
   "note": "每3小时自动生产一篇内容。从队列头部取，完成后移到 published。",
   "queue": [
     {
-      "title": "Overthinking and Rumination: A TCM Approach to Calming the Busy Mind",
-      "path": "/symptoms/mental-emotional-health/overthinking-tcm/",
-      "type": "cluster",
-      "parent": "mental-emotional-health",
-      "estimated_read_time": 9,
-      "keywords": [
-        "overthinking tcm",
-        "rumination Chinese medicine",
-        "obsessive thoughts TCM",
-        "spleen overthinking"
-      ],
-      "id": "179"
-    },
-    {
       "title": "The Spleen-Stomach Connection: TCM Wisdom for Balanced Digestion",
       "path": "/symptoms/digestion/spleen-stomach-connection/",
       "type": "cluster",
@@ -2718,6 +2704,20 @@
         "moxa stick self-care"
       ],
       "id": "178"
+    },
+    {
+      "title": "Overthinking and Rumination: A TCM Approach to Calming the Busy Mind",
+      "path": "/symptoms/mental-emotional-health/overthinking-tcm/",
+      "type": "cluster",
+      "parent": "mental-emotional-health",
+      "estimated_read_time": 9,
+      "keywords": [
+        "overthinking tcm",
+        "rumination Chinese medicine",
+        "obsessive thoughts TCM",
+        "spleen overthinking"
+      ],
+      "id": "179"
     }
   ]
 }
