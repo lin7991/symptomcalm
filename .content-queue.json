@@ -4,20 +4,6 @@
   "note": "每3小时自动生产一篇内容。从队列头部取，完成后移到 published。",
   "queue": [
     {
-      "title": "Posture and Back Health: TCM Principles for Desk Workers",
-      "path": "/symptoms/back-pain/posture-back-health-tcm/",
-      "type": "cluster",
-      "parent": "back-pain",
-      "estimated_read_time": 8,
-      "keywords": [
-        "posture back health tcm",
-        "desk worker back pain",
-        "sitting posture Chinese medicine",
-        "kidney back posture"
-      ],
-      "id": "193"
-    },
-    {
       "title": "Breast Health in TCM: Understanding Lumps, Pain & Hormonal Balance",
       "path": "/symptoms/womens-health/breast-health-tcm/",
       "type": "cluster",
@@ -2943,6 +2929,20 @@
         "spleen insomnia"
       ],
       "id": "192"
+    },
+    {
+      "title": "Posture and Back Health: TCM Principles for Desk Workers",
+      "path": "/symptoms/back-pain/posture-back-health-tcm/",
+      "type": "cluster",
+      "parent": "back-pain",
+      "estimated_read_time": 8,
+      "keywords": [
+        "posture back health tcm",
+        "desk worker back pain",
+        "sitting posture Chinese medicine",
+        "kidney back posture"
+      ],
+      "id": "193"
     }
   ]
 }
