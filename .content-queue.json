@@ -4,20 +4,6 @@
   "note": "每3小时自动生产一篇内容。从队列头部取，完成后移到 published。",
   "queue": [
     {
-      "title": "Generalized Anxiety Disorder Through a TCM Lens",
-      "path": "/symptoms/anxiety/generalized-anxiety-tcm/",
-      "type": "cluster",
-      "parent": "anxiety",
-      "estimated_read_time": 9,
-      "keywords": [
-        "generalized anxiety tcm",
-        "GAD Chinese medicine",
-        "chronic anxiety TCM",
-        "anxiety patterns Chinese medicine"
-      ],
-      "id": "184"
-    },
-    {
       "title": "Gua Sha at Home: A Beginner's Guide to Safe Self-Care",
       "path": "/treatments/gua-sha-home-guide/",
       "type": "cluster",
@@ -2718,6 +2704,20 @@
         "TCM lower back relief"
       ],
       "id": "183"
+    },
+    {
+      "title": "Generalized Anxiety Disorder Through a TCM Lens",
+      "path": "/symptoms/anxiety/generalized-anxiety-tcm/",
+      "type": "cluster",
+      "parent": "anxiety",
+      "estimated_read_time": 9,
+      "keywords": [
+        "generalized anxiety tcm",
+        "GAD Chinese medicine",
+        "chronic anxiety TCM",
+        "anxiety patterns Chinese medicine"
+      ],
+      "id": "184"
     }
   ]
 }
