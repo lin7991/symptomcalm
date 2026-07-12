@@ -4,20 +4,6 @@
   "note": "每3小时自动生产一篇内容。从队列头部取，完成后移到 published。",
   "queue": [
     {
-      "title": "Hormonal Headaches and Menstrual Migraines: A TCM Guide",
-      "path": "/symptoms/womens-health/hormonal-headaches-tcm/",
-      "type": "cluster",
-      "parent": "womens-health",
-      "estimated_read_time": 9,
-      "keywords": [
-        "hormonal headaches tcm",
-        "menstrual migraine Chinese medicine",
-        "period headaches TCM",
-        "liver qi women headaches"
-      ],
-      "id": "190"
-    },
-    {
       "title": "Qigong for Beginners: Gentle Movements for Daily Energy and Calm",
       "path": "/treatments/qigong-beginners-guide/",
       "type": "cluster",
@@ -58,6 +44,231 @@
         "kidney back posture"
       ],
       "id": "193"
+    },
+    {
+      "title": "Breast Health in TCM: Understanding Lumps, Pain & Hormonal Balance",
+      "path": "/symptoms/womens-health/breast-health-tcm/",
+      "type": "cluster",
+      "parent": "womens-health",
+      "estimated_read_time": 8,
+      "keywords": [
+        "breast health TCM",
+        "breast pain Chinese medicine",
+        "liver qi stagnation breast",
+        "TCM breast cysts",
+        "breast health naturally"
+      ],
+      "id": "194"
+    },
+    {
+      "title": "Urinary Health in TCM: Recurrent UTIs, Bladder Weakness & Kidney Support",
+      "path": "/symptoms/womens-health/urinary-health-tcm/",
+      "type": "cluster",
+      "parent": "womens-health",
+      "estimated_read_time": 7,
+      "keywords": [
+        "UTI TCM",
+        "urinary tract infection Chinese medicine",
+        "bladder health TCM",
+        "kidney deficiency UTI",
+        "recurrent cystitis TCM"
+      ],
+      "id": "195"
+    },
+    {
+      "title": "Vaginal Health in TCM: Yeast Infections, BV & Immune Balance",
+      "path": "/symptoms/womens-health/vaginal-health-tcm/",
+      "type": "cluster",
+      "parent": "womens-health",
+      "estimated_read_time": 7,
+      "keywords": [
+        "yeast infection TCM",
+        "vaginitis Chinese medicine",
+        "damp heat vaginal",
+        "recurrent thrush TCM",
+        "vaginal microbiome TCM"
+      ],
+      "id": "196"
+    },
+    {
+      "title": "Stress and Hormones in TCM: Cortisol, HPA Axis & Your Cycle",
+      "path": "/symptoms/stress/stress-hormones-tcm/",
+      "type": "cluster",
+      "parent": "stress",
+      "estimated_read_time": 8,
+      "keywords": [
+        "stress hormones TCM",
+        "cortisol Chinese medicine",
+        "HPA axis TCM",
+        "stress menstrual cycle",
+        "adrenal fatigue TCM"
+      ],
+      "id": "197"
+    },
+    {
+      "title": "Stress Fatigue in TCM: When Daily Exhaustion Won't Let Go",
+      "path": "/symptoms/stress/stress-fatigue-tcm/",
+      "type": "cluster",
+      "parent": "stress",
+      "estimated_read_time": 7,
+      "keywords": [
+        "stress fatigue TCM",
+        "exhaustion Chinese medicine",
+        "burnout recovery TCM",
+        "spleen qi stress",
+        "daily tiredness TCM"
+      ],
+      "id": "198"
+    },
+    {
+      "title": "Night Sweats and Insomnia: A TCM Perspective on Sleep Disrupted by Heat",
+      "path": "/symptoms/insomnia/insomnia-night-sweats-tcm/",
+      "type": "cluster",
+      "parent": "insomnia",
+      "estimated_read_time": 7,
+      "keywords": [
+        "night sweats insomnia TCM",
+        "sleep disrupted by heat",
+        "yin deficiency night sweats",
+        "menopausal sleep TCM",
+        "hot flashes sleep"
+      ],
+      "id": "199"
+    },
+    {
+      "title": "Winter Joint Pain in TCM: Why Cold Aggravates Stiffness & What Helps",
+      "path": "/symptoms/joint-pain/winter-joint-pain-tcm/",
+      "type": "cluster",
+      "parent": "joint-pain",
+      "estimated_read_time": 7,
+      "keywords": [
+        "winter joint pain TCM",
+        "cold aggravates arthritis",
+        "cold damp bi syndrome",
+        "joint stiffness winter",
+        "seasonal joint pain TCM"
+      ],
+      "id": "200"
+    },
+    {
+      "title": "Exercise and Joint Health in TCM: Movement Patterns That Support Your Connective Tissue",
+      "path": "/symptoms/joint-pain/exercise-joint-health-tcm/",
+      "type": "cluster",
+      "parent": "joint-pain",
+      "estimated_read_time": 8,
+      "keywords": [
+        "exercise joint health TCM",
+        "movement for joint pain",
+        "tendon liver blood TCM",
+        "qigong for joints",
+        "joint friendly exercise"
+      ],
+      "id": "201"
+    },
+    {
+      "title": "Overwhelm in TCM: When Your Heart Shen Feels Scattered",
+      "path": "/symptoms/mental-emotional-health/overwhelm-tcm/",
+      "type": "cluster",
+      "parent": "mental-emotional-health",
+      "estimated_read_time": 8,
+      "keywords": [
+        "overwhelm TCM",
+        "heart shen scattered",
+        "feeling overwhelmed Chinese medicine",
+        "mental clutter TCM",
+        "can't focus TCM"
+      ],
+      "id": "202"
+    },
+    {
+      "title": "Dry Cough in TCM: Understanding the Difference Between Dry and Phlegmy Coughs",
+      "path": "/symptoms/respiratory-health/dry-cough-tcm/",
+      "type": "cluster",
+      "parent": "respiratory-health",
+      "estimated_read_time": 7,
+      "keywords": [
+        "dry cough TCM",
+        "lung yin deficiency cough",
+        "dry cough vs phlegmy cough",
+        "persistent dry cough TCM",
+        "throat tickle cough"
+      ],
+      "id": "203"
+    },
+    {
+      "title": "Cough Recovery in TCM: Why Your Cough Lingers After Illness",
+      "path": "/symptoms/respiratory-health/cough-recovery-tcm/",
+      "type": "cluster",
+      "parent": "respiratory-health",
+      "estimated_read_time": 7,
+      "keywords": [
+        "cough recovery TCM",
+        "lingering cough after cold",
+        "post viral cough TCM",
+        "lung recovery TCM",
+        "cough won't go away TCM"
+      ],
+      "id": "204"
+    },
+    {
+      "title": "Weather-Triggered Back Pain in TCM: Cold, Damp & Your Lower Back",
+      "path": "/symptoms/back-pain/weather-back-pain-tcm/",
+      "type": "cluster",
+      "parent": "back-pain",
+      "estimated_read_time": 7,
+      "keywords": [
+        "weather back pain TCM",
+        "cold damp back pain",
+        "barometric pressure back pain",
+        "rain aggravates back pain",
+        "seasonal back pain TCM"
+      ],
+      "id": "205"
+    },
+    {
+      "title": "Acupressure for Digestion: 5 Points to Relieve Bloating, Gas & Indigestion",
+      "path": "/treatments/acupressure-digestion-tcm/",
+      "type": "treatment",
+      "parent": "",
+      "estimated_read_time": 7,
+      "keywords": [
+        "acupressure digestion",
+        "acupressure points bloating",
+        "ST36 digestion",
+        "CV12 acupuncture",
+        "acupressure indigestion"
+      ],
+      "id": "206"
+    },
+    {
+      "title": "Acupressure for Headaches: Pressure Points for Tension, Migraine & Sinus Relief",
+      "path": "/treatments/acupressure-headaches-tcm/",
+      "type": "treatment",
+      "parent": "",
+      "estimated_read_time": 7,
+      "keywords": [
+        "acupressure headaches",
+        "pressure points headache relief",
+        "LI4 headache",
+        "GB20 headache",
+        "acupressure migraine relief"
+      ],
+      "id": "207"
+    },
+    {
+      "title": "Autumn Wellness in TCM: Nourishing Your Lungs for the Dry Season",
+      "path": "/treatments/tcm-autumn-wellness/",
+      "type": "treatment",
+      "parent": "",
+      "estimated_read_time": 7,
+      "keywords": [
+        "autumn wellness TCM",
+        "lung health autumn",
+        "autumn diet TCM",
+        "dry season TCM",
+        "seasonal wellness TCM"
+      ],
+      "id": "208"
     }
   ],
   "published": [
@@ -2718,6 +2929,20 @@
         "persistent cough bronchitis"
       ],
       "id": "189"
+    },
+    {
+      "title": "Hormonal Headaches and Menstrual Migraines: A TCM Guide",
+      "path": "/symptoms/womens-health/hormonal-headaches-tcm/",
+      "type": "cluster",
+      "parent": "womens-health",
+      "estimated_read_time": 9,
+      "keywords": [
+        "hormonal headaches tcm",
+        "menstrual migraine Chinese medicine",
+        "period headaches TCM",
+        "liver qi women headaches"
+      ],
+      "id": "190"
     }
   ]
 }
