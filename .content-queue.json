@@ -4,20 +4,6 @@
   "note": "每3小时自动生产一篇内容。从队列头部取，完成后移到 published。",
   "queue": [
     {
-      "title": "Understanding Dampness: TCM's Most Common Digestive and Fatigue Pattern",
-      "path": "/tcm-basics/dampness-tcm/",
-      "type": "tcm-basics",
-      "parent": "",
-      "estimated_read_time": 8,
-      "keywords": [
-        "dampness tcm",
-        "damp heat Chinese medicine",
-        "phlegm dampness TCM",
-        "dampness symptoms TCM"
-      ],
-      "id": "186"
-    },
-    {
       "title": "The Six Excesses: How TCM Explains Weather and Environment as Health Factors",
       "path": "/tcm-basics/six-excesses-tcm/",
       "type": "tcm-basics",
@@ -2718,6 +2704,20 @@
         "gua sha facial Chinese medicine"
       ],
       "id": "185"
+    },
+    {
+      "title": "Understanding Dampness: TCM's Most Common Digestive and Fatigue Pattern",
+      "path": "/tcm-basics/dampness-tcm/",
+      "type": "tcm-basics",
+      "parent": "",
+      "estimated_read_time": 8,
+      "keywords": [
+        "dampness tcm",
+        "damp heat Chinese medicine",
+        "phlegm dampness TCM",
+        "dampness symptoms TCM"
+      ],
+      "id": "186"
     }
   ]
 }
