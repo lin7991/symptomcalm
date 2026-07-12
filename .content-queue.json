@@ -4,20 +4,6 @@
   "note": "每3小时自动生产一篇内容。从队列头部取，完成后移到 published。",
   "queue": [
     {
-      "title": "The Six Excesses: How TCM Explains Weather and Environment as Health Factors",
-      "path": "/tcm-basics/six-excesses-tcm/",
-      "type": "tcm-basics",
-      "parent": "",
-      "estimated_read_time": 9,
-      "keywords": [
-        "six excesses tcm",
-        "six pathogenic factors",
-        "wind cold summer heat TCM",
-        "external pathogens Chinese medicine"
-      ],
-      "id": "187"
-    },
-    {
       "title": "The Meridian System: TCM's Energy Highways Explained",
       "path": "/tcm-basics/meridians-explained/",
       "type": "tcm-basics",
@@ -2718,6 +2704,20 @@
         "dampness symptoms TCM"
       ],
       "id": "186"
+    },
+    {
+      "title": "The Six Excesses: How TCM Explains Weather and Environment as Health Factors",
+      "path": "/tcm-basics/six-excesses-tcm/",
+      "type": "tcm-basics",
+      "parent": "",
+      "estimated_read_time": 9,
+      "keywords": [
+        "six excesses tcm",
+        "six pathogenic factors",
+        "wind cold summer heat TCM",
+        "external pathogens Chinese medicine"
+      ],
+      "id": "187"
     }
   ]
 }
