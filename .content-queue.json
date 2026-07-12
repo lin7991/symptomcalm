@@ -4,20 +4,6 @@
   "note": "每3小时自动生产一篇内容。从队列头部取，完成后移到 published。",
   "queue": [
     {
-      "title": "Lower Back Pain and Kidney Health: A TCM Perspective",
-      "path": "/symptoms/back-pain/lower-back-kidney-tcm/",
-      "type": "cluster",
-      "parent": "back-pain",
-      "estimated_read_time": 9,
-      "keywords": [
-        "lower back pain kidney tcm",
-        "kidney deficiency back pain",
-        "low back pain Chinese medicine",
-        "TCM lower back relief"
-      ],
-      "id": "183"
-    },
-    {
       "title": "Generalized Anxiety Disorder Through a TCM Lens",
       "path": "/symptoms/anxiety/generalized-anxiety-tcm/",
       "type": "cluster",
@@ -2718,6 +2704,20 @@
         "weather related migraine TCM"
       ],
       "id": "182"
+    },
+    {
+      "title": "Lower Back Pain and Kidney Health: A TCM Perspective",
+      "path": "/symptoms/back-pain/lower-back-kidney-tcm/",
+      "type": "cluster",
+      "parent": "back-pain",
+      "estimated_read_time": 9,
+      "keywords": [
+        "lower back pain kidney tcm",
+        "kidney deficiency back pain",
+        "low back pain Chinese medicine",
+        "TCM lower back relief"
+      ],
+      "id": "183"
     }
   ]
 }
