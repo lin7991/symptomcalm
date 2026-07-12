@@ -4,20 +4,6 @@
   "note": "每3小时自动生产一篇内容。从队列头部取，完成后移到 published。",
   "queue": [
     {
-      "title": "Gua Sha at Home: A Beginner's Guide to Safe Self-Care",
-      "path": "/treatments/gua-sha-home-guide/",
-      "type": "cluster",
-      "parent": "treatments",
-      "estimated_read_time": 8,
-      "keywords": [
-        "gua sha at home",
-        "gua sha self care",
-        "gua sha beginner guide",
-        "gua sha facial Chinese medicine"
-      ],
-      "id": "185"
-    },
-    {
       "title": "Understanding Dampness: TCM's Most Common Digestive and Fatigue Pattern",
       "path": "/tcm-basics/dampness-tcm/",
       "type": "tcm-basics",
@@ -2718,6 +2704,20 @@
         "anxiety patterns Chinese medicine"
       ],
       "id": "184"
+    },
+    {
+      "title": "Gua Sha at Home: A Beginner's Guide to Safe Self-Care",
+      "path": "/treatments/gua-sha-home-guide/",
+      "type": "cluster",
+      "parent": "treatments",
+      "estimated_read_time": 8,
+      "keywords": [
+        "gua sha at home",
+        "gua sha self care",
+        "gua sha beginner guide",
+        "gua sha facial Chinese medicine"
+      ],
+      "id": "185"
     }
   ]
 }
