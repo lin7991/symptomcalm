@@ -4,20 +4,6 @@
   "note": "每3小时自动生产一篇内容。从队列头部取，完成后移到 published。",
   "queue": [
     {
-      "title": "Bloating and Gas: A TCM Guide to Understanding Digestive Discomfort",
-      "path": "/symptoms/digestion/bloating-tcm/",
-      "type": "cluster",
-      "parent": "digestion",
-      "estimated_read_time": 8,
-      "keywords": [
-        "bloating tcm",
-        "gas Chinese medicine",
-        "abdominal bloating remedies",
-        "digestive discomfort TCM"
-      ],
-      "id": "181"
-    },
-    {
       "title": "Weather-Related Headaches: How TCM Explains Barometric Pressure Pain",
       "path": "/symptoms/headaches/weather-headaches-tcm/",
       "type": "cluster",
@@ -2718,6 +2704,20 @@
         "digestion TCM"
       ],
       "id": "180"
+    },
+    {
+      "title": "Bloating and Gas: A TCM Guide to Understanding Digestive Discomfort",
+      "path": "/symptoms/digestion/bloating-tcm/",
+      "type": "cluster",
+      "parent": "digestion",
+      "estimated_read_time": 8,
+      "keywords": [
+        "bloating tcm",
+        "gas Chinese medicine",
+        "abdominal bloating remedies",
+        "digestive discomfort TCM"
+      ],
+      "id": "181"
     }
   ]
 }
