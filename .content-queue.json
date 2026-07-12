@@ -4,20 +4,6 @@
   "note": "每3小时自动生产一篇内容。从队列头部取，完成后移到 published。",
   "queue": [
     {
-      "title": "The Meridian System: TCM's Energy Highways Explained",
-      "path": "/tcm-basics/meridians-explained/",
-      "type": "tcm-basics",
-      "parent": "",
-      "estimated_read_time": 9,
-      "keywords": [
-        "meridian system tcm",
-        "energy channels Chinese medicine",
-        "acupuncture meridians explained",
-        "meridians TCM"
-      ],
-      "id": "188"
-    },
-    {
       "title": "Bronchitis and TCM: Supporting Lung Recovery Naturally",
       "path": "/symptoms/respiratory-health/bronchitis-tcm/",
       "type": "cluster",
@@ -2718,6 +2704,20 @@
         "external pathogens Chinese medicine"
       ],
       "id": "187"
+    },
+    {
+      "title": "The Meridian System: TCM's Energy Highways Explained",
+      "path": "/tcm-basics/meridians-explained/",
+      "type": "tcm-basics",
+      "parent": "",
+      "estimated_read_time": 9,
+      "keywords": [
+        "meridian system tcm",
+        "energy channels Chinese medicine",
+        "acupuncture meridians explained",
+        "meridians TCM"
+      ],
+      "id": "188"
     }
   ]
 }
