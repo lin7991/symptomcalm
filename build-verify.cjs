@@ -3,8 +3,8 @@ const path = require('path');
 
 // Files changed in this session
 const defaults = [
-  'symptoms/womens-health/postpartum-tcm/index.html',
-  'zh/symptoms/womens-health/postpartum-tcm/index.html',
+  'symptoms/womens-health/breast-health-tcm/index.html',
+  'zh/symptoms/womens-health/breast-health-tcm/index.html',
   'symptoms/womens-health/index.html'
 ];
 
