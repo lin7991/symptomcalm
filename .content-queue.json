@@ -4,21 +4,6 @@
   "note": "每3小时自动生产一篇内容。从队列头部取，完成后移到 published。",
   "queue": [
     {
-      "title": "Cough Recovery in TCM: Why Your Cough Lingers After Illness",
-      "path": "/symptoms/respiratory-health/cough-recovery-tcm/",
-      "type": "cluster",
-      "parent": "respiratory-health",
-      "estimated_read_time": 7,
-      "keywords": [
-        "cough recovery TCM",
-        "lingering cough after cold",
-        "post viral cough TCM",
-        "lung recovery TCM",
-        "cough won't go away TCM"
-      ],
-      "id": "204"
-    },
-    {
       "title": "Weather-Triggered Back Pain in TCM: Cold, Damp & Your Lower Back",
       "path": "/symptoms/back-pain/weather-back-pain-tcm/",
       "type": "cluster",
@@ -2943,6 +2928,21 @@
         "throat tickle cough"
       ],
       "id": "203"
+    },
+    {
+      "title": "Cough Recovery in TCM: Why Your Cough Lingers After Illness",
+      "path": "/symptoms/respiratory-health/cough-recovery-tcm/",
+      "type": "cluster",
+      "parent": "respiratory-health",
+      "estimated_read_time": 7,
+      "keywords": [
+        "cough recovery TCM",
+        "lingering cough after cold",
+        "post viral cough TCM",
+        "lung recovery TCM",
+        "cough won't go away TCM"
+      ],
+      "id": "204"
     }
   ]
 }
