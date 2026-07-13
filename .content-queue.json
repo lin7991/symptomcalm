@@ -4,21 +4,6 @@
   "note": "每3小时自动生产一篇内容。从队列头部取，完成后移到 published。",
   "queue": [
     {
-      "title": "Breast Health in TCM: Understanding Lumps, Pain & Hormonal Balance",
-      "path": "/symptoms/womens-health/breast-health-tcm/",
-      "type": "cluster",
-      "parent": "womens-health",
-      "estimated_read_time": 8,
-      "keywords": [
-        "breast health TCM",
-        "breast pain Chinese medicine",
-        "liver qi stagnation breast",
-        "TCM breast cysts",
-        "breast health naturally"
-      ],
-      "id": "194"
-    },
-    {
       "title": "Urinary Health in TCM: Recurrent UTIs, Bladder Weakness & Kidney Support",
       "path": "/symptoms/womens-health/urinary-health-tcm/",
       "type": "cluster",
@@ -2943,6 +2928,21 @@
         "kidney back posture"
       ],
       "id": "193"
+    },
+    {
+      "title": "Breast Health in TCM: Understanding Lumps, Pain & Hormonal Balance",
+      "path": "/symptoms/womens-health/breast-health-tcm/",
+      "type": "cluster",
+      "parent": "womens-health",
+      "estimated_read_time": 8,
+      "keywords": [
+        "breast health TCM",
+        "breast pain Chinese medicine",
+        "liver qi stagnation breast",
+        "TCM breast cysts",
+        "breast health naturally"
+      ],
+      "id": "194"
     }
   ]
 }
