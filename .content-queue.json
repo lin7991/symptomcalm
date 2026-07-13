@@ -4,21 +4,6 @@
   "note": "每3小时自动生产一篇内容。从队列头部取，完成后移到 published。",
   "queue": [
     {
-      "title": "Stress and Hormones in TCM: Cortisol, HPA Axis & Your Cycle",
-      "path": "/symptoms/stress/stress-hormones-tcm/",
-      "type": "cluster",
-      "parent": "stress",
-      "estimated_read_time": 8,
-      "keywords": [
-        "stress hormones TCM",
-        "cortisol Chinese medicine",
-        "HPA axis TCM",
-        "stress menstrual cycle",
-        "adrenal fatigue TCM"
-      ],
-      "id": "197"
-    },
-    {
       "title": "Stress Fatigue in TCM: When Daily Exhaustion Won't Let Go",
       "path": "/symptoms/stress/stress-fatigue-tcm/",
       "type": "cluster",
@@ -2943,6 +2928,21 @@
         "vaginal microbiome TCM"
       ],
       "id": "196"
+    },
+    {
+      "title": "Stress and Hormones in TCM: Cortisol, HPA Axis & Your Cycle",
+      "path": "/symptoms/stress/stress-hormones-tcm/",
+      "type": "cluster",
+      "parent": "stress",
+      "estimated_read_time": 8,
+      "keywords": [
+        "stress hormones TCM",
+        "cortisol Chinese medicine",
+        "HPA axis TCM",
+        "stress menstrual cycle",
+        "adrenal fatigue TCM"
+      ],
+      "id": "197"
     }
   ]
 }
