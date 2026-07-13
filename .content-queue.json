@@ -4,21 +4,6 @@
   "note": "每3小时自动生产一篇内容。从队列头部取，完成后移到 published。",
   "queue": [
     {
-      "title": "Vaginal Health in TCM: Yeast Infections, BV & Immune Balance",
-      "path": "/symptoms/womens-health/vaginal-health-tcm/",
-      "type": "cluster",
-      "parent": "womens-health",
-      "estimated_read_time": 7,
-      "keywords": [
-        "yeast infection TCM",
-        "vaginitis Chinese medicine",
-        "damp heat vaginal",
-        "recurrent thrush TCM",
-        "vaginal microbiome TCM"
-      ],
-      "id": "196"
-    },
-    {
       "title": "Stress and Hormones in TCM: Cortisol, HPA Axis & Your Cycle",
       "path": "/symptoms/stress/stress-hormones-tcm/",
       "type": "cluster",
@@ -2943,6 +2928,21 @@
         "recurrent cystitis TCM"
       ],
       "id": "195"
+    },
+    {
+      "title": "Vaginal Health in TCM: Yeast Infections, BV & Immune Balance",
+      "path": "/symptoms/womens-health/vaginal-health-tcm/",
+      "type": "cluster",
+      "parent": "womens-health",
+      "estimated_read_time": 7,
+      "keywords": [
+        "yeast infection TCM",
+        "vaginitis Chinese medicine",
+        "damp heat vaginal",
+        "recurrent thrush TCM",
+        "vaginal microbiome TCM"
+      ],
+      "id": "196"
     }
   ]
 }
