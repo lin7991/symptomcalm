@@ -4,21 +4,6 @@
   "note": "每3小时自动生产一篇内容。从队列头部取，完成后移到 published。",
   "queue": [
     {
-      "title": "Weather-Triggered Back Pain in TCM: Cold, Damp & Your Lower Back",
-      "path": "/symptoms/back-pain/weather-back-pain-tcm/",
-      "type": "cluster",
-      "parent": "back-pain",
-      "estimated_read_time": 7,
-      "keywords": [
-        "weather back pain TCM",
-        "cold damp back pain",
-        "barometric pressure back pain",
-        "rain aggravates back pain",
-        "seasonal back pain TCM"
-      ],
-      "id": "205"
-    },
-    {
       "title": "Acupressure for Digestion: 5 Points to Relieve Bloating, Gas & Indigestion",
       "path": "/treatments/acupressure-digestion-tcm/",
       "type": "treatment",
@@ -62,6 +47,231 @@
         "seasonal wellness TCM"
       ],
       "id": "208"
+    },
+    {
+      "title": "Desk Posture & Back Pain: A TCM Guide to Spinal Health",
+      "path": "/symptoms/back-pain/desk-posture-tcm/",
+      "type": "cluster",
+      "parent": "back-pain",
+      "estimated_read_time": 7,
+      "keywords": [
+        "desk posture back pain",
+        "TCM ergonomics",
+        "sitting posture Chinese medicine",
+        "liver sinews",
+        "kidney deficiency posture"
+      ],
+      "id": "209"
+    },
+    {
+      "title": "Nausea Relief in TCM: Ginger, Acupressure & the Rebellious Stomach",
+      "path": "/symptoms/digestion/nausea-tcm/",
+      "type": "cluster",
+      "parent": "digestion",
+      "estimated_read_time": 7,
+      "keywords": [
+        "nausea TCM",
+        "Chinese medicine nausea",
+        "acupressure for nausea",
+        "ginger for nausea TCM",
+        "stomach qi rebellion"
+      ],
+      "id": "210"
+    },
+    {
+      "title": "Ocular Migraines from a TCM Perspective: Visual Disturbances & Liver Health",
+      "path": "/symptoms/headaches/ocular-migraine-tcm/",
+      "type": "cluster",
+      "parent": "headaches",
+      "estimated_read_time": 7,
+      "keywords": [
+        "ocular migraine TCM",
+        "visual migraine Chinese medicine",
+        "liver fire migraine",
+        "blood deficiency vision",
+        "migraine with aura"
+      ],
+      "id": "211"
+    },
+    {
+      "title": "Seasonal Fatigue in TCM: Why Your Energy Dips in Spring, Summer & Autumn",
+      "path": "/symptoms/fatigue/seasonal-fatigue-tcm/",
+      "type": "cluster",
+      "parent": "fatigue",
+      "estimated_read_time": 7,
+      "keywords": [
+        "seasonal fatigue TCM",
+        "spring fatigue Chinese medicine",
+        "autumn tiredness TCM",
+        "five seasons energy",
+        "seasonal energy patterns"
+      ],
+      "id": "212"
+    },
+    {
+      "title": "Uterine Fibroids in TCM: Blood Stasis, Phlegm & Gentle Support",
+      "path": "/symptoms/womens-health/fibroids-tcm/",
+      "type": "cluster",
+      "parent": "womens-health",
+      "estimated_read_time": 8,
+      "keywords": [
+        "uterine fibroids TCM",
+        "Chinese medicine fibroids",
+        "blood stasis fibroids",
+        "phlegm accumulation",
+        "women health Chinese medicine"
+      ],
+      "id": "213"
+    },
+    {
+      "title": "Emotional Eating in TCM: The Liver-Spleen Connection to Stress Cravings",
+      "path": "/symptoms/stress/emotional-eating-tcm/",
+      "type": "cluster",
+      "parent": "stress",
+      "estimated_read_time": 7,
+      "keywords": [
+        "emotional eating TCM",
+        "stress eating Chinese medicine",
+        "liver spleen imbalance",
+        "cravings TCM",
+        "mindful eating Chinese medicine"
+      ],
+      "id": "214"
+    },
+    {
+      "title": "Dry Skin Relief in TCM: Blood Deficiency, Wind-Dryness & Lung Yin Care",
+      "path": "/symptoms/skin-conditions/dry-skin-tcm/",
+      "type": "cluster",
+      "parent": "skin-conditions",
+      "estimated_read_time": 7,
+      "keywords": [
+        "dry skin TCM",
+        "Chinese medicine dry skin",
+        "blood deficiency dry skin",
+        "lung yin deficiency",
+        "wind-dryness skin"
+      ],
+      "id": "215"
+    },
+    {
+      "title": "Seasonal Affective Disorder (Winter Blues) in TCM: Kidney Yang & Light Therapy",
+      "path": "/symptoms/mental-emotional-health/seasonal-affective-tcm/",
+      "type": "cluster",
+      "parent": "mental-emotional-health",
+      "estimated_read_time": 8,
+      "keywords": [
+        "seasonal affective disorder TCM",
+        "winter blues Chinese medicine",
+        "SAD TCM",
+        "kidney yang deficiency",
+        "light therapy TCM perspective"
+      ],
+      "id": "216"
+    },
+    {
+      "title": "Pulse Diagnosis in TCM: What Practitioners Feel and Why It Matters",
+      "path": "/tcm-basics/pulse-diagnosis-tcm/",
+      "type": "tcm-basics",
+      "parent": "",
+      "estimated_read_time": 7,
+      "keywords": [
+        "pulse diagnosis TCM",
+        "Chinese pulse reading",
+        "TCM diagnostic methods",
+        "what pulse diagnosis feels",
+        "TCM tongue and pulse"
+      ],
+      "id": "217"
+    },
+    {
+      "title": "Seasonal Living in TCM: Aligning Your Diet & Lifestyle with the Five Seasons",
+      "path": "/tcm-basics/seasonal-living-tcm/",
+      "type": "tcm-basics",
+      "parent": "",
+      "estimated_read_time": 8,
+      "keywords": [
+        "seasonal living TCM",
+        "five seasons Chinese medicine",
+        "eating with seasons TCM",
+        "seasonal wellness Chinese medicine",
+        "TCM seasonal diet"
+      ],
+      "id": "218"
+    },
+    {
+      "title": "Meditation in TCM: Calming the Shen and Balancing Heart-Kidney Energy",
+      "path": "/treatments/meditation-tcm/",
+      "type": "treatment",
+      "parent": "",
+      "estimated_read_time": 7,
+      "keywords": [
+        "meditation TCM",
+        "Chinese medicine meditation",
+        "shen calming",
+        "heart kidney meditation",
+        "qi meditation"
+      ],
+      "id": "219"
+    },
+    {
+      "title": "TCM Herbal Baths & Foot Soaks: Relaxation, Sleep & Cold Prevention",
+      "path": "/treatments/herbal-baths-tcm/",
+      "type": "treatment",
+      "parent": "",
+      "estimated_read_time": 6,
+      "keywords": [
+        "herbal bath TCM",
+        "Chinese herbal foot soak",
+        "TCM bath therapy",
+        "herbal soak relaxation",
+        "mugwort bath TCM"
+      ],
+      "id": "220"
+    },
+    {
+      "title": "Hip Pain Relief in TCM: Gallbladder Meridian & Kidney Support",
+      "path": "/symptoms/joint-pain/hip-pain-tcm/",
+      "type": "cluster",
+      "parent": "joint-pain",
+      "estimated_read_time": 7,
+      "keywords": [
+        "hip pain TCM",
+        "hip pain Chinese medicine",
+        "gallbladder meridian hip",
+        "kidney deficiency hip pain",
+        "acupressure for hip pain"
+      ],
+      "id": "221"
+    },
+    {
+      "title": "Nasal Rinse & Sinus Health in TCM: Clearing Phlegm-Heat Naturally",
+      "path": "/symptoms/respiratory-health/sinus-rinse-tcm/",
+      "type": "cluster",
+      "parent": "respiratory-health",
+      "estimated_read_time": 6,
+      "keywords": [
+        "nasal rinse TCM",
+        "sinus rinse Chinese medicine",
+        "phlegm heat sinus",
+        "neti pot TCM",
+        "nasal irrigation sinuses"
+      ],
+      "id": "222"
+    },
+    {
+      "title": "Libido & Vitality in TCM: Kidney Essence, Liver Flow & Heart Connection",
+      "path": "/symptoms/womens-health/libido-tcm/",
+      "type": "cluster",
+      "parent": "womens-health",
+      "estimated_read_time": 7,
+      "keywords": [
+        "libido TCM",
+        "low libido Chinese medicine",
+        "kidney essence vitality",
+        "reproductive health TCM",
+        "liver qi libido"
+      ],
+      "id": "223"
     }
   ],
   "published": [
@@ -2943,6 +3153,21 @@
         "cough won't go away TCM"
       ],
       "id": "204"
+    },
+    {
+      "title": "Weather-Triggered Back Pain in TCM: Cold, Damp & Your Lower Back",
+      "path": "/symptoms/back-pain/weather-back-pain-tcm/",
+      "type": "cluster",
+      "parent": "back-pain",
+      "estimated_read_time": 7,
+      "keywords": [
+        "weather back pain TCM",
+        "cold damp back pain",
+        "barometric pressure back pain",
+        "rain aggravates back pain",
+        "seasonal back pain TCM"
+      ],
+      "id": "205"
     }
   ]
 }
