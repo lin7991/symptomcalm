@@ -4,21 +4,6 @@
   "note": "每3小时自动生产一篇内容。从队列头部取，完成后移到 published。",
   "queue": [
     {
-      "title": "Acupressure for Digestion: 5 Points to Relieve Bloating, Gas & Indigestion",
-      "path": "/treatments/acupressure-digestion-tcm/",
-      "type": "treatment",
-      "parent": "",
-      "estimated_read_time": 7,
-      "keywords": [
-        "acupressure digestion",
-        "acupressure points bloating",
-        "ST36 digestion",
-        "CV12 acupuncture",
-        "acupressure indigestion"
-      ],
-      "id": "206"
-    },
-    {
       "title": "Acupressure for Headaches: Pressure Points for Tension, Migraine & Sinus Relief",
       "path": "/treatments/acupressure-headaches-tcm/",
       "type": "treatment",
@@ -3168,6 +3153,21 @@
         "seasonal back pain TCM"
       ],
       "id": "205"
+    },
+    {
+      "title": "Acupressure for Digestion: 5 Points to Relieve Bloating, Gas & Indigestion",
+      "path": "/treatments/acupressure-digestion-tcm/",
+      "type": "treatment",
+      "parent": "",
+      "estimated_read_time": 7,
+      "keywords": [
+        "acupressure digestion",
+        "acupressure points bloating",
+        "ST36 digestion",
+        "CV12 acupuncture",
+        "acupressure indigestion"
+      ],
+      "id": "206"
     }
   ]
 }
