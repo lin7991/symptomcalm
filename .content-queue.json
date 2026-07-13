@@ -4,21 +4,6 @@
   "note": "每3小时自动生产一篇内容。从队列头部取，完成后移到 published。",
   "queue": [
     {
-      "title": "Dry Cough in TCM: Understanding the Difference Between Dry and Phlegmy Coughs",
-      "path": "/symptoms/respiratory-health/dry-cough-tcm/",
-      "type": "cluster",
-      "parent": "respiratory-health",
-      "estimated_read_time": 7,
-      "keywords": [
-        "dry cough TCM",
-        "lung yin deficiency cough",
-        "dry cough vs phlegmy cough",
-        "persistent dry cough TCM",
-        "throat tickle cough"
-      ],
-      "id": "203"
-    },
-    {
       "title": "Cough Recovery in TCM: Why Your Cough Lingers After Illness",
       "path": "/symptoms/respiratory-health/cough-recovery-tcm/",
       "type": "cluster",
@@ -2943,6 +2928,21 @@
         "can't focus TCM"
       ],
       "id": "202"
+    },
+    {
+      "title": "Dry Cough in TCM: Understanding the Difference Between Dry and Phlegmy Coughs",
+      "path": "/symptoms/respiratory-health/dry-cough-tcm/",
+      "type": "cluster",
+      "parent": "respiratory-health",
+      "estimated_read_time": 7,
+      "keywords": [
+        "dry cough TCM",
+        "lung yin deficiency cough",
+        "dry cough vs phlegmy cough",
+        "persistent dry cough TCM",
+        "throat tickle cough"
+      ],
+      "id": "203"
     }
   ]
 }
