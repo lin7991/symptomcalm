@@ -1231,6 +1231,11 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>https://symptomcalm.com/zh/symptoms/womens-health/breast-health-tcm/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://symptomcalm.com/zh/symptoms/womens-health/endometriosis-tcm/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
