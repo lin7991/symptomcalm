@@ -4,21 +4,6 @@
   "note": "每3小时自动生产一篇内容。从队列头部取，完成后移到 published。",
   "queue": [
     {
-      "title": "Night Sweats and Insomnia: A TCM Perspective on Sleep Disrupted by Heat",
-      "path": "/symptoms/insomnia/insomnia-night-sweats-tcm/",
-      "type": "cluster",
-      "parent": "insomnia",
-      "estimated_read_time": 7,
-      "keywords": [
-        "night sweats insomnia TCM",
-        "sleep disrupted by heat",
-        "yin deficiency night sweats",
-        "menopausal sleep TCM",
-        "hot flashes sleep"
-      ],
-      "id": "199"
-    },
-    {
       "title": "Winter Joint Pain in TCM: Why Cold Aggravates Stiffness & What Helps",
       "path": "/symptoms/joint-pain/winter-joint-pain-tcm/",
       "type": "cluster",
@@ -2943,6 +2928,21 @@
         "daily tiredness TCM"
       ],
       "id": "198"
+    },
+    {
+      "title": "Night Sweats and Insomnia: A TCM Perspective on Sleep Disrupted by Heat",
+      "path": "/symptoms/insomnia/insomnia-night-sweats-tcm/",
+      "type": "cluster",
+      "parent": "insomnia",
+      "estimated_read_time": 7,
+      "keywords": [
+        "night sweats insomnia TCM",
+        "sleep disrupted by heat",
+        "yin deficiency night sweats",
+        "menopausal sleep TCM",
+        "hot flashes sleep"
+      ],
+      "id": "199"
     }
   ]
 }
