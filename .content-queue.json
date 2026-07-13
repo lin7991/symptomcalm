@@ -4,21 +4,6 @@
   "note": "每3小时自动生产一篇内容。从队列头部取，完成后移到 published。",
   "queue": [
     {
-      "title": "Winter Joint Pain in TCM: Why Cold Aggravates Stiffness & What Helps",
-      "path": "/symptoms/joint-pain/winter-joint-pain-tcm/",
-      "type": "cluster",
-      "parent": "joint-pain",
-      "estimated_read_time": 7,
-      "keywords": [
-        "winter joint pain TCM",
-        "cold aggravates arthritis",
-        "cold damp bi syndrome",
-        "joint stiffness winter",
-        "seasonal joint pain TCM"
-      ],
-      "id": "200"
-    },
-    {
       "title": "Exercise and Joint Health in TCM: Movement Patterns That Support Your Connective Tissue",
       "path": "/symptoms/joint-pain/exercise-joint-health-tcm/",
       "type": "cluster",
@@ -2943,6 +2928,21 @@
         "hot flashes sleep"
       ],
       "id": "199"
+    },
+    {
+      "title": "Winter Joint Pain in TCM: Why Cold Aggravates Stiffness & What Helps",
+      "path": "/symptoms/joint-pain/winter-joint-pain-tcm/",
+      "type": "cluster",
+      "parent": "joint-pain",
+      "estimated_read_time": 7,
+      "keywords": [
+        "winter joint pain TCM",
+        "cold aggravates arthritis",
+        "cold damp bi syndrome",
+        "joint stiffness winter",
+        "seasonal joint pain TCM"
+      ],
+      "id": "200"
     }
   ]
 }
