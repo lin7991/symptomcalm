@@ -41,6 +41,11 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://symptomcalm.com/symptoms/allergies/allergy-relief-tcm/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://symptomcalm.com/symptoms/allergies/food-allergies-tcm/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
@@ -96,6 +101,11 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://symptomcalm.com/symptoms/anxiety/generalized-anxiety-tcm/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://symptomcalm.com/symptoms/anxiety/heart-fire-anxiety/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
@@ -136,12 +146,27 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://symptomcalm.com/symptoms/back-pain/desk-posture-tcm/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://symptomcalm.com/symptoms/back-pain/herbal-remedies-back-pain/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://symptomcalm.com/symptoms/back-pain/kidney-deficiency/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://symptomcalm.com/symptoms/back-pain/lower-back-kidney-tcm/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://symptomcalm.com/symptoms/back-pain/posture-back-health-tcm/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -156,6 +181,11 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://symptomcalm.com/symptoms/back-pain/weather-back-pain-tcm/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://symptomcalm.com/symptoms/digestion/</loc>
     <changefreq>weekly</changefreq>
     <priority>0.9</priority>
@@ -166,7 +196,22 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://symptomcalm.com/symptoms/digestion/bloating-tcm/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://symptomcalm.com/symptoms/digestion/constipation-tcm/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://symptomcalm.com/symptoms/digestion/dampness-and-bloating/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://symptomcalm.com/symptoms/digestion/diarrhea-tcm/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -186,7 +231,17 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://symptomcalm.com/symptoms/digestion/nausea-tcm/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://symptomcalm.com/symptoms/digestion/spleen-qi-deficiency/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://symptomcalm.com/symptoms/digestion/spleen-stomach-connection/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -197,6 +252,11 @@
   </url>
   <url>
     <loc>https://symptomcalm.com/symptoms/digestion/stomach-yin-deficiency/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://symptomcalm.com/symptoms/digestion/weight-management-tcm/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -216,6 +276,11 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://symptomcalm.com/symptoms/fatigue/chronic-fatigue-tcm/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://symptomcalm.com/symptoms/fatigue/dampness-fatigue/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
@@ -231,7 +296,17 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://symptomcalm.com/symptoms/fatigue/post-illness-fatigue-tcm/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://symptomcalm.com/symptoms/fatigue/qi-deficiency-diet/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://symptomcalm.com/symptoms/fatigue/seasonal-fatigue-tcm/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -266,12 +341,32 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://symptomcalm.com/symptoms/headaches/migraine-tcm/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://symptomcalm.com/symptoms/headaches/neck-tension-headache-tcm/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://symptomcalm.com/symptoms/headaches/ocular-migraine-tcm/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://symptomcalm.com/symptoms/headaches/sinus-headache-tcm/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://symptomcalm.com/symptoms/headaches/tension-headache-tcm/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://symptomcalm.com/symptoms/headaches/weather-headaches-tcm/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -301,6 +396,11 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://symptomcalm.com/symptoms/insomnia/insomnia-night-sweats-tcm/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://symptomcalm.com/symptoms/insomnia/liver-fire-insomnia/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
@@ -316,6 +416,11 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://symptomcalm.com/symptoms/insomnia/worry-insomnia-tcm/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://symptomcalm.com/symptoms/joint-pain/</loc>
     <changefreq>weekly</changefreq>
     <priority>0.9</priority>
@@ -326,7 +431,22 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://symptomcalm.com/symptoms/joint-pain/arthritis-tcm/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://symptomcalm.com/symptoms/joint-pain/bi-syndrome/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://symptomcalm.com/symptoms/joint-pain/carpal-tunnel-tcm/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://symptomcalm.com/symptoms/joint-pain/exercise-joint-health-tcm/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -356,9 +476,19 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://symptomcalm.com/symptoms/joint-pain/winter-joint-pain-tcm/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://symptomcalm.com/symptoms/mental-emotional-health/</loc>
     <changefreq>weekly</changefreq>
     <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://symptomcalm.com/symptoms/mental-emotional-health/anger-liver-tcm/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
   </url>
   <url>
     <loc>https://symptomcalm.com/symptoms/mental-emotional-health/anxiety-worry-spleen/</loc>
@@ -367,6 +497,16 @@
   </url>
   <url>
     <loc>https://symptomcalm.com/symptoms/mental-emotional-health/brain-fog-tcm/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://symptomcalm.com/symptoms/mental-emotional-health/depression-tcm/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://symptomcalm.com/symptoms/mental-emotional-health/emotional-resilience-tcm/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -381,12 +521,37 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://symptomcalm.com/symptoms/mental-emotional-health/overthinking-tcm/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://symptomcalm.com/symptoms/mental-emotional-health/overwhelm-tcm/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://symptomcalm.com/symptoms/mental-emotional-health/seasonal-affective-tcm/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://symptomcalm.com/symptoms/respiratory-health/</loc>
     <changefreq>weekly</changefreq>
     <priority>0.9</priority>
   </url>
   <url>
+    <loc>https://symptomcalm.com/symptoms/respiratory-health/allergic-rhinitis-tcm/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://symptomcalm.com/symptoms/respiratory-health/asthma-tcm/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://symptomcalm.com/symptoms/respiratory-health/bronchitis-tcm/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -396,7 +561,32 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://symptomcalm.com/symptoms/respiratory-health/cold-flu-tcm/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://symptomcalm.com/symptoms/respiratory-health/cough-recovery-tcm/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://symptomcalm.com/symptoms/respiratory-health/dry-cough-tcm/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://symptomcalm.com/symptoms/respiratory-health/lung-qi-exercises-tcm/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://symptomcalm.com/symptoms/respiratory-health/persistent-cough-phlegm/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://symptomcalm.com/symptoms/respiratory-health/post-antibiotic-tcm/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -411,6 +601,11 @@
     <priority>0.9</priority>
   </url>
   <url>
+    <loc>https://symptomcalm.com/symptoms/skin-conditions/acne-tcm/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://symptomcalm.com/symptoms/skin-conditions/blood-heat-acne/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
@@ -421,12 +616,22 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://symptomcalm.com/symptoms/skin-conditions/dry-skin-tcm/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://symptomcalm.com/symptoms/skin-conditions/eczema-tcm/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://symptomcalm.com/symptoms/skin-conditions/eczema-wind-damp/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://symptomcalm.com/symptoms/skin-conditions/hair-loss-tcm/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -466,6 +671,11 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://symptomcalm.com/symptoms/stress/emotional-eating-tcm/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://symptomcalm.com/symptoms/stress/liver-qi-stagnation-stress/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
@@ -481,7 +691,27 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://symptomcalm.com/symptoms/stress/stress-digestion-tcm/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://symptomcalm.com/symptoms/stress/stress-fatigue-tcm/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://symptomcalm.com/symptoms/stress/stress-hormones-tcm/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://symptomcalm.com/symptoms/stress/stress-insomnia-tcm/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://symptomcalm.com/symptoms/stress/stress-skin-tcm/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -496,12 +726,27 @@
     <priority>0.9</priority>
   </url>
   <url>
+    <loc>https://symptomcalm.com/symptoms/womens-health/breast-health-tcm/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://symptomcalm.com/symptoms/womens-health/endometriosis-tcm/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://symptomcalm.com/symptoms/womens-health/fertility-tcm/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://symptomcalm.com/symptoms/womens-health/fibroids-tcm/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://symptomcalm.com/symptoms/womens-health/hormonal-headaches-tcm/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -531,6 +776,11 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://symptomcalm.com/symptoms/womens-health/pms-cramps-tcm/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://symptomcalm.com/symptoms/womens-health/pms-liver-qi/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
@@ -546,6 +796,26 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://symptomcalm.com/symptoms/womens-health/pregnancy-tcm/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://symptomcalm.com/symptoms/womens-health/urinary-health-tcm/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://symptomcalm.com/symptoms/womens-health/vaginal-health-tcm/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://symptomcalm.com/symptoms/womens-health/women-over-40-tcm/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://symptomcalm.com/tcm-basics/blood-stasis-tcm/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
@@ -556,7 +826,17 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://symptomcalm.com/tcm-basics/dampness-tcm/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://symptomcalm.com/tcm-basics/emotions-and-organs/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://symptomcalm.com/tcm-basics/five-elements-daily-life/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -601,7 +881,22 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://symptomcalm.com/tcm-basics/meridians-explained/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://symptomcalm.com/tcm-basics/pulse-diagnosis-tcm/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://symptomcalm.com/tcm-basics/qi-stagnation-explained/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://symptomcalm.com/tcm-basics/six-excesses-tcm/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -617,6 +912,11 @@
   </url>
   <url>
     <loc>https://symptomcalm.com/tcm-basics/spleen-qi-sinking/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://symptomcalm.com/tcm-basics/spleen-stomach-axis/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -651,6 +951,11 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://symptomcalm.com/tcm-basics/yin-yang-daily-life/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://symptomcalm.com/tcm-basics/yin-yang-explained/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
@@ -661,12 +966,37 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://symptomcalm.com/treatments/acupressure-digestion-tcm/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://symptomcalm.com/treatments/acupressure-headaches-tcm/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://symptomcalm.com/treatments/acupressure-weight-management/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://symptomcalm.com/treatments/acupuncture/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://symptomcalm.com/treatments/acupuncture-beginners-guide/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://symptomcalm.com/treatments/chinese-herbal-formulas/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://symptomcalm.com/treatments/cupping-home-guide/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -686,7 +1016,17 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://symptomcalm.com/treatments/ear-acupuncture-guide/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://symptomcalm.com/treatments/gua-sha/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://symptomcalm.com/treatments/gua-sha-home-guide/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -701,7 +1041,27 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://symptomcalm.com/treatments/herbal-tea-guide-tcm/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://symptomcalm.com/treatments/moxibustion/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://symptomcalm.com/treatments/moxibustion-breech-baby/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://symptomcalm.com/treatments/moxibustion-home-guide/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://symptomcalm.com/treatments/qigong-beginners-guide/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -712,6 +1072,11 @@
   </url>
   <url>
     <loc>https://symptomcalm.com/treatments/tai-chi-qigong/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://symptomcalm.com/treatments/tcm-autumn-wellness/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -776,6 +1141,11 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>https://symptomcalm.com/zh/symptoms/allergies/allergy-relief-tcm/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://symptomcalm.com/zh/symptoms/allergies/food-allergies-tcm/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
@@ -831,6 +1201,11 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>https://symptomcalm.com/zh/symptoms/anxiety/generalized-anxiety-tcm/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://symptomcalm.com/zh/symptoms/anxiety/heart-fire-anxiety/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
@@ -881,6 +1256,11 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>https://symptomcalm.com/zh/symptoms/back-pain/posture-back-health-tcm/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://symptomcalm.com/zh/symptoms/back-pain/sciatica-tcm/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
@@ -897,6 +1277,11 @@
   </url>
   <url>
     <loc>https://symptomcalm.com/zh/symptoms/digestion/acid-reflux-tcm/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://symptomcalm.com/zh/symptoms/digestion/constipation-tcm/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -921,7 +1306,17 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>https://symptomcalm.com/zh/symptoms/digestion/nausea-tcm/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://symptomcalm.com/zh/symptoms/digestion/spleen-qi-deficiency/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://symptomcalm.com/zh/symptoms/digestion/spleen-stomach-connection/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -951,6 +1346,11 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>https://symptomcalm.com/zh/symptoms/fatigue/chronic-fatigue-tcm/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://symptomcalm.com/zh/symptoms/fatigue/dampness-fatigue/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
@@ -967,6 +1367,11 @@
   </url>
   <url>
     <loc>https://symptomcalm.com/zh/symptoms/fatigue/qi-deficiency-diet/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://symptomcalm.com/zh/symptoms/fatigue/seasonal-fatigue-tcm/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -1001,12 +1406,32 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>https://symptomcalm.com/zh/symptoms/headaches/migraine-tcm/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://symptomcalm.com/zh/symptoms/headaches/neck-tension-headache-tcm/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://symptomcalm.com/zh/symptoms/headaches/ocular-migraine-tcm/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://symptomcalm.com/zh/symptoms/headaches/sinus-headache-tcm/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://symptomcalm.com/zh/symptoms/headaches/tension-headache-tcm/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://symptomcalm.com/zh/symptoms/headaches/weather-headaches-tcm/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -1036,6 +1461,11 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>https://symptomcalm.com/zh/symptoms/insomnia/insomnia-night-sweats-tcm/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://symptomcalm.com/zh/symptoms/insomnia/liver-fire-insomnia/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
@@ -1047,6 +1477,11 @@
   </url>
   <url>
     <loc>https://symptomcalm.com/zh/symptoms/insomnia/sleep-tea-tcm/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://symptomcalm.com/zh/symptoms/insomnia/worry-insomnia-tcm/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -1091,6 +1526,11 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>https://symptomcalm.com/zh/symptoms/joint-pain/winter-joint-pain-tcm/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://symptomcalm.com/zh/symptoms/mental-emotional-health/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
@@ -1106,6 +1546,11 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>https://symptomcalm.com/zh/symptoms/mental-emotional-health/depression-tcm/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://symptomcalm.com/zh/symptoms/mental-emotional-health/fear-kidney-tcm/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
@@ -1116,7 +1561,17 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>https://symptomcalm.com/zh/symptoms/mental-emotional-health/overwhelm-tcm/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://symptomcalm.com/zh/symptoms/respiratory-health/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://symptomcalm.com/zh/symptoms/respiratory-health/allergic-rhinitis-tcm/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -1126,7 +1581,27 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>https://symptomcalm.com/zh/symptoms/respiratory-health/bronchitis-tcm/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://symptomcalm.com/zh/symptoms/respiratory-health/chronic-cough-tcm/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://symptomcalm.com/zh/symptoms/respiratory-health/cold-flu-tcm/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://symptomcalm.com/zh/symptoms/respiratory-health/cough-recovery-tcm/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://symptomcalm.com/zh/symptoms/respiratory-health/dry-cough-tcm/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -1146,6 +1621,11 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>https://symptomcalm.com/zh/symptoms/skin-conditions/acne-tcm/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://symptomcalm.com/zh/symptoms/skin-conditions/blood-heat-acne/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
@@ -1156,12 +1636,22 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>https://symptomcalm.com/zh/symptoms/skin-conditions/dry-skin-tcm/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://symptomcalm.com/zh/symptoms/skin-conditions/eczema-tcm/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://symptomcalm.com/zh/symptoms/skin-conditions/eczema-wind-damp/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://symptomcalm.com/zh/symptoms/skin-conditions/hair-loss-tcm/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -1216,7 +1706,17 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>https://symptomcalm.com/zh/symptoms/stress/stress-fatigue-tcm/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://symptomcalm.com/zh/symptoms/stress/stress-insomnia-tcm/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://symptomcalm.com/zh/symptoms/stress/stress-skin-tcm/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -1246,6 +1746,11 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>https://symptomcalm.com/zh/symptoms/womens-health/fibroids-tcm/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://symptomcalm.com/zh/symptoms/womens-health/liver-blood-menstrual-health/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
@@ -1271,6 +1776,11 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>https://symptomcalm.com/zh/symptoms/womens-health/pms-cramps-tcm/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://symptomcalm.com/zh/symptoms/womens-health/pms-liver-qi/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
@@ -1286,6 +1796,21 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>https://symptomcalm.com/zh/symptoms/womens-health/urinary-health-tcm/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://symptomcalm.com/zh/symptoms/womens-health/vaginal-health-tcm/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://symptomcalm.com/zh/symptoms/womens-health/women-over-40-tcm/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://symptomcalm.com/zh/tcm-basics/blood-stasis-tcm/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
@@ -1296,7 +1821,17 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>https://symptomcalm.com/zh/tcm-basics/dampness-tcm/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://symptomcalm.com/zh/tcm-basics/emotions-and-organs/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://symptomcalm.com/zh/tcm-basics/five-elements-daily-life/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -1341,7 +1876,22 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>https://symptomcalm.com/zh/tcm-basics/meridians-explained/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://symptomcalm.com/zh/tcm-basics/pulse-diagnosis-tcm/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://symptomcalm.com/zh/tcm-basics/qi-stagnation-explained/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://symptomcalm.com/zh/tcm-basics/six-excesses-tcm/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -1357,6 +1907,11 @@
   </url>
   <url>
     <loc>https://symptomcalm.com/zh/tcm-basics/spleen-qi-sinking/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://symptomcalm.com/zh/tcm-basics/spleen-stomach-axis/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -1391,6 +1946,11 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>https://symptomcalm.com/zh/tcm-basics/yin-yang-daily-life/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://symptomcalm.com/zh/tcm-basics/yin-yang-explained/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
@@ -1401,12 +1961,27 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>https://symptomcalm.com/zh/treatments/acupressure-digestion-tcm/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://symptomcalm.com/zh/treatments/acupuncture/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>https://symptomcalm.com/zh/treatments/acupuncture-beginners-guide/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://symptomcalm.com/zh/treatments/chinese-herbal-formulas/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://symptomcalm.com/zh/treatments/cupping-home-guide/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -1426,6 +2001,11 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>https://symptomcalm.com/zh/treatments/ear-acupuncture-guide/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://symptomcalm.com/zh/treatments/gua-sha/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
@@ -1441,7 +2021,27 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>https://symptomcalm.com/zh/treatments/herbal-tea-guide-tcm/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://symptomcalm.com/zh/treatments/moxibustion/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://symptomcalm.com/zh/treatments/moxibustion-breech-baby/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://symptomcalm.com/zh/treatments/moxibustion-home-guide/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://symptomcalm.com/zh/treatments/qigong-beginners-guide/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -1452,6 +2052,11 @@
   </url>
   <url>
     <loc>https://symptomcalm.com/zh/treatments/tai-chi-qigong/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://symptomcalm.com/zh/treatments/tcm-autumn-wellness/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -1479,380 +2084,5 @@
     <loc>https://symptomcalm.com/zh/treatments/tui-na-therapy-guide/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://symptomcalm.com/symptoms/mental-emotional-health/emotional-resilience-tcm/</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://symptomcalm.com/symptoms/stress/stress-skin-tcm/</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://symptomcalm.com/tcm-basics/five-elements-daily-life/</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://symptomcalm.com/treatments/moxibustion-breech-baby/</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://symptomcalm.com/symptoms/digestion/weight-management-tcm/</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://symptomcalm.com/symptoms/fatigue/chronic-fatigue-tcm/</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://symptomcalm.com/tcm-basics/spleen-stomach-axis/</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://symptomcalm.com/treatments/ear-acupuncture-guide/</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://symptomcalm.com/symptoms/respiratory-health/post-antibiotic-tcm/</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://symptomcalm.com/symptoms/headaches/migraine-tcm/</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://symptomcalm.com/symptoms/mental-emotional-health/depression-tcm/</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://symptomcalm.com/symptoms/skin-conditions/acne-tcm/</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://symptomcalm.com/symptoms/joint-pain/arthritis-tcm/</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://symptomcalm.com/symptoms/womens-health/pms-cramps-tcm/</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://symptomcalm.com/treatments/acupressure-weight-management/</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://symptomcalm.com/treatments/herbal-tea-guide-tcm/</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://symptomcalm.com/symptoms/stress/stress-digestion-tcm/</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://symptomcalm.com/symptoms/womens-health/women-over-40-tcm/</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://symptomcalm.com/symptoms/allergies/allergy-relief-tcm/</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://symptomcalm.com/symptoms/respiratory-health/persistent-cough-phlegm/</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://symptomcalm.com/symptoms/digestion/constipation-tcm/</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://symptomcalm.com/symptoms/digestion/diarrhea-tcm/</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://symptomcalm.com/symptoms/respiratory-health/cold-flu-tcm/</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://symptomcalm.com/symptoms/womens-health/pregnancy-tcm/</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://symptomcalm.com/symptoms/skin-conditions/hair-loss-tcm/</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://symptomcalm.com/symptoms/joint-pain/carpal-tunnel-tcm/</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://symptomcalm.com/treatments/acupuncture-beginners-guide/</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://symptomcalm.com/tcm-basics/yin-yang-daily-life/</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://symptomcalm.com/zh/treatments/acupuncture-beginners-guide/</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://symptomcalm.com/treatments/cupping-home-guide/</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://symptomcalm.com/symptoms/fatigue/post-illness-fatigue-tcm/</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://symptomcalm.com/symptoms/mental-emotional-health/anger-liver-tcm/</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://symptomcalm.com/symptoms/respiratory-health/allergic-rhinitis-tcm/</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://symptomcalm.com/symptoms/headaches/neck-tension-headache-tcm/</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://symptomcalm.com/treatments/moxibustion-home-guide/</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://symptomcalm.com/symptoms/mental-emotional-health/overthinking-tcm/</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://symptomcalm.com/symptoms/digestion/spleen-stomach-connection/</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://symptomcalm.com/symptoms/digestion/bloating-tcm/</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://symptomcalm.com/symptoms/headaches/weather-headaches-tcm/</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://symptomcalm.com/symptoms/back-pain/lower-back-kidney-tcm/</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://symptomcalm.com/symptoms/anxiety/generalized-anxiety-tcm/</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://symptomcalm.com/treatments/gua-sha-home-guide/</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://symptomcalm.com/tcm-basics/dampness-tcm/</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://symptomcalm.com/tcm-basics/six-excesses-tcm/</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://symptomcalm.com/tcm-basics/meridians-explained/</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://symptomcalm.com/symptoms/respiratory-health/bronchitis-tcm/</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://symptomcalm.com/symptoms/womens-health/hormonal-headaches-tcm/</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://symptomcalm.com/treatments/qigong-beginners-guide/</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://symptomcalm.com/zh/treatments/qigong-beginners-guide/</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://symptomcalm.com/symptoms/insomnia/worry-insomnia-tcm/</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://symptomcalm.com/symptoms/back-pain/posture-back-health-tcm/</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://symptomcalm.com/symptoms/womens-health/breast-health-tcm/</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://symptomcalm.com/symptoms/womens-health/urinary-health-tcm/</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://symptomcalm.com/symptoms/womens-health/vaginal-health-tcm/</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://symptomcalm.com/symptoms/stress/stress-hormones-tcm/</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://symptomcalm.com/symptoms/stress/stress-fatigue-tcm/</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://symptomcalm.com/symptoms/insomnia/insomnia-night-sweats-tcm/</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://symptomcalm.com/symptoms/joint-pain/winter-joint-pain-tcm/</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://symptomcalm.com/symptoms/joint-pain/exercise-joint-health-tcm/</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://symptomcalm.com/symptoms/mental-emotional-health/overwhelm-tcm/</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://symptomcalm.com/symptoms/respiratory-health/dry-cough-tcm/</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://symptomcalm.com/symptoms/respiratory-health/cough-recovery-tcm/</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://symptomcalm.com/symptoms/back-pain/weather-back-pain-tcm/</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://symptomcalm.com/treatments/acupressure-digestion-tcm/</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://symptomcalm.com/treatments/acupressure-headaches-tcm/</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://symptomcalm.com/treatments/tcm-autumn-wellness/</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://symptomcalm.com/symptoms/back-pain/desk-posture-tcm/</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://symptomcalm.com/symptoms/digestion/nausea-tcm/</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://symptomcalm.com/symptoms/headaches/ocular-migraine-tcm/</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://symptomcalm.com/symptoms/fatigue/seasonal-fatigue-tcm/</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://symptomcalm.com/symptoms/womens-health/fibroids-tcm/</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://symptomcalm.com/symptoms/stress/emotional-eating-tcm/</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://symptomcalm.com/symptoms/skin-conditions/dry-skin-tcm/</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://symptomcalm.com/symptoms/mental-emotional-health/seasonal-affective-tcm/</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://symptomcalm.com/tcm-basics/pulse-diagnosis-tcm/</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
   </url>
 </urlset>
