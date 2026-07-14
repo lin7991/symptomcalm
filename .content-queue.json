@@ -4,21 +4,6 @@
   "note": "每3小时自动生产一篇内容。从队列头部取，完成后移到 published。",
   "queue": [
     {
-      "title": "Seasonal Living in TCM: Aligning Your Diet & Lifestyle with the Five Seasons",
-      "path": "/tcm-basics/seasonal-living-tcm/",
-      "type": "tcm-basics",
-      "parent": "",
-      "estimated_read_time": 8,
-      "keywords": [
-        "seasonal living TCM",
-        "five seasons Chinese medicine",
-        "eating with seasons TCM",
-        "seasonal wellness Chinese medicine",
-        "TCM seasonal diet"
-      ],
-      "id": "218"
-    },
-    {
       "title": "Meditation in TCM: Calming the Shen and Balancing Heart-Kidney Energy",
       "path": "/treatments/meditation-tcm/",
       "type": "treatment",
@@ -3293,6 +3278,21 @@
         "TCM tongue and pulse"
       ],
       "id": "217"
+    },
+    {
+      "title": "Seasonal Living in TCM: Aligning Your Diet & Lifestyle with the Five Seasons",
+      "path": "/tcm-basics/seasonal-living-tcm/",
+      "type": "tcm-basics",
+      "parent": "",
+      "estimated_read_time": 8,
+      "keywords": [
+        "seasonal living TCM",
+        "five seasons Chinese medicine",
+        "eating with seasons TCM",
+        "seasonal wellness Chinese medicine",
+        "TCM seasonal diet"
+      ],
+      "id": "218"
     }
   ]
 }
