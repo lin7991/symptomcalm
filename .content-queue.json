@@ -4,21 +4,6 @@
   "note": "每3小时自动生产一篇内容。从队列头部取，完成后移到 published。",
   "queue": [
     {
-      "title": "Hip Pain Relief in TCM: Gallbladder Meridian & Kidney Support",
-      "path": "/symptoms/joint-pain/hip-pain-tcm/",
-      "type": "cluster",
-      "parent": "joint-pain",
-      "estimated_read_time": 7,
-      "keywords": [
-        "hip pain TCM",
-        "hip pain Chinese medicine",
-        "gallbladder meridian hip",
-        "kidney deficiency hip pain",
-        "acupressure for hip pain"
-      ],
-      "id": "221"
-    },
-    {
       "title": "Nasal Rinse & Sinus Health in TCM: Clearing Phlegm-Heat Naturally",
       "path": "/symptoms/respiratory-health/sinus-rinse-tcm/",
       "type": "cluster",
@@ -3293,6 +3278,21 @@
         "mugwort bath TCM"
       ],
       "id": "220"
+    },
+    {
+      "title": "Hip Pain Relief in TCM: Gallbladder Meridian & Kidney Support",
+      "path": "/symptoms/joint-pain/hip-pain-tcm/",
+      "type": "cluster",
+      "parent": "joint-pain",
+      "estimated_read_time": 7,
+      "keywords": [
+        "hip pain TCM",
+        "hip pain Chinese medicine",
+        "gallbladder meridian hip",
+        "kidney deficiency hip pain",
+        "acupressure for hip pain"
+      ],
+      "id": "221"
     }
   ]
 }
