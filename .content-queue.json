@@ -4,21 +4,6 @@
   "note": "每3小时自动生产一篇内容。从队列头部取，完成后移到 published。",
   "queue": [
     {
-      "title": "TCM Herbal Baths & Foot Soaks: Relaxation, Sleep & Cold Prevention",
-      "path": "/treatments/herbal-baths-tcm/",
-      "type": "treatment",
-      "parent": "",
-      "estimated_read_time": 6,
-      "keywords": [
-        "herbal bath TCM",
-        "Chinese herbal foot soak",
-        "TCM bath therapy",
-        "herbal soak relaxation",
-        "mugwort bath TCM"
-      ],
-      "id": "220"
-    },
-    {
       "title": "Hip Pain Relief in TCM: Gallbladder Meridian & Kidney Support",
       "path": "/symptoms/joint-pain/hip-pain-tcm/",
       "type": "cluster",
@@ -3293,6 +3278,21 @@
         "qi meditation"
       ],
       "id": "219"
+    },
+    {
+      "title": "TCM Herbal Baths & Foot Soaks: Relaxation, Sleep & Cold Prevention",
+      "path": "/treatments/herbal-baths-tcm/",
+      "type": "treatment",
+      "parent": "",
+      "estimated_read_time": 6,
+      "keywords": [
+        "herbal bath TCM",
+        "Chinese herbal foot soak",
+        "TCM bath therapy",
+        "herbal soak relaxation",
+        "mugwort bath TCM"
+      ],
+      "id": "220"
     }
   ]
 }
