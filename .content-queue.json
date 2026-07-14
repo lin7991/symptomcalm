@@ -4,21 +4,6 @@
   "note": "每3小时自动生产一篇内容。从队列头部取，完成后移到 published。",
   "queue": [
     {
-      "title": "Libido & Vitality in TCM: Kidney Essence, Liver Flow & Heart Connection",
-      "path": "/symptoms/womens-health/libido-tcm/",
-      "type": "cluster",
-      "parent": "womens-health",
-      "estimated_read_time": 7,
-      "keywords": [
-        "libido TCM",
-        "low libido Chinese medicine",
-        "kidney essence vitality",
-        "reproductive health TCM",
-        "liver qi libido"
-      ],
-      "id": "223"
-    },
-    {
       "title": "Foot Reflexology in TCM: Organ Mapping and Self-Care Techniques",
       "path": "/treatments/foot-reflexology-tcm/",
       "type": "treatment",
@@ -3293,6 +3278,21 @@
         "nasal irrigation sinuses"
       ],
       "id": "222"
+    },
+    {
+      "title": "Libido & Vitality in TCM: Kidney Essence, Liver Flow & Heart Connection",
+      "path": "/symptoms/womens-health/libido-tcm/",
+      "type": "cluster",
+      "parent": "womens-health",
+      "estimated_read_time": 7,
+      "keywords": [
+        "libido TCM",
+        "low libido Chinese medicine",
+        "kidney essence vitality",
+        "reproductive health TCM",
+        "liver qi libido"
+      ],
+      "id": "223"
     }
   ]
 }
