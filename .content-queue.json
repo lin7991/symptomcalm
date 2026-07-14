@@ -4,21 +4,6 @@
   "note": "每3小时自动生产一篇内容。从队列头部取，完成后移到 published。",
   "queue": [
     {
-      "title": "Emotional Eating in TCM: The Liver-Spleen Connection to Stress Cravings",
-      "path": "/symptoms/stress/emotional-eating-tcm/",
-      "type": "cluster",
-      "parent": "stress",
-      "estimated_read_time": 7,
-      "keywords": [
-        "emotional eating TCM",
-        "stress eating Chinese medicine",
-        "liver spleen imbalance",
-        "cravings TCM",
-        "mindful eating Chinese medicine"
-      ],
-      "id": "214"
-    },
-    {
       "title": "Dry Skin Relief in TCM: Blood Deficiency, Wind-Dryness & Lung Yin Care",
       "path": "/symptoms/skin-conditions/dry-skin-tcm/",
       "type": "cluster",
@@ -3168,6 +3153,21 @@
         "women health Chinese medicine"
       ],
       "id": "213"
+    },
+    {
+      "title": "Emotional Eating in TCM: The Liver-Spleen Connection to Stress Cravings",
+      "path": "/symptoms/stress/emotional-eating-tcm/",
+      "type": "cluster",
+      "parent": "stress",
+      "estimated_read_time": 7,
+      "keywords": [
+        "emotional eating TCM",
+        "stress eating Chinese medicine",
+        "liver spleen imbalance",
+        "cravings TCM",
+        "mindful eating Chinese medicine"
+      ],
+      "id": "214"
     }
   ]
 }
