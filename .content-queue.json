@@ -4,21 +4,6 @@
   "note": "每3小时自动生产一篇内容。从队列头部取，完成后移到 published。",
   "queue": [
     {
-      "title": "Nasal Rinse & Sinus Health in TCM: Clearing Phlegm-Heat Naturally",
-      "path": "/symptoms/respiratory-health/sinus-rinse-tcm/",
-      "type": "cluster",
-      "parent": "respiratory-health",
-      "estimated_read_time": 6,
-      "keywords": [
-        "nasal rinse TCM",
-        "sinus rinse Chinese medicine",
-        "phlegm heat sinus",
-        "neti pot TCM",
-        "nasal irrigation sinuses"
-      ],
-      "id": "222"
-    },
-    {
       "title": "Libido & Vitality in TCM: Kidney Essence, Liver Flow & Heart Connection",
       "path": "/symptoms/womens-health/libido-tcm/",
       "type": "cluster",
@@ -3293,6 +3278,21 @@
         "acupressure for hip pain"
       ],
       "id": "221"
+    },
+    {
+      "title": "Nasal Rinse & Sinus Health in TCM: Clearing Phlegm-Heat Naturally",
+      "path": "/symptoms/respiratory-health/sinus-rinse-tcm/",
+      "type": "cluster",
+      "parent": "respiratory-health",
+      "estimated_read_time": 6,
+      "keywords": [
+        "nasal rinse TCM",
+        "sinus rinse Chinese medicine",
+        "phlegm heat sinus",
+        "neti pot TCM",
+        "nasal irrigation sinuses"
+      ],
+      "id": "222"
     }
   ]
 }
