@@ -92,6 +92,131 @@
         "liver qi libido"
       ],
       "id": "223"
+    },
+    {
+      "title": "Foot Reflexology in TCM: Organ Mapping and Self-Care Techniques",
+      "path": "/treatments/foot-reflexology-tcm/",
+      "type": "treatment",
+      "estimated_read_time": 7,
+      "keywords": [
+        "foot reflexology",
+        "tcm reflexology",
+        "foot massage tcm",
+        "self-care tcm"
+      ],
+      "id": "224"
+    },
+    {
+      "title": "TCM Dietary Therapy for Seasonal Transition: Eating with the Calendar",
+      "path": "/treatments/seasonal-eating-tcm/",
+      "type": "treatment",
+      "estimated_read_time": 7,
+      "keywords": [
+        "seasonal eating",
+        "tcm diet",
+        "seasonal food tcm",
+        "five seasons tcm"
+      ],
+      "id": "225"
+    },
+    {
+      "title": "TCM Approach to Eye Health: Liver Blood, Kidney Essence and Vision",
+      "path": "/symptoms/eye-health/",
+      "type": "pillar",
+      "estimated_read_time": 8,
+      "keywords": [
+        "eye health tcm",
+        "vision tcm",
+        "liver blood eyes",
+        "dry eyes tcm"
+      ],
+      "id": "226"
+    },
+    {
+      "title": "Ear Health and Tinnitus: A TCM Perspective on Ringing Ears",
+      "path": "/symptoms/ear-health-tinnitus/",
+      "type": "pillar",
+      "estimated_read_time": 8,
+      "keywords": [
+        "tinnitus tcm",
+        "ear health tcm",
+        "ringing ears tcm",
+        "kidney opens ears"
+      ],
+      "id": "227"
+    },
+    {
+      "title": "TCM Summer Health Guide: Heart Fire, Heat Patterns and Seasonal Wellness",
+      "path": "/tcm-basics/summer-health-tcm/",
+      "type": "tcm-basics",
+      "estimated_read_time": 7,
+      "keywords": [
+        "summer health tcm",
+        "heart fire tcm",
+        "seasonal wellness tcm"
+      ],
+      "id": "228"
+    },
+    {
+      "title": "TCM Winter Wellness: Kidney Season, Cold Patterns and Nourishing the Body",
+      "path": "/tcm-basics/winter-wellness-tcm/",
+      "type": "tcm-basics",
+      "estimated_read_time": 7,
+      "keywords": [
+        "winter wellness tcm",
+        "kidney season tcm",
+        "cold patterns tcm"
+      ],
+      "id": "229"
+    },
+    {
+      "title": "Cupping Marks Decoded: What the Colors Tell You About Your Health",
+      "path": "/treatments/cupping-marks-guide/",
+      "type": "treatment",
+      "estimated_read_time": 6,
+      "keywords": [
+        "cupping marks",
+        "cupping colors",
+        "tcm diagnosis cupping"
+      ],
+      "id": "230"
+    },
+    {
+      "title": "TCM Tongue Diagnosis Guide: What Your Tongue Says About Your Health",
+      "path": "/tcm-basics/tongue-diagnosis-complete-guide/",
+      "type": "tcm-basics",
+      "estimated_read_time": 9,
+      "keywords": [
+        "tongue diagnosis tcm",
+        "tongue map tcm",
+        "tcm diagnosis tongue"
+      ],
+      "id": "231"
+    },
+    {
+      "title": "Emotional Roots of Illness in TCM: How Each Emotion Affects Your Organs",
+      "path": "/tcm-basics/emotional-roots-illness/",
+      "type": "tcm-basics",
+      "estimated_read_time": 8,
+      "keywords": [
+        "emotions tcm",
+        "emotional health tcm",
+        "tcm emotions organs"
+      ],
+      "id": "232"
+    },
+    {
+      "title": "TCM Herbal Tea Guide: 10 Common Formulas for Daily Health",
+      "path": "/treatments/herbal-tea-guide-tcm/",
+      "type": "treatment",
+      "estimated_read_time": 8,
+      "keywords": [
+        "tcm tea",
+        "herbal tea tcm",
+        "chinese herbal tea",
+        "daily health tcm"
+      ],
+      "id": "233"
     }
   ],
   "published": [
