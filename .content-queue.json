@@ -4,19 +4,6 @@
   "note": "每3小时自动生产一篇内容。从队列头部取，完成后移到 published。",
   "queue": [
     {
-      "title": "TCM Dietary Therapy for Seasonal Transition: Eating with the Calendar",
-      "path": "/treatments/seasonal-eating-tcm/",
-      "type": "treatment",
-      "estimated_read_time": 7,
-      "keywords": [
-        "seasonal eating",
-        "tcm diet",
-        "seasonal food tcm",
-        "five seasons tcm"
-      ],
-      "id": "225"
-    },
-    {
       "title": "TCM Approach to Eye Health: Liver Blood, Kidney Essence and Vision",
       "path": "/symptoms/eye-health/",
       "type": "pillar",
@@ -3293,6 +3280,19 @@
         "self-care tcm"
       ],
       "id": "224"
+    },
+    {
+      "title": "TCM Dietary Therapy for Seasonal Transition: Eating with the Calendar",
+      "path": "/treatments/seasonal-eating-tcm/",
+      "type": "treatment",
+      "estimated_read_time": 7,
+      "keywords": [
+        "seasonal eating",
+        "tcm diet",
+        "seasonal food tcm",
+        "five seasons tcm"
+      ],
+      "id": "225"
     }
   ]
 }
