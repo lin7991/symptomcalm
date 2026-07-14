@@ -4,19 +4,6 @@
   "note": "每3小时自动生产一篇内容。从队列头部取，完成后移到 published。",
   "queue": [
     {
-      "title": "Foot Reflexology in TCM: Organ Mapping and Self-Care Techniques",
-      "path": "/treatments/foot-reflexology-tcm/",
-      "type": "treatment",
-      "estimated_read_time": 7,
-      "keywords": [
-        "foot reflexology",
-        "tcm reflexology",
-        "foot massage tcm",
-        "self-care tcm"
-      ],
-      "id": "224"
-    },
-    {
       "title": "TCM Dietary Therapy for Seasonal Transition: Eating with the Calendar",
       "path": "/treatments/seasonal-eating-tcm/",
       "type": "treatment",
@@ -3293,6 +3280,19 @@
         "liver qi libido"
       ],
       "id": "223"
+    },
+    {
+      "title": "Foot Reflexology in TCM: Organ Mapping and Self-Care Techniques",
+      "path": "/treatments/foot-reflexology-tcm/",
+      "type": "treatment",
+      "estimated_read_time": 7,
+      "keywords": [
+        "foot reflexology",
+        "tcm reflexology",
+        "foot massage tcm",
+        "self-care tcm"
+      ],
+      "id": "224"
     }
   ]
 }
