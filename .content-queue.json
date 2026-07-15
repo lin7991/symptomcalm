@@ -4,19 +4,6 @@
   "note": "每3小时自动生产一篇内容。从队列头部取，完成后移到 published。",
   "queue": [
     {
-      "title": "Acupressure for Back Pain: Points to Relieve Tension",
-      "path": "/symptoms/back-pain/acupressure-back-pain-tcm/",
-      "type": "cluster",
-      "parent": "back-pain",
-      "estimated_read_time": 6,
-      "keywords": [
-        "acupressure back pain",
-        "back pain pressure points",
-        "self acupressure back"
-      ],
-      "id": "239"
-    },
-    {
       "title": "Fibromyalgia Through a TCM Lens: Patterns and Self-Care",
       "path": "/symptoms/joint-pain/fibromyalgia-tcm/",
       "type": "cluster",
@@ -3481,6 +3468,19 @@
         "gallbladder meridian neck"
       ],
       "id": "238"
+    },
+    {
+      "title": "Acupressure for Back Pain: Points to Relieve Tension",
+      "path": "/symptoms/back-pain/acupressure-back-pain-tcm/",
+      "type": "cluster",
+      "parent": "back-pain",
+      "estimated_read_time": 6,
+      "keywords": [
+        "acupressure back pain",
+        "back pain pressure points",
+        "self acupressure back"
+      ],
+      "id": "239"
     }
   ]
 }
