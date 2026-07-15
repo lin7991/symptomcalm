@@ -4,18 +4,6 @@
   "note": "每3小时自动生产一篇内容。从队列头部取，完成后移到 published。",
   "queue": [
     {
-      "title": "TCM Winter Wellness: Kidney Season, Cold Patterns and Nourishing the Body",
-      "path": "/tcm-basics/winter-wellness-tcm/",
-      "type": "tcm-basics",
-      "estimated_read_time": 7,
-      "keywords": [
-        "winter wellness tcm",
-        "kidney season tcm",
-        "cold patterns tcm"
-      ],
-      "id": "229"
-    },
-    {
       "title": "Cupping Marks Decoded: What the Colors Tell You About Your Health",
       "path": "/treatments/cupping-marks-guide/",
       "type": "treatment",
@@ -3293,6 +3281,18 @@
         "seasonal wellness tcm"
       ],
       "id": "228"
+    },
+    {
+      "title": "TCM Winter Wellness: Kidney Season, Cold Patterns and Nourishing the Body",
+      "path": "/tcm-basics/winter-wellness-tcm/",
+      "type": "tcm-basics",
+      "estimated_read_time": 7,
+      "keywords": [
+        "winter wellness tcm",
+        "kidney season tcm",
+        "cold patterns tcm"
+      ],
+      "id": "229"
     }
   ]
 }
