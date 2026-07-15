@@ -4,18 +4,6 @@
   "note": "每3小时自动生产一篇内容。从队列头部取，完成后移到 published。",
   "queue": [
     {
-      "title": "TCM Tongue Diagnosis Guide: What Your Tongue Says About Your Health",
-      "path": "/tcm-basics/tongue-diagnosis-complete-guide/",
-      "type": "tcm-basics",
-      "estimated_read_time": 9,
-      "keywords": [
-        "tongue diagnosis tcm",
-        "tongue map tcm",
-        "tcm diagnosis tongue"
-      ],
-      "id": "231"
-    },
-    {
       "title": "Emotional Roots of Illness in TCM: How Each Emotion Affects Your Organs",
       "path": "/tcm-basics/emotional-roots-illness/",
       "type": "tcm-basics",
@@ -3481,6 +3469,18 @@
         "tcm diagnosis cupping"
       ],
       "id": "230"
+    },
+    {
+      "title": "TCM Tongue Diagnosis Guide: What Your Tongue Says About Your Health",
+      "path": "/tcm-basics/tongue-diagnosis-complete-guide/",
+      "type": "tcm-basics",
+      "estimated_read_time": 9,
+      "keywords": [
+        "tongue diagnosis tcm",
+        "tongue map tcm",
+        "tcm diagnosis tongue"
+      ],
+      "id": "231"
     }
   ]
 }
