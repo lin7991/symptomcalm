@@ -4,19 +4,6 @@
   "note": "每3小时自动生产一篇内容。从队列头部取，完成后移到 published。",
   "queue": [
     {
-      "title": "The Tinnitus Diet: Foods That May Help Quiet the Ringing",
-      "path": "/symptoms/ear-health-tinnitus/tinnitus-diet-tcm/",
-      "type": "cluster",
-      "parent": "ear-health-tinnitus",
-      "estimated_read_time": 7,
-      "keywords": [
-        "tinnitus diet",
-        "foods for tinnitus relief",
-        "kidney yin diet"
-      ],
-      "id": "237"
-    },
-    {
       "title": "Neck Pain and TCM: Understanding Tension, Finding Relief",
       "path": "/symptoms/back-pain/neck-pain-tcm/",
       "type": "cluster",
@@ -3481,6 +3468,19 @@
         "kidney deficiency tinnitus"
       ],
       "id": "236"
+    },
+    {
+      "title": "The Tinnitus Diet: Foods That May Help Quiet the Ringing",
+      "path": "/symptoms/ear-health-tinnitus/tinnitus-diet-tcm/",
+      "type": "cluster",
+      "parent": "ear-health-tinnitus",
+      "estimated_read_time": 7,
+      "keywords": [
+        "tinnitus diet",
+        "foods for tinnitus relief",
+        "kidney yin diet"
+      ],
+      "id": "237"
     }
   ]
 }
