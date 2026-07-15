@@ -21,6 +21,7 @@ CONTENT_DIRS = [
     "symptoms/joint-pain", "symptoms/mental-emotional-health",
     "symptoms/respiratory-health", "symptoms/stress",
     "symptoms/eye-health",
+    "symptoms/ear-health-tinnitus",
     "tcm-basics",
     "treatments",
 ]
