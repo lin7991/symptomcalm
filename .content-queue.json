@@ -4,19 +4,6 @@
   "note": "每3小时自动生产一篇内容。从队列头部取，完成后移到 published。",
   "queue": [
     {
-      "title": "TCM Approach to Eye Health: Liver Blood, Kidney Essence and Vision",
-      "path": "/symptoms/eye-health/",
-      "type": "pillar",
-      "estimated_read_time": 8,
-      "keywords": [
-        "eye health tcm",
-        "vision tcm",
-        "liver blood eyes",
-        "dry eyes tcm"
-      ],
-      "id": "226"
-    },
-    {
       "title": "Ear Health and Tinnitus: A TCM Perspective on Ringing Ears",
       "path": "/symptoms/ear-health-tinnitus/",
       "type": "pillar",
@@ -3293,6 +3280,19 @@
         "five seasons tcm"
       ],
       "id": "225"
+    },
+    {
+      "title": "TCM Approach to Eye Health: Liver Blood, Kidney Essence and Vision",
+      "path": "/symptoms/eye-health/",
+      "type": "pillar",
+      "estimated_read_time": 8,
+      "keywords": [
+        "eye health tcm",
+        "vision tcm",
+        "liver blood eyes",
+        "dry eyes tcm"
+      ],
+      "id": "226"
     }
   ]
 }
