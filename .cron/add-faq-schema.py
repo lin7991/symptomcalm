@@ -20,6 +20,7 @@ CONTENT_DIRS = [
     "symptoms/allergies", "symptoms/skin-conditions", "symptoms/womens-health",
     "symptoms/joint-pain", "symptoms/mental-emotional-health",
     "symptoms/respiratory-health", "symptoms/stress",
+    "symptoms/eye-health",
     "tcm-basics",
     "treatments",
 ]
