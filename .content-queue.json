@@ -4,18 +4,6 @@
   "note": "每3小时自动生产一篇内容。从队列头部取，完成后移到 published。",
   "queue": [
     {
-      "title": "Emotional Roots of Illness in TCM: How Each Emotion Affects Your Organs",
-      "path": "/tcm-basics/emotional-roots-illness/",
-      "type": "tcm-basics",
-      "estimated_read_time": 8,
-      "keywords": [
-        "emotions tcm",
-        "emotional health tcm",
-        "tcm emotions organs"
-      ],
-      "id": "232"
-    },
-    {
       "title": "Digital Eye Strain: A TCM Guide to Screen Fatigue Relief",
       "path": "/symptoms/eye-health/digital-eye-strain-tcm/",
       "type": "cluster",
@@ -3481,6 +3469,18 @@
         "tcm diagnosis tongue"
       ],
       "id": "231"
+    },
+    {
+      "title": "Emotional Roots of Illness in TCM: How Each Emotion Affects Your Organs",
+      "path": "/tcm-basics/emotional-roots-illness/",
+      "type": "tcm-basics",
+      "estimated_read_time": 8,
+      "keywords": [
+        "emotions tcm",
+        "emotional health tcm",
+        "tcm emotions organs"
+      ],
+      "id": "232"
     }
   ]
 }
