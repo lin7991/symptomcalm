@@ -4,18 +4,6 @@
   "note": "每3小时自动生产一篇内容。从队列头部取，完成后移到 published。",
   "queue": [
     {
-      "title": "Cupping Marks Decoded: What the Colors Tell You About Your Health",
-      "path": "/treatments/cupping-marks-guide/",
-      "type": "treatment",
-      "estimated_read_time": 6,
-      "keywords": [
-        "cupping marks",
-        "cupping colors",
-        "tcm diagnosis cupping"
-      ],
-      "id": "230"
-    },
-    {
       "title": "TCM Tongue Diagnosis Guide: What Your Tongue Says About Your Health",
       "path": "/tcm-basics/tongue-diagnosis-complete-guide/",
       "type": "tcm-basics",
@@ -40,17 +28,205 @@
       "id": "232"
     },
     {
-      "title": "TCM Herbal Tea Guide: 10 Common Formulas for Daily Health",
-      "path": "/treatments/herbal-tea-guide-tcm/",
-      "type": "treatment",
-      "estimated_read_time": 8,
+      "title": "Digital Eye Strain: A TCM Guide to Screen Fatigue Relief",
+      "path": "/symptoms/eye-health/digital-eye-strain-tcm/",
+      "type": "cluster",
+      "parent": "eye-health",
+      "estimated_read_time": 6,
       "keywords": [
-        "tcm tea",
-        "herbal tea tcm",
-        "chinese herbal tea",
-        "daily health tcm"
+        "digital eye strain",
+        "computer vision syndrome tcm",
+        "screen fatigue",
+        "liver blood eyes"
       ],
       "id": "233"
+    },
+    {
+      "title": "Dry Eyes and TCM: Natural Approaches for Lasting Moisture",
+      "path": "/symptoms/eye-health/dry-eyes-tcm/",
+      "type": "cluster",
+      "parent": "eye-health",
+      "estimated_read_time": 6,
+      "keywords": [
+        "dry eyes tcm",
+        "liver yin deficiency eyes",
+        "dry eye syndrome natural"
+      ],
+      "id": "234"
+    },
+    {
+      "title": "Eye Acupressure Points: Simple Self-Care for Tired Eyes",
+      "path": "/symptoms/eye-health/eye-acupressure-tcm/",
+      "type": "cluster",
+      "parent": "eye-health",
+      "estimated_read_time": 6,
+      "keywords": [
+        "eye acupressure",
+        "acupressure points for eyes",
+        "tcm eye massage"
+      ],
+      "id": "235"
+    },
+    {
+      "title": "Tinnitus Relief Through TCM: Understanding the Ringing",
+      "path": "/symptoms/ear-health-tinnitus/tinnitus-relief-tcm/",
+      "type": "cluster",
+      "parent": "ear-health-tinnitus",
+      "estimated_read_time": 7,
+      "keywords": [
+        "tinnitus relief tcm",
+        "ear ringing natural treatment",
+        "kidney deficiency tinnitus"
+      ],
+      "id": "236"
+    },
+    {
+      "title": "The Tinnitus Diet: Foods That May Help Quiet the Ringing",
+      "path": "/symptoms/ear-health-tinnitus/tinnitus-diet-tcm/",
+      "type": "cluster",
+      "parent": "ear-health-tinnitus",
+      "estimated_read_time": 7,
+      "keywords": [
+        "tinnitus diet",
+        "foods for tinnitus relief",
+        "kidney yin diet"
+      ],
+      "id": "237"
+    },
+    {
+      "title": "Neck Pain and TCM: Understanding Tension, Finding Relief",
+      "path": "/symptoms/back-pain/neck-pain-tcm/",
+      "type": "cluster",
+      "parent": "back-pain",
+      "estimated_read_time": 6,
+      "keywords": [
+        "neck pain tcm",
+        "neck tension relief",
+        "gallbladder meridian neck"
+      ],
+      "id": "238"
+    },
+    {
+      "title": "Acupressure for Back Pain: Points to Relieve Tension",
+      "path": "/symptoms/back-pain/acupressure-back-pain-tcm/",
+      "type": "cluster",
+      "parent": "back-pain",
+      "estimated_read_time": 6,
+      "keywords": [
+        "acupressure back pain",
+        "back pain pressure points",
+        "self acupressure back"
+      ],
+      "id": "239"
+    },
+    {
+      "title": "Fibromyalgia Through a TCM Lens: Patterns and Self-Care",
+      "path": "/symptoms/joint-pain/fibromyalgia-tcm/",
+      "type": "cluster",
+      "parent": "joint-pain",
+      "estimated_read_time": 8,
+      "keywords": [
+        "fibromyalgia tcm",
+        "chronic pain tcm",
+        "liver qi stagnation fibromyalgia",
+        "spleen qi deficiency pain"
+      ],
+      "id": "240"
+    },
+    {
+      "title": "Menstrual Migraines: A TCM Guide to Hormonal Headaches",
+      "path": "/symptoms/womens-health/menstrual-migraine-tcm/",
+      "type": "cluster",
+      "parent": "womens-health",
+      "estimated_read_time": 7,
+      "keywords": [
+        "menstrual migraine tcm",
+        "hormonal headaches",
+        "period headaches tcm",
+        "liver fire headache"
+      ],
+      "id": "241"
+    },
+    {
+      "title": "ADHD and TCM: A Different Perspective on Focus and Calm",
+      "path": "/symptoms/mental-emotional-health/adhd-tcm/",
+      "type": "cluster",
+      "parent": "mental-emotional-health",
+      "estimated_read_time": 8,
+      "keywords": [
+        "adhd tcm",
+        "natural focus support",
+        "spleen qi adhd",
+        "kidney essence focus"
+      ],
+      "id": "242"
+    },
+    {
+      "title": "Self-Massage for Anxiety: Simple TCM Techniques for Calm",
+      "path": "/symptoms/anxiety/self-massage-anxiety-tcm/",
+      "type": "cluster",
+      "parent": "anxiety",
+      "estimated_read_time": 6,
+      "keywords": [
+        "self massage anxiety",
+        "acupressure for anxiety",
+        "tcm anxiety relief",
+        "pericardium meridian"
+      ],
+      "id": "243"
+    },
+    {
+      "title": "Burnout Recovery: A TCM Approach to Restoring Your Energy",
+      "path": "/symptoms/stress/burnout-recovery-tcm/",
+      "type": "cluster",
+      "parent": "stress",
+      "estimated_read_time": 8,
+      "keywords": [
+        "burnout recovery tcm",
+        "adrenal fatigue tcm",
+        "kidney qi deficiency burnout",
+        "spleen qi energy"
+      ],
+      "id": "244"
+    },
+    {
+      "title": "Cupping vs Massage: Which Therapy Is Right for You?",
+      "path": "/treatments/cupping-vs-massage/",
+      "type": "treatment",
+      "estimated_read_time": 7,
+      "keywords": [
+        "cupping vs massage",
+        "cupping therapy",
+        "tui na massage",
+        "muscle recovery techniques"
+      ],
+      "id": "245"
+    },
+    {
+      "title": "Moxibustion for Digestion: Warming the Spleen for Better Gut Health",
+      "path": "/treatments/moxibustion-digestion/",
+      "type": "treatment",
+      "estimated_read_time": 6,
+      "keywords": [
+        "moxibustion digestion",
+        "moxa for spleen",
+        "tcm digestive support",
+        "stomach meridian moxa"
+      ],
+      "id": "246"
+    },
+    {
+      "title": "Herbal Foot Baths for Sleep: A TCM Bedtime Ritual",
+      "path": "/treatments/foot-baths-sleep-tcm/",
+      "type": "treatment",
+      "estimated_read_time": 6,
+      "keywords": [
+        "herbal foot bath sleep",
+        "tcm foot soak",
+        "insomnia natural remedy",
+        "kidney yin foot bath"
+      ],
+      "id": "247"
     }
   ],
   "published": [
@@ -3293,6 +3469,18 @@
         "cold patterns tcm"
       ],
       "id": "229"
+    },
+    {
+      "title": "Cupping Marks Decoded: What the Colors Tell You About Your Health",
+      "path": "/treatments/cupping-marks-guide/",
+      "type": "treatment",
+      "estimated_read_time": 6,
+      "keywords": [
+        "cupping marks",
+        "cupping colors",
+        "tcm diagnosis cupping"
+      ],
+      "id": "230"
     }
   ]
 }
