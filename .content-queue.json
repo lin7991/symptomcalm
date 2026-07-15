@@ -4,19 +4,6 @@
   "note": "每3小时自动生产一篇内容。从队列头部取，完成后移到 published。",
   "queue": [
     {
-      "title": "Ear Health and Tinnitus: A TCM Perspective on Ringing Ears",
-      "path": "/symptoms/ear-health-tinnitus/",
-      "type": "pillar",
-      "estimated_read_time": 8,
-      "keywords": [
-        "tinnitus tcm",
-        "ear health tcm",
-        "ringing ears tcm",
-        "kidney opens ears"
-      ],
-      "id": "227"
-    },
-    {
       "title": "TCM Summer Health Guide: Heart Fire, Heat Patterns and Seasonal Wellness",
       "path": "/tcm-basics/summer-health-tcm/",
       "type": "tcm-basics",
@@ -3293,6 +3280,19 @@
         "dry eyes tcm"
       ],
       "id": "226"
+    },
+    {
+      "title": "Ear Health and Tinnitus: A TCM Perspective on Ringing Ears",
+      "path": "/symptoms/ear-health-tinnitus/",
+      "type": "pillar",
+      "estimated_read_time": 8,
+      "keywords": [
+        "tinnitus tcm",
+        "ear health tcm",
+        "ringing ears tcm",
+        "kidney opens ears"
+      ],
+      "id": "227"
     }
   ]
 }
