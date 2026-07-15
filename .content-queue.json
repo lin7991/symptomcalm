@@ -4,19 +4,6 @@
   "note": "每3小时自动生产一篇内容。从队列头部取，完成后移到 published。",
   "queue": [
     {
-      "title": "Eye Acupressure Points: Simple Self-Care for Tired Eyes",
-      "path": "/symptoms/eye-health/eye-acupressure-tcm/",
-      "type": "cluster",
-      "parent": "eye-health",
-      "estimated_read_time": 6,
-      "keywords": [
-        "eye acupressure",
-        "acupressure points for eyes",
-        "tcm eye massage"
-      ],
-      "id": "235"
-    },
-    {
       "title": "Tinnitus Relief Through TCM: Understanding the Ringing",
       "path": "/symptoms/ear-health-tinnitus/tinnitus-relief-tcm/",
       "type": "cluster",
@@ -3481,6 +3468,19 @@
         "dry eye syndrome natural"
       ],
       "id": "234"
+    },
+    {
+      "title": "Eye Acupressure Points: Simple Self-Care for Tired Eyes",
+      "path": "/symptoms/eye-health/eye-acupressure-tcm/",
+      "type": "cluster",
+      "parent": "eye-health",
+      "estimated_read_time": 6,
+      "keywords": [
+        "eye acupressure",
+        "acupressure points for eyes",
+        "tcm eye massage"
+      ],
+      "id": "235"
     }
   ]
 }
