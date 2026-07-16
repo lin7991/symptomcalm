@@ -4,19 +4,6 @@
   "note": "每3小时自动生产一篇内容。从队列头部取，完成后移到 published。",
   "queue": [
     {
-      "title": "Herbal Foot Baths for Sleep: A TCM Bedtime Ritual",
-      "path": "/treatments/foot-baths-sleep-tcm/",
-      "type": "treatment",
-      "estimated_read_time": 6,
-      "keywords": [
-        "herbal foot bath sleep",
-        "tcm foot soak",
-        "insomnia natural remedy",
-        "kidney yin foot bath"
-      ],
-      "id": "247"
-    },
-    {
       "title": "Vision Protection with TCM: Natural Support for Aging Eyes",
       "path": "/symptoms/eye-health/vision-protection-tcm/",
       "type": "cluster",
@@ -3706,6 +3693,19 @@
         "stomach meridian moxa"
       ],
       "id": "246"
+    },
+    {
+      "title": "Herbal Foot Baths for Sleep: A TCM Bedtime Ritual",
+      "path": "/treatments/foot-baths-sleep-tcm/",
+      "type": "treatment",
+      "estimated_read_time": 6,
+      "keywords": [
+        "herbal foot bath sleep",
+        "tcm foot soak",
+        "insomnia natural remedy",
+        "kidney yin foot bath"
+      ],
+      "id": "247"
     }
   ]
 }
