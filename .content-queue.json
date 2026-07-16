@@ -4,19 +4,6 @@
   "note": "每3小时自动生产一篇内容。从队列头部取，完成后移到 published。",
   "queue": [
     {
-      "title": "Cupping vs Massage: Which Therapy Is Right for You?",
-      "path": "/treatments/cupping-vs-massage/",
-      "type": "treatment",
-      "estimated_read_time": 7,
-      "keywords": [
-        "cupping vs massage",
-        "cupping therapy",
-        "tui na massage",
-        "muscle recovery techniques"
-      ],
-      "id": "245"
-    },
-    {
       "title": "Moxibustion for Digestion: Warming the Spleen for Better Gut Health",
       "path": "/treatments/moxibustion-digestion/",
       "type": "treatment",
@@ -3706,6 +3693,19 @@
         "spleen qi energy"
       ],
       "id": "244"
+    },
+    {
+      "title": "Cupping vs Massage: Which Therapy Is Right for You?",
+      "path": "/treatments/cupping-vs-massage/",
+      "type": "treatment",
+      "estimated_read_time": 7,
+      "keywords": [
+        "cupping vs massage",
+        "cupping therapy",
+        "tui na massage",
+        "muscle recovery techniques"
+      ],
+      "id": "245"
     }
   ]
 }
