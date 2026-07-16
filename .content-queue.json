@@ -4,21 +4,6 @@
   "note": "每3小时自动生产一篇内容。从队列头部取，完成后移到 published。",
   "queue": [
     {
-      "title": "Skin Allergies from a TCM Perspective: When Your Body's Surface Reacts",
-      "path": "/symptoms/allergies/skin-allergy-tcm/",
-      "type": "cluster",
-      "parent": "allergies",
-      "estimated_read_time": 7,
-      "keywords": [
-        "skin allergies TCM",
-        "hives natural",
-        "contact dermatitis TCM",
-        "weepy skin",
-        "wind-heat skin"
-      ],
-      "id": "250"
-    },
-    {
       "title": "Post-Exercise Recovery with TCM: Replenishing Energy Naturally",
       "path": "/symptoms/fatigue/post-exercise-recovery-tcm/",
       "type": "cluster",
@@ -3706,6 +3691,21 @@
         "tinnitus prevention"
       ],
       "id": "249"
+    },
+    {
+      "title": "Skin Allergies from a TCM Perspective: When Your Body's Surface Reacts",
+      "path": "/symptoms/allergies/skin-allergy-tcm/",
+      "type": "cluster",
+      "parent": "allergies",
+      "estimated_read_time": 7,
+      "keywords": [
+        "skin allergies TCM",
+        "hives natural",
+        "contact dermatitis TCM",
+        "weepy skin",
+        "wind-heat skin"
+      ],
+      "id": "250"
     }
   ]
 }
