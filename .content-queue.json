@@ -55,6 +55,231 @@
         "kidney yin foot bath"
       ],
       "id": "247"
+    },
+    {
+      "title": "Vision Protection with TCM: Natural Support for Aging Eyes",
+      "path": "/symptoms/eye-health/vision-protection-tcm/",
+      "type": "cluster",
+      "parent": "eye-health",
+      "estimated_read_time": 7,
+      "keywords": [
+        "vision protection",
+        "aging eyes",
+        "eye health TCM",
+        "liver blood",
+        "macular degeneration"
+      ],
+      "id": "248"
+    },
+    {
+      "title": "Ear Care the TCM Way: Supporting Hearing and Ear Health Naturally",
+      "path": "/symptoms/ear-health-tinnitus/ear-care-tcm/",
+      "type": "cluster",
+      "parent": "ear-health-tinnitus",
+      "estimated_read_time": 6,
+      "keywords": [
+        "ear care TCM",
+        "hearing support",
+        "kidney essence",
+        "ear health natural",
+        "tinnitus prevention"
+      ],
+      "id": "249"
+    },
+    {
+      "title": "Skin Allergies from a TCM Perspective: When Your Body's Surface Reacts",
+      "path": "/symptoms/allergies/skin-allergy-tcm/",
+      "type": "cluster",
+      "parent": "allergies",
+      "estimated_read_time": 7,
+      "keywords": [
+        "skin allergies TCM",
+        "hives natural",
+        "contact dermatitis TCM",
+        "weepy skin",
+        "wind-heat skin"
+      ],
+      "id": "250"
+    },
+    {
+      "title": "Post-Exercise Recovery with TCM: Replenishing Energy Naturally",
+      "path": "/symptoms/fatigue/post-exercise-recovery-tcm/",
+      "type": "cluster",
+      "parent": "fatigue",
+      "estimated_read_time": 7,
+      "keywords": [
+        "exercise recovery TCM",
+        "post-workout fatigue",
+        "qi replenishment",
+        "muscle recovery natural",
+        "soreness TCM"
+      ],
+      "id": "251"
+    },
+    {
+      "title": "The Five Elements in TCM: A Complete Guide to Wu Xing",
+      "path": "/tcm-basics/five-elements-explained/",
+      "type": "basics",
+      "parent": "",
+      "estimated_read_time": 9,
+      "keywords": [
+        "five elements TCM",
+        "wu xing",
+        "wood fire earth metal water",
+        "TCM elements explained",
+        "elemental theory"
+      ],
+      "id": "252"
+    },
+    {
+      "title": "The Organ Clock in TCM: Your Body's 24-Hour Energy Cycle",
+      "path": "/tcm-basics/organ-clock-tcm/",
+      "type": "basics",
+      "parent": "",
+      "estimated_read_time": 8,
+      "keywords": [
+        "organ clock TCM",
+        "Chinese body clock",
+        "circadian rhythm TCM",
+        "meridian clock",
+        "energy cycle traditional Chinese medicine"
+      ],
+      "id": "253"
+    },
+    {
+      "title": "TCM Body Constitution: Discover Your Unique Health Type",
+      "path": "/tcm-basics/tcm-body-constitution/",
+      "type": "basics",
+      "parent": "",
+      "estimated_read_time": 8,
+      "keywords": [
+        "TCM body type",
+        "constitution TCM",
+        "qi deficiency constitution",
+        "damp heat constitution",
+        "yang deficiency type"
+      ],
+      "id": "254"
+    },
+    {
+      "title": "Herbal Medicine Safety: A Practical Guide to TCM Herbs",
+      "path": "/treatments/herbal-medicine-safety/",
+      "type": "treatment",
+      "parent": "",
+      "estimated_read_time": 7,
+      "keywords": [
+        "herbal medicine safety",
+        "TCM herbs safety",
+        "Chinese herbal interactions",
+        "herb drug interactions",
+        "safe herbal use"
+      ],
+      "id": "255"
+    },
+    {
+      "title": "Qigong for Beginners: Gentle Movement for Energy and Calm",
+      "path": "/treatments/qigong-beginners/",
+      "type": "treatment",
+      "parent": "",
+      "estimated_read_time": 7,
+      "keywords": [
+        "qigong for beginners",
+        "qi gong exercises",
+        "gentle movement TCM",
+        "energy practice",
+        "meditation movement"
+      ],
+      "id": "256"
+    },
+    {
+      "title": "Racing Mind at Night? A TCM Approach to Calming Overthinking",
+      "path": "/symptoms/insomnia/racing-mind-tcm/",
+      "type": "cluster",
+      "parent": "insomnia",
+      "estimated_read_time": 7,
+      "keywords": [
+        "racing mind at night",
+        "overthinking sleep",
+        "heart shen imbalance",
+        "calm mind TCM",
+        "insomnia overthinking"
+      ],
+      "id": "257"
+    },
+    {
+      "title": "Irregular Periods and TCM: Understanding Your Menstrual Cycle",
+      "path": "/symptoms/womens-health/menstrual-irregularity-tcm/",
+      "type": "cluster",
+      "parent": "womens-health",
+      "estimated_read_time": 8,
+      "keywords": [
+        "irregular periods TCM",
+        "menstrual cycle TCM",
+        "liver blood stagnation",
+        "period regulation natural",
+        "women's health TCM"
+      ],
+      "id": "258"
+    },
+    {
+      "title": "Adrenal Reset with TCM: Rebuilding Your Energy Reserves",
+      "path": "/symptoms/stress/adrenal-reset-tcm/",
+      "type": "cluster",
+      "parent": "stress",
+      "estimated_read_time": 7,
+      "keywords": [
+        "adrenal fatigue TCM",
+        "adrenal reset",
+        "kidney qi deficiency",
+        "energy rebuilding",
+        "burnout recovery natural"
+      ],
+      "id": "259"
+    },
+    {
+      "title": "Acupressure for Digestion: Pressure Points for Gut Health",
+      "path": "/treatments/acupressure-digestion/",
+      "type": "treatment",
+      "parent": "",
+      "estimated_read_time": 7,
+      "keywords": [
+        "acupressure digestion",
+        "pressure points stomach",
+        "gut health acupressure",
+        "ST36 acupressure",
+        "digestive health TCM"
+      ],
+      "id": "260"
+    },
+    {
+      "title": "Moxibustion for Pain Relief: Gentle Heat Therapy Explained",
+      "path": "/treatments/moxibustion-pain/",
+      "type": "treatment",
+      "parent": "",
+      "estimated_read_time": 7,
+      "keywords": [
+        "moxibustion pain relief",
+        "moxa therapy",
+        "heat therapy TCM",
+        "chronic pain moxibustion",
+        "mugwort therapy"
+      ],
+      "id": "261"
+    },
+    {
+      "title": "Respiratory Diet: Foods That Support Lung Health in TCM",
+      "path": "/symptoms/respiratory-health/respiratory-diet-tcm/",
+      "type": "cluster",
+      "parent": "respiratory-health",
+      "estimated_read_time": 7,
+      "keywords": [
+        "lung health diet TCM",
+        "food for lungs",
+        "respiratory diet",
+        "lung qi food",
+        "phlegm reducing diet"
+      ],
+      "id": "262"
     }
   ],
   "published": [
