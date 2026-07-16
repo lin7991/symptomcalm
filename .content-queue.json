@@ -4,20 +4,6 @@
   "note": "每3小时自动生产一篇内容。从队列头部取，完成后移到 published。",
   "queue": [
     {
-      "title": "Menstrual Migraines: A TCM Guide to Hormonal Headaches",
-      "path": "/symptoms/womens-health/menstrual-migraine-tcm/",
-      "type": "cluster",
-      "parent": "womens-health",
-      "estimated_read_time": 7,
-      "keywords": [
-        "menstrual migraine tcm",
-        "hormonal headaches",
-        "period headaches tcm",
-        "liver fire headache"
-      ],
-      "id": "241"
-    },
-    {
       "title": "ADHD and TCM: A Different Perspective on Focus and Calm",
       "path": "/symptoms/mental-emotional-health/adhd-tcm/",
       "type": "cluster",
@@ -3481,6 +3467,20 @@
         "spleen qi deficiency pain"
       ],
       "id": "240"
+    },
+    {
+      "title": "Menstrual Migraines: A TCM Guide to Hormonal Headaches",
+      "path": "/symptoms/womens-health/menstrual-migraine-tcm/",
+      "type": "cluster",
+      "parent": "womens-health",
+      "estimated_read_time": 7,
+      "keywords": [
+        "menstrual migraine tcm",
+        "hormonal headaches",
+        "period headaches tcm",
+        "liver fire headache"
+      ],
+      "id": "241"
     }
   ]
 }
