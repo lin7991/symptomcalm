@@ -4,20 +4,6 @@
   "note": "每3小时自动生产一篇内容。从队列头部取，完成后移到 published。",
   "queue": [
     {
-      "title": "Burnout Recovery: A TCM Approach to Restoring Your Energy",
-      "path": "/symptoms/stress/burnout-recovery-tcm/",
-      "type": "cluster",
-      "parent": "stress",
-      "estimated_read_time": 8,
-      "keywords": [
-        "burnout recovery tcm",
-        "adrenal fatigue tcm",
-        "kidney qi deficiency burnout",
-        "spleen qi energy"
-      ],
-      "id": "244"
-    },
-    {
       "title": "Cupping vs Massage: Which Therapy Is Right for You?",
       "path": "/treatments/cupping-vs-massage/",
       "type": "treatment",
@@ -3706,6 +3692,20 @@
         "pericardium meridian"
       ],
       "id": "243"
+    },
+    {
+      "title": "Burnout Recovery: A TCM Approach to Restoring Your Energy",
+      "path": "/symptoms/stress/burnout-recovery-tcm/",
+      "type": "cluster",
+      "parent": "stress",
+      "estimated_read_time": 8,
+      "keywords": [
+        "burnout recovery tcm",
+        "adrenal fatigue tcm",
+        "kidney qi deficiency burnout",
+        "spleen qi energy"
+      ],
+      "id": "244"
     }
   ]
 }
