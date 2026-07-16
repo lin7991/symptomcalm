@@ -4,20 +4,6 @@
   "note": "每3小时自动生产一篇内容。从队列头部取，完成后移到 published。",
   "queue": [
     {
-      "title": "ADHD and TCM: A Different Perspective on Focus and Calm",
-      "path": "/symptoms/mental-emotional-health/adhd-tcm/",
-      "type": "cluster",
-      "parent": "mental-emotional-health",
-      "estimated_read_time": 8,
-      "keywords": [
-        "adhd tcm",
-        "natural focus support",
-        "spleen qi adhd",
-        "kidney essence focus"
-      ],
-      "id": "242"
-    },
-    {
       "title": "Self-Massage for Anxiety: Simple TCM Techniques for Calm",
       "path": "/symptoms/anxiety/self-massage-anxiety-tcm/",
       "type": "cluster",
@@ -3481,6 +3467,20 @@
         "liver fire headache"
       ],
       "id": "241"
+    },
+    {
+      "title": "ADHD and TCM: A Different Perspective on Focus and Calm",
+      "path": "/symptoms/mental-emotional-health/adhd-tcm/",
+      "type": "cluster",
+      "parent": "mental-emotional-health",
+      "estimated_read_time": 8,
+      "keywords": [
+        "adhd tcm",
+        "natural focus support",
+        "spleen qi adhd",
+        "kidney essence focus"
+      ],
+      "id": "242"
     }
   ]
 }
