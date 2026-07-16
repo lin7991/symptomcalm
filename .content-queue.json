@@ -4,21 +4,6 @@
   "note": "每3小时自动生产一篇内容。从队列头部取，完成后移到 published。",
   "queue": [
     {
-      "title": "TCM Body Constitution: Discover Your Unique Health Type",
-      "path": "/tcm-basics/tcm-body-constitution/",
-      "type": "basics",
-      "parent": "",
-      "estimated_read_time": 8,
-      "keywords": [
-        "TCM body type",
-        "constitution TCM",
-        "qi deficiency constitution",
-        "damp heat constitution",
-        "yang deficiency type"
-      ],
-      "id": "254"
-    },
-    {
       "title": "Herbal Medicine Safety: A Practical Guide to TCM Herbs",
       "path": "/treatments/herbal-medicine-safety/",
       "type": "treatment",
@@ -3706,6 +3691,21 @@
         "energy cycle traditional Chinese medicine"
       ],
       "id": "253"
+    },
+    {
+      "title": "TCM Body Constitution: Discover Your Unique Health Type",
+      "path": "/tcm-basics/tcm-body-constitution/",
+      "type": "basics",
+      "parent": "",
+      "estimated_read_time": 8,
+      "keywords": [
+        "TCM body type",
+        "constitution TCM",
+        "qi deficiency constitution",
+        "damp heat constitution",
+        "yang deficiency type"
+      ],
+      "id": "254"
     }
   ]
 }
