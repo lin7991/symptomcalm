@@ -4,21 +4,6 @@
   "note": "每3小时自动生产一篇内容。从队列头部取，完成后移到 published。",
   "queue": [
     {
-      "title": "Ear Care the TCM Way: Supporting Hearing and Ear Health Naturally",
-      "path": "/symptoms/ear-health-tinnitus/ear-care-tcm/",
-      "type": "cluster",
-      "parent": "ear-health-tinnitus",
-      "estimated_read_time": 6,
-      "keywords": [
-        "ear care TCM",
-        "hearing support",
-        "kidney essence",
-        "ear health natural",
-        "tinnitus prevention"
-      ],
-      "id": "249"
-    },
-    {
       "title": "Skin Allergies from a TCM Perspective: When Your Body's Surface Reacts",
       "path": "/symptoms/allergies/skin-allergy-tcm/",
       "type": "cluster",
@@ -3706,6 +3691,21 @@
         "macular degeneration"
       ],
       "id": "248"
+    },
+    {
+      "title": "Ear Care the TCM Way: Supporting Hearing and Ear Health Naturally",
+      "path": "/symptoms/ear-health-tinnitus/ear-care-tcm/",
+      "type": "cluster",
+      "parent": "ear-health-tinnitus",
+      "estimated_read_time": 6,
+      "keywords": [
+        "ear care TCM",
+        "hearing support",
+        "kidney essence",
+        "ear health natural",
+        "tinnitus prevention"
+      ],
+      "id": "249"
     }
   ]
 }
