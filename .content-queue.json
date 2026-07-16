@@ -4,21 +4,6 @@
   "note": "每3小时自动生产一篇内容。从队列头部取，完成后移到 published。",
   "queue": [
     {
-      "title": "Herbal Medicine Safety: A Practical Guide to TCM Herbs",
-      "path": "/treatments/herbal-medicine-safety/",
-      "type": "treatment",
-      "parent": "",
-      "estimated_read_time": 7,
-      "keywords": [
-        "herbal medicine safety",
-        "TCM herbs safety",
-        "Chinese herbal interactions",
-        "herb drug interactions",
-        "safe herbal use"
-      ],
-      "id": "255"
-    },
-    {
       "title": "Qigong for Beginners: Gentle Movement for Energy and Calm",
       "path": "/treatments/qigong-beginners/",
       "type": "treatment",
@@ -3706,6 +3691,21 @@
         "yang deficiency type"
       ],
       "id": "254"
+    },
+    {
+      "title": "Herbal Medicine Safety: A Practical Guide to TCM Herbs",
+      "path": "/treatments/herbal-medicine-safety/",
+      "type": "treatment",
+      "parent": "",
+      "estimated_read_time": 7,
+      "keywords": [
+        "herbal medicine safety",
+        "TCM herbs safety",
+        "Chinese herbal interactions",
+        "herb drug interactions",
+        "safe herbal use"
+      ],
+      "id": "255"
     }
   ]
 }
