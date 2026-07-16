@@ -4,19 +4,6 @@
   "note": "每3小时自动生产一篇内容。从队列头部取，完成后移到 published。",
   "queue": [
     {
-      "title": "Moxibustion for Digestion: Warming the Spleen for Better Gut Health",
-      "path": "/treatments/moxibustion-digestion/",
-      "type": "treatment",
-      "estimated_read_time": 6,
-      "keywords": [
-        "moxibustion digestion",
-        "moxa for spleen",
-        "tcm digestive support",
-        "stomach meridian moxa"
-      ],
-      "id": "246"
-    },
-    {
       "title": "Herbal Foot Baths for Sleep: A TCM Bedtime Ritual",
       "path": "/treatments/foot-baths-sleep-tcm/",
       "type": "treatment",
@@ -3706,6 +3693,19 @@
         "muscle recovery techniques"
       ],
       "id": "245"
+    },
+    {
+      "title": "Moxibustion for Digestion: Warming the Spleen for Better Gut Health",
+      "path": "/treatments/moxibustion-digestion/",
+      "type": "treatment",
+      "estimated_read_time": 6,
+      "keywords": [
+        "moxibustion digestion",
+        "moxa for spleen",
+        "tcm digestive support",
+        "stomach meridian moxa"
+      ],
+      "id": "246"
     }
   ]
 }
