@@ -4,21 +4,6 @@
   "note": "每3小时自动生产一篇内容。从队列头部取，完成后移到 published。",
   "queue": [
     {
-      "title": "Vision Protection with TCM: Natural Support for Aging Eyes",
-      "path": "/symptoms/eye-health/vision-protection-tcm/",
-      "type": "cluster",
-      "parent": "eye-health",
-      "estimated_read_time": 7,
-      "keywords": [
-        "vision protection",
-        "aging eyes",
-        "eye health TCM",
-        "liver blood",
-        "macular degeneration"
-      ],
-      "id": "248"
-    },
-    {
       "title": "Ear Care the TCM Way: Supporting Hearing and Ear Health Naturally",
       "path": "/symptoms/ear-health-tinnitus/ear-care-tcm/",
       "type": "cluster",
@@ -3706,6 +3691,21 @@
         "kidney yin foot bath"
       ],
       "id": "247"
+    },
+    {
+      "title": "Vision Protection with TCM: Natural Support for Aging Eyes",
+      "path": "/symptoms/eye-health/vision-protection-tcm/",
+      "type": "cluster",
+      "parent": "eye-health",
+      "estimated_read_time": 7,
+      "keywords": [
+        "vision protection",
+        "aging eyes",
+        "eye health TCM",
+        "liver blood",
+        "macular degeneration"
+      ],
+      "id": "248"
     }
   ]
 }
