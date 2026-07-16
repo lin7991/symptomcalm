@@ -4,21 +4,6 @@
   "note": "每3小时自动生产一篇内容。从队列头部取，完成后移到 published。",
   "queue": [
     {
-      "title": "Qigong for Beginners: Gentle Movement for Energy and Calm",
-      "path": "/treatments/qigong-beginners/",
-      "type": "treatment",
-      "parent": "",
-      "estimated_read_time": 7,
-      "keywords": [
-        "qigong for beginners",
-        "qi gong exercises",
-        "gentle movement TCM",
-        "energy practice",
-        "meditation movement"
-      ],
-      "id": "256"
-    },
-    {
       "title": "Racing Mind at Night? A TCM Approach to Calming Overthinking",
       "path": "/symptoms/insomnia/racing-mind-tcm/",
       "type": "cluster",
@@ -3706,6 +3691,21 @@
         "safe herbal use"
       ],
       "id": "255"
+    },
+    {
+      "title": "Qigong for Beginners: Gentle Movement for Energy and Calm",
+      "path": "/treatments/qigong-beginners/",
+      "type": "treatment",
+      "parent": "",
+      "estimated_read_time": 7,
+      "keywords": [
+        "qigong for beginners",
+        "qi gong exercises",
+        "gentle movement TCM",
+        "energy practice",
+        "meditation movement"
+      ],
+      "id": "256"
     }
   ]
 }
