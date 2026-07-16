@@ -4,21 +4,6 @@
   "note": "每3小时自动生产一篇内容。从队列头部取，完成后移到 published。",
   "queue": [
     {
-      "title": "Post-Exercise Recovery with TCM: Replenishing Energy Naturally",
-      "path": "/symptoms/fatigue/post-exercise-recovery-tcm/",
-      "type": "cluster",
-      "parent": "fatigue",
-      "estimated_read_time": 7,
-      "keywords": [
-        "exercise recovery TCM",
-        "post-workout fatigue",
-        "qi replenishment",
-        "muscle recovery natural",
-        "soreness TCM"
-      ],
-      "id": "251"
-    },
-    {
       "title": "The Five Elements in TCM: A Complete Guide to Wu Xing",
       "path": "/tcm-basics/five-elements-explained/",
       "type": "basics",
@@ -3706,6 +3691,21 @@
         "wind-heat skin"
       ],
       "id": "250"
+    },
+    {
+      "title": "Post-Exercise Recovery with TCM: Replenishing Energy Naturally",
+      "path": "/symptoms/fatigue/post-exercise-recovery-tcm/",
+      "type": "cluster",
+      "parent": "fatigue",
+      "estimated_read_time": 7,
+      "keywords": [
+        "exercise recovery TCM",
+        "post-workout fatigue",
+        "qi replenishment",
+        "muscle recovery natural",
+        "soreness TCM"
+      ],
+      "id": "251"
     }
   ]
 }
