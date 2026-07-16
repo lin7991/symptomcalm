@@ -4,21 +4,6 @@
   "note": "每3小时自动生产一篇内容。从队列头部取，完成后移到 published。",
   "queue": [
     {
-      "title": "The Organ Clock in TCM: Your Body's 24-Hour Energy Cycle",
-      "path": "/tcm-basics/organ-clock-tcm/",
-      "type": "basics",
-      "parent": "",
-      "estimated_read_time": 8,
-      "keywords": [
-        "organ clock TCM",
-        "Chinese body clock",
-        "circadian rhythm TCM",
-        "meridian clock",
-        "energy cycle traditional Chinese medicine"
-      ],
-      "id": "253"
-    },
-    {
       "title": "TCM Body Constitution: Discover Your Unique Health Type",
       "path": "/tcm-basics/tcm-body-constitution/",
       "type": "basics",
@@ -3706,6 +3691,21 @@
         "elemental theory"
       ],
       "id": "252"
+    },
+    {
+      "title": "The Organ Clock in TCM: Your Body's 24-Hour Energy Cycle",
+      "path": "/tcm-basics/organ-clock-tcm/",
+      "type": "basics",
+      "parent": "",
+      "estimated_read_time": 8,
+      "keywords": [
+        "organ clock TCM",
+        "Chinese body clock",
+        "circadian rhythm TCM",
+        "meridian clock",
+        "energy cycle traditional Chinese medicine"
+      ],
+      "id": "253"
     }
   ]
 }
