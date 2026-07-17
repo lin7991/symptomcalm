@@ -4,11 +4,6 @@
   "note": "每3小时自动生产一篇内容。从队列头部取，完成后移到 published。",
   "queue": [
     {
-      "id": "264",
-      "path": "/symptoms/ear-health-tinnitus/tinnitus-anxiety-tcm/",
-      "type": "symptom"
-    },
-    {
       "id": "265",
       "path": "/symptoms/anxiety/anxiety-and-digestion-tcm/",
       "type": "symptom"
@@ -3765,6 +3760,11 @@
     {
       "id": "263",
       "path": "/symptoms/ear-health-tinnitus/hearing-loss-tcm/",
+      "type": "symptom"
+    },
+    {
+      "id": "264",
+      "path": "/symptoms/ear-health-tinnitus/tinnitus-anxiety-tcm/",
       "type": "symptom"
     }
   ]
