@@ -4,11 +4,6 @@
   "note": "每3小时自动生产一篇内容。从队列头部取，完成后移到 published。",
   "queue": [
     {
-      "id": "263",
-      "path": "/symptoms/ear-health-tinnitus/hearing-loss-tcm/",
-      "type": "symptom"
-    },
-    {
       "id": "264",
       "path": "/symptoms/ear-health-tinnitus/tinnitus-anxiety-tcm/",
       "type": "symptom"
@@ -3766,6 +3761,11 @@
         "phlegm reducing diet"
       ],
       "id": "262"
+    },
+    {
+      "id": "263",
+      "path": "/symptoms/ear-health-tinnitus/hearing-loss-tcm/",
+      "type": "symptom"
     }
   ]
 }
