@@ -19,21 +19,6 @@
       "id": "259"
     },
     {
-      "title": "Acupressure for Digestion: Pressure Points for Gut Health",
-      "path": "/treatments/acupressure-digestion/",
-      "type": "treatment",
-      "parent": "",
-      "estimated_read_time": 7,
-      "keywords": [
-        "acupressure digestion",
-        "pressure points stomach",
-        "gut health acupressure",
-        "ST36 acupressure",
-        "digestive health TCM"
-      ],
-      "id": "260"
-    },
-    {
       "title": "Moxibustion for Pain Relief: Gentle Heat Therapy Explained",
       "path": "/treatments/moxibustion-pain/",
       "type": "treatment",
@@ -62,6 +47,81 @@
         "phlegm reducing diet"
       ],
       "id": "262"
+    },
+    {
+      "id": "263",
+      "path": "/symptoms/ear-health-tinnitus/hearing-loss-tcm/",
+      "type": "symptom"
+    },
+    {
+      "id": "264",
+      "path": "/symptoms/ear-health-tinnitus/tinnitus-anxiety-tcm/",
+      "type": "symptom"
+    },
+    {
+      "id": "265",
+      "path": "/symptoms/anxiety/anxiety-and-digestion-tcm/",
+      "type": "symptom"
+    },
+    {
+      "id": "266",
+      "path": "/symptoms/anxiety/waking-up-anxious-tcm/",
+      "type": "symptom"
+    },
+    {
+      "id": "267",
+      "path": "/symptoms/fatigue/seasonal-energy-tcm/",
+      "type": "symptom"
+    },
+    {
+      "id": "268",
+      "path": "/symptoms/fatigue/afternoon-crash-tcm/",
+      "type": "symptom"
+    },
+    {
+      "id": "269",
+      "path": "/symptoms/headaches/headache-types-tcm/",
+      "type": "symptom"
+    },
+    {
+      "id": "270",
+      "path": "/symptoms/allergies/autumn-allergies-tcm/",
+      "type": "symptom"
+    },
+    {
+      "id": "271",
+      "path": "/symptoms/allergies/dust-mite-allergy-tcm/",
+      "type": "symptom"
+    },
+    {
+      "id": "272",
+      "path": "/symptoms/womens-health/postnatal-depression-tcm/",
+      "type": "symptom"
+    },
+    {
+      "id": "273",
+      "path": "/symptoms/womens-health/fibroid-diet-tcm/",
+      "type": "symptom"
+    },
+    {
+      "id": "274",
+      "path": "/symptoms/joint-pain/hand-arthritis-tcm/",
+      "type": "symptom"
+    },
+    {
+      "id": "275",
+      "path": "/symptoms/joint-pain/shoulder-pain-tcm/",
+      "type": "symptom"
+    },
+    {
+      "id": "276",
+      "path": "/treatments/self-acupressure-morning-routine/",
+      "type": "treatment"
+    },
+    {
+      "id": "277",
+      "path": "/treatments/herbal-baths-anxiety-tcm/",
+      "type": "treatment"
     }
   ],
   "published": [
