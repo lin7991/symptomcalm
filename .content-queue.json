@@ -4,21 +4,6 @@
   "note": "每3小时自动生产一篇内容。从队列头部取，完成后移到 published。",
   "queue": [
     {
-      "title": "Respiratory Diet: Foods That Support Lung Health in TCM",
-      "path": "/symptoms/respiratory-health/respiratory-diet-tcm/",
-      "type": "cluster",
-      "parent": "respiratory-health",
-      "estimated_read_time": 7,
-      "keywords": [
-        "lung health diet TCM",
-        "food for lungs",
-        "respiratory diet",
-        "lung qi food",
-        "phlegm reducing diet"
-      ],
-      "id": "262"
-    },
-    {
       "id": "263",
       "path": "/symptoms/ear-health-tinnitus/hearing-loss-tcm/",
       "type": "symptom"
@@ -3766,6 +3751,21 @@
         "mugwort therapy"
       ],
       "id": "261"
+    },
+    {
+      "title": "Respiratory Diet: Foods That Support Lung Health in TCM",
+      "path": "/symptoms/respiratory-health/respiratory-diet-tcm/",
+      "type": "cluster",
+      "parent": "respiratory-health",
+      "estimated_read_time": 7,
+      "keywords": [
+        "lung health diet TCM",
+        "food for lungs",
+        "respiratory diet",
+        "lung qi food",
+        "phlegm reducing diet"
+      ],
+      "id": "262"
     }
   ]
 }
