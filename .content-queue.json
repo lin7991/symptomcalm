@@ -4,21 +4,6 @@
   "note": "每3小时自动生产一篇内容。从队列头部取，完成后移到 published。",
   "queue": [
     {
-      "title": "Racing Mind at Night? A TCM Approach to Calming Overthinking",
-      "path": "/symptoms/insomnia/racing-mind-tcm/",
-      "type": "cluster",
-      "parent": "insomnia",
-      "estimated_read_time": 7,
-      "keywords": [
-        "racing mind at night",
-        "overthinking sleep",
-        "heart shen imbalance",
-        "calm mind TCM",
-        "insomnia overthinking"
-      ],
-      "id": "257"
-    },
-    {
       "title": "Irregular Periods and TCM: Understanding Your Menstrual Cycle",
       "path": "/symptoms/womens-health/menstrual-irregularity-tcm/",
       "type": "cluster",
@@ -3706,6 +3691,21 @@
         "meditation movement"
       ],
       "id": "256"
+    },
+    {
+      "title": "Racing Mind at Night? A TCM Approach to Calming Overthinking",
+      "path": "/symptoms/insomnia/racing-mind-tcm/",
+      "type": "cluster",
+      "parent": "insomnia",
+      "estimated_read_time": 7,
+      "keywords": [
+        "racing mind at night",
+        "overthinking sleep",
+        "heart shen imbalance",
+        "calm mind TCM",
+        "insomnia overthinking"
+      ],
+      "id": "257"
     }
   ]
 }
