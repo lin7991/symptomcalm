@@ -4,36 +4,6 @@
   "note": "每3小时自动生产一篇内容。从队列头部取，完成后移到 published。",
   "queue": [
     {
-      "title": "Adrenal Reset with TCM: Rebuilding Your Energy Reserves",
-      "path": "/symptoms/stress/adrenal-reset-tcm/",
-      "type": "cluster",
-      "parent": "stress",
-      "estimated_read_time": 7,
-      "keywords": [
-        "adrenal fatigue TCM",
-        "adrenal reset",
-        "kidney qi deficiency",
-        "energy rebuilding",
-        "burnout recovery natural"
-      ],
-      "id": "259"
-    },
-    {
-      "title": "Moxibustion for Pain Relief: Gentle Heat Therapy Explained",
-      "path": "/treatments/moxibustion-pain/",
-      "type": "treatment",
-      "parent": "",
-      "estimated_read_time": 7,
-      "keywords": [
-        "moxibustion pain relief",
-        "moxa therapy",
-        "heat therapy TCM",
-        "chronic pain moxibustion",
-        "mugwort therapy"
-      ],
-      "id": "261"
-    },
-    {
       "title": "Respiratory Diet: Foods That Support Lung Health in TCM",
       "path": "/symptoms/respiratory-health/respiratory-diet-tcm/",
       "type": "cluster",
@@ -3766,6 +3736,36 @@
         "women's health TCM"
       ],
       "id": "258"
+    },
+    {
+      "title": "Adrenal Reset with TCM: Rebuilding Your Energy Reserves",
+      "path": "/symptoms/stress/adrenal-reset-tcm/",
+      "type": "cluster",
+      "parent": "stress",
+      "estimated_read_time": 7,
+      "keywords": [
+        "adrenal fatigue TCM",
+        "adrenal reset",
+        "kidney qi deficiency",
+        "energy rebuilding",
+        "burnout recovery natural"
+      ],
+      "id": "259"
+    },
+    {
+      "title": "Moxibustion for Pain Relief: Gentle Heat Therapy Explained",
+      "path": "/treatments/moxibustion-pain/",
+      "type": "treatment",
+      "parent": "",
+      "estimated_read_time": 7,
+      "keywords": [
+        "moxibustion pain relief",
+        "moxa therapy",
+        "heat therapy TCM",
+        "chronic pain moxibustion",
+        "mugwort therapy"
+      ],
+      "id": "261"
     }
   ]
 }
