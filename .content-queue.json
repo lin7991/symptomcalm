@@ -4,11 +4,6 @@
   "note": "每3小时自动生产一篇内容。从队列头部取，完成后移到 published。",
   "queue": [
     {
-      "id": "274",
-      "path": "/symptoms/joint-pain/hand-arthritis-tcm/",
-      "type": "symptom"
-    },
-    {
       "id": "275",
       "path": "/symptoms/joint-pain/shoulder-pain-tcm/",
       "type": "symptom"
@@ -22,6 +17,96 @@
       "id": "277",
       "path": "/treatments/herbal-baths-anxiety-tcm/",
       "type": "treatment"
+    },
+    {
+      "id": "278",
+      "path": "/symptoms/eye-health/glaucoma-tcm/",
+      "parent": "eye-health",
+      "type": "symptoms"
+    },
+    {
+      "id": "279",
+      "path": "/symptoms/eye-health/cataracts-tcm/",
+      "parent": "eye-health",
+      "type": "symptoms"
+    },
+    {
+      "id": "280",
+      "path": "/symptoms/eye-health/floaters-tcm/",
+      "parent": "eye-health",
+      "type": "symptoms"
+    },
+    {
+      "id": "281",
+      "path": "/symptoms/eye-health/eye-allergies-tcm/",
+      "parent": "eye-health",
+      "type": "symptoms"
+    },
+    {
+      "id": "282",
+      "path": "/symptoms/ear-health-tinnitus/menieres-disease-tcm/",
+      "parent": "ear-health-tinnitus",
+      "type": "symptoms"
+    },
+    {
+      "id": "283",
+      "path": "/symptoms/ear-health-tinnitus/ear-infections-tcm/",
+      "parent": "ear-health-tinnitus",
+      "type": "symptoms"
+    },
+    {
+      "id": "284",
+      "path": "/symptoms/insomnia/sleep-anxiety-tcm/",
+      "parent": "insomnia",
+      "type": "symptoms"
+    },
+    {
+      "id": "285",
+      "path": "/symptoms/insomnia/circadian-rhythm-tcm/",
+      "parent": "insomnia",
+      "type": "symptoms"
+    },
+    {
+      "id": "286",
+      "path": "/symptoms/headaches/occipital-neuralgia-tcm/",
+      "parent": "headaches",
+      "type": "symptoms"
+    },
+    {
+      "id": "287",
+      "path": "/symptoms/skin-conditions/aging-skin-tcm/",
+      "parent": "skin-conditions",
+      "type": "symptoms"
+    },
+    {
+      "id": "288",
+      "path": "/symptoms/womens-health/pms-diet-tcm/",
+      "parent": "womens-health",
+      "type": "symptoms"
+    },
+    {
+      "id": "289",
+      "path": "/symptoms/joint-pain/elbow-pain-tcm/",
+      "parent": "joint-pain",
+      "type": "symptoms"
+    },
+    {
+      "id": "290",
+      "path": "/treatments/herbal-medicine-sleep/",
+      "parent": "",
+      "type": "treatments"
+    },
+    {
+      "id": "291",
+      "path": "/treatments/qigong-anxiety-tcm/",
+      "parent": "",
+      "type": "treatments"
+    },
+    {
+      "id": "292",
+      "path": "/treatments/acupressure-sleep-tcm/",
+      "parent": "",
+      "type": "treatments"
     }
   ],
   "published": [
@@ -3765,6 +3850,11 @@
     {
       "id": "273",
       "path": "/symptoms/womens-health/fibroid-diet-tcm/",
+      "type": "symptom"
+    },
+    {
+      "id": "274",
+      "path": "/symptoms/joint-pain/hand-arthritis-tcm/",
       "type": "symptom"
     }
   ]
