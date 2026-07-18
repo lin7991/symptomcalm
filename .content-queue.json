@@ -4,12 +4,6 @@
   "note": "每3小时自动生产一篇内容。从队列头部取，完成后移到 published。",
   "queue": [
     {
-      "id": "284",
-      "path": "/symptoms/insomnia/sleep-anxiety-tcm/",
-      "parent": "insomnia",
-      "type": "symptoms"
-    },
-    {
       "id": "285",
       "path": "/symptoms/insomnia/circadian-rhythm-tcm/",
       "parent": "insomnia",
@@ -3855,6 +3849,12 @@
       "id": "283",
       "path": "/symptoms/ear-health-tinnitus/ear-infections-tcm/",
       "parent": "ear-health-tinnitus",
+      "type": "symptoms"
+    },
+    {
+      "id": "284",
+      "path": "/symptoms/insomnia/sleep-anxiety-tcm/",
+      "parent": "insomnia",
       "type": "symptoms"
     }
   ]
