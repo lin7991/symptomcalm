@@ -4,11 +4,6 @@
   "note": "每3小时自动生产一篇内容。从队列头部取，完成后移到 published。",
   "queue": [
     {
-      "id": "275",
-      "path": "/symptoms/joint-pain/shoulder-pain-tcm/",
-      "type": "symptom"
-    },
-    {
       "id": "276",
       "path": "/treatments/self-acupressure-morning-routine/",
       "type": "treatment"
@@ -3855,6 +3850,11 @@
     {
       "id": "274",
       "path": "/symptoms/joint-pain/hand-arthritis-tcm/",
+      "type": "symptom"
+    },
+    {
+      "id": "275",
+      "path": "/symptoms/joint-pain/shoulder-pain-tcm/",
       "type": "symptom"
     }
   ]
