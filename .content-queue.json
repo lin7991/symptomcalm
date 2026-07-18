@@ -4,12 +4,6 @@
   "note": "每3小时自动生产一篇内容。从队列头部取，完成后移到 published。",
   "queue": [
     {
-      "id": "279",
-      "path": "/symptoms/eye-health/cataracts-tcm/",
-      "parent": "eye-health",
-      "type": "symptoms"
-    },
-    {
       "id": "280",
       "path": "/symptoms/eye-health/floaters-tcm/",
       "parent": "eye-health",
@@ -3854,6 +3848,12 @@
     {
       "id": "278",
       "path": "/symptoms/eye-health/glaucoma-tcm/",
+      "parent": "eye-health",
+      "type": "symptoms"
+    },
+    {
+      "id": "279",
+      "path": "/symptoms/eye-health/cataracts-tcm/",
       "parent": "eye-health",
       "type": "symptoms"
     }
