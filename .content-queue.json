@@ -4,12 +4,6 @@
   "note": "每3小时自动生产一篇内容。从队列头部取，完成后移到 published。",
   "queue": [
     {
-      "id": "287",
-      "path": "/symptoms/skin-conditions/aging-skin-tcm/",
-      "parent": "skin-conditions",
-      "type": "symptoms"
-    },
-    {
       "id": "288",
       "path": "/symptoms/womens-health/pms-diet-tcm/",
       "parent": "womens-health",
@@ -3855,6 +3849,12 @@
       "id": "286",
       "path": "/symptoms/headaches/occipital-neuralgia-tcm/",
       "parent": "headaches",
+      "type": "symptoms"
+    },
+    {
+      "id": "287",
+      "path": "/symptoms/skin-conditions/aging-skin-tcm/",
+      "parent": "skin-conditions",
       "type": "symptoms"
     }
   ]
