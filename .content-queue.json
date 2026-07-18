@@ -4,12 +4,6 @@
   "note": "每3小时自动生产一篇内容。从队列头部取，完成后移到 published。",
   "queue": [
     {
-      "id": "282",
-      "path": "/symptoms/ear-health-tinnitus/menieres-disease-tcm/",
-      "parent": "ear-health-tinnitus",
-      "type": "symptoms"
-    },
-    {
       "id": "283",
       "path": "/symptoms/ear-health-tinnitus/ear-infections-tcm/",
       "parent": "ear-health-tinnitus",
@@ -3855,6 +3849,12 @@
       "id": "281",
       "path": "/symptoms/eye-health/eye-allergies-tcm/",
       "parent": "eye-health",
+      "type": "symptoms"
+    },
+    {
+      "id": "282",
+      "path": "/symptoms/ear-health-tinnitus/menieres-disease-tcm/",
+      "parent": "ear-health-tinnitus",
       "type": "symptoms"
     }
   ]
