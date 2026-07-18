@@ -4,11 +4,6 @@
   "note": "每3小时自动生产一篇内容。从队列头部取，完成后移到 published。",
   "queue": [
     {
-      "id": "272",
-      "path": "/symptoms/womens-health/postnatal-depression-tcm/",
-      "type": "symptom"
-    },
-    {
       "id": "273",
       "path": "/symptoms/womens-health/fibroid-diet-tcm/",
       "type": "symptom"
@@ -3765,6 +3760,11 @@
     {
       "id": "271",
       "path": "/symptoms/allergies/dust-mite-allergy-tcm/",
+      "type": "symptom"
+    },
+    {
+      "id": "272",
+      "path": "/symptoms/womens-health/postnatal-depression-tcm/",
       "type": "symptom"
     }
   ]
