@@ -4,11 +4,6 @@
   "note": "每3小时自动生产一篇内容。从队列头部取，完成后移到 published。",
   "queue": [
     {
-      "id": "277",
-      "path": "/treatments/herbal-baths-anxiety-tcm/",
-      "type": "treatment"
-    },
-    {
       "id": "278",
       "path": "/symptoms/eye-health/glaucoma-tcm/",
       "parent": "eye-health",
@@ -3855,6 +3850,11 @@
     {
       "id": "276",
       "path": "/treatments/self-acupressure-morning-routine/",
+      "type": "treatment"
+    },
+    {
+      "id": "277",
+      "path": "/treatments/herbal-baths-anxiety-tcm/",
       "type": "treatment"
     }
   ]
