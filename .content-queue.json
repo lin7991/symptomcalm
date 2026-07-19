@@ -4,21 +4,6 @@
   "note": "每3小时自动生产一篇内容。从队列头部取，完成后移到 published。",
   "queue": [
     {
-      "title": "Moxibustion for Anxiety and Stress Relief: A Gentle Warming Therapy",
-      "path": "/treatments/moxibustion-anxiety-tcm/",
-      "type": "treatment",
-      "parent": "",
-      "estimated_read_time": 8,
-      "keywords": [
-        "moxibustion anxiety",
-        "moxa for stress",
-        "warming therapy anxiety",
-        "st36 moxa",
-        "tcm calming therapy"
-      ],
-      "id": "302"
-    },
-    {
       "title": "Herbal Tea Guide for Headache Relief: TCM-Inspired Blends",
       "path": "/treatments/herbal-tea-headaches/",
       "type": "treatment",
@@ -4081,6 +4066,21 @@
         "diaphragmatic breathing"
       ],
       "id": "301"
+    },
+    {
+      "title": "Moxibustion for Anxiety and Stress Relief: A Gentle Warming Therapy",
+      "path": "/treatments/moxibustion-anxiety-tcm/",
+      "type": "treatment",
+      "parent": "",
+      "estimated_read_time": 8,
+      "keywords": [
+        "moxibustion anxiety",
+        "moxa for stress",
+        "warming therapy anxiety",
+        "st36 moxa",
+        "tcm calming therapy"
+      ],
+      "id": "302"
     }
   ]
 }
