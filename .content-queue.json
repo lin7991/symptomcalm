@@ -4,21 +4,6 @@
   "note": "每3小时自动生产一篇内容。从队列头部取，完成后移到 published。",
   "queue": [
     {
-      "title": "TCM Breathing Exercises for Relaxation and Vitality",
-      "path": "/treatments/breathing-exercises-tcm/",
-      "type": "treatment",
-      "parent": "",
-      "estimated_read_time": 8,
-      "keywords": [
-        "tcm breathing exercises",
-        "qi gong breathing",
-        "deep breathing tcm",
-        "lung qi exercises",
-        "diaphragmatic breathing"
-      ],
-      "id": "301"
-    },
-    {
       "title": "Moxibustion for Anxiety and Stress Relief: A Gentle Warming Therapy",
       "path": "/treatments/moxibustion-anxiety-tcm/",
       "type": "treatment",
@@ -4081,6 +4066,21 @@
         "respiratory immunity"
       ],
       "id": "300"
+    },
+    {
+      "title": "TCM Breathing Exercises for Relaxation and Vitality",
+      "path": "/treatments/breathing-exercises-tcm/",
+      "type": "treatment",
+      "parent": "",
+      "estimated_read_time": 8,
+      "keywords": [
+        "tcm breathing exercises",
+        "qi gong breathing",
+        "deep breathing tcm",
+        "lung qi exercises",
+        "diaphragmatic breathing"
+      ],
+      "id": "301"
     }
   ]
 }
