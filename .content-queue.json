@@ -4,21 +4,6 @@
   "note": "每3小时自动生产一篇内容。从队列头部取，完成后移到 published。",
   "queue": [
     {
-      "title": "Gas and Bloating Relief: TCM Perspective on Digestive Comfort",
-      "path": "/symptoms/digestion/gas-and-bloating-tcm/",
-      "type": "cluster",
-      "parent": "digestion",
-      "estimated_read_time": 8,
-      "keywords": [
-        "gas and bloating tcm",
-        "digestive gas relief",
-        "spleen qi bloating",
-        "tcm digestion",
-        "abdominal bloating"
-      ],
-      "id": "296"
-    },
-    {
       "title": "Tired Eyes and Eye Strain: A TCM Guide to Visual Comfort",
       "path": "/symptoms/eye-health/tired-eyes-tcm/",
       "type": "cluster",
@@ -4081,6 +4066,21 @@
         "tcm stress relief"
       ],
       "id": "295"
+    },
+    {
+      "title": "Gas and Bloating Relief: TCM Perspective on Digestive Comfort",
+      "path": "/symptoms/digestion/gas-and-bloating-tcm/",
+      "type": "cluster",
+      "parent": "digestion",
+      "estimated_read_time": 8,
+      "keywords": [
+        "gas and bloating tcm",
+        "digestive gas relief",
+        "spleen qi bloating",
+        "tcm digestion",
+        "abdominal bloating"
+      ],
+      "id": "296"
     }
   ]
 }
