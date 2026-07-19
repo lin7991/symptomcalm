@@ -4,21 +4,6 @@
   "note": "每3小时自动生产一篇内容。从队列头部取，完成后移到 published。",
   "queue": [
     {
-      "title": "Daily Stress Management Routine: A TCM-Inspired Approach",
-      "path": "/symptoms/stress/stress-management-routine-tcm/",
-      "type": "cluster",
-      "parent": "stress",
-      "estimated_read_time": 9,
-      "keywords": [
-        "daily stress routine",
-        "stress management tcm",
-        "liver qi stress",
-        "morning stress routine",
-        "tcm stress relief"
-      ],
-      "id": "295"
-    },
-    {
       "title": "Gas and Bloating Relief: TCM Perspective on Digestive Comfort",
       "path": "/symptoms/digestion/gas-and-bloating-tcm/",
       "type": "cluster",
@@ -4081,6 +4066,21 @@
         "cold weather skin"
       ],
       "id": "294"
+    },
+    {
+      "title": "Daily Stress Management Routine: A TCM-Inspired Approach",
+      "path": "/symptoms/stress/stress-management-routine-tcm/",
+      "type": "cluster",
+      "parent": "stress",
+      "estimated_read_time": 9,
+      "keywords": [
+        "daily stress routine",
+        "stress management tcm",
+        "liver qi stress",
+        "morning stress routine",
+        "tcm stress relief"
+      ],
+      "id": "295"
     }
   ]
 }
