@@ -4,21 +4,6 @@
   "note": "每3小时自动生产一篇内容。从队列头部取，完成后移到 published。",
   "queue": [
     {
-      "title": "Winter Skin Care Routine with TCM: Stay Hydrated and Comfortable",
-      "path": "/symptoms/skin-conditions/winter-skin-care-tcm/",
-      "type": "cluster",
-      "parent": "skin-conditions",
-      "estimated_read_time": 7,
-      "keywords": [
-        "winter skin care",
-        "dry winter skin tcm",
-        "tcm winter skincare",
-        "skin hydration tcm",
-        "cold weather skin"
-      ],
-      "id": "294"
-    },
-    {
       "title": "Daily Stress Management Routine: A TCM-Inspired Approach",
       "path": "/symptoms/stress/stress-management-routine-tcm/",
       "type": "cluster",
@@ -4081,6 +4066,21 @@
         "wei qi deficiency diet"
       ],
       "id": "293"
+    },
+    {
+      "title": "Winter Skin Care Routine with TCM: Stay Hydrated and Comfortable",
+      "path": "/symptoms/skin-conditions/winter-skin-care-tcm/",
+      "type": "cluster",
+      "parent": "skin-conditions",
+      "estimated_read_time": 7,
+      "keywords": [
+        "winter skin care",
+        "dry winter skin tcm",
+        "tcm winter skincare",
+        "skin hydration tcm",
+        "cold weather skin"
+      ],
+      "id": "294"
     }
   ]
 }
