@@ -4,12 +4,6 @@
   "note": "每3小时自动生产一篇内容。从队列头部取，完成后移到 published。",
   "queue": [
     {
-      "id": "290",
-      "path": "/treatments/herbal-medicine-sleep/",
-      "parent": "",
-      "type": "treatments"
-    },
-    {
       "id": "291",
       "path": "/treatments/qigong-anxiety-tcm/",
       "parent": "",
@@ -4081,6 +4075,12 @@
       "path": "/symptoms/joint-pain/elbow-pain-tcm/",
       "parent": "joint-pain",
       "type": "symptoms"
+    },
+    {
+      "id": "290",
+      "path": "/treatments/herbal-medicine-sleep/",
+      "parent": "",
+      "type": "treatments"
     }
   ]
 }
