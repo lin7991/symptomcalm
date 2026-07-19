@@ -4,21 +4,6 @@
   "note": "每3小时自动生产一篇内容。从队列头部取，完成后移到 published。",
   "queue": [
     {
-      "title": "Winter Respiratory Health: TCM Strategies for Lung Protection",
-      "path": "/symptoms/respiratory-health/winter-respiratory-tcm/",
-      "type": "cluster",
-      "parent": "respiratory-health",
-      "estimated_read_time": 8,
-      "keywords": [
-        "winter respiratory health",
-        "lung protection tcm",
-        "cold season lungs",
-        "wei qi winter",
-        "respiratory immunity"
-      ],
-      "id": "300"
-    },
-    {
       "title": "TCM Breathing Exercises for Relaxation and Vitality",
       "path": "/treatments/breathing-exercises-tcm/",
       "type": "treatment",
@@ -4081,6 +4066,21 @@
         "digestion fatigue"
       ],
       "id": "299"
+    },
+    {
+      "title": "Winter Respiratory Health: TCM Strategies for Lung Protection",
+      "path": "/symptoms/respiratory-health/winter-respiratory-tcm/",
+      "type": "cluster",
+      "parent": "respiratory-health",
+      "estimated_read_time": 8,
+      "keywords": [
+        "winter respiratory health",
+        "lung protection tcm",
+        "cold season lungs",
+        "wei qi winter",
+        "respiratory immunity"
+      ],
+      "id": "300"
     }
   ]
 }
