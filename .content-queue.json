@@ -4,12 +4,6 @@
   "note": "每3小时自动生产一篇内容。从队列头部取，完成后移到 published。",
   "queue": [
     {
-      "id": "289",
-      "path": "/symptoms/joint-pain/elbow-pain-tcm/",
-      "parent": "joint-pain",
-      "type": "symptoms"
-    },
-    {
       "id": "290",
       "path": "/treatments/herbal-medicine-sleep/",
       "parent": "",
@@ -26,6 +20,231 @@
       "path": "/treatments/acupressure-sleep-tcm/",
       "parent": "",
       "type": "treatments"
+    },
+    {
+      "title": "Best Foods for Allergy Relief: A TCM Dietary Guide",
+      "path": "/symptoms/allergies/allergy-diet-tcm/",
+      "type": "cluster",
+      "parent": "allergies",
+      "estimated_read_time": 8,
+      "keywords": [
+        "allergy diet tcm",
+        "foods for allergies",
+        "tcm allergy relief",
+        "lung qi diet",
+        "wei qi deficiency diet"
+      ],
+      "id": "293"
+    },
+    {
+      "title": "Winter Skin Care Routine with TCM: Stay Hydrated and Comfortable",
+      "path": "/symptoms/skin-conditions/winter-skin-care-tcm/",
+      "type": "cluster",
+      "parent": "skin-conditions",
+      "estimated_read_time": 7,
+      "keywords": [
+        "winter skin care",
+        "dry winter skin tcm",
+        "tcm winter skincare",
+        "skin hydration tcm",
+        "cold weather skin"
+      ],
+      "id": "294"
+    },
+    {
+      "title": "Daily Stress Management Routine: A TCM-Inspired Approach",
+      "path": "/symptoms/stress/stress-management-routine-tcm/",
+      "type": "cluster",
+      "parent": "stress",
+      "estimated_read_time": 9,
+      "keywords": [
+        "daily stress routine",
+        "stress management tcm",
+        "liver qi stress",
+        "morning stress routine",
+        "tcm stress relief"
+      ],
+      "id": "295"
+    },
+    {
+      "title": "Gas and Bloating Relief: TCM Perspective on Digestive Comfort",
+      "path": "/symptoms/digestion/gas-and-bloating-tcm/",
+      "type": "cluster",
+      "parent": "digestion",
+      "estimated_read_time": 8,
+      "keywords": [
+        "gas and bloating tcm",
+        "digestive gas relief",
+        "spleen qi bloating",
+        "tcm digestion",
+        "abdominal bloating"
+      ],
+      "id": "296"
+    },
+    {
+      "title": "Tired Eyes and Eye Strain: A TCM Guide to Visual Comfort",
+      "path": "/symptoms/eye-health/tired-eyes-tcm/",
+      "type": "cluster",
+      "parent": "eye-health",
+      "estimated_read_time": 7,
+      "keywords": [
+        "tired eyes tcm",
+        "eye strain relief",
+        "digital eye strain",
+        "liver blood eyes",
+        "vision fatigue"
+      ],
+      "id": "297"
+    },
+    {
+      "title": "Swimmer's Ear Relief with TCM: Natural Approaches to Ear Moisture",
+      "path": "/symptoms/ear-health-tinnitus/swimmers-ear-tcm/",
+      "type": "cluster",
+      "parent": "ear-health-tinnitus",
+      "estimated_read_time": 7,
+      "keywords": [
+        "swimmers ear tcm",
+        "ear moisture tcm",
+        "otitis externa tcm",
+        "ear infection prevention",
+        "dampness ear"
+      ],
+      "id": "298"
+    },
+    {
+      "title": "Post-Meal Fatigue and Food Coma: A TCM Explanation",
+      "path": "/symptoms/fatigue/post-meal-fatigue-tcm/",
+      "type": "cluster",
+      "parent": "fatigue",
+      "estimated_read_time": 8,
+      "keywords": [
+        "post meal fatigue",
+        "food coma tcm",
+        "spleen qi energy",
+        "afternoon slump",
+        "digestion fatigue"
+      ],
+      "id": "299"
+    },
+    {
+      "title": "Winter Respiratory Health: TCM Strategies for Lung Protection",
+      "path": "/symptoms/respiratory-health/winter-respiratory-tcm/",
+      "type": "cluster",
+      "parent": "respiratory-health",
+      "estimated_read_time": 8,
+      "keywords": [
+        "winter respiratory health",
+        "lung protection tcm",
+        "cold season lungs",
+        "wei qi winter",
+        "respiratory immunity"
+      ],
+      "id": "300"
+    },
+    {
+      "title": "TCM Breathing Exercises for Relaxation and Vitality",
+      "path": "/treatments/breathing-exercises-tcm/",
+      "type": "treatment",
+      "parent": "",
+      "estimated_read_time": 8,
+      "keywords": [
+        "tcm breathing exercises",
+        "qi gong breathing",
+        "deep breathing tcm",
+        "lung qi exercises",
+        "diaphragmatic breathing"
+      ],
+      "id": "301"
+    },
+    {
+      "title": "Moxibustion for Anxiety and Stress Relief: A Gentle Warming Therapy",
+      "path": "/treatments/moxibustion-anxiety-tcm/",
+      "type": "treatment",
+      "parent": "",
+      "estimated_read_time": 8,
+      "keywords": [
+        "moxibustion anxiety",
+        "moxa for stress",
+        "warming therapy anxiety",
+        "st36 moxa",
+        "tcm calming therapy"
+      ],
+      "id": "302"
+    },
+    {
+      "title": "Herbal Tea Guide for Headache Relief: TCM-Inspired Blends",
+      "path": "/treatments/herbal-tea-headaches/",
+      "type": "treatment",
+      "parent": "",
+      "estimated_read_time": 7,
+      "keywords": [
+        "herbal tea headache",
+        "tcm tea headache relief",
+        "headache herbal tea",
+        "peppermint headache",
+        "chrysanthemum tea headache"
+      ],
+      "id": "303"
+    },
+    {
+      "title": "The Shen (Spirit) in TCM: Understanding Your Emotional Center",
+      "path": "/tcm-basics/shen-spirit-tcm/",
+      "type": "tcm-basics",
+      "parent": "",
+      "estimated_read_time": 9,
+      "keywords": [
+        "shen spirit tcm",
+        "heart mind tcm",
+        "emotional center",
+        "tcm spirit",
+        "consciousness in tcm"
+      ],
+      "id": "304"
+    },
+    {
+      "title": "Jing Essence in TCM: Your Vital Store of Life Energy",
+      "path": "/tcm-basics/jing-essence-tcm/",
+      "type": "tcm-basics",
+      "parent": "",
+      "estimated_read_time": 9,
+      "keywords": [
+        "jing essence",
+        "kidney jing tcm",
+        "vital essence",
+        "tcm life energy",
+        "reproductive vitality"
+      ],
+      "id": "305"
+    },
+    {
+      "title": "Seasonal Allergy Preparation: A TCM Guide to Spring and Fall Transitions",
+      "path": "/symptoms/allergies/seasonal-allergy-prep-tcm/",
+      "type": "cluster",
+      "parent": "allergies",
+      "estimated_read_time": 8,
+      "keywords": [
+        "seasonal allergy prep",
+        "spring allergies tcm",
+        "allergy season tcm",
+        "wei qi preparation",
+        "allergy prevention"
+      ],
+      "id": "306"
+    },
+    {
+      "title": "Summer Skin Care: TCM Tips for Staying Comfortable in Hot Weather",
+      "path": "/symptoms/skin-conditions/summer-skin-care-tcm/",
+      "type": "cluster",
+      "parent": "skin-conditions",
+      "estimated_read_time": 7,
+      "keywords": [
+        "summer skin care tcm",
+        "hot weather skin",
+        "damp heat skin",
+        "summer acne tcm",
+        "tcm summer skincare"
+      ],
+      "id": "307"
     }
   ],
   "published": [
@@ -3855,6 +4074,12 @@
       "id": "288",
       "path": "/symptoms/womens-health/pms-diet-tcm/",
       "parent": "womens-health",
+      "type": "symptoms"
+    },
+    {
+      "id": "289",
+      "path": "/symptoms/joint-pain/elbow-pain-tcm/",
+      "parent": "joint-pain",
       "type": "symptoms"
     }
   ]
