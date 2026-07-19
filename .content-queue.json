@@ -4,12 +4,6 @@
   "note": "每3小时自动生产一篇内容。从队列头部取，完成后移到 published。",
   "queue": [
     {
-      "id": "292",
-      "path": "/treatments/acupressure-sleep-tcm/",
-      "parent": "",
-      "type": "treatments"
-    },
-    {
       "title": "Best Foods for Allergy Relief: A TCM Dietary Guide",
       "path": "/symptoms/allergies/allergy-diet-tcm/",
       "type": "cluster",
@@ -4079,6 +4073,12 @@
     {
       "id": "291",
       "path": "/treatments/qigong-anxiety-tcm/",
+      "parent": "",
+      "type": "treatments"
+    },
+    {
+      "id": "292",
+      "path": "/treatments/acupressure-sleep-tcm/",
       "parent": "",
       "type": "treatments"
     }
