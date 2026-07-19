@@ -4,21 +4,6 @@
   "note": "每3小时自动生产一篇内容。从队列头部取，完成后移到 published。",
   "queue": [
     {
-      "title": "Post-Meal Fatigue and Food Coma: A TCM Explanation",
-      "path": "/symptoms/fatigue/post-meal-fatigue-tcm/",
-      "type": "cluster",
-      "parent": "fatigue",
-      "estimated_read_time": 8,
-      "keywords": [
-        "post meal fatigue",
-        "food coma tcm",
-        "spleen qi energy",
-        "afternoon slump",
-        "digestion fatigue"
-      ],
-      "id": "299"
-    },
-    {
       "title": "Winter Respiratory Health: TCM Strategies for Lung Protection",
       "path": "/symptoms/respiratory-health/winter-respiratory-tcm/",
       "type": "cluster",
@@ -4081,6 +4066,21 @@
         "dampness ear"
       ],
       "id": "298"
+    },
+    {
+      "title": "Post-Meal Fatigue and Food Coma: A TCM Explanation",
+      "path": "/symptoms/fatigue/post-meal-fatigue-tcm/",
+      "type": "cluster",
+      "parent": "fatigue",
+      "estimated_read_time": 8,
+      "keywords": [
+        "post meal fatigue",
+        "food coma tcm",
+        "spleen qi energy",
+        "afternoon slump",
+        "digestion fatigue"
+      ],
+      "id": "299"
     }
   ]
 }
