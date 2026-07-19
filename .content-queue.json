@@ -4,21 +4,6 @@
   "note": "每3小时自动生产一篇内容。从队列头部取，完成后移到 published。",
   "queue": [
     {
-      "title": "Herbal Tea Guide for Headache Relief: TCM-Inspired Blends",
-      "path": "/treatments/herbal-tea-headaches/",
-      "type": "treatment",
-      "parent": "",
-      "estimated_read_time": 7,
-      "keywords": [
-        "herbal tea headache",
-        "tcm tea headache relief",
-        "headache herbal tea",
-        "peppermint headache",
-        "chrysanthemum tea headache"
-      ],
-      "id": "303"
-    },
-    {
       "title": "The Shen (Spirit) in TCM: Understanding Your Emotional Center",
       "path": "/tcm-basics/shen-spirit-tcm/",
       "type": "tcm-basics",
@@ -4081,6 +4066,21 @@
         "tcm calming therapy"
       ],
       "id": "302"
+    },
+    {
+      "title": "Herbal Tea Guide for Headache Relief: TCM-Inspired Blends",
+      "path": "/treatments/herbal-tea-headaches/",
+      "type": "treatment",
+      "parent": "",
+      "estimated_read_time": 7,
+      "keywords": [
+        "herbal tea headache",
+        "tcm tea headache relief",
+        "headache herbal tea",
+        "peppermint headache",
+        "chrysanthemum tea headache"
+      ],
+      "id": "303"
     }
   ]
 }
