@@ -4,21 +4,6 @@
   "note": "每3小时自动生产一篇内容。从队列头部取，完成后移到 published。",
   "queue": [
     {
-      "title": "Seasonal Allergy Preparation: A TCM Guide to Spring and Fall Transitions",
-      "path": "/symptoms/allergies/seasonal-allergy-prep-tcm/",
-      "type": "cluster",
-      "parent": "allergies",
-      "estimated_read_time": 8,
-      "keywords": [
-        "seasonal allergy prep",
-        "spring allergies tcm",
-        "allergy season tcm",
-        "wei qi preparation",
-        "allergy prevention"
-      ],
-      "id": "306"
-    },
-    {
       "title": "Summer Skin Care: TCM Tips for Staying Comfortable in Hot Weather",
       "path": "/symptoms/skin-conditions/summer-skin-care-tcm/",
       "type": "cluster",
@@ -4291,6 +4276,21 @@
         "reproductive vitality"
       ],
       "id": "305"
+    },
+    {
+      "title": "Seasonal Allergy Preparation: A TCM Guide to Spring and Fall Transitions",
+      "path": "/symptoms/allergies/seasonal-allergy-prep-tcm/",
+      "type": "cluster",
+      "parent": "allergies",
+      "estimated_read_time": 8,
+      "keywords": [
+        "seasonal allergy prep",
+        "spring allergies tcm",
+        "allergy season tcm",
+        "wei qi preparation",
+        "allergy prevention"
+      ],
+      "id": "306"
     }
   ]
 }
