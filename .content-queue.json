@@ -4,20 +4,6 @@
   "note": "每3小时自动生产一篇内容。从队列头部取，完成后移到 published。",
   "queue": [
     {
-      "title": "Puffy Eyes and Eye Bags: A TCM Guide to Brighter Eyes",
-      "path": "/symptoms/eye-health/puffy-eyes-tcm/",
-      "type": "symptom",
-      "parent": "eye-health",
-      "estimated_read_time": 8,
-      "keywords": [
-        "puffy eyes tcm",
-        "eye bags tcm",
-        "under eye circles tcm",
-        "spleen fluid eyes"
-      ],
-      "id": "313"
-    },
-    {
       "title": "Meniere's Disease: A TCM Approach to Vertigo and Ear Fullness",
       "path": "/symptoms/ear-health-tinnitus/menieres-tcm/",
       "type": "symptom",
@@ -4291,6 +4277,20 @@
         "kidney fear trauma"
       ],
       "id": "312"
+    },
+    {
+      "title": "Puffy Eyes and Eye Bags: A TCM Guide to Brighter Eyes",
+      "path": "/symptoms/eye-health/puffy-eyes-tcm/",
+      "type": "symptom",
+      "parent": "eye-health",
+      "estimated_read_time": 8,
+      "keywords": [
+        "puffy eyes tcm",
+        "eye bags tcm",
+        "under eye circles tcm",
+        "spleen fluid eyes"
+      ],
+      "id": "313"
     }
   ]
 }
