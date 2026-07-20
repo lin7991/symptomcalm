@@ -4,20 +4,6 @@
   "note": "每3小时自动生产一篇内容。从队列头部取，完成后移到 published。",
   "queue": [
     {
-      "title": "PTSD and Emotional Trauma: A TCM Perspective",
-      "path": "/symptoms/mental-emotional-health/ptsd-tcm/",
-      "type": "symptom",
-      "parent": "mental-emotional-health",
-      "estimated_read_time": 10,
-      "keywords": [
-        "ptsd tcm",
-        "trauma tcm",
-        "emotional shock tcm",
-        "kidney fear trauma"
-      ],
-      "id": "312"
-    },
-    {
       "title": "Puffy Eyes and Eye Bags: A TCM Guide to Brighter Eyes",
       "path": "/symptoms/eye-health/puffy-eyes-tcm/",
       "type": "symptom",
@@ -4291,6 +4277,20 @@
         "child sleep tcm"
       ],
       "id": "311"
+    },
+    {
+      "title": "PTSD and Emotional Trauma: A TCM Perspective",
+      "path": "/symptoms/mental-emotional-health/ptsd-tcm/",
+      "type": "symptom",
+      "parent": "mental-emotional-health",
+      "estimated_read_time": 10,
+      "keywords": [
+        "ptsd tcm",
+        "trauma tcm",
+        "emotional shock tcm",
+        "kidney fear trauma"
+      ],
+      "id": "312"
     }
   ]
 }
