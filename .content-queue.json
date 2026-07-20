@@ -4,20 +4,6 @@
   "note": "每3小时自动生产一篇内容。从队列头部取，完成后移到 published。",
   "queue": [
     {
-      "title": "Morning Anxiety: Why Your Worries Peak at Sunrise (TCM View)",
-      "path": "/symptoms/anxiety/morning-anxiety-tcm/",
-      "type": "symptom",
-      "parent": "anxiety",
-      "estimated_read_time": 8,
-      "keywords": [
-        "morning anxiety tcm",
-        "waking up anxious",
-        "liver qi morning",
-        "dawn anxiety"
-      ],
-      "id": "309"
-    },
-    {
       "title": "Shift Work and Sleep: A TCM Guide to Restoring Your Rhythm",
       "path": "/symptoms/insomnia/shift-work-sleep-tcm/",
       "type": "symptom",
@@ -4291,6 +4277,20 @@
         "racing thoughts at night"
       ],
       "id": "308"
+    },
+    {
+      "title": "Morning Anxiety: Why Your Worries Peak at Sunrise (TCM View)",
+      "path": "/symptoms/anxiety/morning-anxiety-tcm/",
+      "type": "symptom",
+      "parent": "anxiety",
+      "estimated_read_time": 8,
+      "keywords": [
+        "morning anxiety tcm",
+        "waking up anxious",
+        "liver qi morning",
+        "dawn anxiety"
+      ],
+      "id": "309"
     }
   ]
 }
