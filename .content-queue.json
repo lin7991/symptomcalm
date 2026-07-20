@@ -4,21 +4,6 @@
   "note": "每3小时自动生产一篇内容。从队列头部取，完成后移到 published。",
   "queue": [
     {
-      "title": "Jing Essence in TCM: Your Vital Store of Life Energy",
-      "path": "/tcm-basics/jing-essence-tcm/",
-      "type": "tcm-basics",
-      "parent": "",
-      "estimated_read_time": 9,
-      "keywords": [
-        "jing essence",
-        "kidney jing tcm",
-        "vital essence",
-        "tcm life energy",
-        "reproductive vitality"
-      ],
-      "id": "305"
-    },
-    {
       "title": "Seasonal Allergy Preparation: A TCM Guide to Spring and Fall Transitions",
       "path": "/symptoms/allergies/seasonal-allergy-prep-tcm/",
       "type": "cluster",
@@ -4291,6 +4276,21 @@
         "consciousness in tcm"
       ],
       "id": "304"
+    },
+    {
+      "title": "Jing Essence in TCM: Your Vital Store of Life Energy",
+      "path": "/tcm-basics/jing-essence-tcm/",
+      "type": "tcm-basics",
+      "parent": "",
+      "estimated_read_time": 9,
+      "keywords": [
+        "jing essence",
+        "kidney jing tcm",
+        "vital essence",
+        "tcm life energy",
+        "reproductive vitality"
+      ],
+      "id": "305"
     }
   ]
 }
