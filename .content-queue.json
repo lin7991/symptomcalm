@@ -4,21 +4,6 @@
   "note": "每3小时自动生产一篇内容。从队列头部取，完成后移到 published。",
   "queue": [
     {
-      "title": "The Shen (Spirit) in TCM: Understanding Your Emotional Center",
-      "path": "/tcm-basics/shen-spirit-tcm/",
-      "type": "tcm-basics",
-      "parent": "",
-      "estimated_read_time": 9,
-      "keywords": [
-        "shen spirit tcm",
-        "heart mind tcm",
-        "emotional center",
-        "tcm spirit",
-        "consciousness in tcm"
-      ],
-      "id": "304"
-    },
-    {
       "title": "Jing Essence in TCM: Your Vital Store of Life Energy",
       "path": "/tcm-basics/jing-essence-tcm/",
       "type": "tcm-basics",
@@ -4291,6 +4276,21 @@
         "chrysanthemum tea headache"
       ],
       "id": "303"
+    },
+    {
+      "title": "The Shen (Spirit) in TCM: Understanding Your Emotional Center",
+      "path": "/tcm-basics/shen-spirit-tcm/",
+      "type": "tcm-basics",
+      "parent": "",
+      "estimated_read_time": 9,
+      "keywords": [
+        "shen spirit tcm",
+        "heart mind tcm",
+        "emotional center",
+        "tcm spirit",
+        "consciousness in tcm"
+      ],
+      "id": "304"
     }
   ]
 }
