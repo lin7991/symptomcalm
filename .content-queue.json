@@ -4,20 +4,6 @@
   "note": "每3小时自动生产一篇内容。从队列头部取，完成后移到 published。",
   "queue": [
     {
-      "title": "IBS with Constipation: A TCM Guide to Regularity",
-      "path": "/symptoms/digestion/ibs-constipation-tcm/",
-      "type": "symptom",
-      "parent": "digestion",
-      "estimated_read_time": 10,
-      "keywords": [
-        "ibs constipation tcm",
-        "constipation tcm",
-        "irritable bowel syndrome tcm",
-        "liver spleen digestion"
-      ],
-      "id": "319"
-    },
-    {
       "title": "Acupressure for Pain Management: A Practical Guide",
       "path": "/treatments/acupressure-pain-management/",
       "type": "treatment",
@@ -58,6 +44,219 @@
         "acupressure headache"
       ],
       "id": "322"
+    },
+    {
+      "title": "IBS with Diarrhea (IBS-D): A TCM Perspective",
+      "path": "/symptoms/digestion/ibs-diarrhea-tcm/",
+      "type": "cluster",
+      "parent": "digestion",
+      "estimated_read_time": 8,
+      "keywords": [
+        "IBS-D",
+        "diarrhea TCM",
+        "spleen qi deficiency",
+        "dampness",
+        "abdominal pain"
+      ],
+      "id": "323"
+    },
+    {
+      "title": "The TCM Guide to Setting Healthy Boundaries: Liver, Spleen and Emotional Health",
+      "path": "/symptoms/mental-emotional-health/boundaries-tcm/",
+      "type": "cluster",
+      "parent": "mental-emotional-health",
+      "estimated_read_time": 7,
+      "keywords": [
+        "boundaries TCM",
+        "emotional health",
+        "liver qi",
+        "spleen",
+        "assertiveness"
+      ],
+      "id": "324"
+    },
+    {
+      "title": "Jin Ye: TCM Body Fluids Explained — More Than Just Water",
+      "path": "/tcm-basics/jin-ye-body-fluids-tcm/",
+      "type": "tcm-basics",
+      "parent": "",
+      "estimated_read_time": 7,
+      "keywords": [
+        "jin ye",
+        "body fluids TCM",
+        "jin ye body fluids",
+        "TCM fluids",
+        "yin deficiency"
+      ],
+      "id": "325"
+    },
+    {
+      "title": "Night Vision and Eye Health: A TCM Perspective on Liver Blood",
+      "path": "/symptoms/eye-health/night-vision-tcm/",
+      "type": "cluster",
+      "parent": "eye-health",
+      "estimated_read_time": 7,
+      "keywords": [
+        "night vision TCM",
+        "liver blood deficiency",
+        "eye health TCM",
+        "tcm vision"
+      ],
+      "id": "326"
+    },
+    {
+      "title": "TCM Morning Routine for Sustained Energy: Start Your Day the TCM Way",
+      "path": "/symptoms/fatigue/morning-routine-energy-tcm/",
+      "type": "cluster",
+      "parent": "fatigue",
+      "estimated_read_time": 8,
+      "keywords": [
+        "morning routine TCM",
+        "energy TCM",
+        "qi morning",
+        "waking up tired TCM"
+      ],
+      "id": "327"
+    },
+    {
+      "title": "Electronics and Sleep: A TCM Guide to Screen Use and Circadian Health",
+      "path": "/symptoms/insomnia/electronics-sleep-tcm/",
+      "type": "cluster",
+      "parent": "insomnia",
+      "estimated_read_time": 7,
+      "keywords": [
+        "electronics sleep TCM",
+        "screen time sleep",
+        "blue light TCM",
+        "circadian rhythm"
+      ],
+      "id": "328"
+    },
+    {
+      "title": "Immune Support Through TCM: Building Wei Qi for Year-Round Resilience",
+      "path": "/symptoms/respiratory-health/immune-support-tcm/",
+      "type": "cluster",
+      "parent": "respiratory-health",
+      "estimated_read_time": 8,
+      "keywords": [
+        "immune support TCM",
+        "wei qi",
+        "defensive qi",
+        "immune system TCM"
+      ],
+      "id": "329"
+    },
+    {
+      "title": "TCM Facial Massage: Gua Sha and Self-Massage Techniques for Glowing Skin",
+      "path": "/symptoms/skin-conditions/face-massage-tcm/",
+      "type": "cluster",
+      "parent": "skin-conditions",
+      "estimated_read_time": 8,
+      "keywords": [
+        "facial massage TCM",
+        "gua sha face",
+        "tcm skincare",
+        "face massage"
+      ],
+      "id": "330"
+    },
+    {
+      "title": "Standing Desk Posture from a TCM Perspective: Back Pain Prevention at Work",
+      "path": "/symptoms/back-pain/standing-desk-posture-tcm/",
+      "type": "cluster",
+      "parent": "back-pain",
+      "estimated_read_time": 7,
+      "keywords": [
+        "standing desk posture",
+        "back pain TCM",
+        "desk posture",
+        "kidney deficiency"
+      ],
+      "id": "331"
+    },
+    {
+      "title": "Migraine Diet: A TCM Guide to Foods That Trigger and Soothe Headaches",
+      "path": "/symptoms/headaches/migraine-diet-tcm/",
+      "type": "cluster",
+      "parent": "headaches",
+      "estimated_read_time": 8,
+      "keywords": [
+        "migraine diet TCM",
+        "headache foods",
+        "migraine trigger foods",
+        "tcm headache diet"
+      ],
+      "id": "332"
+    },
+    {
+      "title": "Acupressure for Energy and Vitality: Boost Your Qi Without Caffeine",
+      "path": "/treatments/acupressure-energy-boost-tcm/",
+      "type": "treatment",
+      "parent": "",
+      "estimated_read_time": 7,
+      "keywords": [
+        "acupressure energy",
+        "acupressure qi boost",
+        "energy points TCM",
+        "st36 acupressure"
+      ],
+      "id": "333"
+    },
+    {
+      "title": "Workplace Stress from a TCM Perspective: Managing Pressure Without Burning Out",
+      "path": "/symptoms/stress/workplace-stress-tcm/",
+      "type": "cluster",
+      "parent": "stress",
+      "estimated_read_time": 8,
+      "keywords": [
+        "workplace stress TCM",
+        "burnout prevention TCM",
+        "stress at work",
+        "liver qi stagnation"
+      ],
+      "id": "334"
+    },
+    {
+      "title": "Healing Your Gut: A TCM Approach to Digestive Health and Repair",
+      "path": "/symptoms/digestion/healing-gut-tcm/",
+      "type": "cluster",
+      "parent": "digestion",
+      "estimated_read_time": 9,
+      "keywords": [
+        "gut healing TCM",
+        "digestive health TCM",
+        "spleen qi",
+        "leaky gut TCM"
+      ],
+      "id": "335"
+    },
+    {
+      "title": "Pelvic Health from a TCM Perspective: Kidneys, Uterus and Vitality",
+      "path": "/symptoms/womens-health/pelvic-health-tcm/",
+      "type": "cluster",
+      "parent": "womens-health",
+      "estimated_read_time": 8,
+      "keywords": [
+        "pelvic health TCM",
+        "kidney health women",
+        "pelvic floor TCM",
+        "women's vitality"
+      ],
+      "id": "336"
+    },
+    {
+      "title": "Seasonal Allergy Transitions: How TCM Prepares You for Spring and Fall Pollen",
+      "path": "/symptoms/allergies/allergy-seasonal-transition-tcm/",
+      "type": "cluster",
+      "parent": "allergies",
+      "estimated_read_time": 8,
+      "keywords": [
+        "seasonal allergies TCM",
+        "allergy prep TCM",
+        "wei qi allergies",
+        "pollen TCM"
+      ],
+      "id": "337"
     }
   ],
   "published": [
@@ -4277,6 +4476,20 @@
         "stomach qi rebellion tcm"
       ],
       "id": "318"
+    },
+    {
+      "title": "IBS with Constipation: A TCM Guide to Regularity",
+      "path": "/symptoms/digestion/ibs-constipation-tcm/",
+      "type": "symptom",
+      "parent": "digestion",
+      "estimated_read_time": 10,
+      "keywords": [
+        "ibs constipation tcm",
+        "constipation tcm",
+        "irritable bowel syndrome tcm",
+        "liver spleen digestion"
+      ],
+      "id": "319"
     }
   ]
 }
