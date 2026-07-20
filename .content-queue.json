@@ -4,20 +4,6 @@
   "note": "每3小时自动生产一篇内容。从队列头部取，完成后移到 published。",
   "queue": [
     {
-      "title": "Shift Work and Sleep: A TCM Guide to Restoring Your Rhythm",
-      "path": "/symptoms/insomnia/shift-work-sleep-tcm/",
-      "type": "symptom",
-      "parent": "insomnia",
-      "estimated_read_time": 10,
-      "keywords": [
-        "shift work sleep tcm",
-        "circadian rhythm tcm",
-        "night shift health",
-        "organ clock shift work"
-      ],
-      "id": "310"
-    },
-    {
       "title": "Children and Insomnia: A TCM Guide to Peaceful Sleep",
       "path": "/symptoms/insomnia/insomnia-children-tcm/",
       "type": "symptom",
@@ -4291,6 +4277,20 @@
         "dawn anxiety"
       ],
       "id": "309"
+    },
+    {
+      "title": "Shift Work and Sleep: A TCM Guide to Restoring Your Rhythm",
+      "path": "/symptoms/insomnia/shift-work-sleep-tcm/",
+      "type": "symptom",
+      "parent": "insomnia",
+      "estimated_read_time": 10,
+      "keywords": [
+        "shift work sleep tcm",
+        "circadian rhythm tcm",
+        "night shift health",
+        "organ clock shift work"
+      ],
+      "id": "310"
     }
   ]
 }
