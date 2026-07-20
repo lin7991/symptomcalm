@@ -4,20 +4,6 @@
   "note": "每3小时自动生产一篇内容。从队列头部取，完成后移到 published。",
   "queue": [
     {
-      "title": "GERD and Acid Reflux: A TCM Guide to Digestive Comfort",
-      "path": "/symptoms/digestion/gerd-tcm/",
-      "type": "symptom",
-      "parent": "digestion",
-      "estimated_read_time": 9,
-      "keywords": [
-        "gerd tcm",
-        "acid reflux tcm",
-        "heartburn tcm",
-        "stomach qi rebellion tcm"
-      ],
-      "id": "318"
-    },
-    {
       "title": "IBS with Constipation: A TCM Guide to Regularity",
       "path": "/symptoms/digestion/ibs-constipation-tcm/",
       "type": "symptom",
@@ -4277,6 +4263,20 @@
         "post viral fatigue tcm"
       ],
       "id": "317"
+    },
+    {
+      "title": "GERD and Acid Reflux: A TCM Guide to Digestive Comfort",
+      "path": "/symptoms/digestion/gerd-tcm/",
+      "type": "symptom",
+      "parent": "digestion",
+      "estimated_read_time": 9,
+      "keywords": [
+        "gerd tcm",
+        "acid reflux tcm",
+        "heartburn tcm",
+        "stomach qi rebellion tcm"
+      ],
+      "id": "318"
     }
   ]
 }
