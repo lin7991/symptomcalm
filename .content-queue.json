@@ -4,34 +4,6 @@
   "note": "每3小时自动生产一篇内容。从队列头部取，完成后移到 published。",
   "queue": [
     {
-      "title": "Meniere's Disease: A TCM Approach to Vertigo and Ear Fullness",
-      "path": "/symptoms/ear-health-tinnitus/menieres-tcm/",
-      "type": "symptom",
-      "parent": "ear-health-tinnitus",
-      "estimated_read_time": 10,
-      "keywords": [
-        "menieres disease tcm",
-        "vertigo tcm",
-        "ear fullness tcm",
-        "phlegm dizziness tcm"
-      ],
-      "id": "314"
-    },
-    {
-      "title": "When Stress Turns Physical: Headaches, Tension, and Body Pain (TCM View)",
-      "path": "/symptoms/stress/chronic-stress-physical-tcm/",
-      "type": "symptom",
-      "parent": "stress",
-      "estimated_read_time": 9,
-      "keywords": [
-        "chronic stress physical symptoms tcm",
-        "tension headaches tcm",
-        "stress body pain tcm",
-        "liver qi stagnation physical"
-      ],
-      "id": "315"
-    },
-    {
       "title": "Lower Back Stretches: TCM-Inspired Movements for Back Pain Relief",
       "path": "/symptoms/back-pain/lower-back-stretches-tcm/",
       "type": "symptom",
@@ -4291,6 +4263,20 @@
         "spleen fluid eyes"
       ],
       "id": "313"
+    },
+    {
+      "title": "When Stress Turns Physical: Headaches, Tension, and Body Pain (TCM View)",
+      "path": "/symptoms/stress/chronic-stress-physical-tcm/",
+      "type": "symptom",
+      "parent": "stress",
+      "estimated_read_time": 9,
+      "keywords": [
+        "chronic stress physical symptoms tcm",
+        "tension headaches tcm",
+        "stress body pain tcm",
+        "liver qi stagnation physical"
+      ],
+      "id": "315"
     }
   ]
 }
