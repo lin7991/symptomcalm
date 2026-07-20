@@ -4,20 +4,6 @@
   "note": "每3小时自动生产一篇内容。从队列头部取，完成后移到 published。",
   "queue": [
     {
-      "title": "Sleep Anxiety: Why You Feel Alert at Bedtime (TCM Perspective)",
-      "path": "/symptoms/anxiety/sleep-anxiety-tcm/",
-      "type": "symptom",
-      "parent": "anxiety",
-      "estimated_read_time": 9,
-      "keywords": [
-        "sleep anxiety tcm",
-        "anxiety at bedtime",
-        "heart shen insomnia",
-        "racing thoughts at night"
-      ],
-      "id": "308"
-    },
-    {
       "title": "Morning Anxiety: Why Your Worries Peak at Sunrise (TCM View)",
       "path": "/symptoms/anxiety/morning-anxiety-tcm/",
       "type": "symptom",
@@ -4291,6 +4277,20 @@
         "tcm summer skincare"
       ],
       "id": "307"
+    },
+    {
+      "title": "Sleep Anxiety: Why You Feel Alert at Bedtime (TCM Perspective)",
+      "path": "/symptoms/anxiety/sleep-anxiety-tcm/",
+      "type": "symptom",
+      "parent": "anxiety",
+      "estimated_read_time": 9,
+      "keywords": [
+        "sleep anxiety tcm",
+        "anxiety at bedtime",
+        "heart shen insomnia",
+        "racing thoughts at night"
+      ],
+      "id": "308"
     }
   ]
 }
