@@ -9,3 +9,5 @@ node_modules/
 .env
 *.pyc
 __pycache__/
+
+tmp/
