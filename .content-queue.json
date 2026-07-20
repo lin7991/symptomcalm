@@ -4,20 +4,6 @@
   "note": "每3小时自动生产一篇内容。从队列头部取，完成后移到 published。",
   "queue": [
     {
-      "title": "Lower Back Stretches: TCM-Inspired Movements for Back Pain Relief",
-      "path": "/symptoms/back-pain/lower-back-stretches-tcm/",
-      "type": "symptom",
-      "parent": "back-pain",
-      "estimated_read_time": 9,
-      "keywords": [
-        "lower back stretches tcm",
-        "back pain stretches tcm",
-        "kidney back pain exercises",
-        "tcm back stretches"
-      ],
-      "id": "316"
-    },
-    {
       "title": "Chronic Fatigue Syndrome (ME/CFS): A TCM Perspective",
       "path": "/symptoms/fatigue/chronic-fatigue-syndrome-tcm/",
       "type": "symptom",
@@ -4277,6 +4263,20 @@
         "liver qi stagnation physical"
       ],
       "id": "315"
+    },
+    {
+      "title": "Lower Back Stretches: TCM-Inspired Movements for Back Pain Relief",
+      "path": "/symptoms/back-pain/lower-back-stretches-tcm/",
+      "type": "symptom",
+      "parent": "back-pain",
+      "estimated_read_time": 9,
+      "keywords": [
+        "lower back stretches tcm",
+        "back pain stretches tcm",
+        "kidney back pain exercises",
+        "tcm back stretches"
+      ],
+      "id": "316"
     }
   ]
 }
