@@ -4,20 +4,6 @@
   "note": "每3小时自动生产一篇内容。从队列头部取，完成后移到 published。",
   "queue": [
     {
-      "title": "TCM Morning Routine for Sustained Energy: Start Your Day the TCM Way",
-      "path": "/symptoms/fatigue/morning-routine-energy-tcm/",
-      "type": "cluster",
-      "parent": "fatigue",
-      "estimated_read_time": 8,
-      "keywords": [
-        "morning routine TCM",
-        "energy TCM",
-        "qi morning",
-        "waking up tired TCM"
-      ],
-      "id": "327"
-    },
-    {
       "title": "Electronics and Sleep: A TCM Guide to Screen Use and Circadian Health",
       "path": "/symptoms/insomnia/electronics-sleep-tcm/",
       "type": "cluster",
@@ -4490,6 +4476,20 @@
         "tcm vision"
       ],
       "id": "326"
+    },
+    {
+      "title": "TCM Morning Routine for Sustained Energy: Start Your Day the TCM Way",
+      "path": "/symptoms/fatigue/morning-routine-energy-tcm/",
+      "type": "cluster",
+      "parent": "fatigue",
+      "estimated_read_time": 8,
+      "keywords": [
+        "morning routine TCM",
+        "energy TCM",
+        "qi morning",
+        "waking up tired TCM"
+      ],
+      "id": "327"
     }
   ]
 }
