@@ -4,20 +4,6 @@
   "note": "每3小时自动生产一篇内容。从队列头部取，完成后移到 published。",
   "queue": [
     {
-      "title": "Workplace Stress from a TCM Perspective: Managing Pressure Without Burning Out",
-      "path": "/symptoms/stress/workplace-stress-tcm/",
-      "type": "cluster",
-      "parent": "stress",
-      "estimated_read_time": 8,
-      "keywords": [
-        "workplace stress TCM",
-        "burnout prevention TCM",
-        "stress at work",
-        "liver qi stagnation"
-      ],
-      "id": "334"
-    },
-    {
       "title": "Healing Your Gut: A TCM Approach to Digestive Health and Repair",
       "path": "/symptoms/digestion/healing-gut-tcm/",
       "type": "cluster",
@@ -58,6 +44,213 @@
         "pollen TCM"
       ],
       "id": "337"
+    },
+    {
+      "title": "Herbal Tea Guide for Anxiety: 4 Soothing Blends for Calm",
+      "path": "/symptoms/anxiety/herbal-tea-anxiety-tcm/",
+      "type": "cluster",
+      "parent": "anxiety",
+      "estimated_read_time": 8,
+      "keywords": [
+        "herbal tea for anxiety",
+        "anxiety natural remedies",
+        "TCM calming herbs"
+      ],
+      "id": "338"
+    },
+    {
+      "title": "DIY Acupressure for Lower Back Pain: Self-Help Points for Lasting Relief",
+      "path": "/symptoms/back-pain/back-pain-acupressure-home/",
+      "type": "cluster",
+      "parent": "back-pain",
+      "estimated_read_time": 9,
+      "keywords": [
+        "acupressure for back pain",
+        "back pain self-massage",
+        "TCM back pain relief"
+      ],
+      "id": "339"
+    },
+    {
+      "title": "TCM Bedtime Rituals: Evening Routines for Better Sleep",
+      "path": "/symptoms/insomnia/bedtime-rituals-tcm/",
+      "type": "cluster",
+      "parent": "insomnia",
+      "estimated_read_time": 7,
+      "keywords": [
+        "bedtime rituals",
+        "TCM sleep routine",
+        "evening wind-down"
+      ],
+      "id": "340"
+    },
+    {
+      "title": "Abdominal Bloating from a TCM Perspective: Spleen, Dampness and Digestion",
+      "path": "/symptoms/digestion/abdominal-bloating-tcm/",
+      "type": "cluster",
+      "parent": "digestion",
+      "estimated_read_time": 8,
+      "keywords": [
+        "bloating",
+        "abdominal bloating TCM",
+        "spleen qi deficiency",
+        "dampness"
+      ],
+      "id": "341"
+    },
+    {
+      "title": "Brain Fog from a TCM Perspective: Spleen Dampness and Mental Clarity",
+      "path": "/symptoms/fatigue/brain-fog-tcm/",
+      "type": "cluster",
+      "parent": "fatigue",
+      "estimated_read_time": 8,
+      "keywords": [
+        "brain fog",
+        "mental clarity",
+        "TCM brain fog",
+        "spleen dampness"
+      ],
+      "id": "342"
+    },
+    {
+      "title": "Cervicogenic Headaches: A TCM Guide to Neck-Related Head Pain",
+      "path": "/symptoms/headaches/cervicogenic-headache-tcm/",
+      "type": "cluster",
+      "parent": "headaches",
+      "estimated_read_time": 8,
+      "keywords": [
+        "cervicogenic headache",
+        "neck headache",
+        "TCM headache",
+        "neck pain"
+      ],
+      "id": "343"
+    },
+    {
+      "title": "Natural PMS Remedies Through TCM: Patterns, Diet and Self-Care",
+      "path": "/symptoms/womens-health/pms-natural-remedies-tcm/",
+      "type": "cluster",
+      "parent": "womens-health",
+      "estimated_read_time": 9,
+      "keywords": [
+        "PMS natural remedies",
+        "PMS relief",
+        "TCM PMS",
+        "menstrual health"
+      ],
+      "id": "344"
+    },
+    {
+      "title": "TCM Eye Allergy Relief: Herbs, Acupressure and Seasonal Support",
+      "path": "/symptoms/allergies/eye-allergy-relief-tcm/",
+      "type": "cluster",
+      "parent": "allergies",
+      "estimated_read_time": 8,
+      "keywords": [
+        "eye allergy relief",
+        "seasonal eye allergies",
+        "TCM eye allergies"
+      ],
+      "id": "345"
+    },
+    {
+      "title": "Hand and Wrist Pain from a TCM Perspective: Carpal Tunnel and Channel Health",
+      "path": "/symptoms/joint-pain/hand-wrist-pain-tcm/",
+      "type": "cluster",
+      "parent": "joint-pain",
+      "estimated_read_time": 8,
+      "keywords": [
+        "hand pain",
+        "wrist pain",
+        "carpal tunnel TCM",
+        "joint pain"
+      ],
+      "id": "346"
+    },
+    {
+      "title": "Contact Dermatitis from a TCM Perspective: Skin Sensitivity and Heat Patterns",
+      "path": "/symptoms/skin-conditions/dermatitis-tcm/",
+      "type": "cluster",
+      "parent": "skin-conditions",
+      "estimated_read_time": 8,
+      "keywords": [
+        "contact dermatitis",
+        "skin sensitivity",
+        "TCM skin",
+        "dermatitis"
+      ],
+      "id": "347"
+    },
+    {
+      "title": "Grief from a TCM Perspective: The Lung Connection and Emotional Healing",
+      "path": "/symptoms/mental-emotional-health/grief-tcm/",
+      "type": "cluster",
+      "parent": "mental-emotional-health",
+      "estimated_read_time": 8,
+      "keywords": [
+        "grief TCM",
+        "emotional healing",
+        "lung health",
+        "grief and lungs"
+      ],
+      "id": "348"
+    },
+    {
+      "title": "Post-Nasal Drip from a TCM Perspective: Phlegm, Sinus Health and Lung Qi",
+      "path": "/symptoms/respiratory-health/post-nasal-drip-tcm/",
+      "type": "cluster",
+      "parent": "respiratory-health",
+      "estimated_read_time": 8,
+      "keywords": [
+        "post-nasal drip",
+        "phlegm",
+        "sinus congestion",
+        "TCM respiratory"
+      ],
+      "id": "349"
+    },
+    {
+      "title": "Self-Acupressure for Digestive Health: Points for Bloating, Gas and Indigestion",
+      "path": "/treatments/self-acupressure-digestion/",
+      "type": "treatment",
+      "parent": "",
+      "estimated_read_time": 9,
+      "keywords": [
+        "acupressure digestion",
+        "self-acupressure",
+        "bloating relief",
+        "indigestion"
+      ],
+      "id": "350"
+    },
+    {
+      "title": "Yin Deficiency in TCM: Symptoms, Patterns and Traditional Support",
+      "path": "/tcm-basics/yin-deficiency-tcm/",
+      "type": "basics",
+      "parent": "",
+      "estimated_read_time": 8,
+      "keywords": [
+        "yin deficiency",
+        "TCM basics",
+        "yin yang",
+        "TCM patterns"
+      ],
+      "id": "351"
+    },
+    {
+      "title": "Overthinking and Rumination from a TCM Perspective: Spleen, Heart and the Racing Mind",
+      "path": "/symptoms/anxiety/overthinking-tcm/",
+      "type": "cluster",
+      "parent": "anxiety",
+      "estimated_read_time": 9,
+      "keywords": [
+        "overthinking",
+        "rumination",
+        "racing thoughts",
+        "TCM anxiety",
+        "spleen worry"
+      ],
+      "id": "352"
     }
   ],
   "published": [
@@ -4490,6 +4683,20 @@
         "st36 acupressure"
       ],
       "id": "333"
+    },
+    {
+      "title": "Workplace Stress from a TCM Perspective: Managing Pressure Without Burning Out",
+      "path": "/symptoms/stress/workplace-stress-tcm/",
+      "type": "cluster",
+      "parent": "stress",
+      "estimated_read_time": 8,
+      "keywords": [
+        "workplace stress TCM",
+        "burnout prevention TCM",
+        "stress at work",
+        "liver qi stagnation"
+      ],
+      "id": "334"
     }
   ]
 }
