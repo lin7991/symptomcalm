@@ -4,20 +4,6 @@
   "note": "每3小时自动生产一篇内容。从队列头部取，完成后移到 published。",
   "queue": [
     {
-      "title": "Electronics and Sleep: A TCM Guide to Screen Use and Circadian Health",
-      "path": "/symptoms/insomnia/electronics-sleep-tcm/",
-      "type": "cluster",
-      "parent": "insomnia",
-      "estimated_read_time": 7,
-      "keywords": [
-        "electronics sleep TCM",
-        "screen time sleep",
-        "blue light TCM",
-        "circadian rhythm"
-      ],
-      "id": "328"
-    },
-    {
       "title": "Immune Support Through TCM: Building Wei Qi for Year-Round Resilience",
       "path": "/symptoms/respiratory-health/immune-support-tcm/",
       "type": "cluster",
@@ -4490,6 +4476,20 @@
         "waking up tired TCM"
       ],
       "id": "327"
+    },
+    {
+      "title": "Electronics and Sleep: A TCM Guide to Screen Use and Circadian Health",
+      "path": "/symptoms/insomnia/electronics-sleep-tcm/",
+      "type": "cluster",
+      "parent": "insomnia",
+      "estimated_read_time": 7,
+      "keywords": [
+        "electronics sleep TCM",
+        "screen time sleep",
+        "blue light TCM",
+        "circadian rhythm"
+      ],
+      "id": "328"
     }
   ]
 }
