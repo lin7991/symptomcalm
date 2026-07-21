@@ -4,20 +4,6 @@
   "note": "每3小时自动生产一篇内容。从队列头部取，完成后移到 published。",
   "queue": [
     {
-      "title": "Migraine Diet: A TCM Guide to Foods That Trigger and Soothe Headaches",
-      "path": "/symptoms/headaches/migraine-diet-tcm/",
-      "type": "cluster",
-      "parent": "headaches",
-      "estimated_read_time": 8,
-      "keywords": [
-        "migraine diet TCM",
-        "headache foods",
-        "migraine trigger foods",
-        "tcm headache diet"
-      ],
-      "id": "332"
-    },
-    {
       "title": "Acupressure for Energy and Vitality: Boost Your Qi Without Caffeine",
       "path": "/treatments/acupressure-energy-boost-tcm/",
       "type": "treatment",
@@ -4490,6 +4476,20 @@
         "kidney deficiency"
       ],
       "id": "331"
+    },
+    {
+      "title": "Migraine Diet: A TCM Guide to Foods That Trigger and Soothe Headaches",
+      "path": "/symptoms/headaches/migraine-diet-tcm/",
+      "type": "cluster",
+      "parent": "headaches",
+      "estimated_read_time": 8,
+      "keywords": [
+        "migraine diet TCM",
+        "headache foods",
+        "migraine trigger foods",
+        "tcm headache diet"
+      ],
+      "id": "332"
     }
   ]
 }
