@@ -4,20 +4,6 @@
   "note": "每3小时自动生产一篇内容。从队列头部取，完成后移到 published。",
   "queue": [
     {
-      "title": "TCM Facial Massage: Gua Sha and Self-Massage Techniques for Glowing Skin",
-      "path": "/symptoms/skin-conditions/face-massage-tcm/",
-      "type": "cluster",
-      "parent": "skin-conditions",
-      "estimated_read_time": 8,
-      "keywords": [
-        "facial massage TCM",
-        "gua sha face",
-        "tcm skincare",
-        "face massage"
-      ],
-      "id": "330"
-    },
-    {
       "title": "Standing Desk Posture from a TCM Perspective: Back Pain Prevention at Work",
       "path": "/symptoms/back-pain/standing-desk-posture-tcm/",
       "type": "cluster",
@@ -4490,6 +4476,20 @@
         "immune system TCM"
       ],
       "id": "329"
+    },
+    {
+      "title": "TCM Facial Massage: Gua Sha and Self-Massage Techniques for Glowing Skin",
+      "path": "/symptoms/skin-conditions/face-massage-tcm/",
+      "type": "cluster",
+      "parent": "skin-conditions",
+      "estimated_read_time": 8,
+      "keywords": [
+        "facial massage TCM",
+        "gua sha face",
+        "tcm skincare",
+        "face massage"
+      ],
+      "id": "330"
     }
   ]
 }
