@@ -4,20 +4,6 @@
   "note": "每3小时自动生产一篇内容。从队列头部取，完成后移到 published。",
   "queue": [
     {
-      "title": "Pelvic Health from a TCM Perspective: Kidneys, Uterus and Vitality",
-      "path": "/symptoms/womens-health/pelvic-health-tcm/",
-      "type": "cluster",
-      "parent": "womens-health",
-      "estimated_read_time": 8,
-      "keywords": [
-        "pelvic health TCM",
-        "kidney health women",
-        "pelvic floor TCM",
-        "women's vitality"
-      ],
-      "id": "336"
-    },
-    {
       "title": "Seasonal Allergy Transitions: How TCM Prepares You for Spring and Fall Pollen",
       "path": "/symptoms/allergies/allergy-seasonal-transition-tcm/",
       "type": "cluster",
@@ -4697,6 +4683,20 @@
         "leaky gut TCM"
       ],
       "id": "335"
+    },
+    {
+      "title": "Pelvic Health from a TCM Perspective: Kidneys, Uterus and Vitality",
+      "path": "/symptoms/womens-health/pelvic-health-tcm/",
+      "type": "cluster",
+      "parent": "womens-health",
+      "estimated_read_time": 8,
+      "keywords": [
+        "pelvic health TCM",
+        "kidney health women",
+        "pelvic floor TCM",
+        "women's vitality"
+      ],
+      "id": "336"
     }
   ]
 }
