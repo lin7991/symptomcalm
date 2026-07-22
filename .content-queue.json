@@ -4,20 +4,6 @@
   "note": "每3小时自动生产一篇内容。从队列头部取，完成后移到 published。",
   "queue": [
     {
-      "title": "Brain Fog from a TCM Perspective: Spleen Dampness and Mental Clarity",
-      "path": "/symptoms/fatigue/brain-fog-tcm/",
-      "type": "cluster",
-      "parent": "fatigue",
-      "estimated_read_time": 8,
-      "keywords": [
-        "brain fog",
-        "mental clarity",
-        "TCM brain fog",
-        "spleen dampness"
-      ],
-      "id": "342"
-    },
-    {
       "title": "Cervicogenic Headaches: A TCM Guide to Neck-Related Head Pain",
       "path": "/symptoms/headaches/cervicogenic-headache-tcm/",
       "type": "cluster",
@@ -4697,6 +4683,20 @@
         "dampness"
       ],
       "id": "341"
+    },
+    {
+      "title": "Brain Fog from a TCM Perspective: Spleen Dampness and Mental Clarity",
+      "path": "/symptoms/fatigue/brain-fog-tcm/",
+      "type": "cluster",
+      "parent": "fatigue",
+      "estimated_read_time": 8,
+      "keywords": [
+        "brain fog",
+        "mental clarity",
+        "TCM brain fog",
+        "spleen dampness"
+      ],
+      "id": "342"
     }
   ]
 }
