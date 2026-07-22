@@ -4,20 +4,6 @@
   "note": "每3小时自动生产一篇内容。从队列头部取，完成后移到 published。",
   "queue": [
     {
-      "title": "Seasonal Allergy Transitions: How TCM Prepares You for Spring and Fall Pollen",
-      "path": "/symptoms/allergies/allergy-seasonal-transition-tcm/",
-      "type": "cluster",
-      "parent": "allergies",
-      "estimated_read_time": 8,
-      "keywords": [
-        "seasonal allergies TCM",
-        "allergy prep TCM",
-        "wei qi allergies",
-        "pollen TCM"
-      ],
-      "id": "337"
-    },
-    {
       "title": "Herbal Tea Guide for Anxiety: 4 Soothing Blends for Calm",
       "path": "/symptoms/anxiety/herbal-tea-anxiety-tcm/",
       "type": "cluster",
@@ -4697,6 +4683,20 @@
         "women's vitality"
       ],
       "id": "336"
+    },
+    {
+      "title": "Seasonal Allergy Transitions: How TCM Prepares You for Spring and Fall Pollen",
+      "path": "/symptoms/allergies/allergy-seasonal-transition-tcm/",
+      "type": "cluster",
+      "parent": "allergies",
+      "estimated_read_time": 8,
+      "keywords": [
+        "seasonal allergies TCM",
+        "allergy prep TCM",
+        "wei qi allergies",
+        "pollen TCM"
+      ],
+      "id": "337"
     }
   ]
 }
