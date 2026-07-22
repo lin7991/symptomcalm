@@ -4,19 +4,6 @@
   "note": "每3小时自动生产一篇内容。从队列头部取，完成后移到 published。",
   "queue": [
     {
-      "title": "TCM Bedtime Rituals: Evening Routines for Better Sleep",
-      "path": "/symptoms/insomnia/bedtime-rituals-tcm/",
-      "type": "cluster",
-      "parent": "insomnia",
-      "estimated_read_time": 7,
-      "keywords": [
-        "bedtime rituals",
-        "TCM sleep routine",
-        "evening wind-down"
-      ],
-      "id": "340"
-    },
-    {
       "title": "Abdominal Bloating from a TCM Perspective: Spleen, Dampness and Digestion",
       "path": "/symptoms/digestion/abdominal-bloating-tcm/",
       "type": "cluster",
@@ -4697,6 +4684,19 @@
         "TCM back pain relief"
       ],
       "id": "339"
+    },
+    {
+      "title": "TCM Bedtime Rituals: Evening Routines for Better Sleep",
+      "path": "/symptoms/insomnia/bedtime-rituals-tcm/",
+      "type": "cluster",
+      "parent": "insomnia",
+      "estimated_read_time": 7,
+      "keywords": [
+        "bedtime rituals",
+        "TCM sleep routine",
+        "evening wind-down"
+      ],
+      "id": "340"
     }
   ]
 }
