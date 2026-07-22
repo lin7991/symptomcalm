@@ -4,20 +4,6 @@
   "note": "每3小时自动生产一篇内容。从队列头部取，完成后移到 published。",
   "queue": [
     {
-      "title": "Post-Nasal Drip from a TCM Perspective: Phlegm, Sinus Health and Lung Qi",
-      "path": "/symptoms/respiratory-health/post-nasal-drip-tcm/",
-      "type": "cluster",
-      "parent": "respiratory-health",
-      "estimated_read_time": 8,
-      "keywords": [
-        "post-nasal drip",
-        "phlegm",
-        "sinus congestion",
-        "TCM respiratory"
-      ],
-      "id": "349"
-    },
-    {
       "title": "Self-Acupressure for Digestive Health: Points for Bloating, Gas and Indigestion",
       "path": "/treatments/self-acupressure-digestion/",
       "type": "treatment",
@@ -59,6 +45,233 @@
         "spleen worry"
       ],
       "id": "352"
+    },
+    {
+      "title": "The Vagus Nerve and Anxiety: A TCM Perspective on the Mind-Body Connection",
+      "path": "/symptoms/anxiety/vagus-nerve-anxiety-tcm/",
+      "type": "cluster",
+      "parent": "anxiety",
+      "estimated_read_time": 7,
+      "keywords": [
+        "vagus nerve",
+        "anxiety relief",
+        "TCM heart shen",
+        "mind-body connection",
+        "parasympathetic nervous system"
+      ],
+      "id": "353"
+    },
+    {
+      "title": "Upper Back Pain: A TCM Guide to Tension Between the Shoulder Blades",
+      "path": "/symptoms/back-pain/upper-back-pain-tcm/",
+      "type": "cluster",
+      "parent": "back-pain",
+      "estimated_read_time": 7,
+      "keywords": [
+        "upper back pain",
+        "shoulder blade pain",
+        "bladder channel",
+        "taiyang meridian",
+        "desk posture"
+      ],
+      "id": "354"
+    },
+    {
+      "title": "Nightmares and Disturbed Sleep: A TCM Approach to Restful Nights",
+      "path": "/symptoms/insomnia/nightmares-tcm/",
+      "type": "cluster",
+      "parent": "insomnia",
+      "estimated_read_time": 7,
+      "keywords": [
+        "nightmares",
+        "vivid dreams",
+        "sleep quality",
+        "heart shen",
+        "gallbladder qi"
+      ],
+      "id": "355"
+    },
+    {
+      "title": "Ear Pressure and Fullness: TCM Understanding of Clogged Ear Sensations",
+      "path": "/symptoms/ear-health-tinnitus/ear-pressure-tcm/",
+      "type": "cluster",
+      "parent": "ear-health-tinnitus",
+      "estimated_read_time": 7,
+      "keywords": [
+        "ear pressure",
+        "clogged ears",
+        "eustachian tube",
+        "kidney qi",
+        "liver yang"
+      ],
+      "id": "356"
+    },
+    {
+      "title": "Conjunctivitis (Pink Eye) Through a TCM Lens: Cooling Inflammatory Heat",
+      "path": "/symptoms/eye-health/conjunctivitis-tcm/",
+      "type": "cluster",
+      "parent": "eye-health",
+      "estimated_read_time": 7,
+      "keywords": [
+        "conjunctivitis",
+        "pink eye",
+        "eye infection",
+        "liver fire",
+        "wind heat",
+        "eye inflammation"
+      ],
+      "id": "357"
+    },
+    {
+      "title": "Iron Deficiency and Qi: Bridging Western Blood Health and TCM Vitality",
+      "path": "/symptoms/fatigue/iron-qi-deficiency-tcm/",
+      "type": "cluster",
+      "parent": "fatigue",
+      "estimated_read_time": 7,
+      "keywords": [
+        "iron deficiency",
+        "low iron",
+        "qi deficiency",
+        "blood deficiency",
+        "fatigue",
+        "nutrition"
+      ],
+      "id": "358"
+    },
+    {
+      "title": "Hypertension Headaches: TCM Perspective on Liver Yang Rising and Blood Pressure",
+      "path": "/symptoms/headaches/hypertension-headache-tcm/",
+      "type": "cluster",
+      "parent": "headaches",
+      "estimated_read_time": 7,
+      "keywords": [
+        "hypertension headache",
+        "high blood pressure headache",
+        "liver yang",
+        "tension headache"
+      ],
+      "id": "359"
+    },
+    {
+      "title": "Cough with Heat Signs: TCM Approaches to Yellow Phlegm and Sore Throat",
+      "path": "/symptoms/respiratory-health/lung-heat-cough-tcm/",
+      "type": "cluster",
+      "parent": "respiratory-health",
+      "estimated_read_time": 7,
+      "keywords": [
+        "lung heat",
+        "yellow phlegm",
+        "productive cough",
+        "sore throat",
+        "cooling foods"
+      ],
+      "id": "360"
+    },
+    {
+      "title": "Cold Sores and Fever Blisters: A TCM Guide to Damp-Heat Patterns",
+      "path": "/symptoms/skin-conditions/cold-sores-tcm/",
+      "type": "cluster",
+      "parent": "skin-conditions",
+      "estimated_read_time": 7,
+      "keywords": [
+        "cold sores",
+        "fever blisters",
+        "herpes simplex",
+        "damp heat",
+        "immune support"
+      ],
+      "id": "361"
+    },
+    {
+      "title": "TMJ and Jaw Pain: A TCM Perspective on Gallbladder Channel Tension",
+      "path": "/symptoms/joint-pain/tmj-tcm/",
+      "type": "cluster",
+      "parent": "joint-pain",
+      "estimated_read_time": 7,
+      "keywords": [
+        "TMJ",
+        "jaw pain",
+        "temporomandibular joint",
+        "gallbladder channel",
+        "liver qi stagnation"
+      ],
+      "id": "362"
+    },
+    {
+      "title": "Herbal Baths for Digestive Health: A TCM Approach to Relaxation and Gut Support",
+      "path": "/treatments/herbal-baths-digestion-tcm/",
+      "type": "cluster",
+      "parent": "treatments",
+      "estimated_read_time": 7,
+      "keywords": [
+        "herbal baths",
+        "digestive health",
+        "spleen qi",
+        "relaxation",
+        "hydrotherapy tcm"
+      ],
+      "id": "363"
+    },
+    {
+      "title": "Acupressure for Fatigue: Points to Boost Energy and Restore Vitality",
+      "path": "/treatments/acupressure-fatigue-tcm/",
+      "type": "cluster",
+      "parent": "treatments",
+      "estimated_read_time": 7,
+      "keywords": [
+        "acupressure for fatigue",
+        "energy points",
+        "stomach 36",
+        "qi boosting",
+        "self-care"
+      ],
+      "id": "364"
+    },
+    {
+      "title": "Qigong for Better Sleep: Gentle Movements to Calm Your Mind at Night",
+      "path": "/treatments/qigong-sleep-tcm/",
+      "type": "cluster",
+      "parent": "treatments",
+      "estimated_read_time": 7,
+      "keywords": [
+        "qigong",
+        "sleep",
+        "bedtime routine",
+        "gentle movement",
+        "relaxation",
+        "insomnia relief"
+      ],
+      "id": "365"
+    },
+    {
+      "title": "The Large Intestine in TCM: More Than Digestion and Elimination",
+      "path": "/tcm-basics/large-intestine-tcm/",
+      "type": "cluster",
+      "parent": "tcm-basics",
+      "estimated_read_time": 8,
+      "keywords": [
+        "large intestine tcm",
+        "lung paired organ",
+        "elimination",
+        "letting go",
+        "metal element"
+      ],
+      "id": "366"
+    },
+    {
+      "title": "Social Media and Anxiety: A TCM View on Digital Overload and Shen Disturbance",
+      "path": "/symptoms/mental-emotional-health/social-media-anxiety-tcm/",
+      "type": "cluster",
+      "parent": "mental-emotional-health",
+      "estimated_read_time": 7,
+      "keywords": [
+        "social media anxiety",
+        "digital overload",
+        "shen disturbance",
+        "heart fire",
+        "mental health"
+      ],
+      "id": "367"
     }
   ],
   "published": [
@@ -4697,6 +4910,20 @@
         "grief and lungs"
       ],
       "id": "348"
+    },
+    {
+      "title": "Post-Nasal Drip from a TCM Perspective: Phlegm, Sinus Health and Lung Qi",
+      "path": "/symptoms/respiratory-health/post-nasal-drip-tcm/",
+      "type": "cluster",
+      "parent": "respiratory-health",
+      "estimated_read_time": 8,
+      "keywords": [
+        "post-nasal drip",
+        "phlegm",
+        "sinus congestion",
+        "TCM respiratory"
+      ],
+      "id": "349"
     }
   ]
 }
