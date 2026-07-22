@@ -4,20 +4,6 @@
   "note": "每3小时自动生产一篇内容。从队列头部取，完成后移到 published。",
   "queue": [
     {
-      "title": "Contact Dermatitis from a TCM Perspective: Skin Sensitivity and Heat Patterns",
-      "path": "/symptoms/skin-conditions/dermatitis-tcm/",
-      "type": "cluster",
-      "parent": "skin-conditions",
-      "estimated_read_time": 8,
-      "keywords": [
-        "contact dermatitis",
-        "skin sensitivity",
-        "TCM skin",
-        "dermatitis"
-      ],
-      "id": "347"
-    },
-    {
       "title": "Grief from a TCM Perspective: The Lung Connection and Emotional Healing",
       "path": "/symptoms/mental-emotional-health/grief-tcm/",
       "type": "cluster",
@@ -4697,6 +4683,20 @@
         "joint pain"
       ],
       "id": "346"
+    },
+    {
+      "title": "Contact Dermatitis from a TCM Perspective: Skin Sensitivity and Heat Patterns",
+      "path": "/symptoms/skin-conditions/dermatitis-tcm/",
+      "type": "cluster",
+      "parent": "skin-conditions",
+      "estimated_read_time": 8,
+      "keywords": [
+        "contact dermatitis",
+        "skin sensitivity",
+        "TCM skin",
+        "dermatitis"
+      ],
+      "id": "347"
     }
   ]
 }
