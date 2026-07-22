@@ -4,19 +4,6 @@
   "note": "每3小时自动生产一篇内容。从队列头部取，完成后移到 published。",
   "queue": [
     {
-      "title": "TCM Eye Allergy Relief: Herbs, Acupressure and Seasonal Support",
-      "path": "/symptoms/allergies/eye-allergy-relief-tcm/",
-      "type": "cluster",
-      "parent": "allergies",
-      "estimated_read_time": 8,
-      "keywords": [
-        "eye allergy relief",
-        "seasonal eye allergies",
-        "TCM eye allergies"
-      ],
-      "id": "345"
-    },
-    {
       "title": "Hand and Wrist Pain from a TCM Perspective: Carpal Tunnel and Channel Health",
       "path": "/symptoms/joint-pain/hand-wrist-pain-tcm/",
       "type": "cluster",
@@ -4697,6 +4684,19 @@
         "menstrual health"
       ],
       "id": "344"
+    },
+    {
+      "title": "TCM Eye Allergy Relief: Herbs, Acupressure and Seasonal Support",
+      "path": "/symptoms/allergies/eye-allergy-relief-tcm/",
+      "type": "cluster",
+      "parent": "allergies",
+      "estimated_read_time": 8,
+      "keywords": [
+        "eye allergy relief",
+        "seasonal eye allergies",
+        "TCM eye allergies"
+      ],
+      "id": "345"
     }
   ]
 }
