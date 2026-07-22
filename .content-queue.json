@@ -4,20 +4,6 @@
   "note": "每3小时自动生产一篇内容。从队列头部取，完成后移到 published。",
   "queue": [
     {
-      "title": "Self-Acupressure for Digestive Health: Points for Bloating, Gas and Indigestion",
-      "path": "/treatments/self-acupressure-digestion/",
-      "type": "treatment",
-      "parent": "",
-      "estimated_read_time": 9,
-      "keywords": [
-        "acupressure digestion",
-        "self-acupressure",
-        "bloating relief",
-        "indigestion"
-      ],
-      "id": "350"
-    },
-    {
       "title": "Yin Deficiency in TCM: Symptoms, Patterns and Traditional Support",
       "path": "/tcm-basics/yin-deficiency-tcm/",
       "type": "basics",
@@ -4924,6 +4910,20 @@
         "TCM respiratory"
       ],
       "id": "349"
+    },
+    {
+      "title": "Self-Acupressure for Digestive Health: Points for Bloating, Gas and Indigestion",
+      "path": "/treatments/self-acupressure-digestion/",
+      "type": "treatment",
+      "parent": "",
+      "estimated_read_time": 9,
+      "keywords": [
+        "acupressure digestion",
+        "self-acupressure",
+        "bloating relief",
+        "indigestion"
+      ],
+      "id": "350"
     }
   ]
 }
