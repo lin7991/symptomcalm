@@ -4,20 +4,6 @@
   "note": "每3小时自动生产一篇内容。从队列头部取，完成后移到 published。",
   "queue": [
     {
-      "title": "Grief from a TCM Perspective: The Lung Connection and Emotional Healing",
-      "path": "/symptoms/mental-emotional-health/grief-tcm/",
-      "type": "cluster",
-      "parent": "mental-emotional-health",
-      "estimated_read_time": 8,
-      "keywords": [
-        "grief TCM",
-        "emotional healing",
-        "lung health",
-        "grief and lungs"
-      ],
-      "id": "348"
-    },
-    {
       "title": "Post-Nasal Drip from a TCM Perspective: Phlegm, Sinus Health and Lung Qi",
       "path": "/symptoms/respiratory-health/post-nasal-drip-tcm/",
       "type": "cluster",
@@ -4697,6 +4683,20 @@
         "dermatitis"
       ],
       "id": "347"
+    },
+    {
+      "title": "Grief from a TCM Perspective: The Lung Connection and Emotional Healing",
+      "path": "/symptoms/mental-emotional-health/grief-tcm/",
+      "type": "cluster",
+      "parent": "mental-emotional-health",
+      "estimated_read_time": 8,
+      "keywords": [
+        "grief TCM",
+        "emotional healing",
+        "lung health",
+        "grief and lungs"
+      ],
+      "id": "348"
     }
   ]
 }
