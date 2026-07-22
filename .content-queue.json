@@ -4,19 +4,6 @@
   "note": "每3小时自动生产一篇内容。从队列头部取，完成后移到 published。",
   "queue": [
     {
-      "title": "Herbal Tea Guide for Anxiety: 4 Soothing Blends for Calm",
-      "path": "/symptoms/anxiety/herbal-tea-anxiety-tcm/",
-      "type": "cluster",
-      "parent": "anxiety",
-      "estimated_read_time": 8,
-      "keywords": [
-        "herbal tea for anxiety",
-        "anxiety natural remedies",
-        "TCM calming herbs"
-      ],
-      "id": "338"
-    },
-    {
       "title": "DIY Acupressure for Lower Back Pain: Self-Help Points for Lasting Relief",
       "path": "/symptoms/back-pain/back-pain-acupressure-home/",
       "type": "cluster",
@@ -4697,6 +4684,19 @@
         "pollen TCM"
       ],
       "id": "337"
+    },
+    {
+      "title": "Herbal Tea Guide for Anxiety: 4 Soothing Blends for Calm",
+      "path": "/symptoms/anxiety/herbal-tea-anxiety-tcm/",
+      "type": "cluster",
+      "parent": "anxiety",
+      "estimated_read_time": 8,
+      "keywords": [
+        "herbal tea for anxiety",
+        "anxiety natural remedies",
+        "TCM calming herbs"
+      ],
+      "id": "338"
     }
   ]
 }
