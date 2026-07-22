@@ -4,20 +4,6 @@
   "note": "每3小时自动生产一篇内容。从队列头部取，完成后移到 published。",
   "queue": [
     {
-      "title": "Yin Deficiency in TCM: Symptoms, Patterns and Traditional Support",
-      "path": "/tcm-basics/yin-deficiency-tcm/",
-      "type": "basics",
-      "parent": "",
-      "estimated_read_time": 8,
-      "keywords": [
-        "yin deficiency",
-        "TCM basics",
-        "yin yang",
-        "TCM patterns"
-      ],
-      "id": "351"
-    },
-    {
       "title": "Overthinking and Rumination from a TCM Perspective: Spleen, Heart and the Racing Mind",
       "path": "/symptoms/anxiety/overthinking-tcm/",
       "type": "cluster",
@@ -4924,6 +4910,20 @@
         "indigestion"
       ],
       "id": "350"
+    },
+    {
+      "title": "Yin Deficiency in TCM: Symptoms, Patterns and Traditional Support",
+      "path": "/tcm-basics/yin-deficiency-tcm/",
+      "type": "basics",
+      "parent": "",
+      "estimated_read_time": 8,
+      "keywords": [
+        "yin deficiency",
+        "TCM basics",
+        "yin yang",
+        "TCM patterns"
+      ],
+      "id": "351"
     }
   ]
 }
