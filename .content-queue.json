@@ -4,19 +4,6 @@
   "note": "每3小时自动生产一篇内容。从队列头部取，完成后移到 published。",
   "queue": [
     {
-      "title": "DIY Acupressure for Lower Back Pain: Self-Help Points for Lasting Relief",
-      "path": "/symptoms/back-pain/back-pain-acupressure-home/",
-      "type": "cluster",
-      "parent": "back-pain",
-      "estimated_read_time": 9,
-      "keywords": [
-        "acupressure for back pain",
-        "back pain self-massage",
-        "TCM back pain relief"
-      ],
-      "id": "339"
-    },
-    {
       "title": "TCM Bedtime Rituals: Evening Routines for Better Sleep",
       "path": "/symptoms/insomnia/bedtime-rituals-tcm/",
       "type": "cluster",
@@ -4697,6 +4684,19 @@
         "TCM calming herbs"
       ],
       "id": "338"
+    },
+    {
+      "title": "DIY Acupressure for Lower Back Pain: Self-Help Points for Lasting Relief",
+      "path": "/symptoms/back-pain/back-pain-acupressure-home/",
+      "type": "cluster",
+      "parent": "back-pain",
+      "estimated_read_time": 9,
+      "keywords": [
+        "acupressure for back pain",
+        "back pain self-massage",
+        "TCM back pain relief"
+      ],
+      "id": "339"
     }
   ]
 }
