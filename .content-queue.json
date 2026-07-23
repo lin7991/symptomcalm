@@ -4,22 +4,6 @@
   "note": "每3小时自动生产一篇内容。从队列头部取，完成后移到 published。",
   "queue": [
     {
-      "title": "Conjunctivitis (Pink Eye) Through a TCM Lens: Cooling Inflammatory Heat",
-      "path": "/symptoms/eye-health/conjunctivitis-tcm/",
-      "type": "cluster",
-      "parent": "eye-health",
-      "estimated_read_time": 7,
-      "keywords": [
-        "conjunctivitis",
-        "pink eye",
-        "eye infection",
-        "liver fire",
-        "wind heat",
-        "eye inflammation"
-      ],
-      "id": "357"
-    },
-    {
       "title": "Iron Deficiency and Qi: Bridging Western Blood Health and TCM Vitality",
       "path": "/symptoms/fatigue/iron-qi-deficiency-tcm/",
       "type": "cluster",
@@ -4924,6 +4908,22 @@
         "liver yang"
       ],
       "id": "356"
+    },
+    {
+      "title": "Conjunctivitis (Pink Eye) Through a TCM Lens: Cooling Inflammatory Heat",
+      "path": "/symptoms/eye-health/conjunctivitis-tcm/",
+      "type": "cluster",
+      "parent": "eye-health",
+      "estimated_read_time": 7,
+      "keywords": [
+        "conjunctivitis",
+        "pink eye",
+        "eye infection",
+        "liver fire",
+        "wind heat",
+        "eye inflammation"
+      ],
+      "id": "357"
     }
   ]
 }
