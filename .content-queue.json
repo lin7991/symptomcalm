@@ -4,21 +4,6 @@
   "note": "每3小时自动生产一篇内容。从队列头部取，完成后移到 published。",
   "queue": [
     {
-      "title": "Acupressure for Fatigue: Points to Boost Energy and Restore Vitality",
-      "path": "/treatments/acupressure-fatigue-tcm/",
-      "type": "cluster",
-      "parent": "treatments",
-      "estimated_read_time": 7,
-      "keywords": [
-        "acupressure for fatigue",
-        "energy points",
-        "stomach 36",
-        "qi boosting",
-        "self-care"
-      ],
-      "id": "364"
-    },
-    {
       "title": "Qigong for Better Sleep: Gentle Movements to Calm Your Mind at Night",
       "path": "/treatments/qigong-sleep-tcm/",
       "type": "cluster",
@@ -63,6 +48,232 @@
         "mental health"
       ],
       "id": "367"
+    },
+    {
+      "title": "The Gallbladder in TCM: Decision-Making, Courage, and the Free Flow of Qi",
+      "path": "/tcm-basics/gallbladder-in-tcm/",
+      "type": "cluster",
+      "parent": "tcm-basics",
+      "estimated_read_time": 8,
+      "keywords": [
+        "gallbladder tcm",
+        "decision making",
+        "courage",
+        "liver gallbladder relationship",
+        "wood element"
+      ],
+      "id": "368"
+    },
+    {
+      "title": "The Small Intestine in TCM: Separating Pure from Impure and Gut Health",
+      "path": "/tcm-basics/small-intestine-tcm/",
+      "type": "cluster",
+      "parent": "tcm-basics",
+      "estimated_read_time": 8,
+      "keywords": [
+        "small intestine tcm",
+        "separating pure impure",
+        "gut health",
+        "digestion tcm",
+        "fire element"
+      ],
+      "id": "369"
+    },
+    {
+      "title": "The Urinary Bladder in TCM: Your Body's Water Regulator and Stress Response",
+      "path": "/tcm-basics/urinary-bladder-tcm/",
+      "type": "cluster",
+      "parent": "tcm-basics",
+      "estimated_read_time": 8,
+      "keywords": [
+        "urinary bladder tcm",
+        "water metabolism",
+        "kidney partner",
+        "bladder meridian",
+        "stress response"
+      ],
+      "id": "370"
+    },
+    {
+      "title": "The Pericardium in TCM: Protecting the Heart and Emotional Boundaries",
+      "path": "/tcm-basics/pericardium-tcm/",
+      "type": "cluster",
+      "parent": "tcm-basics",
+      "estimated_read_time": 8,
+      "keywords": [
+        "pericardium tcm",
+        "heart protector",
+        "emotional boundaries",
+        "pericardium meridian",
+        "shen"
+      ],
+      "id": "371"
+    },
+    {
+      "title": "The Triple Burner in TCM: Your Body's Metabolic Waterway and Energy Management System",
+      "path": "/tcm-basics/triple-burner-tcm/",
+      "type": "cluster",
+      "parent": "tcm-basics",
+      "estimated_read_time": 9,
+      "keywords": [
+        "triple burner",
+        "san jiao",
+        "metabolic waterway",
+        "three heaters",
+        "energy management tcm"
+      ],
+      "id": "372"
+    },
+    {
+      "title": "Blood in TCM (Xue): More Than Red Cells — Nourishment, Storage, and Vitality",
+      "path": "/tcm-basics/blood-in-tcm/",
+      "type": "cluster",
+      "parent": "tcm-basics",
+      "estimated_read_time": 8,
+      "keywords": [
+        "blood in tcm",
+        "xue",
+        "blood deficiency",
+        "blood stagnation",
+        "liver stores blood",
+        "nourishment tcm"
+      ],
+      "id": "373"
+    },
+    {
+      "title": "Gua Sha for Headaches: Facial and Neck Scraping for Tension and Migraine Relief",
+      "path": "/treatments/guasha-headaches-tcm/",
+      "type": "cluster",
+      "parent": "treatments",
+      "estimated_read_time": 7,
+      "keywords": [
+        "gua sha headache",
+        "facial gua sha",
+        "neck scraping",
+        "tension headache",
+        "migraine relief gua sha"
+      ],
+      "id": "374"
+    },
+    {
+      "title": "Acupressure for Sinus Relief: Clear Congestion with Pressure Points",
+      "path": "/treatments/acupressure-sinus-tcm/",
+      "type": "cluster",
+      "parent": "treatments",
+      "estimated_read_time": 7,
+      "keywords": [
+        "acupressure sinus",
+        "sinus pressure points",
+        "face acupressure",
+        "sinus congestion relief",
+        "LI20"
+      ],
+      "id": "375"
+    },
+    {
+      "title": "Morning Qigong for Energy: A 10-Minute Routine to Start Your Day",
+      "path": "/treatments/qigong-morning-energy-tcm/",
+      "type": "cluster",
+      "parent": "treatments",
+      "estimated_read_time": 7,
+      "keywords": [
+        "morning qigong",
+        "energy routine",
+        "qigong for energy",
+        "morning exercise tcm",
+        "qi activation"
+      ],
+      "id": "376"
+    },
+    {
+      "title": "Herbal Baths for Joint Pain: Soaking Away Stiffness and Aches the TCM Way",
+      "path": "/treatments/herbal-baths-joint-pain-tcm/",
+      "type": "cluster",
+      "parent": "treatments",
+      "estimated_read_time": 7,
+      "keywords": [
+        "herbal bath joint pain",
+        "tcm bath therapy",
+        "arthritis bath",
+        "stiffness relief bath",
+        "warming herbs bath"
+      ],
+      "id": "377"
+    },
+    {
+      "title": "Meditation and Breathwork for Digestion in TCM: Calming the Gut-Brain Axis",
+      "path": "/treatments/meditation-digestion-tcm/",
+      "type": "cluster",
+      "parent": "treatments",
+      "estimated_read_time": 7,
+      "keywords": [
+        "meditation for digestion",
+        "breathwork digestion",
+        "gut brain axis tcm",
+        "spleen meditation",
+        "stress digestion"
+      ],
+      "id": "378"
+    },
+    {
+      "title": "TCM Dietary Therapy for Eye Health: Foods That Nourish Your Vision",
+      "path": "/treatments/dietary-therapy-eye-health-tcm/",
+      "type": "cluster",
+      "parent": "treatments",
+      "estimated_read_time": 7,
+      "keywords": [
+        "diet eye health tcm",
+        "vision food",
+        "liver nourishing diet",
+        "eye health nutrition",
+        "chrysanthemum goji"
+      ],
+      "id": "379"
+    },
+    {
+      "title": "TCM Relaxation Techniques for Stress: Self-Massage, Breathing, and Mindfulness",
+      "path": "/symptoms/stress/relaxation-techniques-tcm/",
+      "type": "cluster",
+      "parent": "stress",
+      "estimated_read_time": 7,
+      "keywords": [
+        "tcm relaxation",
+        "stress relief tcm",
+        "self massage stress",
+        "breathing exercises tcm",
+        "mindfulness tcm"
+      ],
+      "id": "380"
+    },
+    {
+      "title": "Mid-Back Pain in TCM: Understanding Thoracic Tension and Gallbladder Channel Stagnation",
+      "path": "/symptoms/back-pain/mid-back-pain-tcm/",
+      "type": "cluster",
+      "parent": "back-pain",
+      "estimated_read_time": 7,
+      "keywords": [
+        "mid back pain",
+        "thoracic back pain",
+        "gallbladder channel",
+        "upper back tension tcm",
+        "shoulder blade pain tcm"
+      ],
+      "id": "381"
+    },
+    {
+      "title": "Meniere's Disease from a TCM Perspective: Managing Vertigo and Ear Fullness Naturally",
+      "path": "/symptoms/ear-health-tinnitus/meniere-support-tcm/",
+      "type": "cluster",
+      "parent": "ear-health-tinnitus",
+      "estimated_read_time": 8,
+      "keywords": [
+        "menieres tcm",
+        "vertigo tcm",
+        "ear fullness",
+        "dizziness tcm",
+        "phlegm vertigo"
+      ],
+      "id": "382"
     }
   ],
   "published": [
@@ -4924,6 +5135,21 @@
         "hydrotherapy tcm"
       ],
       "id": "363"
+    },
+    {
+      "title": "Acupressure for Fatigue: Points to Boost Energy and Restore Vitality",
+      "path": "/treatments/acupressure-fatigue-tcm/",
+      "type": "cluster",
+      "parent": "treatments",
+      "estimated_read_time": 7,
+      "keywords": [
+        "acupressure for fatigue",
+        "energy points",
+        "stomach 36",
+        "qi boosting",
+        "self-care"
+      ],
+      "id": "364"
     }
   ]
 }
