@@ -4,21 +4,6 @@
   "note": "每3小时自动生产一篇内容。从队列头部取，完成后移到 published。",
   "queue": [
     {
-      "title": "Overthinking and Rumination from a TCM Perspective: Spleen, Heart and the Racing Mind",
-      "path": "/symptoms/anxiety/overthinking-tcm/",
-      "type": "cluster",
-      "parent": "anxiety",
-      "estimated_read_time": 9,
-      "keywords": [
-        "overthinking",
-        "rumination",
-        "racing thoughts",
-        "TCM anxiety",
-        "spleen worry"
-      ],
-      "id": "352"
-    },
-    {
       "title": "The Vagus Nerve and Anxiety: A TCM Perspective on the Mind-Body Connection",
       "path": "/symptoms/anxiety/vagus-nerve-anxiety-tcm/",
       "type": "cluster",
@@ -4924,6 +4909,21 @@
         "TCM patterns"
       ],
       "id": "351"
+    },
+    {
+      "title": "Overthinking and Rumination from a TCM Perspective: Spleen, Heart and the Racing Mind",
+      "path": "/symptoms/anxiety/overthinking-tcm/",
+      "type": "cluster",
+      "parent": "anxiety",
+      "estimated_read_time": 9,
+      "keywords": [
+        "overthinking",
+        "rumination",
+        "racing thoughts",
+        "TCM anxiety",
+        "spleen worry"
+      ],
+      "id": "352"
     }
   ]
 }
