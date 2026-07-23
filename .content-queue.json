@@ -4,21 +4,6 @@
   "note": "每3小时自动生产一篇内容。从队列头部取，完成后移到 published。",
   "queue": [
     {
-      "title": "Cold Sores and Fever Blisters: A TCM Guide to Damp-Heat Patterns",
-      "path": "/symptoms/skin-conditions/cold-sores-tcm/",
-      "type": "cluster",
-      "parent": "skin-conditions",
-      "estimated_read_time": 7,
-      "keywords": [
-        "cold sores",
-        "fever blisters",
-        "herpes simplex",
-        "damp heat",
-        "immune support"
-      ],
-      "id": "361"
-    },
-    {
       "title": "TMJ and Jaw Pain: A TCM Perspective on Gallbladder Channel Tension",
       "path": "/symptoms/joint-pain/tmj-tcm/",
       "type": "cluster",
@@ -4924,6 +4909,21 @@
         "cooling foods"
       ],
       "id": "360"
+    },
+    {
+      "title": "Cold Sores and Fever Blisters: A TCM Guide to Damp-Heat Patterns",
+      "path": "/symptoms/skin-conditions/cold-sores-tcm/",
+      "type": "cluster",
+      "parent": "skin-conditions",
+      "estimated_read_time": 7,
+      "keywords": [
+        "cold sores",
+        "fever blisters",
+        "herpes simplex",
+        "damp heat",
+        "immune support"
+      ],
+      "id": "361"
     }
   ]
 }
