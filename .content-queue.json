@@ -4,21 +4,6 @@
   "note": "每3小时自动生产一篇内容。从队列头部取，完成后移到 published。",
   "queue": [
     {
-      "title": "Upper Back Pain: A TCM Guide to Tension Between the Shoulder Blades",
-      "path": "/symptoms/back-pain/upper-back-pain-tcm/",
-      "type": "cluster",
-      "parent": "back-pain",
-      "estimated_read_time": 7,
-      "keywords": [
-        "upper back pain",
-        "shoulder blade pain",
-        "bladder channel",
-        "taiyang meridian",
-        "desk posture"
-      ],
-      "id": "354"
-    },
-    {
       "title": "Nightmares and Disturbed Sleep: A TCM Approach to Restful Nights",
       "path": "/symptoms/insomnia/nightmares-tcm/",
       "type": "cluster",
@@ -4924,6 +4909,21 @@
         "parasympathetic nervous system"
       ],
       "id": "353"
+    },
+    {
+      "title": "Upper Back Pain: A TCM Guide to Tension Between the Shoulder Blades",
+      "path": "/symptoms/back-pain/upper-back-pain-tcm/",
+      "type": "cluster",
+      "parent": "back-pain",
+      "estimated_read_time": 7,
+      "keywords": [
+        "upper back pain",
+        "shoulder blade pain",
+        "bladder channel",
+        "taiyang meridian",
+        "desk posture"
+      ],
+      "id": "354"
     }
   ]
 }
