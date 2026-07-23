@@ -4,21 +4,6 @@
   "note": "每3小时自动生产一篇内容。从队列头部取，完成后移到 published。",
   "queue": [
     {
-      "title": "TMJ and Jaw Pain: A TCM Perspective on Gallbladder Channel Tension",
-      "path": "/symptoms/joint-pain/tmj-tcm/",
-      "type": "cluster",
-      "parent": "joint-pain",
-      "estimated_read_time": 7,
-      "keywords": [
-        "TMJ",
-        "jaw pain",
-        "temporomandibular joint",
-        "gallbladder channel",
-        "liver qi stagnation"
-      ],
-      "id": "362"
-    },
-    {
       "title": "Herbal Baths for Digestive Health: A TCM Approach to Relaxation and Gut Support",
       "path": "/treatments/herbal-baths-digestion-tcm/",
       "type": "cluster",
@@ -4924,6 +4909,21 @@
         "immune support"
       ],
       "id": "361"
+    },
+    {
+      "title": "TMJ and Jaw Pain: A TCM Perspective on Gallbladder Channel Tension",
+      "path": "/symptoms/joint-pain/tmj-tcm/",
+      "type": "cluster",
+      "parent": "joint-pain",
+      "estimated_read_time": 7,
+      "keywords": [
+        "TMJ",
+        "jaw pain",
+        "temporomandibular joint",
+        "gallbladder channel",
+        "liver qi stagnation"
+      ],
+      "id": "362"
     }
   ]
 }
