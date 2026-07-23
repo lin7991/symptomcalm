@@ -4,21 +4,6 @@
   "note": "每3小时自动生产一篇内容。从队列头部取，完成后移到 published。",
   "queue": [
     {
-      "title": "Nightmares and Disturbed Sleep: A TCM Approach to Restful Nights",
-      "path": "/symptoms/insomnia/nightmares-tcm/",
-      "type": "cluster",
-      "parent": "insomnia",
-      "estimated_read_time": 7,
-      "keywords": [
-        "nightmares",
-        "vivid dreams",
-        "sleep quality",
-        "heart shen",
-        "gallbladder qi"
-      ],
-      "id": "355"
-    },
-    {
       "title": "Ear Pressure and Fullness: TCM Understanding of Clogged Ear Sensations",
       "path": "/symptoms/ear-health-tinnitus/ear-pressure-tcm/",
       "type": "cluster",
@@ -4924,6 +4909,21 @@
         "desk posture"
       ],
       "id": "354"
+    },
+    {
+      "title": "Nightmares and Disturbed Sleep: A TCM Approach to Restful Nights",
+      "path": "/symptoms/insomnia/nightmares-tcm/",
+      "type": "cluster",
+      "parent": "insomnia",
+      "estimated_read_time": 7,
+      "keywords": [
+        "nightmares",
+        "vivid dreams",
+        "sleep quality",
+        "heart shen",
+        "gallbladder qi"
+      ],
+      "id": "355"
     }
   ]
 }
