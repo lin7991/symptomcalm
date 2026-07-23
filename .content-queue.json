@@ -4,22 +4,6 @@
   "note": "每3小时自动生产一篇内容。从队列头部取，完成后移到 published。",
   "queue": [
     {
-      "title": "Qigong for Better Sleep: Gentle Movements to Calm Your Mind at Night",
-      "path": "/treatments/qigong-sleep-tcm/",
-      "type": "cluster",
-      "parent": "treatments",
-      "estimated_read_time": 7,
-      "keywords": [
-        "qigong",
-        "sleep",
-        "bedtime routine",
-        "gentle movement",
-        "relaxation",
-        "insomnia relief"
-      ],
-      "id": "365"
-    },
-    {
       "title": "The Large Intestine in TCM: More Than Digestion and Elimination",
       "path": "/tcm-basics/large-intestine-tcm/",
       "type": "cluster",
@@ -5150,6 +5134,22 @@
         "self-care"
       ],
       "id": "364"
+    },
+    {
+      "title": "Qigong for Better Sleep: Gentle Movements to Calm Your Mind at Night",
+      "path": "/treatments/qigong-sleep-tcm/",
+      "type": "cluster",
+      "parent": "treatments",
+      "estimated_read_time": 7,
+      "keywords": [
+        "qigong",
+        "sleep",
+        "bedtime routine",
+        "gentle movement",
+        "relaxation",
+        "insomnia relief"
+      ],
+      "id": "365"
     }
   ]
 }
