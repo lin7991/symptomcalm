@@ -4,22 +4,6 @@
   "note": "每3小时自动生产一篇内容。从队列头部取，完成后移到 published。",
   "queue": [
     {
-      "title": "Iron Deficiency and Qi: Bridging Western Blood Health and TCM Vitality",
-      "path": "/symptoms/fatigue/iron-qi-deficiency-tcm/",
-      "type": "cluster",
-      "parent": "fatigue",
-      "estimated_read_time": 7,
-      "keywords": [
-        "iron deficiency",
-        "low iron",
-        "qi deficiency",
-        "blood deficiency",
-        "fatigue",
-        "nutrition"
-      ],
-      "id": "358"
-    },
-    {
       "title": "Hypertension Headaches: TCM Perspective on Liver Yang Rising and Blood Pressure",
       "path": "/symptoms/headaches/hypertension-headache-tcm/",
       "type": "cluster",
@@ -4924,6 +4908,22 @@
         "eye inflammation"
       ],
       "id": "357"
+    },
+    {
+      "title": "Iron Deficiency and Qi: Bridging Western Blood Health and TCM Vitality",
+      "path": "/symptoms/fatigue/iron-qi-deficiency-tcm/",
+      "type": "cluster",
+      "parent": "fatigue",
+      "estimated_read_time": 7,
+      "keywords": [
+        "iron deficiency",
+        "low iron",
+        "qi deficiency",
+        "blood deficiency",
+        "fatigue",
+        "nutrition"
+      ],
+      "id": "358"
     }
   ]
 }
