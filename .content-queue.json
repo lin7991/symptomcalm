@@ -4,21 +4,6 @@
   "note": "每3小时自动生产一篇内容。从队列头部取，完成后移到 published。",
   "queue": [
     {
-      "title": "Cough with Heat Signs: TCM Approaches to Yellow Phlegm and Sore Throat",
-      "path": "/symptoms/respiratory-health/lung-heat-cough-tcm/",
-      "type": "cluster",
-      "parent": "respiratory-health",
-      "estimated_read_time": 7,
-      "keywords": [
-        "lung heat",
-        "yellow phlegm",
-        "productive cough",
-        "sore throat",
-        "cooling foods"
-      ],
-      "id": "360"
-    },
-    {
       "title": "Cold Sores and Fever Blisters: A TCM Guide to Damp-Heat Patterns",
       "path": "/symptoms/skin-conditions/cold-sores-tcm/",
       "type": "cluster",
@@ -4924,6 +4909,21 @@
         "tension headache"
       ],
       "id": "359"
+    },
+    {
+      "title": "Cough with Heat Signs: TCM Approaches to Yellow Phlegm and Sore Throat",
+      "path": "/symptoms/respiratory-health/lung-heat-cough-tcm/",
+      "type": "cluster",
+      "parent": "respiratory-health",
+      "estimated_read_time": 7,
+      "keywords": [
+        "lung heat",
+        "yellow phlegm",
+        "productive cough",
+        "sore throat",
+        "cooling foods"
+      ],
+      "id": "360"
     }
   ]
 }
