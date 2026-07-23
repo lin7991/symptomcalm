@@ -4,20 +4,6 @@
   "note": "每3小时自动生产一篇内容。从队列头部取，完成后移到 published。",
   "queue": [
     {
-      "title": "Hypertension Headaches: TCM Perspective on Liver Yang Rising and Blood Pressure",
-      "path": "/symptoms/headaches/hypertension-headache-tcm/",
-      "type": "cluster",
-      "parent": "headaches",
-      "estimated_read_time": 7,
-      "keywords": [
-        "hypertension headache",
-        "high blood pressure headache",
-        "liver yang",
-        "tension headache"
-      ],
-      "id": "359"
-    },
-    {
       "title": "Cough with Heat Signs: TCM Approaches to Yellow Phlegm and Sore Throat",
       "path": "/symptoms/respiratory-health/lung-heat-cough-tcm/",
       "type": "cluster",
@@ -4924,6 +4910,20 @@
         "nutrition"
       ],
       "id": "358"
+    },
+    {
+      "title": "Hypertension Headaches: TCM Perspective on Liver Yang Rising and Blood Pressure",
+      "path": "/symptoms/headaches/hypertension-headache-tcm/",
+      "type": "cluster",
+      "parent": "headaches",
+      "estimated_read_time": 7,
+      "keywords": [
+        "hypertension headache",
+        "high blood pressure headache",
+        "liver yang",
+        "tension headache"
+      ],
+      "id": "359"
     }
   ]
 }
