@@ -4,21 +4,6 @@
   "note": "每3小时自动生产一篇内容。从队列头部取，完成后移到 published。",
   "queue": [
     {
-      "title": "Ear Pressure and Fullness: TCM Understanding of Clogged Ear Sensations",
-      "path": "/symptoms/ear-health-tinnitus/ear-pressure-tcm/",
-      "type": "cluster",
-      "parent": "ear-health-tinnitus",
-      "estimated_read_time": 7,
-      "keywords": [
-        "ear pressure",
-        "clogged ears",
-        "eustachian tube",
-        "kidney qi",
-        "liver yang"
-      ],
-      "id": "356"
-    },
-    {
       "title": "Conjunctivitis (Pink Eye) Through a TCM Lens: Cooling Inflammatory Heat",
       "path": "/symptoms/eye-health/conjunctivitis-tcm/",
       "type": "cluster",
@@ -4924,6 +4909,21 @@
         "gallbladder qi"
       ],
       "id": "355"
+    },
+    {
+      "title": "Ear Pressure and Fullness: TCM Understanding of Clogged Ear Sensations",
+      "path": "/symptoms/ear-health-tinnitus/ear-pressure-tcm/",
+      "type": "cluster",
+      "parent": "ear-health-tinnitus",
+      "estimated_read_time": 7,
+      "keywords": [
+        "ear pressure",
+        "clogged ears",
+        "eustachian tube",
+        "kidney qi",
+        "liver yang"
+      ],
+      "id": "356"
     }
   ]
 }
