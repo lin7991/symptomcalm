@@ -4,21 +4,6 @@
   "note": "每3小时自动生产一篇内容。从队列头部取，完成后移到 published。",
   "queue": [
     {
-      "title": "Herbal Baths for Joint Pain: Soaking Away Stiffness and Aches the TCM Way",
-      "path": "/treatments/herbal-baths-joint-pain-tcm/",
-      "type": "cluster",
-      "parent": "treatments",
-      "estimated_read_time": 7,
-      "keywords": [
-        "herbal bath joint pain",
-        "tcm bath therapy",
-        "arthritis bath",
-        "stiffness relief bath",
-        "warming herbs bath"
-      ],
-      "id": "377"
-    },
-    {
       "title": "Meditation and Breathwork for Digestion in TCM: Calming the Gut-Brain Axis",
       "path": "/treatments/meditation-digestion-tcm/",
       "type": "cluster",
@@ -5150,6 +5135,21 @@
         "qi activation"
       ],
       "id": "376"
+    },
+    {
+      "title": "Herbal Baths for Joint Pain: Soaking Away Stiffness and Aches the TCM Way",
+      "path": "/treatments/herbal-baths-joint-pain-tcm/",
+      "type": "cluster",
+      "parent": "treatments",
+      "estimated_read_time": 7,
+      "keywords": [
+        "herbal bath joint pain",
+        "tcm bath therapy",
+        "arthritis bath",
+        "stiffness relief bath",
+        "warming herbs bath"
+      ],
+      "id": "377"
     }
   ]
 }
