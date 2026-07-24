@@ -4,21 +4,6 @@
   "note": "每3小时自动生产一篇内容。从队列头部取，完成后移到 published。",
   "queue": [
     {
-      "title": "The Gallbladder in TCM: Decision-Making, Courage, and the Free Flow of Qi",
-      "path": "/tcm-basics/gallbladder-in-tcm/",
-      "type": "cluster",
-      "parent": "tcm-basics",
-      "estimated_read_time": 8,
-      "keywords": [
-        "gallbladder tcm",
-        "decision making",
-        "courage",
-        "liver gallbladder relationship",
-        "wood element"
-      ],
-      "id": "368"
-    },
-    {
       "title": "The Small Intestine in TCM: Separating Pure from Impure and Gut Health",
       "path": "/tcm-basics/small-intestine-tcm/",
       "type": "cluster",
@@ -5150,6 +5135,21 @@
         "mental health"
       ],
       "id": "367"
+    },
+    {
+      "title": "The Gallbladder in TCM: Decision-Making, Courage, and the Free Flow of Qi",
+      "path": "/tcm-basics/gallbladder-in-tcm/",
+      "type": "cluster",
+      "parent": "tcm-basics",
+      "estimated_read_time": 8,
+      "keywords": [
+        "gallbladder tcm",
+        "decision making",
+        "courage",
+        "liver gallbladder relationship",
+        "wood element"
+      ],
+      "id": "368"
     }
   ]
 }
