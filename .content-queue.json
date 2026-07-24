@@ -4,22 +4,6 @@
   "note": "每3小时自动生产一篇内容。从队列头部取，完成后移到 published。",
   "queue": [
     {
-      "title": "Blood in TCM (Xue): More Than Red Cells — Nourishment, Storage, and Vitality",
-      "path": "/tcm-basics/blood-in-tcm/",
-      "type": "cluster",
-      "parent": "tcm-basics",
-      "estimated_read_time": 8,
-      "keywords": [
-        "blood in tcm",
-        "xue",
-        "blood deficiency",
-        "blood stagnation",
-        "liver stores blood",
-        "nourishment tcm"
-      ],
-      "id": "373"
-    },
-    {
       "title": "Gua Sha for Headaches: Facial and Neck Scraping for Tension and Migraine Relief",
       "path": "/treatments/guasha-headaches-tcm/",
       "type": "cluster",
@@ -5150,6 +5134,22 @@
         "energy management tcm"
       ],
       "id": "372"
+    },
+    {
+      "title": "Blood in TCM (Xue): More Than Red Cells — Nourishment, Storage, and Vitality",
+      "path": "/tcm-basics/blood-in-tcm/",
+      "type": "cluster",
+      "parent": "tcm-basics",
+      "estimated_read_time": 8,
+      "keywords": [
+        "blood in tcm",
+        "xue",
+        "blood deficiency",
+        "blood stagnation",
+        "liver stores blood",
+        "nourishment tcm"
+      ],
+      "id": "373"
     }
   ]
 }
