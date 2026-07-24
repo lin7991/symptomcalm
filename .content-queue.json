@@ -4,21 +4,6 @@
   "note": "每3小时自动生产一篇内容。从队列头部取，完成后移到 published。",
   "queue": [
     {
-      "title": "TCM Dietary Therapy for Eye Health: Foods That Nourish Your Vision",
-      "path": "/treatments/dietary-therapy-eye-health-tcm/",
-      "type": "cluster",
-      "parent": "treatments",
-      "estimated_read_time": 7,
-      "keywords": [
-        "diet eye health tcm",
-        "vision food",
-        "liver nourishing diet",
-        "eye health nutrition",
-        "chrysanthemum goji"
-      ],
-      "id": "379"
-    },
-    {
       "title": "TCM Relaxation Techniques for Stress: Self-Massage, Breathing, and Mindfulness",
       "path": "/symptoms/stress/relaxation-techniques-tcm/",
       "type": "cluster",
@@ -62,6 +47,160 @@
         "phlegm vertigo"
       ],
       "id": "382"
+    },
+    {
+      "title": "Panic Attacks from a TCM Perspective: Understanding the Sudden Surge",
+      "path": "/symptoms/anxiety/panic-attack-tcm/",
+      "type": "cluster",
+      "parent": "anxiety",
+      "estimated_read_time": 7,
+      "keywords": [
+        "panic attacks tcm",
+        "anxiety panic traditional chinese medicine",
+        "heart palpitations tcm",
+        "panic disorder natural approach"
+      ],
+      "id": "383"
+    },
+    {
+      "title": "Rebound Headaches in TCM: Understanding Medication-Overuse and Natural Support",
+      "path": "/symptoms/headaches/rebound-headaches-tcm/",
+      "type": "cluster",
+      "parent": "headaches",
+      "estimated_read_time": 7,
+      "keywords": [
+        "rebound headaches tcm",
+        "medication overuse headache natural",
+        "chronic headache tcm treatment",
+        "headache medication withdrawal tcm"
+      ],
+      "id": "384"
+    },
+    {
+      "title": "Rib Pain and Costochondritis in TCM: Understanding the Chest Wall",
+      "path": "/symptoms/back-pain/rib-pain-tcm/",
+      "type": "cluster",
+      "parent": "back-pain",
+      "estimated_read_time": 8,
+      "keywords": [
+        "rib pain tcm",
+        "costochondritis natural treatment",
+        "chest wall pain tcm",
+        "intercostal pain traditional chinese medicine"
+      ],
+      "id": "385"
+    },
+    {
+      "title": "SIBO from a TCM Perspective: Understanding Small Intestinal Bacterial Overgrowth",
+      "path": "/symptoms/digestion/sibo-tcm/",
+      "type": "cluster",
+      "parent": "digestion",
+      "estimated_read_time": 9,
+      "keywords": [
+        "sibo tcm treatment",
+        "small intestinal bacterial overgrowth natural",
+        "sibo chinese medicine",
+        "bloating sibo tcm perspective"
+      ],
+      "id": "386"
+    },
+    {
+      "title": "Running Injuries from a TCM Perspective: Prevention and Recovery for Athletes",
+      "path": "/symptoms/joint-pain/running-injuries-tcm/",
+      "type": "cluster",
+      "parent": "joint-pain",
+      "estimated_read_time": 8,
+      "keywords": [
+        "running injuries tcm",
+        "runner knee chinese medicine",
+        "shin splints tcm",
+        "sports injury traditional chinese medicine"
+      ],
+      "id": "387"
+    },
+    {
+      "title": "Eczema Diet Strategies in TCM: Eating for Skin Health from the Inside Out",
+      "path": "/symptoms/skin-conditions/eczema-diet-tcm/",
+      "type": "cluster",
+      "parent": "skin-conditions",
+      "estimated_read_time": 8,
+      "keywords": [
+        "eczema diet tcm",
+        "foods for eczema traditional chinese medicine",
+        "skin health diet tcm",
+        "eczema nutrition tcm approach"
+      ],
+      "id": "388"
+    },
+    {
+      "title": "Chronic Urticaria in TCM: Understanding Persistent Hives Beyond Antihistamines",
+      "path": "/symptoms/allergies/urticaria-chronic-tcm/",
+      "type": "cluster",
+      "parent": "allergies",
+      "estimated_read_time": 8,
+      "keywords": [
+        "chronic urticaria tcm",
+        "persistent hives natural treatment",
+        "chronic hives chinese medicine",
+        "urticaria tcm patterns"
+      ],
+      "id": "389"
+    },
+    {
+      "title": "Post-Viral Fatigue and Long COVID from a TCM Perspective: Rebuilding After Illness",
+      "path": "/symptoms/fatigue/post-covid-fatigue-tcm/",
+      "type": "cluster",
+      "parent": "fatigue",
+      "estimated_read_time": 9,
+      "keywords": [
+        "post viral fatigue tcm",
+        "long covid chinese medicine",
+        "chronic fatigue after illness tcm",
+        "post covid recovery tcm"
+      ],
+      "id": "390"
+    },
+    {
+      "title": "Cupping Therapy for Respiratory Health: TCM Approaches for Better Breathing",
+      "path": "/treatments/cupping-respiratory-tcm/",
+      "type": "treatment",
+      "parent": "",
+      "estimated_read_time": 8,
+      "keywords": [
+        "cupping for respiratory health",
+        "cupping therapy lungs",
+        "cupping for cough",
+        "cupping congestion tcm"
+      ],
+      "id": "391"
+    },
+    {
+      "title": "Gua Sha for Digestion: A TCM Self-Care Guide for Gut Health",
+      "path": "/treatments/guasha-digestion-tcm/",
+      "type": "treatment",
+      "parent": "",
+      "estimated_read_time": 7,
+      "keywords": [
+        "gua sha digestion",
+        "gua sha for bloating",
+        "gua sha abdominal massage",
+        "gua sha gut health tcm"
+      ],
+      "id": "392"
+    },
+    {
+      "title": "Moxibustion for Fertility Support: A TCM Guide to Warming the Womb",
+      "path": "/treatments/moxibustion-fertility-tcm/",
+      "type": "treatment",
+      "parent": "",
+      "estimated_read_time": 8,
+      "keywords": [
+        "moxibustion fertility",
+        "moxa for pregnancy",
+        "moxibustion conception",
+        "warming womb tcm fertility"
+      ],
+      "id": "393"
     }
   ],
   "published": [
@@ -5150,6 +5289,21 @@
         "stress digestion"
       ],
       "id": "378"
+    },
+    {
+      "title": "TCM Dietary Therapy for Eye Health: Foods That Nourish Your Vision",
+      "path": "/treatments/dietary-therapy-eye-health-tcm/",
+      "type": "cluster",
+      "parent": "treatments",
+      "estimated_read_time": 7,
+      "keywords": [
+        "diet eye health tcm",
+        "vision food",
+        "liver nourishing diet",
+        "eye health nutrition",
+        "chrysanthemum goji"
+      ],
+      "id": "379"
     }
   ]
 }
