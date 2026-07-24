@@ -4,21 +4,6 @@
   "note": "每3小时自动生产一篇内容。从队列头部取，完成后移到 published。",
   "queue": [
     {
-      "title": "Meditation and Breathwork for Digestion in TCM: Calming the Gut-Brain Axis",
-      "path": "/treatments/meditation-digestion-tcm/",
-      "type": "cluster",
-      "parent": "treatments",
-      "estimated_read_time": 7,
-      "keywords": [
-        "meditation for digestion",
-        "breathwork digestion",
-        "gut brain axis tcm",
-        "spleen meditation",
-        "stress digestion"
-      ],
-      "id": "378"
-    },
-    {
       "title": "TCM Dietary Therapy for Eye Health: Foods That Nourish Your Vision",
       "path": "/treatments/dietary-therapy-eye-health-tcm/",
       "type": "cluster",
@@ -5150,6 +5135,21 @@
         "warming herbs bath"
       ],
       "id": "377"
+    },
+    {
+      "title": "Meditation and Breathwork for Digestion in TCM: Calming the Gut-Brain Axis",
+      "path": "/treatments/meditation-digestion-tcm/",
+      "type": "cluster",
+      "parent": "treatments",
+      "estimated_read_time": 7,
+      "keywords": [
+        "meditation for digestion",
+        "breathwork digestion",
+        "gut brain axis tcm",
+        "spleen meditation",
+        "stress digestion"
+      ],
+      "id": "378"
     }
   ]
 }
