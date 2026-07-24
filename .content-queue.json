@@ -4,21 +4,6 @@
   "note": "每3小时自动生产一篇内容。从队列头部取，完成后移到 published。",
   "queue": [
     {
-      "title": "Morning Qigong for Energy: A 10-Minute Routine to Start Your Day",
-      "path": "/treatments/qigong-morning-energy-tcm/",
-      "type": "cluster",
-      "parent": "treatments",
-      "estimated_read_time": 7,
-      "keywords": [
-        "morning qigong",
-        "energy routine",
-        "qigong for energy",
-        "morning exercise tcm",
-        "qi activation"
-      ],
-      "id": "376"
-    },
-    {
       "title": "Herbal Baths for Joint Pain: Soaking Away Stiffness and Aches the TCM Way",
       "path": "/treatments/herbal-baths-joint-pain-tcm/",
       "type": "cluster",
@@ -5150,6 +5135,21 @@
         "LI20"
       ],
       "id": "375"
+    },
+    {
+      "title": "Morning Qigong for Energy: A 10-Minute Routine to Start Your Day",
+      "path": "/treatments/qigong-morning-energy-tcm/",
+      "type": "cluster",
+      "parent": "treatments",
+      "estimated_read_time": 7,
+      "keywords": [
+        "morning qigong",
+        "energy routine",
+        "qigong for energy",
+        "morning exercise tcm",
+        "qi activation"
+      ],
+      "id": "376"
     }
   ]
 }
