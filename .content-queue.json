@@ -4,21 +4,6 @@
   "note": "每3小时自动生产一篇内容。从队列头部取，完成后移到 published。",
   "queue": [
     {
-      "title": "TCM Relaxation Techniques for Stress: Self-Massage, Breathing, and Mindfulness",
-      "path": "/symptoms/stress/relaxation-techniques-tcm/",
-      "type": "cluster",
-      "parent": "stress",
-      "estimated_read_time": 7,
-      "keywords": [
-        "tcm relaxation",
-        "stress relief tcm",
-        "self massage stress",
-        "breathing exercises tcm",
-        "mindfulness tcm"
-      ],
-      "id": "380"
-    },
-    {
       "title": "Mid-Back Pain in TCM: Understanding Thoracic Tension and Gallbladder Channel Stagnation",
       "path": "/symptoms/back-pain/mid-back-pain-tcm/",
       "type": "cluster",
@@ -5304,6 +5289,21 @@
         "chrysanthemum goji"
       ],
       "id": "379"
+    },
+    {
+      "title": "TCM Relaxation Techniques for Stress: Self-Massage, Breathing, and Mindfulness",
+      "path": "/symptoms/stress/relaxation-techniques-tcm/",
+      "type": "cluster",
+      "parent": "stress",
+      "estimated_read_time": 7,
+      "keywords": [
+        "tcm relaxation",
+        "stress relief tcm",
+        "self massage stress",
+        "breathing exercises tcm",
+        "mindfulness tcm"
+      ],
+      "id": "380"
     }
   ]
 }
