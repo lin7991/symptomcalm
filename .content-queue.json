@@ -4,21 +4,6 @@
   "note": "每3小时自动生产一篇内容。从队列头部取，完成后移到 published。",
   "queue": [
     {
-      "title": "The Triple Burner in TCM: Your Body's Metabolic Waterway and Energy Management System",
-      "path": "/tcm-basics/triple-burner-tcm/",
-      "type": "cluster",
-      "parent": "tcm-basics",
-      "estimated_read_time": 9,
-      "keywords": [
-        "triple burner",
-        "san jiao",
-        "metabolic waterway",
-        "three heaters",
-        "energy management tcm"
-      ],
-      "id": "372"
-    },
-    {
       "title": "Blood in TCM (Xue): More Than Red Cells — Nourishment, Storage, and Vitality",
       "path": "/tcm-basics/blood-in-tcm/",
       "type": "cluster",
@@ -5150,6 +5135,21 @@
         "shen"
       ],
       "id": "371"
+    },
+    {
+      "title": "The Triple Burner in TCM: Your Body's Metabolic Waterway and Energy Management System",
+      "path": "/tcm-basics/triple-burner-tcm/",
+      "type": "cluster",
+      "parent": "tcm-basics",
+      "estimated_read_time": 9,
+      "keywords": [
+        "triple burner",
+        "san jiao",
+        "metabolic waterway",
+        "three heaters",
+        "energy management tcm"
+      ],
+      "id": "372"
     }
   ]
 }
