@@ -4,21 +4,6 @@
   "note": "每3小时自动生产一篇内容。从队列头部取，完成后移到 published。",
   "queue": [
     {
-      "title": "Mid-Back Pain in TCM: Understanding Thoracic Tension and Gallbladder Channel Stagnation",
-      "path": "/symptoms/back-pain/mid-back-pain-tcm/",
-      "type": "cluster",
-      "parent": "back-pain",
-      "estimated_read_time": 7,
-      "keywords": [
-        "mid back pain",
-        "thoracic back pain",
-        "gallbladder channel",
-        "upper back tension tcm",
-        "shoulder blade pain tcm"
-      ],
-      "id": "381"
-    },
-    {
       "title": "Meniere's Disease from a TCM Perspective: Managing Vertigo and Ear Fullness Naturally",
       "path": "/symptoms/ear-health-tinnitus/meniere-support-tcm/",
       "type": "cluster",
@@ -5304,6 +5289,21 @@
         "mindfulness tcm"
       ],
       "id": "380"
+    },
+    {
+      "title": "Mid-Back Pain in TCM: Understanding Thoracic Tension and Gallbladder Channel Stagnation",
+      "path": "/symptoms/back-pain/mid-back-pain-tcm/",
+      "type": "cluster",
+      "parent": "back-pain",
+      "estimated_read_time": 7,
+      "keywords": [
+        "mid back pain",
+        "thoracic back pain",
+        "gallbladder channel",
+        "upper back tension tcm",
+        "shoulder blade pain tcm"
+      ],
+      "id": "381"
     }
   ]
 }
