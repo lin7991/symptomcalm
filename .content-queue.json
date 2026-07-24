@@ -4,21 +4,6 @@
   "note": "每3小时自动生产一篇内容。从队列头部取，完成后移到 published。",
   "queue": [
     {
-      "title": "Acupressure for Sinus Relief: Clear Congestion with Pressure Points",
-      "path": "/treatments/acupressure-sinus-tcm/",
-      "type": "cluster",
-      "parent": "treatments",
-      "estimated_read_time": 7,
-      "keywords": [
-        "acupressure sinus",
-        "sinus pressure points",
-        "face acupressure",
-        "sinus congestion relief",
-        "LI20"
-      ],
-      "id": "375"
-    },
-    {
       "title": "Morning Qigong for Energy: A 10-Minute Routine to Start Your Day",
       "path": "/treatments/qigong-morning-energy-tcm/",
       "type": "cluster",
@@ -5150,6 +5135,21 @@
         "migraine relief gua sha"
       ],
       "id": "374"
+    },
+    {
+      "title": "Acupressure for Sinus Relief: Clear Congestion with Pressure Points",
+      "path": "/treatments/acupressure-sinus-tcm/",
+      "type": "cluster",
+      "parent": "treatments",
+      "estimated_read_time": 7,
+      "keywords": [
+        "acupressure sinus",
+        "sinus pressure points",
+        "face acupressure",
+        "sinus congestion relief",
+        "LI20"
+      ],
+      "id": "375"
     }
   ]
 }
