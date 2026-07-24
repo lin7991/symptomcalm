@@ -4,21 +4,6 @@
   "note": "每3小时自动生产一篇内容。从队列头部取，完成后移到 published。",
   "queue": [
     {
-      "title": "The Urinary Bladder in TCM: Your Body's Water Regulator and Stress Response",
-      "path": "/tcm-basics/urinary-bladder-tcm/",
-      "type": "cluster",
-      "parent": "tcm-basics",
-      "estimated_read_time": 8,
-      "keywords": [
-        "urinary bladder tcm",
-        "water metabolism",
-        "kidney partner",
-        "bladder meridian",
-        "stress response"
-      ],
-      "id": "370"
-    },
-    {
       "title": "The Pericardium in TCM: Protecting the Heart and Emotional Boundaries",
       "path": "/tcm-basics/pericardium-tcm/",
       "type": "cluster",
@@ -5150,6 +5135,21 @@
         "fire element"
       ],
       "id": "369"
+    },
+    {
+      "title": "The Urinary Bladder in TCM: Your Body's Water Regulator and Stress Response",
+      "path": "/tcm-basics/urinary-bladder-tcm/",
+      "type": "cluster",
+      "parent": "tcm-basics",
+      "estimated_read_time": 8,
+      "keywords": [
+        "urinary bladder tcm",
+        "water metabolism",
+        "kidney partner",
+        "bladder meridian",
+        "stress response"
+      ],
+      "id": "370"
     }
   ]
 }
