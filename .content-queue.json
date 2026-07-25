@@ -4,20 +4,6 @@
   "note": "每3小时自动生产一篇内容。从队列头部取，完成后移到 published。",
   "queue": [
     {
-      "title": "Panic Attacks from a TCM Perspective: Understanding the Sudden Surge",
-      "path": "/symptoms/anxiety/panic-attack-tcm/",
-      "type": "cluster",
-      "parent": "anxiety",
-      "estimated_read_time": 7,
-      "keywords": [
-        "panic attacks tcm",
-        "anxiety panic traditional chinese medicine",
-        "heart palpitations tcm",
-        "panic disorder natural approach"
-      ],
-      "id": "383"
-    },
-    {
       "title": "Rebound Headaches in TCM: Understanding Medication-Overuse and Natural Support",
       "path": "/symptoms/headaches/rebound-headaches-tcm/",
       "type": "cluster",
@@ -5304,6 +5290,20 @@
         "phlegm vertigo"
       ],
       "id": "382"
+    },
+    {
+      "title": "Panic Attacks from a TCM Perspective: Understanding the Sudden Surge",
+      "path": "/symptoms/anxiety/panic-attack-tcm/",
+      "type": "cluster",
+      "parent": "anxiety",
+      "estimated_read_time": 7,
+      "keywords": [
+        "panic attacks tcm",
+        "anxiety panic traditional chinese medicine",
+        "heart palpitations tcm",
+        "panic disorder natural approach"
+      ],
+      "id": "383"
     }
   ]
 }
