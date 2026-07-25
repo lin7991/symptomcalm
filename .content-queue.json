@@ -4,20 +4,6 @@
   "note": "每3小时自动生产一篇内容。从队列头部取，完成后移到 published。",
   "queue": [
     {
-      "title": "Chronic Urticaria in TCM: Understanding Persistent Hives Beyond Antihistamines",
-      "path": "/symptoms/allergies/urticaria-chronic-tcm/",
-      "type": "cluster",
-      "parent": "allergies",
-      "estimated_read_time": 8,
-      "keywords": [
-        "chronic urticaria tcm",
-        "persistent hives natural treatment",
-        "chronic hives chinese medicine",
-        "urticaria tcm patterns"
-      ],
-      "id": "389"
-    },
-    {
       "title": "Post-Viral Fatigue and Long COVID from a TCM Perspective: Rebuilding After Illness",
       "path": "/symptoms/fatigue/post-covid-fatigue-tcm/",
       "type": "cluster",
@@ -5304,6 +5290,20 @@
         "eczema nutrition tcm approach"
       ],
       "id": "388"
+    },
+    {
+      "title": "Chronic Urticaria in TCM: Understanding Persistent Hives Beyond Antihistamines",
+      "path": "/symptoms/allergies/urticaria-chronic-tcm/",
+      "type": "cluster",
+      "parent": "allergies",
+      "estimated_read_time": 8,
+      "keywords": [
+        "chronic urticaria tcm",
+        "persistent hives natural treatment",
+        "chronic hives chinese medicine",
+        "urticaria tcm patterns"
+      ],
+      "id": "389"
     }
   ]
 }
