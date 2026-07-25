@@ -4,20 +4,6 @@
   "note": "每3小时自动生产一篇内容。从队列头部取，完成后移到 published。",
   "queue": [
     {
-      "title": "SIBO from a TCM Perspective: Understanding Small Intestinal Bacterial Overgrowth",
-      "path": "/symptoms/digestion/sibo-tcm/",
-      "type": "cluster",
-      "parent": "digestion",
-      "estimated_read_time": 9,
-      "keywords": [
-        "sibo tcm treatment",
-        "small intestinal bacterial overgrowth natural",
-        "sibo chinese medicine",
-        "bloating sibo tcm perspective"
-      ],
-      "id": "386"
-    },
-    {
       "title": "Running Injuries from a TCM Perspective: Prevention and Recovery for Athletes",
       "path": "/symptoms/joint-pain/running-injuries-tcm/",
       "type": "cluster",
@@ -5304,6 +5290,20 @@
         "intercostal pain traditional chinese medicine"
       ],
       "id": "385"
+    },
+    {
+      "title": "SIBO from a TCM Perspective: Understanding Small Intestinal Bacterial Overgrowth",
+      "path": "/symptoms/digestion/sibo-tcm/",
+      "type": "cluster",
+      "parent": "digestion",
+      "estimated_read_time": 9,
+      "keywords": [
+        "sibo tcm treatment",
+        "small intestinal bacterial overgrowth natural",
+        "sibo chinese medicine",
+        "bloating sibo tcm perspective"
+      ],
+      "id": "386"
     }
   ]
 }
