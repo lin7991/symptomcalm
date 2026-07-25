@@ -4,20 +4,6 @@
   "note": "每3小时自动生产一篇内容。从队列头部取，完成后移到 published。",
   "queue": [
     {
-      "title": "Rib Pain and Costochondritis in TCM: Understanding the Chest Wall",
-      "path": "/symptoms/back-pain/rib-pain-tcm/",
-      "type": "cluster",
-      "parent": "back-pain",
-      "estimated_read_time": 8,
-      "keywords": [
-        "rib pain tcm",
-        "costochondritis natural treatment",
-        "chest wall pain tcm",
-        "intercostal pain traditional chinese medicine"
-      ],
-      "id": "385"
-    },
-    {
       "title": "SIBO from a TCM Perspective: Understanding Small Intestinal Bacterial Overgrowth",
       "path": "/symptoms/digestion/sibo-tcm/",
       "type": "cluster",
@@ -5304,6 +5290,20 @@
         "headache medication withdrawal tcm"
       ],
       "id": "384"
+    },
+    {
+      "title": "Rib Pain and Costochondritis in TCM: Understanding the Chest Wall",
+      "path": "/symptoms/back-pain/rib-pain-tcm/",
+      "type": "cluster",
+      "parent": "back-pain",
+      "estimated_read_time": 8,
+      "keywords": [
+        "rib pain tcm",
+        "costochondritis natural treatment",
+        "chest wall pain tcm",
+        "intercostal pain traditional chinese medicine"
+      ],
+      "id": "385"
     }
   ]
 }
