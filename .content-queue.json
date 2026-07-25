@@ -4,11 +4,6 @@
   "note": "每3小时自动生产一篇内容。从队列头部取，完成后移到 published。",
   "queue": [
     {
-      "title": "Eye Strain and Digital Fatigue: A TCM Guide",
-      "path": "/symptoms/eye-health/eye-strain-tcm/",
-      "id": "395"
-    },
-    {
       "title": "Burnout Recovery: A Traditional Chinese Medicine Approach",
       "path": "/symptoms/stress/burnout-tcm/",
       "id": "396"
@@ -5379,6 +5374,11 @@
       "title": "Tension Headaches from a TCM Perspective",
       "path": "/symptoms/headaches/tension-headaches-tcm/",
       "id": "394"
+    },
+    {
+      "title": "Eye Strain and Digital Fatigue: A TCM Guide",
+      "path": "/symptoms/eye-health/eye-strain-tcm/",
+      "id": "395"
     }
   ]
 }
