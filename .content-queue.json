@@ -4,20 +4,6 @@
   "note": "每3小时自动生产一篇内容。从队列头部取，完成后移到 published。",
   "queue": [
     {
-      "title": "Post-Viral Fatigue and Long COVID from a TCM Perspective: Rebuilding After Illness",
-      "path": "/symptoms/fatigue/post-covid-fatigue-tcm/",
-      "type": "cluster",
-      "parent": "fatigue",
-      "estimated_read_time": 9,
-      "keywords": [
-        "post viral fatigue tcm",
-        "long covid chinese medicine",
-        "chronic fatigue after illness tcm",
-        "post covid recovery tcm"
-      ],
-      "id": "390"
-    },
-    {
       "title": "Cupping Therapy for Respiratory Health: TCM Approaches for Better Breathing",
       "path": "/treatments/cupping-respiratory-tcm/",
       "type": "treatment",
@@ -58,6 +44,81 @@
         "warming womb tcm fertility"
       ],
       "id": "393"
+    },
+    {
+      "title": "Tension Headaches from a TCM Perspective",
+      "path": "/symptoms/headaches/tension-headaches-tcm/",
+      "id": "394"
+    },
+    {
+      "title": "Eye Strain and Digital Fatigue: A TCM Guide",
+      "path": "/symptoms/eye-health/eye-strain-tcm/",
+      "id": "395"
+    },
+    {
+      "title": "Burnout Recovery: A Traditional Chinese Medicine Approach",
+      "path": "/symptoms/stress/burnout-tcm/",
+      "id": "396"
+    },
+    {
+      "title": "Hay Fever and Allergic Rhinitis Through a TCM Lens",
+      "path": "/symptoms/allergies/allergic-rhinitis-tcm/",
+      "id": "397"
+    },
+    {
+      "title": "PCOS and Weight Management: A TCM Perspective",
+      "path": "/symptoms/womens-health/pcos-weight-tcm/",
+      "id": "398"
+    },
+    {
+      "title": "Barotrauma and Ear Pressure: TCM Support Strategies",
+      "path": "/symptoms/ear-health-tinnitus/barotrauma-tcm/",
+      "id": "399"
+    },
+    {
+      "title": "SI Joint Pain: A Traditional Chinese Medicine Guide",
+      "path": "/symptoms/back-pain/sacroiliac-joint-tcm/",
+      "id": "400"
+    },
+    {
+      "title": "Memory and Focus Support with Traditional Chinese Medicine",
+      "path": "/symptoms/mental-emotional-health/memory-support-tcm/",
+      "id": "401"
+    },
+    {
+      "title": "Restless Legs Syndrome: A TCM Perspective",
+      "path": "/symptoms/insomnia/restless-legs-tcm/",
+      "id": "402"
+    },
+    {
+      "title": "Generalized Anxiety Disorder (GAD) Through a TCM Lens",
+      "path": "/symptoms/anxiety/gad-tcm/",
+      "id": "403"
+    },
+    {
+      "title": "Iron Deficiency and Fatigue: A TCM Support Guide",
+      "path": "/symptoms/fatigue/iron-deficiency-tcm/",
+      "id": "404"
+    },
+    {
+      "title": "Sinusitis and Sinus Congestion: A TCM Approach",
+      "path": "/symptoms/respiratory-health/sinusitis-tcm/",
+      "id": "405"
+    },
+    {
+      "title": "Neck Pain and Stiffness: A TCM Guide",
+      "path": "/symptoms/joint-pain/neck-pain-tcm/",
+      "id": "406"
+    },
+    {
+      "title": "Indigestion and Poor Digestion: A TCM Perspective",
+      "path": "/symptoms/digestion/indigestion-tcm/",
+      "id": "407"
+    },
+    {
+      "title": "Shingles and Post-Herpetic Neuralgia: TCM Support Strategies",
+      "path": "/symptoms/skin-conditions/shingles-tcm/",
+      "id": "408"
     }
   ],
   "published": [
@@ -5304,6 +5365,20 @@
         "urticaria tcm patterns"
       ],
       "id": "389"
+    },
+    {
+      "title": "Post-Viral Fatigue and Long COVID from a TCM Perspective: Rebuilding After Illness",
+      "path": "/symptoms/fatigue/post-covid-fatigue-tcm/",
+      "type": "cluster",
+      "parent": "fatigue",
+      "estimated_read_time": 9,
+      "keywords": [
+        "post viral fatigue tcm",
+        "long covid chinese medicine",
+        "chronic fatigue after illness tcm",
+        "post covid recovery tcm"
+      ],
+      "id": "390"
     }
   ]
 }
