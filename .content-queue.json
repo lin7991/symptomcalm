@@ -4,20 +4,6 @@
   "note": "每3小时自动生产一篇内容。从队列头部取，完成后移到 published。",
   "queue": [
     {
-      "title": "Moxibustion for Fertility Support: A TCM Guide to Warming the Womb",
-      "path": "/treatments/moxibustion-fertility-tcm/",
-      "type": "treatment",
-      "parent": "",
-      "estimated_read_time": 8,
-      "keywords": [
-        "moxibustion fertility",
-        "moxa for pregnancy",
-        "moxibustion conception",
-        "warming womb tcm fertility"
-      ],
-      "id": "393"
-    },
-    {
       "title": "Tension Headaches from a TCM Perspective",
       "path": "/symptoms/headaches/tension-headaches-tcm/",
       "id": "394"
@@ -5379,6 +5365,20 @@
         "gua sha gut health tcm"
       ],
       "id": "392"
+    },
+    {
+      "title": "Moxibustion for Fertility Support: A TCM Guide to Warming the Womb",
+      "path": "/treatments/moxibustion-fertility-tcm/",
+      "type": "treatment",
+      "parent": "",
+      "estimated_read_time": 8,
+      "keywords": [
+        "moxibustion fertility",
+        "moxa for pregnancy",
+        "moxibustion conception",
+        "warming womb tcm fertility"
+      ],
+      "id": "393"
     }
   ]
 }
