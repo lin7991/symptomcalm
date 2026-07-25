@@ -4,20 +4,6 @@
   "note": "每3小时自动生产一篇内容。从队列头部取，完成后移到 published。",
   "queue": [
     {
-      "title": "Gua Sha for Digestion: A TCM Self-Care Guide for Gut Health",
-      "path": "/treatments/guasha-digestion-tcm/",
-      "type": "treatment",
-      "parent": "",
-      "estimated_read_time": 7,
-      "keywords": [
-        "gua sha digestion",
-        "gua sha for bloating",
-        "gua sha abdominal massage",
-        "gua sha gut health tcm"
-      ],
-      "id": "392"
-    },
-    {
       "title": "Moxibustion for Fertility Support: A TCM Guide to Warming the Womb",
       "path": "/treatments/moxibustion-fertility-tcm/",
       "type": "treatment",
@@ -5379,6 +5365,20 @@
         "cupping congestion tcm"
       ],
       "id": "391"
+    },
+    {
+      "title": "Gua Sha for Digestion: A TCM Self-Care Guide for Gut Health",
+      "path": "/treatments/guasha-digestion-tcm/",
+      "type": "treatment",
+      "parent": "",
+      "estimated_read_time": 7,
+      "keywords": [
+        "gua sha digestion",
+        "gua sha for bloating",
+        "gua sha abdominal massage",
+        "gua sha gut health tcm"
+      ],
+      "id": "392"
     }
   ]
 }
