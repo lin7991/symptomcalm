@@ -4,20 +4,6 @@
   "note": "每3小时自动生产一篇内容。从队列头部取，完成后移到 published。",
   "queue": [
     {
-      "title": "Cupping Therapy for Respiratory Health: TCM Approaches for Better Breathing",
-      "path": "/treatments/cupping-respiratory-tcm/",
-      "type": "treatment",
-      "parent": "",
-      "estimated_read_time": 8,
-      "keywords": [
-        "cupping for respiratory health",
-        "cupping therapy lungs",
-        "cupping for cough",
-        "cupping congestion tcm"
-      ],
-      "id": "391"
-    },
-    {
       "title": "Gua Sha for Digestion: A TCM Self-Care Guide for Gut Health",
       "path": "/treatments/guasha-digestion-tcm/",
       "type": "treatment",
@@ -5379,6 +5365,20 @@
         "post covid recovery tcm"
       ],
       "id": "390"
+    },
+    {
+      "title": "Cupping Therapy for Respiratory Health: TCM Approaches for Better Breathing",
+      "path": "/treatments/cupping-respiratory-tcm/",
+      "type": "treatment",
+      "parent": "",
+      "estimated_read_time": 8,
+      "keywords": [
+        "cupping for respiratory health",
+        "cupping therapy lungs",
+        "cupping for cough",
+        "cupping congestion tcm"
+      ],
+      "id": "391"
     }
   ]
 }
