@@ -4,11 +4,6 @@
   "note": "每3小时自动生产一篇内容。从队列头部取，完成后移到 published。",
   "queue": [
     {
-      "title": "Shingles and Post-Herpetic Neuralgia: TCM Support Strategies",
-      "path": "/symptoms/skin-conditions/shingles-tcm/",
-      "id": "408"
-    },
-    {
       "title": "From the Ground Up: Zang-Fu Organ System in TCM [Complete Guide]",
       "path": "/tcm-basics/zang-fu-overview/",
       "type": "tcm-basics",
@@ -5511,6 +5506,11 @@
       "title": "Indigestion and Poor Digestion: A TCM Perspective",
       "path": "/symptoms/digestion/indigestion-tcm/",
       "id": "407"
+    },
+    {
+      "title": "Shingles and Post-Herpetic Neuralgia: TCM Support Strategies",
+      "path": "/symptoms/skin-conditions/shingles-tcm/",
+      "id": "408"
     }
   ]
 }
