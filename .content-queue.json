@@ -4,21 +4,6 @@
   "note": "每3小时自动生产一篇内容。从队列头部取，完成后移到 published。",
   "queue": [
     {
-      "title": "Ankle Pain and Weak Ankles: A TCM Guide to Support and Recovery",
-      "path": "/symptoms/joint-pain/ankle-pain-tcm/",
-      "type": "cluster",
-      "parent": "joint-pain",
-      "estimated_read_time": 7,
-      "keywords": [
-        "ankle pain tcm",
-        "weak ankles",
-        "sprained ankle recovery",
-        "kidney qi ankles",
-        "channel stagnation"
-      ],
-      "id": "413"
-    },
-    {
       "title": "Foot Pain and Plantar Fasciitis: A TCM Perspective",
       "path": "/symptoms/joint-pain/foot-pain-tcm/",
       "type": "cluster",
@@ -5511,6 +5496,21 @@
         "wei qi deficiency"
       ],
       "id": "412"
+    },
+    {
+      "title": "Ankle Pain and Weak Ankles: A TCM Guide to Support and Recovery",
+      "path": "/symptoms/joint-pain/ankle-pain-tcm/",
+      "type": "cluster",
+      "parent": "joint-pain",
+      "estimated_read_time": 7,
+      "keywords": [
+        "ankle pain tcm",
+        "weak ankles",
+        "sprained ankle recovery",
+        "kidney qi ankles",
+        "channel stagnation"
+      ],
+      "id": "413"
     }
   ]
 }
