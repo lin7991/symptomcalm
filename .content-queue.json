@@ -4,11 +4,6 @@
   "note": "每3小时自动生产一篇内容。从队列头部取，完成后移到 published。",
   "queue": [
     {
-      "title": "PCOS and Weight Management: A TCM Perspective",
-      "path": "/symptoms/womens-health/pcos-weight-tcm/",
-      "id": "398"
-    },
-    {
       "title": "Barotrauma and Ear Pressure: TCM Support Strategies",
       "path": "/symptoms/ear-health-tinnitus/barotrauma-tcm/",
       "id": "399"
@@ -5379,6 +5374,11 @@
       "title": "Hay Fever and Allergic Rhinitis Through a TCM Lens",
       "path": "/symptoms/allergies/allergic-rhinitis-tcm/",
       "id": "397"
+    },
+    {
+      "title": "PCOS and Weight Management: A TCM Perspective",
+      "path": "/symptoms/womens-health/pcos-weight-tcm/",
+      "id": "398"
     }
   ]
 }
