@@ -4,21 +4,6 @@
   "note": "每3小时自动生产一篇内容。从队列头部取，完成后移到 published。",
   "queue": [
     {
-      "title": "Breastfeeding and Postpartum Nourishment: TCM Wisdom for New Mothers",
-      "path": "/symptoms/womens-health/breastfeeding-tcm/",
-      "type": "cluster",
-      "parent": "womens-health",
-      "estimated_read_time": 8,
-      "keywords": [
-        "breastfeeding tcm",
-        "postpartum nourishment",
-        "milk supply",
-        "blood deficiency postpartum",
-        "lactation"
-      ],
-      "id": "415"
-    },
-    {
       "title": "Acupressure for Sinus Congestion and Allergies",
       "path": "/treatments/acupressure-for-sinusitis/",
       "type": "treatment",
@@ -5511,6 +5496,21 @@
         "foot health chinese medicine"
       ],
       "id": "414"
+    },
+    {
+      "title": "Breastfeeding and Postpartum Nourishment: TCM Wisdom for New Mothers",
+      "path": "/symptoms/womens-health/breastfeeding-tcm/",
+      "type": "cluster",
+      "parent": "womens-health",
+      "estimated_read_time": 8,
+      "keywords": [
+        "breastfeeding tcm",
+        "postpartum nourishment",
+        "milk supply",
+        "blood deficiency postpartum",
+        "lactation"
+      ],
+      "id": "415"
     }
   ]
 }
