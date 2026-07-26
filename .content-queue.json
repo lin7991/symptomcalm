@@ -4,21 +4,6 @@
   "note": "每3小时自动生产一篇内容。从队列头部取，完成后移到 published。",
   "queue": [
     {
-      "title": "Yeast Infections and Vaginal Health: A TCM Support Guide",
-      "path": "/symptoms/womens-health/yeast-infection-tcm/",
-      "type": "cluster",
-      "parent": "womens-health",
-      "estimated_read_time": 7,
-      "keywords": [
-        "yeast infection tcm",
-        "vaginal health",
-        "candida tcm",
-        "damp-heat vaginal discharge",
-        "natural support"
-      ],
-      "id": "410"
-    },
-    {
       "title": "Pollen Allergies and Hay Fever: A TCM Approach",
       "path": "/symptoms/respiratory-health/pollen-allergy-tcm/",
       "type": "cluster",
@@ -5511,6 +5496,21 @@
         "six yang organs"
       ],
       "id": "409"
+    },
+    {
+      "title": "Yeast Infections and Vaginal Health: A TCM Support Guide",
+      "path": "/symptoms/womens-health/yeast-infection-tcm/",
+      "type": "cluster",
+      "parent": "womens-health",
+      "estimated_read_time": 7,
+      "keywords": [
+        "yeast infection tcm",
+        "vaginal health",
+        "candida tcm",
+        "damp-heat vaginal discharge",
+        "natural support"
+      ],
+      "id": "410"
     }
   ]
 }
