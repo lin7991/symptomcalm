@@ -4,21 +4,6 @@
   "note": "每3小时自动生产一篇内容。从队列头部取，完成后移到 published。",
   "queue": [
     {
-      "title": "Foot Pain and Plantar Fasciitis: A TCM Perspective",
-      "path": "/symptoms/joint-pain/foot-pain-tcm/",
-      "type": "cluster",
-      "parent": "joint-pain",
-      "estimated_read_time": 8,
-      "keywords": [
-        "foot pain tcm",
-        "plantar fasciitis",
-        "heel pain",
-        "kidney channel",
-        "foot health chinese medicine"
-      ],
-      "id": "414"
-    },
-    {
       "title": "Breastfeeding and Postpartum Nourishment: TCM Wisdom for New Mothers",
       "path": "/symptoms/womens-health/breastfeeding-tcm/",
       "type": "cluster",
@@ -5511,6 +5496,21 @@
         "channel stagnation"
       ],
       "id": "413"
+    },
+    {
+      "title": "Foot Pain and Plantar Fasciitis: A TCM Perspective",
+      "path": "/symptoms/joint-pain/foot-pain-tcm/",
+      "type": "cluster",
+      "parent": "joint-pain",
+      "estimated_read_time": 8,
+      "keywords": [
+        "foot pain tcm",
+        "plantar fasciitis",
+        "heel pain",
+        "kidney channel",
+        "foot health chinese medicine"
+      ],
+      "id": "414"
     }
   ]
 }
