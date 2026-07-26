@@ -4,20 +4,6 @@
   "note": "每3小时自动生产一篇内容。从队列头部取，完成后移到 published。",
   "queue": [
     {
-      "title": "From the Ground Up: Zang-Fu Organ System in TCM [Complete Guide]",
-      "path": "/tcm-basics/zang-fu-overview/",
-      "type": "tcm-basics",
-      "estimated_read_time": 8,
-      "keywords": [
-        "zang fu organs",
-        "tcm organ systems",
-        "chinese medicine organs",
-        "five yin organs",
-        "six yang organs"
-      ],
-      "id": "409"
-    },
-    {
       "title": "Yeast Infections and Vaginal Health: A TCM Support Guide",
       "path": "/symptoms/womens-health/yeast-infection-tcm/",
       "type": "cluster",
@@ -5511,6 +5497,20 @@
       "title": "Shingles and Post-Herpetic Neuralgia: TCM Support Strategies",
       "path": "/symptoms/skin-conditions/shingles-tcm/",
       "id": "408"
+    },
+    {
+      "title": "From the Ground Up: Zang-Fu Organ System in TCM [Complete Guide]",
+      "path": "/tcm-basics/zang-fu-overview/",
+      "type": "tcm-basics",
+      "estimated_read_time": 8,
+      "keywords": [
+        "zang fu organs",
+        "tcm organ systems",
+        "chinese medicine organs",
+        "five yin organs",
+        "six yang organs"
+      ],
+      "id": "409"
     }
   ]
 }
