@@ -4,11 +4,6 @@
   "note": "每3小时自动生产一篇内容。从队列头部取，完成后移到 published。",
   "queue": [
     {
-      "title": "Restless Legs Syndrome: A TCM Perspective",
-      "path": "/symptoms/insomnia/restless-legs-tcm/",
-      "id": "402"
-    },
-    {
       "title": "Generalized Anxiety Disorder (GAD) Through a TCM Lens",
       "path": "/symptoms/anxiety/gad-tcm/",
       "id": "403"
@@ -5379,6 +5374,11 @@
       "title": "Memory and Focus Support with Traditional Chinese Medicine",
       "path": "/symptoms/mental-emotional-health/memory-support-tcm/",
       "id": "401"
+    },
+    {
+      "title": "Restless Legs Syndrome: A TCM Perspective",
+      "path": "/symptoms/insomnia/restless-legs-tcm/",
+      "id": "402"
     }
   ]
 }
