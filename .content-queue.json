@@ -4,20 +4,6 @@
   "note": "每3小时自动生产一篇内容。从队列头部取，完成后移到 published。",
   "queue": [
     {
-      "title": "Foundations of TCM Dietary Therapy: Eating for Your Body Type",
-      "path": "/treatments/dietary-therapy-basics/",
-      "type": "treatment",
-      "estimated_read_time": 8,
-      "keywords": [
-        "tcm dietary therapy",
-        "food as medicine",
-        "eating for body type",
-        "tcm nutrition",
-        "chinese medicine diet"
-      ],
-      "id": "419"
-    },
-    {
       "title": "Acupressure for Migraines: A TCM Approach to Headache Relief",
       "path": "/treatments/acupressure-migraine/",
       "id": "420"
@@ -5586,6 +5572,20 @@
         "indigestion gas"
       ],
       "id": "418"
+    },
+    {
+      "title": "Foundations of TCM Dietary Therapy: Eating for Your Body Type",
+      "path": "/treatments/dietary-therapy-basics/",
+      "type": "treatment",
+      "estimated_read_time": 8,
+      "keywords": [
+        "tcm dietary therapy",
+        "food as medicine",
+        "eating for body type",
+        "tcm nutrition",
+        "chinese medicine diet"
+      ],
+      "id": "419"
     }
   ]
 }
