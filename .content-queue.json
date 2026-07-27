@@ -4,11 +4,6 @@
   "note": "每3小时自动生产一篇内容。从队列头部取，完成后移到 published。",
   "queue": [
     {
-      "title": "Self Tui Na for Stress Relief: Pressure Points That Calm the Mind",
-      "path": "/treatments/tui-na-stress-relief/",
-      "id": "421"
-    },
-    {
       "title": "Herbal Baths for Fatigue: Traditional Chinese Medicine Recipes for Energy Restoration",
       "path": "/treatments/herbal-baths-fatigue/",
       "id": "422"
@@ -5586,6 +5581,11 @@
       "title": "Acupressure for Migraines: A TCM Approach to Headache Relief",
       "path": "/treatments/acupressure-migraine/",
       "id": "420"
+    },
+    {
+      "title": "Self Tui Na for Stress Relief: Pressure Points That Calm the Mind",
+      "path": "/treatments/tui-na-stress-relief/",
+      "id": "421"
     }
   ]
 }
