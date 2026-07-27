@@ -4,11 +4,6 @@
   "note": "每3小时自动生产一篇内容。从队列头部取，完成后移到 published。",
   "queue": [
     {
-      "title": "Sleep Apnea and TCM: Understanding Nighttime Breathing Through Ancient Medicine",
-      "path": "/symptoms/insomnia/sleep-apnea-tcm/",
-      "id": "429"
-    },
-    {
       "title": "Adrenal Burnout and TCM: Rebuilding Your Energy Reserves Naturally",
       "path": "/symptoms/stress/burnout-adrenal-tcm/",
       "id": "430"
@@ -5586,6 +5581,11 @@
       "title": "Scoliosis from a TCM Perspective: Structural Support Through Ancient Wisdom",
       "path": "/symptoms/back-pain/scoliosis-tcm/",
       "id": "428"
+    },
+    {
+      "title": "Sleep Apnea and TCM: Understanding Nighttime Breathing Through Ancient Medicine",
+      "path": "/symptoms/insomnia/sleep-apnea-tcm/",
+      "id": "429"
     }
   ]
 }
