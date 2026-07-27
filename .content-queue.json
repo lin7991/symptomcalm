@@ -4,11 +4,6 @@
   "note": "每3小时自动生产一篇内容。从队列头部取，完成后移到 published。",
   "queue": [
     {
-      "title": "Kidney Essence (Jing) in TCM: Your Deep Vitality Reserve",
-      "path": "/tcm-basics/kidney-essence-tcm/",
-      "id": "426"
-    },
-    {
       "title": "Health Anxiety and TCM: When Worry About Your Body Takes Over",
       "path": "/symptoms/anxiety/health-anxiety-tcm/",
       "id": "427"
@@ -5586,6 +5581,11 @@
       "title": "Lung Qi in TCM: Understanding Respiratory Vitality and Immunity",
       "path": "/tcm-basics/lung-qi-tcm/",
       "id": "425"
+    },
+    {
+      "title": "Kidney Essence (Jing) in TCM: Your Deep Vitality Reserve",
+      "path": "/tcm-basics/kidney-essence-tcm/",
+      "id": "426"
     }
   ]
 }
