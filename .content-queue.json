@@ -4,21 +4,6 @@
   "note": "每3小时自动生产一篇内容。从队列头部取，完成后移到 published。",
   "queue": [
     {
-      "title": "Your Sleep Chronotype: TCM Organ Clock Guide to Better Rest",
-      "path": "/symptoms/insomnia/chronotype-tcm/",
-      "type": "cluster",
-      "parent": "insomnia",
-      "estimated_read_time": 7,
-      "keywords": [
-        "sleep chronotype",
-        "tcm organ clock",
-        "circadian rhythm",
-        "sleep-wake cycle",
-        "optimal sleep time"
-      ],
-      "id": "417"
-    },
-    {
       "title": "Belching and Upper Digestive Gas: A TCM Perspective",
       "path": "/symptoms/digestion/belching-bloating-tcm/",
       "type": "cluster",
@@ -5586,6 +5571,21 @@
         "natural sinus relief"
       ],
       "id": "416"
+    },
+    {
+      "title": "Your Sleep Chronotype: TCM Organ Clock Guide to Better Rest",
+      "path": "/symptoms/insomnia/chronotype-tcm/",
+      "type": "cluster",
+      "parent": "insomnia",
+      "estimated_read_time": 7,
+      "keywords": [
+        "sleep chronotype",
+        "tcm organ clock",
+        "circadian rhythm",
+        "sleep-wake cycle",
+        "optimal sleep time"
+      ],
+      "id": "417"
     }
   ]
 }
