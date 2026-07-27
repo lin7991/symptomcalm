@@ -4,11 +4,6 @@
   "note": "每3小时自动生产一篇内容。从队列头部取，完成后移到 published。",
   "queue": [
     {
-      "title": "Herbal Baths for Fatigue: Traditional Chinese Medicine Recipes for Energy Restoration",
-      "path": "/treatments/herbal-baths-fatigue/",
-      "id": "422"
-    },
-    {
       "title": "Cupping for Sports Recovery and Athletic Performance",
       "path": "/treatments/cupping-sports-recovery/",
       "id": "423"
@@ -5586,6 +5581,11 @@
       "title": "Self Tui Na for Stress Relief: Pressure Points That Calm the Mind",
       "path": "/treatments/tui-na-stress-relief/",
       "id": "421"
+    },
+    {
+      "title": "Herbal Baths for Fatigue: Traditional Chinese Medicine Recipes for Energy Restoration",
+      "path": "/treatments/herbal-baths-fatigue/",
+      "id": "422"
     }
   ]
 }
