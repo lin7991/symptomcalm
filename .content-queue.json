@@ -4,21 +4,6 @@
   "note": "每3小时自动生产一篇内容。从队列头部取，完成后移到 published。",
   "queue": [
     {
-      "title": "Belching and Upper Digestive Gas: A TCM Perspective",
-      "path": "/symptoms/digestion/belching-bloating-tcm/",
-      "type": "cluster",
-      "parent": "digestion",
-      "estimated_read_time": 7,
-      "keywords": [
-        "belching tcm",
-        "upper gas",
-        "stomach qi rebellion",
-        "spleen qi stagnation",
-        "indigestion gas"
-      ],
-      "id": "418"
-    },
-    {
       "title": "Foundations of TCM Dietary Therapy: Eating for Your Body Type",
       "path": "/treatments/dietary-therapy-basics/",
       "type": "treatment",
@@ -5586,6 +5571,21 @@
         "optimal sleep time"
       ],
       "id": "417"
+    },
+    {
+      "title": "Belching and Upper Digestive Gas: A TCM Perspective",
+      "path": "/symptoms/digestion/belching-bloating-tcm/",
+      "type": "cluster",
+      "parent": "digestion",
+      "estimated_read_time": 7,
+      "keywords": [
+        "belching tcm",
+        "upper gas",
+        "stomach qi rebellion",
+        "spleen qi stagnation",
+        "indigestion gas"
+      ],
+      "id": "418"
     }
   ]
 }
