@@ -4,11 +4,6 @@
   "note": "每3小时自动生产一篇内容。从队列头部取，完成后移到 published。",
   "queue": [
     {
-      "title": "Cupping for Sports Recovery and Athletic Performance",
-      "path": "/treatments/cupping-sports-recovery/",
-      "id": "423"
-    },
-    {
       "title": "Heart and Shen (Spirit) in TCM: The Mind-Body Connection",
       "path": "/tcm-basics/heart-shen-tcm/",
       "id": "424"
@@ -5586,6 +5581,11 @@
       "title": "Herbal Baths for Fatigue: Traditional Chinese Medicine Recipes for Energy Restoration",
       "path": "/treatments/herbal-baths-fatigue/",
       "id": "422"
+    },
+    {
+      "title": "Cupping for Sports Recovery and Athletic Performance",
+      "path": "/treatments/cupping-sports-recovery/",
+      "id": "423"
     }
   ]
 }
