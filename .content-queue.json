@@ -4,20 +4,6 @@
   "note": "每3小时自动生产一篇内容。从队列头部取，完成后移到 published。",
   "queue": [
     {
-      "title": "Acupressure for Sinus Congestion and Allergies",
-      "path": "/treatments/acupressure-for-sinusitis/",
-      "type": "treatment",
-      "estimated_read_time": 6,
-      "keywords": [
-        "acupressure sinus",
-        "sinus congestion relief",
-        "acupressure points allergy",
-        "face acupressure",
-        "natural sinus relief"
-      ],
-      "id": "416"
-    },
-    {
       "title": "Your Sleep Chronotype: TCM Organ Clock Guide to Better Rest",
       "path": "/symptoms/insomnia/chronotype-tcm/",
       "type": "cluster",
@@ -60,6 +46,81 @@
         "chinese medicine diet"
       ],
       "id": "419"
+    },
+    {
+      "title": "Acupressure for Migraines: A TCM Approach to Headache Relief",
+      "path": "/treatments/acupressure-migraine/",
+      "id": "420"
+    },
+    {
+      "title": "Self Tui Na for Stress Relief: Pressure Points That Calm the Mind",
+      "path": "/treatments/tui-na-stress-relief/",
+      "id": "421"
+    },
+    {
+      "title": "Herbal Baths for Fatigue: Traditional Chinese Medicine Recipes for Energy Restoration",
+      "path": "/treatments/herbal-baths-fatigue/",
+      "id": "422"
+    },
+    {
+      "title": "Cupping for Sports Recovery and Athletic Performance",
+      "path": "/treatments/cupping-sports-recovery/",
+      "id": "423"
+    },
+    {
+      "title": "Heart and Shen (Spirit) in TCM: The Mind-Body Connection",
+      "path": "/tcm-basics/heart-shen-tcm/",
+      "id": "424"
+    },
+    {
+      "title": "Lung Qi in TCM: Understanding Respiratory Vitality and Immunity",
+      "path": "/tcm-basics/lung-qi-tcm/",
+      "id": "425"
+    },
+    {
+      "title": "Kidney Essence (Jing) in TCM: Your Deep Vitality Reserve",
+      "path": "/tcm-basics/kidney-essence-tcm/",
+      "id": "426"
+    },
+    {
+      "title": "Health Anxiety and TCM: When Worry About Your Body Takes Over",
+      "path": "/symptoms/anxiety/health-anxiety-tcm/",
+      "id": "427"
+    },
+    {
+      "title": "Scoliosis from a TCM Perspective: Structural Support Through Ancient Wisdom",
+      "path": "/symptoms/back-pain/scoliosis-tcm/",
+      "id": "428"
+    },
+    {
+      "title": "Sleep Apnea and TCM: Understanding Nighttime Breathing Through Ancient Medicine",
+      "path": "/symptoms/insomnia/sleep-apnea-tcm/",
+      "id": "429"
+    },
+    {
+      "title": "Adrenal Burnout and TCM: Rebuilding Your Energy Reserves Naturally",
+      "path": "/symptoms/stress/burnout-adrenal-tcm/",
+      "id": "430"
+    },
+    {
+      "title": "Post-Exercise Fatigue Recovery with TCM: Replenishing Energy After Workouts",
+      "path": "/symptoms/fatigue/post-exercise-fatigue-tcm/",
+      "id": "431"
+    },
+    {
+      "title": "Heartburn and Acid Reflux from a TCM Perspective",
+      "path": "/symptoms/digestion/heartburn-tcm/",
+      "id": "432"
+    },
+    {
+      "title": "Fungal Skin Infections from a TCM Perspective: Treating Damp-Heat Patterns",
+      "path": "/symptoms/skin-conditions/fungal-infection-tcm/",
+      "id": "433"
+    },
+    {
+      "title": "Ice Pick Headaches: TCM Perspectives on Sudden Stabbing Head Pain",
+      "path": "/symptoms/headaches/ice-pick-headache-tcm/",
+      "id": "434"
     }
   ],
   "published": [
@@ -5511,6 +5572,20 @@
         "lactation"
       ],
       "id": "415"
+    },
+    {
+      "title": "Acupressure for Sinus Congestion and Allergies",
+      "path": "/treatments/acupressure-for-sinusitis/",
+      "type": "treatment",
+      "estimated_read_time": 6,
+      "keywords": [
+        "acupressure sinus",
+        "sinus congestion relief",
+        "acupressure points allergy",
+        "face acupressure",
+        "natural sinus relief"
+      ],
+      "id": "416"
     }
   ]
 }
