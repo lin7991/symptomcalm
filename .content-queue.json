@@ -4,11 +4,6 @@
   "note": "每3小时自动生产一篇内容。从队列头部取，完成后移到 published。",
   "queue": [
     {
-      "title": "Heart and Shen (Spirit) in TCM: The Mind-Body Connection",
-      "path": "/tcm-basics/heart-shen-tcm/",
-      "id": "424"
-    },
-    {
       "title": "Lung Qi in TCM: Understanding Respiratory Vitality and Immunity",
       "path": "/tcm-basics/lung-qi-tcm/",
       "id": "425"
@@ -5586,6 +5581,11 @@
       "title": "Cupping for Sports Recovery and Athletic Performance",
       "path": "/treatments/cupping-sports-recovery/",
       "id": "423"
+    },
+    {
+      "title": "Heart and Shen (Spirit) in TCM: The Mind-Body Connection",
+      "path": "/tcm-basics/heart-shen-tcm/",
+      "id": "424"
     }
   ]
 }
