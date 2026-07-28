@@ -4,20 +4,6 @@
   "note": "每3小时自动生产一篇内容。从队列头部取，完成后移到 published。",
   "queue": [
     {
-      "title": "Gallbladder Health from a TCM Perspective: More Than Just Gallstones",
-      "path": "/symptoms/digestion/gallbladder-tcm/",
-      "type": "cluster",
-      "parent": "digestion",
-      "estimated_read_time": 7,
-      "keywords": [
-        "gallbladder tcm",
-        "gallbladder health chinese medicine",
-        "gallbladder liver tcm",
-        "gallbladder meridian"
-      ],
-      "id": "444"
-    },
-    {
       "title": "Stress and Tension Headaches: A TCM View on Liver Qi and Neck Tightness",
       "path": "/symptoms/stress/stress-headache-tcm/",
       "type": "cluster",
@@ -5796,6 +5782,20 @@
         "power nap tcm"
       ],
       "id": "443"
+    },
+    {
+      "title": "Gallbladder Health from a TCM Perspective: More Than Just Gallstones",
+      "path": "/symptoms/digestion/gallbladder-tcm/",
+      "type": "cluster",
+      "parent": "digestion",
+      "estimated_read_time": 7,
+      "keywords": [
+        "gallbladder tcm",
+        "gallbladder health chinese medicine",
+        "gallbladder liver tcm",
+        "gallbladder meridian"
+      ],
+      "id": "444"
     }
   ]
 }
