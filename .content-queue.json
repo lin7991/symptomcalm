@@ -4,20 +4,6 @@
   "note": "每3小时自动生产一篇内容。从队列头部取，完成后移到 published。",
   "queue": [
     {
-      "title": "TCM Exercises and Stretches for Back Pain: Moving Qi for Lasting Relief",
-      "path": "/symptoms/back-pain/back-pain-exercises-tcm/",
-      "type": "cluster",
-      "parent": "back-pain",
-      "estimated_read_time": 7,
-      "keywords": [
-        "back pain exercises tcm",
-        "tcm stretches back pain",
-        "qi gong back pain",
-        "back pain movement tcm"
-      ],
-      "id": "439"
-    },
-    {
       "title": "Sleep Positions and Routines for Back Pain: A TCM Guide to Restful Nights",
       "path": "/symptoms/back-pain/back-pain-sleep-tcm/",
       "type": "cluster",
@@ -5796,6 +5782,20 @@
         "acupressure low back pain"
       ],
       "id": "438"
+    },
+    {
+      "title": "TCM Exercises and Stretches for Back Pain: Moving Qi for Lasting Relief",
+      "path": "/symptoms/back-pain/back-pain-exercises-tcm/",
+      "type": "cluster",
+      "parent": "back-pain",
+      "estimated_read_time": 7,
+      "keywords": [
+        "back pain exercises tcm",
+        "tcm stretches back pain",
+        "qi gong back pain",
+        "back pain movement tcm"
+      ],
+      "id": "439"
     }
   ]
 }
