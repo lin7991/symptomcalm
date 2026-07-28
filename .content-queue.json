@@ -4,11 +4,6 @@
   "note": "每3小时自动生产一篇内容。从队列头部取，完成后移到 published。",
   "queue": [
     {
-      "title": "Ice Pick Headaches: TCM Perspectives on Sudden Stabbing Head Pain",
-      "path": "/symptoms/headaches/ice-pick-headache-tcm/",
-      "id": "434"
-    },
-    {
       "title": "The Gut-Brain Axis and Anxiety: A TCM Perspective on the Stomach-Heart Connection",
       "path": "/symptoms/anxiety/anxiety-gut-brain-axis-tcm/",
       "type": "cluster",
@@ -5796,6 +5791,11 @@
       "title": "Fungal Skin Infections from a TCM Perspective: Treating Damp-Heat Patterns",
       "path": "/symptoms/skin-conditions/fungal-infection-tcm/",
       "id": "433"
+    },
+    {
+      "title": "Ice Pick Headaches: TCM Perspectives on Sudden Stabbing Head Pain",
+      "path": "/symptoms/headaches/ice-pick-headache-tcm/",
+      "id": "434"
     }
   ]
 }
