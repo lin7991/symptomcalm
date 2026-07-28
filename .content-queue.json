@@ -4,11 +4,6 @@
   "note": "每3小时自动生产一篇内容。从队列头部取，完成后移到 published。",
   "queue": [
     {
-      "title": "Post-Exercise Fatigue Recovery with TCM: Replenishing Energy After Workouts",
-      "path": "/symptoms/fatigue/post-exercise-fatigue-tcm/",
-      "id": "431"
-    },
-    {
       "title": "Heartburn and Acid Reflux from a TCM Perspective",
       "path": "/symptoms/digestion/heartburn-tcm/",
       "id": "432"
@@ -22,6 +17,216 @@
       "title": "Ice Pick Headaches: TCM Perspectives on Sudden Stabbing Head Pain",
       "path": "/symptoms/headaches/ice-pick-headache-tcm/",
       "id": "434"
+    },
+    {
+      "title": "The Gut-Brain Axis and Anxiety: A TCM Perspective on the Stomach-Heart Connection",
+      "path": "/symptoms/anxiety/anxiety-gut-brain-axis-tcm/",
+      "type": "cluster",
+      "parent": "anxiety",
+      "estimated_read_time": 7,
+      "keywords": [
+        "gut brain axis anxiety",
+        "anxiety digestion tcm",
+        "spleen anxiety",
+        "stomach nerve anxiety"
+      ],
+      "id": "435"
+    },
+    {
+      "title": "Breathing Techniques for Anxiety: A TCM Perspective on Lung Qi and Calming the Shen",
+      "path": "/symptoms/anxiety/anxiety-breathing-tcm/",
+      "type": "cluster",
+      "parent": "anxiety",
+      "estimated_read_time": 6,
+      "keywords": [
+        "breathing anxiety tcm",
+        "lung qi anxiety",
+        "deep breathing anxiety",
+        "calming breath tcm"
+      ],
+      "id": "436"
+    },
+    {
+      "title": "Heart Palpitations and Anxiety: A TCM Guide to Calming the Shen",
+      "path": "/symptoms/anxiety/heart-palpitations-tcm/",
+      "type": "cluster",
+      "parent": "anxiety",
+      "estimated_read_time": 7,
+      "keywords": [
+        "heart palpitations anxiety tcm",
+        "heart shen anxiety",
+        "racing heart tcm",
+        "palpitations tcm"
+      ],
+      "id": "437"
+    },
+    {
+      "title": "Acupressure Points for Back Pain: A TCM Self-Care Guide",
+      "path": "/symptoms/back-pain/back-pain-acupressure-tcm/",
+      "type": "cluster",
+      "parent": "back-pain",
+      "estimated_read_time": 7,
+      "keywords": [
+        "acupressure back pain",
+        "back pain pressure points",
+        "tcm back pain self care",
+        "acupressure low back pain"
+      ],
+      "id": "438"
+    },
+    {
+      "title": "TCM Exercises and Stretches for Back Pain: Moving Qi for Lasting Relief",
+      "path": "/symptoms/back-pain/back-pain-exercises-tcm/",
+      "type": "cluster",
+      "parent": "back-pain",
+      "estimated_read_time": 7,
+      "keywords": [
+        "back pain exercises tcm",
+        "tcm stretches back pain",
+        "qi gong back pain",
+        "back pain movement tcm"
+      ],
+      "id": "439"
+    },
+    {
+      "title": "Sleep Positions and Routines for Back Pain: A TCM Guide to Restful Nights",
+      "path": "/symptoms/back-pain/back-pain-sleep-tcm/",
+      "type": "cluster",
+      "parent": "back-pain",
+      "estimated_read_time": 6,
+      "keywords": [
+        "sleep back pain tcm",
+        "back pain sleeping positions",
+        "kidney deficiency sleep",
+        "lower back pain night"
+      ],
+      "id": "440"
+    },
+    {
+      "title": "Herbal Baths for Back Pain Relief: A TCM Warmth-Based Approach",
+      "path": "/symptoms/back-pain/herbal-baths-back-pain-tcm/",
+      "type": "cluster",
+      "parent": "back-pain",
+      "estimated_read_time": 6,
+      "keywords": [
+        "herbal bath back pain",
+        "tcm bath therapy back pain",
+        "warm bath back pain",
+        "ginger bath back pain"
+      ],
+      "id": "441"
+    },
+    {
+      "title": "Acupressure for Better Sleep: Pressure Points to Calm Your Mind and Body",
+      "path": "/symptoms/insomnia/insomnia-acupressure-tcm/",
+      "type": "cluster",
+      "parent": "insomnia",
+      "estimated_read_time": 7,
+      "keywords": [
+        "acupressure for sleep",
+        "insomnia pressure points",
+        "sleep acupressure tcm",
+        "calming points sleep"
+      ],
+      "id": "442"
+    },
+    {
+      "title": "The Art of Napping: A TCM Guide to Daytime Rest Without Ruining Night Sleep",
+      "path": "/symptoms/insomnia/napping-tcm/",
+      "type": "cluster",
+      "parent": "insomnia",
+      "estimated_read_time": 6,
+      "keywords": [
+        "napping tcm",
+        "daytime sleep tcm",
+        "organ clock nap",
+        "power nap tcm"
+      ],
+      "id": "443"
+    },
+    {
+      "title": "Gallbladder Health from a TCM Perspective: More Than Just Gallstones",
+      "path": "/symptoms/digestion/gallbladder-tcm/",
+      "type": "cluster",
+      "parent": "digestion",
+      "estimated_read_time": 7,
+      "keywords": [
+        "gallbladder tcm",
+        "gallbladder health chinese medicine",
+        "gallbladder liver tcm",
+        "gallbladder meridian"
+      ],
+      "id": "444"
+    },
+    {
+      "title": "Stress and Tension Headaches: A TCM View on Liver Qi and Neck Tightness",
+      "path": "/symptoms/stress/stress-headache-tcm/",
+      "type": "cluster",
+      "parent": "stress",
+      "estimated_read_time": 7,
+      "keywords": [
+        "stress headache tcm",
+        "tension headache tcm",
+        "liver qi headache",
+        "stress neck pain tcm"
+      ],
+      "id": "445"
+    },
+    {
+      "title": "How Stress Manifests as Back Pain: A TCM Perspective on Kidney and Liver Connection",
+      "path": "/symptoms/stress/stress-back-pain-tcm/",
+      "type": "cluster",
+      "parent": "stress",
+      "estimated_read_time": 7,
+      "keywords": [
+        "stress back pain tcm",
+        "emotional back pain",
+        "kidney stress back",
+        "liver qi back pain"
+      ],
+      "id": "446"
+    },
+    {
+      "title": "Coccyx Pain (Tailbone Pain) from a TCM Perspective: Kidney Qi and Fall Injuries",
+      "path": "/symptoms/back-pain/coccyx-pain-tcm/",
+      "type": "cluster",
+      "parent": "back-pain",
+      "estimated_read_time": 6,
+      "keywords": [
+        "coccyx pain tcm",
+        "tailbone pain tcm",
+        "kidney deficiency tailbone",
+        "coccydynia tcm"
+      ],
+      "id": "447"
+    },
+    {
+      "title": "Stomach Ulcers and Gastric Health: A TCM Approach to Spleen-Stomach Balance",
+      "path": "/symptoms/digestion/ulcers-tcm/",
+      "type": "cluster",
+      "parent": "digestion",
+      "estimated_read_time": 7,
+      "keywords": [
+        "stomach ulcers tcm",
+        "gastric health tcm",
+        "spleen stomach ulcers",
+        "peptic ulcer tcm"
+      ],
+      "id": "448"
+    },
+    {
+      "title": "Lactose Intolerance Through a TCM Lens: Spleen Qi Deficiency and Dairy",
+      "path": "/symptoms/digestion/lactose-intolerance-tcm/",
+      "type": "cluster",
+      "parent": "digestion",
+      "estimated_read_time": 6,
+      "keywords": [
+        "lactose intolerance tcm",
+        "dairy digestion tcm",
+        "spleen qi dairy",
+        "milk intolerance tcm"
+      ],
+      "id": "449"
     }
   ],
   "published": [
@@ -5586,6 +5791,11 @@
       "title": "Adrenal Burnout and TCM: Rebuilding Your Energy Reserves Naturally",
       "path": "/symptoms/stress/burnout-adrenal-tcm/",
       "id": "430"
+    },
+    {
+      "title": "Post-Exercise Fatigue Recovery with TCM: Replenishing Energy After Workouts",
+      "path": "/symptoms/fatigue/post-exercise-fatigue-tcm/",
+      "id": "431"
     }
   ]
 }
