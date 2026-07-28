@@ -4,20 +4,6 @@
   "note": "每3小时自动生产一篇内容。从队列头部取，完成后移到 published。",
   "queue": [
     {
-      "title": "The Art of Napping: A TCM Guide to Daytime Rest Without Ruining Night Sleep",
-      "path": "/symptoms/insomnia/napping-tcm/",
-      "type": "cluster",
-      "parent": "insomnia",
-      "estimated_read_time": 6,
-      "keywords": [
-        "napping tcm",
-        "daytime sleep tcm",
-        "organ clock nap",
-        "power nap tcm"
-      ],
-      "id": "443"
-    },
-    {
       "title": "Gallbladder Health from a TCM Perspective: More Than Just Gallstones",
       "path": "/symptoms/digestion/gallbladder-tcm/",
       "type": "cluster",
@@ -5796,6 +5782,20 @@
         "calming points sleep"
       ],
       "id": "442"
+    },
+    {
+      "title": "The Art of Napping: A TCM Guide to Daytime Rest Without Ruining Night Sleep",
+      "path": "/symptoms/insomnia/napping-tcm/",
+      "type": "cluster",
+      "parent": "insomnia",
+      "estimated_read_time": 6,
+      "keywords": [
+        "napping tcm",
+        "daytime sleep tcm",
+        "organ clock nap",
+        "power nap tcm"
+      ],
+      "id": "443"
     }
   ]
 }
