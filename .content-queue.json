@@ -4,11 +4,6 @@
   "note": "每3小时自动生产一篇内容。从队列头部取，完成后移到 published。",
   "queue": [
     {
-      "title": "Heartburn and Acid Reflux from a TCM Perspective",
-      "path": "/symptoms/digestion/heartburn-tcm/",
-      "id": "432"
-    },
-    {
       "title": "Fungal Skin Infections from a TCM Perspective: Treating Damp-Heat Patterns",
       "path": "/symptoms/skin-conditions/fungal-infection-tcm/",
       "id": "433"
@@ -5796,6 +5791,11 @@
       "title": "Post-Exercise Fatigue Recovery with TCM: Replenishing Energy After Workouts",
       "path": "/symptoms/fatigue/post-exercise-fatigue-tcm/",
       "id": "431"
+    },
+    {
+      "title": "Heartburn and Acid Reflux from a TCM Perspective",
+      "path": "/symptoms/digestion/heartburn-tcm/",
+      "id": "432"
     }
   ]
 }
