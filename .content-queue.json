@@ -4,20 +4,6 @@
   "note": "每3小时自动生产一篇内容。从队列头部取，完成后移到 published。",
   "queue": [
     {
-      "title": "Heart Palpitations and Anxiety: A TCM Guide to Calming the Shen",
-      "path": "/symptoms/anxiety/heart-palpitations-tcm/",
-      "type": "cluster",
-      "parent": "anxiety",
-      "estimated_read_time": 7,
-      "keywords": [
-        "heart palpitations anxiety tcm",
-        "heart shen anxiety",
-        "racing heart tcm",
-        "palpitations tcm"
-      ],
-      "id": "437"
-    },
-    {
       "title": "Acupressure Points for Back Pain: A TCM Self-Care Guide",
       "path": "/symptoms/back-pain/back-pain-acupressure-tcm/",
       "type": "cluster",
@@ -5796,6 +5782,20 @@
         "calming breath tcm"
       ],
       "id": "436"
+    },
+    {
+      "title": "Heart Palpitations and Anxiety: A TCM Guide to Calming the Shen",
+      "path": "/symptoms/anxiety/heart-palpitations-tcm/",
+      "type": "cluster",
+      "parent": "anxiety",
+      "estimated_read_time": 7,
+      "keywords": [
+        "heart palpitations anxiety tcm",
+        "heart shen anxiety",
+        "racing heart tcm",
+        "palpitations tcm"
+      ],
+      "id": "437"
     }
   ]
 }
