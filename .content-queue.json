@@ -4,20 +4,6 @@
   "note": "每3小时自动生产一篇内容。从队列头部取，完成后移到 published。",
   "queue": [
     {
-      "title": "Acupressure for Better Sleep: Pressure Points to Calm Your Mind and Body",
-      "path": "/symptoms/insomnia/insomnia-acupressure-tcm/",
-      "type": "cluster",
-      "parent": "insomnia",
-      "estimated_read_time": 7,
-      "keywords": [
-        "acupressure for sleep",
-        "insomnia pressure points",
-        "sleep acupressure tcm",
-        "calming points sleep"
-      ],
-      "id": "442"
-    },
-    {
       "title": "The Art of Napping: A TCM Guide to Daytime Rest Without Ruining Night Sleep",
       "path": "/symptoms/insomnia/napping-tcm/",
       "type": "cluster",
@@ -5796,6 +5782,20 @@
         "ginger bath back pain"
       ],
       "id": "441"
+    },
+    {
+      "title": "Acupressure for Better Sleep: Pressure Points to Calm Your Mind and Body",
+      "path": "/symptoms/insomnia/insomnia-acupressure-tcm/",
+      "type": "cluster",
+      "parent": "insomnia",
+      "estimated_read_time": 7,
+      "keywords": [
+        "acupressure for sleep",
+        "insomnia pressure points",
+        "sleep acupressure tcm",
+        "calming points sleep"
+      ],
+      "id": "442"
     }
   ]
 }
