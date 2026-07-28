@@ -4,20 +4,6 @@
   "note": "每3小时自动生产一篇内容。从队列头部取，完成后移到 published。",
   "queue": [
     {
-      "title": "Acupressure Points for Back Pain: A TCM Self-Care Guide",
-      "path": "/symptoms/back-pain/back-pain-acupressure-tcm/",
-      "type": "cluster",
-      "parent": "back-pain",
-      "estimated_read_time": 7,
-      "keywords": [
-        "acupressure back pain",
-        "back pain pressure points",
-        "tcm back pain self care",
-        "acupressure low back pain"
-      ],
-      "id": "438"
-    },
-    {
       "title": "TCM Exercises and Stretches for Back Pain: Moving Qi for Lasting Relief",
       "path": "/symptoms/back-pain/back-pain-exercises-tcm/",
       "type": "cluster",
@@ -5796,6 +5782,20 @@
         "palpitations tcm"
       ],
       "id": "437"
+    },
+    {
+      "title": "Acupressure Points for Back Pain: A TCM Self-Care Guide",
+      "path": "/symptoms/back-pain/back-pain-acupressure-tcm/",
+      "type": "cluster",
+      "parent": "back-pain",
+      "estimated_read_time": 7,
+      "keywords": [
+        "acupressure back pain",
+        "back pain pressure points",
+        "tcm back pain self care",
+        "acupressure low back pain"
+      ],
+      "id": "438"
     }
   ]
 }
