@@ -4,20 +4,6 @@
   "note": "每3小时自动生产一篇内容。从队列头部取，完成后移到 published。",
   "queue": [
     {
-      "title": "The Gut-Brain Axis and Anxiety: A TCM Perspective on the Stomach-Heart Connection",
-      "path": "/symptoms/anxiety/anxiety-gut-brain-axis-tcm/",
-      "type": "cluster",
-      "parent": "anxiety",
-      "estimated_read_time": 7,
-      "keywords": [
-        "gut brain axis anxiety",
-        "anxiety digestion tcm",
-        "spleen anxiety",
-        "stomach nerve anxiety"
-      ],
-      "id": "435"
-    },
-    {
       "title": "Breathing Techniques for Anxiety: A TCM Perspective on Lung Qi and Calming the Shen",
       "path": "/symptoms/anxiety/anxiety-breathing-tcm/",
       "type": "cluster",
@@ -5796,6 +5782,20 @@
       "title": "Ice Pick Headaches: TCM Perspectives on Sudden Stabbing Head Pain",
       "path": "/symptoms/headaches/ice-pick-headache-tcm/",
       "id": "434"
+    },
+    {
+      "title": "The Gut-Brain Axis and Anxiety: A TCM Perspective on the Stomach-Heart Connection",
+      "path": "/symptoms/anxiety/anxiety-gut-brain-axis-tcm/",
+      "type": "cluster",
+      "parent": "anxiety",
+      "estimated_read_time": 7,
+      "keywords": [
+        "gut brain axis anxiety",
+        "anxiety digestion tcm",
+        "spleen anxiety",
+        "stomach nerve anxiety"
+      ],
+      "id": "435"
     }
   ]
 }
