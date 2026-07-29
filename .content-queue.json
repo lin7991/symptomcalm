@@ -4,20 +4,6 @@
   "note": "每3小时自动生产一篇内容。从队列头部取，完成后移到 published。",
   "queue": [
     {
-      "title": "Lactose Intolerance Through a TCM Lens: Spleen Qi Deficiency and Dairy",
-      "path": "/symptoms/digestion/lactose-intolerance-tcm/",
-      "type": "cluster",
-      "parent": "digestion",
-      "estimated_read_time": 6,
-      "keywords": [
-        "lactose intolerance tcm",
-        "dairy digestion tcm",
-        "spleen qi dairy",
-        "milk intolerance tcm"
-      ],
-      "id": "449"
-    },
-    {
       "title": "Dry Eye Syndrome: A TCM Perspective on Moisture Balance",
       "path": "/symptoms/eye-health/dry-eye-tcm/",
       "id": "450"
@@ -5871,6 +5857,20 @@
         "peptic ulcer tcm"
       ],
       "id": "448"
+    },
+    {
+      "title": "Lactose Intolerance Through a TCM Lens: Spleen Qi Deficiency and Dairy",
+      "path": "/symptoms/digestion/lactose-intolerance-tcm/",
+      "type": "cluster",
+      "parent": "digestion",
+      "estimated_read_time": 6,
+      "keywords": [
+        "lactose intolerance tcm",
+        "dairy digestion tcm",
+        "spleen qi dairy",
+        "milk intolerance tcm"
+      ],
+      "id": "449"
     }
   ]
 }
