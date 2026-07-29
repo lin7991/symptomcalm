@@ -4,11 +4,6 @@
   "note": "每3小时自动生产一篇内容。从队列头部取，完成后移到 published。",
   "queue": [
     {
-      "title": "Chronic Sinusitis Through a TCM Lens",
-      "path": "/symptoms/respiratory-health/sinusitis-chronic-tcm/",
-      "id": "451"
-    },
-    {
       "title": "Moxibustion for Immune Support: Warm the Body, Strengthen Defenses",
       "path": "/treatments/moxibustion-immunity-tcm/",
       "id": "452"
@@ -5871,6 +5866,11 @@
       "title": "Dry Eye Syndrome: A TCM Perspective on Moisture Balance",
       "path": "/symptoms/eye-health/dry-eye-tcm/",
       "id": "450"
+    },
+    {
+      "title": "Chronic Sinusitis Through a TCM Lens",
+      "path": "/symptoms/respiratory-health/sinusitis-chronic-tcm/",
+      "id": "451"
     }
   ]
 }
