@@ -4,11 +4,6 @@
   "note": "每3小时自动生产一篇内容。从队列头部取，完成后移到 published。",
   "queue": [
     {
-      "title": "Moxibustion for Immune Support: Warm the Body, Strengthen Defenses",
-      "path": "/treatments/moxibustion-immunity-tcm/",
-      "id": "452"
-    },
-    {
       "title": "Anemia and Fatigue: A TCM Perspective on Blood Nourishment",
       "path": "/symptoms/fatigue/anemia-fatigue-tcm/",
       "id": "453"
@@ -5871,6 +5866,11 @@
       "title": "Chronic Sinusitis Through a TCM Lens",
       "path": "/symptoms/respiratory-health/sinusitis-chronic-tcm/",
       "id": "451"
+    },
+    {
+      "title": "Moxibustion for Immune Support: Warm the Body, Strengthen Defenses",
+      "path": "/treatments/moxibustion-immunity-tcm/",
+      "id": "452"
     }
   ]
 }
