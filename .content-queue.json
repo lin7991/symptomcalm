@@ -4,11 +4,6 @@
   "note": "每3小时自动生产一篇内容。从队列头部取，完成后移到 published。",
   "queue": [
     {
-      "title": "Ovarian Cysts from a TCM Perspective",
-      "path": "/symptoms/womens-health/ovarian-cysts-tcm/",
-      "id": "455"
-    },
-    {
       "title": "Herbal Baths for Stress Relief: A TCM Self-Care Ritual",
       "path": "/treatments/herbal-baths-stress-tcm/",
       "id": "456"
@@ -5871,6 +5866,11 @@
       "title": "Emotional Numbness: TCM Insights into Feeling Stuck",
       "path": "/symptoms/mental-emotional-health/emotional-numbness-tcm/",
       "id": "454"
+    },
+    {
+      "title": "Ovarian Cysts from a TCM Perspective",
+      "path": "/symptoms/womens-health/ovarian-cysts-tcm/",
+      "id": "455"
     }
   ]
 }
