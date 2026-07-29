@@ -4,11 +4,6 @@
   "note": "每3小时自动生产一篇内容。从队列头部取，完成后移到 published。",
   "queue": [
     {
-      "title": "Acupressure for Fertility Support",
-      "path": "/treatments/acupressure-fertility-tcm/",
-      "id": "460"
-    },
-    {
       "title": "Herbal Compress Therapy for Joint Pain",
       "path": "/treatments/herbal-compress-joint-pain-tcm/",
       "id": "461"
@@ -5871,6 +5866,11 @@
       "title": "Rumination and Overthinking: A TCM Perspective on Mental Loops",
       "path": "/symptoms/anxiety/rumination-tcm/",
       "id": "459"
+    },
+    {
+      "title": "Acupressure for Fertility Support",
+      "path": "/treatments/acupressure-fertility-tcm/",
+      "id": "460"
     }
   ]
 }
