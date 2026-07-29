@@ -4,11 +4,6 @@
   "note": "每3小时自动生产一篇内容。从队列头部取，完成后移到 published。",
   "queue": [
     {
-      "title": "Tui Na for Neck Pain: Hands-On Relief for Stiff Necks",
-      "path": "/treatments/tui-na-neck-pain-tcm/",
-      "id": "458"
-    },
-    {
       "title": "Rumination and Overthinking: A TCM Perspective on Mental Loops",
       "path": "/symptoms/anxiety/rumination-tcm/",
       "id": "459"
@@ -5871,6 +5866,11 @@
       "title": "Lumbar Sprain Recovery: TCM Approaches to Lower Back Strain",
       "path": "/symptoms/back-pain/lumbar-sprain-tcm/",
       "id": "457"
+    },
+    {
+      "title": "Tui Na for Neck Pain: Hands-On Relief for Stiff Necks",
+      "path": "/treatments/tui-na-neck-pain-tcm/",
+      "id": "458"
     }
   ]
 }
