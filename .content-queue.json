@@ -4,11 +4,6 @@
   "note": "每3小时自动生产一篇内容。从队列头部取，完成后移到 published。",
   "queue": [
     {
-      "title": "Anemia and Fatigue: A TCM Perspective on Blood Nourishment",
-      "path": "/symptoms/fatigue/anemia-fatigue-tcm/",
-      "id": "453"
-    },
-    {
       "title": "Emotional Numbness: TCM Insights into Feeling Stuck",
       "path": "/symptoms/mental-emotional-health/emotional-numbness-tcm/",
       "id": "454"
@@ -5871,6 +5866,11 @@
       "title": "Moxibustion for Immune Support: Warm the Body, Strengthen Defenses",
       "path": "/treatments/moxibustion-immunity-tcm/",
       "id": "452"
+    },
+    {
+      "title": "Anemia and Fatigue: A TCM Perspective on Blood Nourishment",
+      "path": "/symptoms/fatigue/anemia-fatigue-tcm/",
+      "id": "453"
     }
   ]
 }
