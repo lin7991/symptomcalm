@@ -4,21 +4,6 @@
   "note": "每3小时自动生产一篇内容。从队列头部取，完成后移到 published。",
   "queue": [
     {
-      "title": "Strengthening Your Defenses: A TCM Approach to Colds and Flu Prevention",
-      "path": "/symptoms/respiratory-health/cold-prevention-tcm/",
-      "type": "cluster",
-      "parent": "respiratory-health",
-      "estimated_read_time": 7,
-      "keywords": [
-        "cold prevention TCM",
-        "flu prevention natural",
-        "Wei Qi strengthening",
-        "immune defense TCM",
-        "seasonal cold TCM"
-      ],
-      "id": "469"
-    },
-    {
       "title": "Herniated Disc from a TCM Perspective: Kidney Deficiency, Blood Stasis, and Back Pain",
       "path": "/symptoms/back-pain/herniated-disc-tcm/",
       "type": "cluster",
@@ -6096,6 +6081,21 @@
         "spleen appetite regulation"
       ],
       "id": "468"
+    },
+    {
+      "title": "Strengthening Your Defenses: A TCM Approach to Colds and Flu Prevention",
+      "path": "/symptoms/respiratory-health/cold-prevention-tcm/",
+      "type": "cluster",
+      "parent": "respiratory-health",
+      "estimated_read_time": 7,
+      "keywords": [
+        "cold prevention TCM",
+        "flu prevention natural",
+        "Wei Qi strengthening",
+        "immune defense TCM",
+        "seasonal cold TCM"
+      ],
+      "id": "469"
     }
   ]
 }
