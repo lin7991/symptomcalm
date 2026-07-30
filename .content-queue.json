@@ -4,21 +4,6 @@
   "note": "每3小时自动生产一篇内容。从队列头部取，完成后移到 published。",
   "queue": [
     {
-      "title": "Moxibustion for Cold Patterns: Warming Your Way to Better Health",
-      "path": "/treatments/moxibustion-cold-tcm/",
-      "type": "treatment",
-      "parent": "treatments",
-      "estimated_read_time": 7,
-      "keywords": [
-        "moxibustion cold patterns",
-        "moxa for yang deficiency",
-        "warming therapy TCM",
-        "moxibustion for cold hands feet",
-        "moxa cold constitution"
-      ],
-      "id": "474"
-    },
-    {
       "title": "Cupping Therapy for Stress Relief: Does It Really Release Tension?",
       "path": "/treatments/cupping-stress-tcm/",
       "type": "treatment",
@@ -6096,6 +6081,21 @@
         "nervous system tea herbal"
       ],
       "id": "473"
+    },
+    {
+      "title": "Moxibustion for Cold Patterns: Warming Your Way to Better Health",
+      "path": "/treatments/moxibustion-cold-tcm/",
+      "type": "treatment",
+      "parent": "treatments",
+      "estimated_read_time": 7,
+      "keywords": [
+        "moxibustion cold patterns",
+        "moxa for yang deficiency",
+        "warming therapy TCM",
+        "moxibustion for cold hands feet",
+        "moxa cold constitution"
+      ],
+      "id": "474"
     }
   ]
 }
