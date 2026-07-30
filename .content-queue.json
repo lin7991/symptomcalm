@@ -4,11 +4,6 @@
   "note": "每3小时自动生产一篇内容。从队列头部取，完成后移到 published。",
   "queue": [
     {
-      "title": "Vertigo and Dizziness: TCM Insights into Balance",
-      "path": "/symptoms/ear-health-tinnitus/vertigo-tcm/",
-      "id": "462"
-    },
-    {
       "title": "Acupressure for Immune Support: Strengthen Defenses Without Needles",
       "path": "/treatments/acupressure-immunity-tcm/",
       "id": "463"
@@ -6096,6 +6091,11 @@
       "title": "Herbal Compress Therapy for Joint Pain",
       "path": "/treatments/herbal-compress-joint-pain-tcm/",
       "id": "461"
+    },
+    {
+      "title": "Vertigo and Dizziness: TCM Insights into Balance",
+      "path": "/symptoms/ear-health-tinnitus/vertigo-tcm/",
+      "id": "462"
     }
   ]
 }
