@@ -4,21 +4,6 @@
   "note": "每3小时自动生产一篇内容。从队列头部取，完成后移到 published。",
   "queue": [
     {
-      "title": "Herniated Disc from a TCM Perspective: Kidney Deficiency, Blood Stasis, and Back Pain",
-      "path": "/symptoms/back-pain/herniated-disc-tcm/",
-      "type": "cluster",
-      "parent": "back-pain",
-      "estimated_read_time": 8,
-      "keywords": [
-        "herniated disc TCM",
-        "slipped disc natural approach",
-        "back pain disc TCM",
-        "kidney deficiency disc",
-        "sciatica disc TCM"
-      ],
-      "id": "470"
-    },
-    {
       "title": "Gua Sha for Neck and Shoulder Tension: A Step-by-Step Home Guide",
       "path": "/treatments/guasha-neck-tcm/",
       "type": "treatment",
@@ -6096,6 +6081,21 @@
         "seasonal cold TCM"
       ],
       "id": "469"
+    },
+    {
+      "title": "Herniated Disc from a TCM Perspective: Kidney Deficiency, Blood Stasis, and Back Pain",
+      "path": "/symptoms/back-pain/herniated-disc-tcm/",
+      "type": "cluster",
+      "parent": "back-pain",
+      "estimated_read_time": 8,
+      "keywords": [
+        "herniated disc TCM",
+        "slipped disc natural approach",
+        "back pain disc TCM",
+        "kidney deficiency disc",
+        "sciatica disc TCM"
+      ],
+      "id": "470"
     }
   ]
 }
