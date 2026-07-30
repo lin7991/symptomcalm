@@ -4,21 +4,6 @@
   "note": "每3小时自动生产一篇内容。从队列头部取，完成后移到 published。",
   "queue": [
     {
-      "title": "Herbal Tea for Stress and Anxiety: 5 TCM-Inspired Blends That May Help You Unwind",
-      "path": "/treatments/herbal-tea-stress-tcm/",
-      "type": "treatment",
-      "parent": "treatments",
-      "estimated_read_time": 7,
-      "keywords": [
-        "herbal tea stress TCM",
-        "anxiety tea blends",
-        "calming herbal tea TCM",
-        "stress relief tea TCM",
-        "nervous system tea herbal"
-      ],
-      "id": "473"
-    },
-    {
       "title": "Moxibustion for Cold Patterns: Warming Your Way to Better Health",
       "path": "/treatments/moxibustion-cold-tcm/",
       "type": "treatment",
@@ -6096,6 +6081,21 @@
         "stress eating TCM"
       ],
       "id": "472"
+    },
+    {
+      "title": "Herbal Tea for Stress and Anxiety: 5 TCM-Inspired Blends That May Help You Unwind",
+      "path": "/treatments/herbal-tea-stress-tcm/",
+      "type": "treatment",
+      "parent": "treatments",
+      "estimated_read_time": 7,
+      "keywords": [
+        "herbal tea stress TCM",
+        "anxiety tea blends",
+        "calming herbal tea TCM",
+        "stress relief tea TCM",
+        "nervous system tea herbal"
+      ],
+      "id": "473"
     }
   ]
 }
