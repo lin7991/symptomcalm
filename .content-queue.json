@@ -4,11 +4,6 @@
   "note": "每3小时自动生产一篇内容。从队列头部取，完成后移到 published。",
   "queue": [
     {
-      "title": "Qigong for Fertility: Gentle Movement for Reproductive Health",
-      "path": "/treatments/qigong-fertility-tcm/",
-      "id": "464"
-    },
-    {
       "title": "Anxiety Shows Up in Your Body: A TCM Guide to Physical Symptoms",
       "path": "/symptoms/anxiety/somatic-anxiety-tcm/",
       "type": "cluster",
@@ -6096,6 +6091,11 @@
       "title": "Acupressure for Immune Support: Strengthen Defenses Without Needles",
       "path": "/treatments/acupressure-immunity-tcm/",
       "id": "463"
+    },
+    {
+      "title": "Qigong for Fertility: Gentle Movement for Reproductive Health",
+      "path": "/treatments/qigong-fertility-tcm/",
+      "id": "464"
     }
   ]
 }
