@@ -6,3 +6,4 @@ node_modules/
 .cron/launchd*
 .cron/publish.log
 tmp/
+tmp/
