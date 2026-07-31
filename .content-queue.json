@@ -4,21 +4,6 @@
   "note": "每3小时自动生产一篇内容。从队列头部取，完成后移到 published。",
   "queue": [
     {
-      "title": "Chronic Pelvic Pain: A TCM Approach to Long-Term Relief",
-      "path": "/symptoms/womens-health/chronic-pelvic-pain-tcm/",
-      "type": "cluster",
-      "parent": "womens-health",
-      "estimated_read_time": 8,
-      "keywords": [
-        "chronic pelvic pain TCM",
-        "pelvic pain natural treatment",
-        "endometriosis pain TCM",
-        "liver qi stagnation pelvic",
-        "pelvic congestion TCM"
-      ],
-      "id": "486"
-    },
-    {
       "title": "Hemorrhoids and TCM: Understanding the Spleen and Damp-Heat Connection",
       "path": "/symptoms/digestion/hemorrhoids-tcm/",
       "type": "cluster",
@@ -6321,6 +6306,21 @@
         "kidney yin menopause"
       ],
       "id": "485"
+    },
+    {
+      "title": "Chronic Pelvic Pain: A TCM Approach to Long-Term Relief",
+      "path": "/symptoms/womens-health/chronic-pelvic-pain-tcm/",
+      "type": "cluster",
+      "parent": "womens-health",
+      "estimated_read_time": 8,
+      "keywords": [
+        "chronic pelvic pain TCM",
+        "pelvic pain natural treatment",
+        "endometriosis pain TCM",
+        "liver qi stagnation pelvic",
+        "pelvic congestion TCM"
+      ],
+      "id": "486"
     }
   ]
 }
