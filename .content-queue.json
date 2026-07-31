@@ -4,21 +4,6 @@
   "note": "每3小时自动生产一篇内容。从队列头部取，完成后移到 published。",
   "queue": [
     {
-      "title": "Heel Pain in TCM: Understanding the Kidney Connection",
-      "path": "/symptoms/joint-pain/heel-pain-tcm/",
-      "type": "cluster",
-      "parent": "joint-pain",
-      "estimated_read_time": 7,
-      "keywords": [
-        "heel pain TCM",
-        "kidney heel pain",
-        "foot pain traditional Chinese medicine",
-        "calcaneal spur TCM",
-        "plantar fasciitis kidney"
-      ],
-      "id": "484"
-    },
-    {
       "title": "Hot Flashes and Night Sweats: A TCM Guide to Cooling Your Body Naturally",
       "path": "/symptoms/womens-health/hot-flashes-tcm/",
       "type": "cluster",
@@ -6321,6 +6306,21 @@
         "blood stasis neuropathy"
       ],
       "id": "483"
+    },
+    {
+      "title": "Heel Pain in TCM: Understanding the Kidney Connection",
+      "path": "/symptoms/joint-pain/heel-pain-tcm/",
+      "type": "cluster",
+      "parent": "joint-pain",
+      "estimated_read_time": 7,
+      "keywords": [
+        "heel pain TCM",
+        "kidney heel pain",
+        "foot pain traditional Chinese medicine",
+        "calcaneal spur TCM",
+        "plantar fasciitis kidney"
+      ],
+      "id": "484"
     }
   ]
 }
