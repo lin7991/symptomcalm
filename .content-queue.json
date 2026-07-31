@@ -4,21 +4,6 @@
   "note": "每3小时自动生产一篇内容。从队列头部取，完成后移到 published。",
   "queue": [
     {
-      "title": "Peripheral Neuropathy and TCM: Restoring Sensation Naturally",
-      "path": "/symptoms/joint-pain/peripheral-neuropathy-tcm/",
-      "type": "cluster",
-      "parent": "joint-pain",
-      "estimated_read_time": 8,
-      "keywords": [
-        "peripheral neuropathy TCM",
-        "nerve pain natural treatment",
-        "neuropathy acupuncture",
-        "tingling hands TCM",
-        "blood stasis neuropathy"
-      ],
-      "id": "483"
-    },
-    {
       "title": "Heel Pain in TCM: Understanding the Kidney Connection",
       "path": "/symptoms/joint-pain/heel-pain-tcm/",
       "type": "cluster",
@@ -6321,6 +6306,21 @@
         "kidney heel pain"
       ],
       "id": "482"
+    },
+    {
+      "title": "Peripheral Neuropathy and TCM: Restoring Sensation Naturally",
+      "path": "/symptoms/joint-pain/peripheral-neuropathy-tcm/",
+      "type": "cluster",
+      "parent": "joint-pain",
+      "estimated_read_time": 8,
+      "keywords": [
+        "peripheral neuropathy TCM",
+        "nerve pain natural treatment",
+        "neuropathy acupuncture",
+        "tingling hands TCM",
+        "blood stasis neuropathy"
+      ],
+      "id": "483"
     }
   ]
 }
