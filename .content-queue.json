@@ -4,21 +4,6 @@
   "note": "每3小时自动生产一篇内容。从队列头部取，完成后移到 published。",
   "queue": [
     {
-      "title": "Cupping Therapy for Anxiety: How It Calms the Nervous System",
-      "path": "/treatments/cupping-anxiety-tcm/",
-      "type": "treatment",
-      "parent": "treatments",
-      "estimated_read_time": 7,
-      "keywords": [
-        "cupping for anxiety",
-        "cupping therapy anxiety",
-        "anxiety cup therapy",
-        "cupping nervous system",
-        "gua sha anxiety"
-      ],
-      "id": "490"
-    },
-    {
       "title": "Cupping Therapy for Digestion: Supporting Your Gut Naturally",
       "path": "/treatments/cupping-digestion-tcm/",
       "type": "treatment",
@@ -6321,6 +6306,21 @@
         "spleen kidney edema"
       ],
       "id": "489"
+    },
+    {
+      "title": "Cupping Therapy for Anxiety: How It Calms the Nervous System",
+      "path": "/treatments/cupping-anxiety-tcm/",
+      "type": "treatment",
+      "parent": "treatments",
+      "estimated_read_time": 7,
+      "keywords": [
+        "cupping for anxiety",
+        "cupping therapy anxiety",
+        "anxiety cup therapy",
+        "cupping nervous system",
+        "gua sha anxiety"
+      ],
+      "id": "490"
     }
   ]
 }
