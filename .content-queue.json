@@ -4,21 +4,6 @@
   "note": "每3小时自动生产一篇内容。从队列头部取，完成后移到 published。",
   "queue": [
     {
-      "title": "Edema and Fluid Retention: A TCM Guide to Clearing Dampness",
-      "path": "/symptoms/fatigue/edema-tcm/",
-      "type": "cluster",
-      "parent": "fatigue",
-      "estimated_read_time": 7,
-      "keywords": [
-        "edema TCM",
-        "fluid retention natural remedy",
-        "water retention TCM",
-        "dampness swelling",
-        "spleen kidney edema"
-      ],
-      "id": "489"
-    },
-    {
       "title": "Cupping Therapy for Anxiety: How It Calms the Nervous System",
       "path": "/treatments/cupping-anxiety-tcm/",
       "type": "treatment",
@@ -6321,6 +6306,21 @@
         "digestive inflammation TCM"
       ],
       "id": "488"
+    },
+    {
+      "title": "Edema and Fluid Retention: A TCM Guide to Clearing Dampness",
+      "path": "/symptoms/fatigue/edema-tcm/",
+      "type": "cluster",
+      "parent": "fatigue",
+      "estimated_read_time": 7,
+      "keywords": [
+        "edema TCM",
+        "fluid retention natural remedy",
+        "water retention TCM",
+        "dampness swelling",
+        "spleen kidney edema"
+      ],
+      "id": "489"
     }
   ]
 }
