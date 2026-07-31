@@ -4,21 +4,6 @@
   "note": "每3小时自动生产一篇内容。从队列头部取，完成后移到 published。",
   "queue": [
     {
-      "title": "Diverticulitis and TCM: Dietary and Herbal Support for Gut Health",
-      "path": "/symptoms/digestion/diverticulitis-tcm/",
-      "type": "cluster",
-      "parent": "digestion",
-      "estimated_read_time": 8,
-      "keywords": [
-        "diverticulitis TCM",
-        "diverticulitis natural treatment",
-        "gut health TCM",
-        "spleen dampness diverticulitis",
-        "digestive inflammation TCM"
-      ],
-      "id": "488"
-    },
-    {
       "title": "Edema and Fluid Retention: A TCM Guide to Clearing Dampness",
       "path": "/symptoms/fatigue/edema-tcm/",
       "type": "cluster",
@@ -6321,6 +6306,21 @@
         "damp heat hemorrhoids"
       ],
       "id": "487"
+    },
+    {
+      "title": "Diverticulitis and TCM: Dietary and Herbal Support for Gut Health",
+      "path": "/symptoms/digestion/diverticulitis-tcm/",
+      "type": "cluster",
+      "parent": "digestion",
+      "estimated_read_time": 8,
+      "keywords": [
+        "diverticulitis TCM",
+        "diverticulitis natural treatment",
+        "gut health TCM",
+        "spleen dampness diverticulitis",
+        "digestive inflammation TCM"
+      ],
+      "id": "488"
     }
   ]
 }
