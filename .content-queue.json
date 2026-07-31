@@ -4,21 +4,6 @@
   "note": "每3小时自动生产一篇内容。从队列头部取，完成后移到 published。",
   "queue": [
     {
-      "title": "Hot Flashes and Night Sweats: A TCM Guide to Cooling Your Body Naturally",
-      "path": "/symptoms/womens-health/hot-flashes-tcm/",
-      "type": "cluster",
-      "parent": "womens-health",
-      "estimated_read_time": 8,
-      "keywords": [
-        "hot flashes TCM",
-        "night sweats natural remedy",
-        "menopause hot flashes TCM",
-        "yin deficiency heat",
-        "kidney yin menopause"
-      ],
-      "id": "485"
-    },
-    {
       "title": "Chronic Pelvic Pain: A TCM Approach to Long-Term Relief",
       "path": "/symptoms/womens-health/chronic-pelvic-pain-tcm/",
       "type": "cluster",
@@ -6321,6 +6306,21 @@
         "plantar fasciitis kidney"
       ],
       "id": "484"
+    },
+    {
+      "title": "Hot Flashes and Night Sweats: A TCM Guide to Cooling Your Body Naturally",
+      "path": "/symptoms/womens-health/hot-flashes-tcm/",
+      "type": "cluster",
+      "parent": "womens-health",
+      "estimated_read_time": 8,
+      "keywords": [
+        "hot flashes TCM",
+        "night sweats natural remedy",
+        "menopause hot flashes TCM",
+        "yin deficiency heat",
+        "kidney yin menopause"
+      ],
+      "id": "485"
     }
   ]
 }
