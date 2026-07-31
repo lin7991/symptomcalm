@@ -4,21 +4,6 @@
   "note": "每3小时自动生产一篇内容。从队列头部取，完成后移到 published。",
   "queue": [
     {
-      "title": "Hashimoto's Thyroiditis from a TCM Perspective: Managing Autoimmune Flares",
-      "path": "/symptoms/fatigue/hashimoto-tcm/",
-      "type": "cluster",
-      "parent": "fatigue",
-      "estimated_read_time": 8,
-      "keywords": [
-        "Hashimoto's TCM",
-        "autoimmune thyroid TCM",
-        "Hashimoto's flare TCM",
-        "thyroiditis natural management",
-        "dampness autoimmune"
-      ],
-      "id": "481"
-    },
-    {
       "title": "Plantar Fasciitis and TCM: Natural Relief for Heel Pain",
       "path": "/symptoms/joint-pain/plantar-fasciitis-tcm/",
       "type": "cluster",
@@ -6321,6 +6306,21 @@
         "kidney yang thyroid"
       ],
       "id": "480"
+    },
+    {
+      "title": "Hashimoto's Thyroiditis from a TCM Perspective: Managing Autoimmune Flares",
+      "path": "/symptoms/fatigue/hashimoto-tcm/",
+      "type": "cluster",
+      "parent": "fatigue",
+      "estimated_read_time": 8,
+      "keywords": [
+        "Hashimoto's TCM",
+        "autoimmune thyroid TCM",
+        "Hashimoto's flare TCM",
+        "thyroiditis natural management",
+        "dampness autoimmune"
+      ],
+      "id": "481"
     }
   ]
 }
