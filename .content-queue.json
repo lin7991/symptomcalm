@@ -4,21 +4,6 @@
   "note": "每3小时自动生产一篇内容。从队列头部取，完成后移到 published。",
   "queue": [
     {
-      "title": "Hypothyroidism and TCM: A Holistic Approach to Thyroid Health",
-      "path": "/symptoms/fatigue/hypothyroidism-tcm/",
-      "type": "cluster",
-      "parent": "fatigue",
-      "estimated_read_time": 8,
-      "keywords": [
-        "hypothyroidism TCM",
-        "thyroid health naturally",
-        "underactive thyroid TCM",
-        "fatigue thyroid TCM",
-        "kidney yang thyroid"
-      ],
-      "id": "480"
-    },
-    {
       "title": "Hashimoto's Thyroiditis from a TCM Perspective: Managing Autoimmune Flares",
       "path": "/symptoms/fatigue/hashimoto-tcm/",
       "type": "cluster",
@@ -6321,6 +6306,21 @@
         "parasympathetic TCM"
       ],
       "id": "479"
+    },
+    {
+      "title": "Hypothyroidism and TCM: A Holistic Approach to Thyroid Health",
+      "path": "/symptoms/fatigue/hypothyroidism-tcm/",
+      "type": "cluster",
+      "parent": "fatigue",
+      "estimated_read_time": 8,
+      "keywords": [
+        "hypothyroidism TCM",
+        "thyroid health naturally",
+        "underactive thyroid TCM",
+        "fatigue thyroid TCM",
+        "kidney yang thyroid"
+      ],
+      "id": "480"
     }
   ]
 }
