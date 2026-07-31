@@ -4,21 +4,6 @@
   "note": "每3小时自动生产一篇内容。从队列头部取，完成后移到 published。",
   "queue": [
     {
-      "title": "Post-Viral Fatigue and Recovery: A TCM Guide to Regaining Your Energy",
-      "path": "/symptoms/fatigue/post-viral-fatigue-tcm/",
-      "type": "cluster",
-      "parent": "fatigue",
-      "estimated_read_time": 8,
-      "keywords": [
-        "post-viral fatigue TCM",
-        "recovery after illness TCM",
-        "post-COVID fatigue TCM",
-        "deficient energy recovery TCM",
-        "lung qi recovery"
-      ],
-      "id": "477"
-    },
-    {
       "title": "Emotional Detox Through TCM: Releasing Stuck Feelings the Natural Way",
       "path": "/symptoms/mental-emotional/emotional-detox-tcm/",
       "type": "cluster",
@@ -6321,6 +6306,21 @@
         "TCM energy foundation"
       ],
       "id": "476"
+    },
+    {
+      "title": "Post-Viral Fatigue and Recovery: A TCM Guide to Regaining Your Energy",
+      "path": "/symptoms/fatigue/post-viral-fatigue-tcm/",
+      "type": "cluster",
+      "parent": "fatigue",
+      "estimated_read_time": 8,
+      "keywords": [
+        "post-viral fatigue TCM",
+        "recovery after illness TCM",
+        "post-COVID fatigue TCM",
+        "deficient energy recovery TCM",
+        "lung qi recovery"
+      ],
+      "id": "477"
     }
   ]
 }
