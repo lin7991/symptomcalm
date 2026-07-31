@@ -4,21 +4,6 @@
   "note": "每3小时自动生产一篇内容。从队列头部取，完成后移到 published。",
   "queue": [
     {
-      "title": "Cupping Therapy for Digestion: Supporting Your Gut Naturally",
-      "path": "/treatments/cupping-digestion-tcm/",
-      "type": "treatment",
-      "parent": "treatments",
-      "estimated_read_time": 7,
-      "keywords": [
-        "cupping for digestion",
-        "cupping therapy digestion",
-        "cupping bloating",
-        "cupping IBS",
-        "abdominal cupping"
-      ],
-      "id": "491"
-    },
-    {
       "title": "Acupressure for Women's Health: 5 Essential Points Every Woman Should Know",
       "path": "/treatments/acupressure-womens-health-tcm/",
       "type": "treatment",
@@ -62,6 +47,201 @@
         "TCM fluid metabolism"
       ],
       "id": "494"
+    },
+    {
+      "title": "Perfectionism Through a TCM Lens: Why 'Never Good Enough' Exhausts Your Body",
+      "path": "/symptoms/anxiety/perfectionism-tcm/",
+      "type": "cluster",
+      "parent": "anxiety",
+      "estimated_read_time": 7,
+      "keywords": [
+        "perfectionism TCM",
+        "anxiety perfectionism",
+        "Heart Spleen overwork"
+      ],
+      "id": "495"
+    },
+    {
+      "title": "Caffeine and Anxiety: A TCM View on Why Your Coffee Habit Feeds the Jitters",
+      "path": "/symptoms/anxiety/anxiety-and-caffeine-tcm/",
+      "type": "cluster",
+      "parent": "anxiety",
+      "estimated_read_time": 6,
+      "keywords": [
+        "caffeine anxiety",
+        "coffee jitters TCM",
+        "Heart Shen stimulants"
+      ],
+      "id": "496"
+    },
+    {
+      "title": "Your Core in TCM: Why Kidney Qi and Deep Stabilizers Support the Lower Back",
+      "path": "/symptoms/back-pain/core-strength-tcm/",
+      "type": "cluster",
+      "parent": "back-pain",
+      "estimated_read_time": 7,
+      "keywords": [
+        "core strength TCM",
+        "Kidney Qi lower back",
+        "deep stabilizers"
+      ],
+      "id": "497"
+    },
+    {
+      "title": "Jet Lag and Travel Sleep: A TCM Guide to Resetting Your Body Clock Across Time Zones",
+      "path": "/symptoms/insomnia/insomnia-travel-tcm/",
+      "type": "cluster",
+      "parent": "insomnia",
+      "estimated_read_time": 7,
+      "keywords": [
+        "jet lag TCM",
+        "travel insomnia",
+        "circadian rhythm Chinese medicine"
+      ],
+      "id": "498"
+    },
+    {
+      "title": "Menopause Diet from a TCM Perspective: Cooling Foods and the Yin Transition",
+      "path": "/symptoms/womens-health/menopause-diet-tcm/",
+      "type": "cluster",
+      "parent": "womens-health",
+      "estimated_read_time": 7,
+      "keywords": [
+        "menopause diet TCM",
+        "cooling foods menopause",
+        "Yin deficiency nutrition"
+      ],
+      "id": "499"
+    },
+    {
+      "title": "The First Step of Digestion: Why TCM Says Chewing Mindfully Is Half the Meal",
+      "path": "/symptoms/digestion/chewing-mindful-eating-tcm/",
+      "type": "cluster",
+      "parent": "digestion",
+      "estimated_read_time": 6,
+      "keywords": [
+        "mindful eating TCM",
+        "chewing digestion",
+        "Spleen Stomach care"
+      ],
+      "id": "500"
+    },
+    {
+      "title": "Voice Health and the Lung: A TCM Guide for Singers, Teachers, and Heavy Talkers",
+      "path": "/symptoms/respiratory-health/voice-health-tcm/",
+      "type": "cluster",
+      "parent": "respiratory-health",
+      "estimated_read_time": 7,
+      "keywords": [
+        "voice health TCM",
+        "hoarse voice Lung Qi",
+        "vocal strain Chinese medicine"
+      ],
+      "id": "501"
+    },
+    {
+      "title": "Dark Circles Under Eyes: A TCM View on Kidney, Spleen, and Sleep-Deprived Skin",
+      "path": "/symptoms/skin-conditions/dark-circles-tcm/",
+      "type": "cluster",
+      "parent": "skin-conditions",
+      "estimated_read_time": 6,
+      "keywords": [
+        "dark circles TCM",
+        "under eye bags Chinese medicine",
+        "Kidney Spleen eye area"
+      ],
+      "id": "502"
+    },
+    {
+      "title": "Decision Fatigue: The TCM View on Why Choices Drain You and How to Rebuild Reserves",
+      "path": "/symptoms/stress/decision-fatigue-tcm/",
+      "type": "cluster",
+      "parent": "stress",
+      "estimated_read_time": 6,
+      "keywords": [
+        "decision fatigue TCM",
+        "mental exhaustion choices",
+        "Qi reserves"
+      ],
+      "id": "503"
+    },
+    {
+      "title": "Pet Allergies from a TCM Perspective: Building Tolerance to Dander and Fur",
+      "path": "/symptoms/allergies/pet-allergies-tcm/",
+      "type": "cluster",
+      "parent": "allergies",
+      "estimated_read_time": 7,
+      "keywords": [
+        "pet allergies TCM",
+        "dog cat dander Chinese medicine",
+        "Wei Qi allergy support"
+      ],
+      "id": "504"
+    },
+    {
+      "title": "Cupping for Headaches: A Targeted Guide to Cups, Tension, and Migraine Patterns",
+      "path": "/treatments/cupping-headaches-tcm/",
+      "type": "treatment",
+      "parent": "treatments",
+      "estimated_read_time": 7,
+      "keywords": [
+        "cupping headaches",
+        "cupping migraine",
+        "cupping therapy tension"
+      ],
+      "id": "505"
+    },
+    {
+      "title": "Herbal Tea for Immune Support: Warming Blends and the Wei Qi Connection",
+      "path": "/treatments/herbal-tea-immunity-tcm/",
+      "type": "treatment",
+      "parent": "treatments",
+      "estimated_read_time": 6,
+      "keywords": [
+        "herbal tea immune support",
+        "Wei Qi tea",
+        "warming immune tea TCM"
+      ],
+      "id": "506"
+    },
+    {
+      "title": "Moxibustion for Fatigue: Warming the Body's Energy Furnace When You're Running on Empty",
+      "path": "/treatments/moxibustion-fatigue-tcm/",
+      "type": "treatment",
+      "parent": "treatments",
+      "estimated_read_time": 7,
+      "keywords": [
+        "moxibustion fatigue",
+        "mugwort energy TCM",
+        "warming therapy exhaustion"
+      ],
+      "id": "507"
+    },
+    {
+      "title": "Qi Deficiency Explained: The Body's Low-Battery State and How TCM Recharges It",
+      "path": "/tcm-basics/qi-deficiency-explained/",
+      "type": "tcm-basics",
+      "parent": "tcm-basics",
+      "estimated_read_time": 7,
+      "keywords": [
+        "Qi deficiency",
+        "low battery TCM",
+        "Spleen Qi support"
+      ],
+      "id": "508"
+    },
+    {
+      "title": "Blood Deficiency in TCM: When Your Body's Fuel Supply Runs Low",
+      "path": "/tcm-basics/blood-deficiency-tcm/",
+      "type": "tcm-basics",
+      "parent": "tcm-basics",
+      "estimated_read_time": 7,
+      "keywords": [
+        "Blood deficiency TCM",
+        "nourish blood Chinese medicine",
+        "anemia TCM view"
+      ],
+      "id": "509"
     }
   ],
   "published": [
@@ -6321,6 +6501,21 @@
         "gua sha anxiety"
       ],
       "id": "490"
+    },
+    {
+      "title": "Cupping Therapy for Digestion: Supporting Your Gut Naturally",
+      "path": "/treatments/cupping-digestion-tcm/",
+      "type": "treatment",
+      "parent": "treatments",
+      "estimated_read_time": 7,
+      "keywords": [
+        "cupping for digestion",
+        "cupping therapy digestion",
+        "cupping bloating",
+        "cupping IBS",
+        "abdominal cupping"
+      ],
+      "id": "491"
     }
   ]
 }
