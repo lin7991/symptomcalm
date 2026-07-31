@@ -4,21 +4,6 @@
   "note": "每3小时自动生产一篇内容。从队列头部取，完成后移到 published。",
   "queue": [
     {
-      "title": "Vagal Tone and TCM: The Gut-Brain Bridge You Haven't Heard About",
-      "path": "/symptoms/stress/vagal-tone-tcm/",
-      "type": "cluster",
-      "parent": "stress",
-      "estimated_read_time": 8,
-      "keywords": [
-        "vagal tone TCM",
-        "vagus nerve TCM",
-        "gut brain axis TCM",
-        "stress nervous system TCM",
-        "parasympathetic TCM"
-      ],
-      "id": "479"
-    },
-    {
       "title": "Hypothyroidism and TCM: A Holistic Approach to Thyroid Health",
       "path": "/symptoms/fatigue/hypothyroidism-tcm/",
       "type": "cluster",
@@ -6321,6 +6306,21 @@
         "emotional processing TCM"
       ],
       "id": "478"
+    },
+    {
+      "title": "Vagal Tone and TCM: The Gut-Brain Bridge You Haven't Heard About",
+      "path": "/symptoms/stress/vagal-tone-tcm/",
+      "type": "cluster",
+      "parent": "stress",
+      "estimated_read_time": 8,
+      "keywords": [
+        "vagal tone TCM",
+        "vagus nerve TCM",
+        "gut brain axis TCM",
+        "stress nervous system TCM",
+        "parasympathetic TCM"
+      ],
+      "id": "479"
     }
   ]
 }
