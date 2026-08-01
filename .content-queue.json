@@ -4,21 +4,6 @@
   "note": "每3小时自动生产一篇内容。从队列头部取，完成后移到 published。",
   "queue": [
     {
-      "title": "Lymphatic Health in TCM: The Body's Hidden Drainage System",
-      "path": "/tcm-basics/lymphatic-health-tcm/",
-      "type": "basics",
-      "parent": "tcm-basics",
-      "estimated_read_time": 7,
-      "keywords": [
-        "lymphatic system TCM",
-        "lymphatic drainage TCM",
-        "dampness and lymph",
-        "spleen lymphatic health",
-        "TCM fluid metabolism"
-      ],
-      "id": "494"
-    },
-    {
       "title": "Perfectionism Through a TCM Lens: Why 'Never Good Enough' Exhausts Your Body",
       "path": "/symptoms/anxiety/perfectionism-tcm/",
       "type": "cluster",
@@ -6516,6 +6501,21 @@
         "eucalyptus bath congestion"
       ],
       "id": "493"
+    },
+    {
+      "title": "Lymphatic Health in TCM: The Body's Hidden Drainage System",
+      "path": "/tcm-basics/lymphatic-health-tcm/",
+      "type": "basics",
+      "parent": "tcm-basics",
+      "estimated_read_time": 7,
+      "keywords": [
+        "lymphatic system TCM",
+        "lymphatic drainage TCM",
+        "dampness and lymph",
+        "spleen lymphatic health",
+        "TCM fluid metabolism"
+      ],
+      "id": "494"
     }
   ]
 }
