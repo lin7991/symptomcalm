@@ -4,19 +4,6 @@
   "note": "每3小时自动生产一篇内容。从队列头部取，完成后移到 published。",
   "queue": [
     {
-      "title": "Caffeine and Anxiety: A TCM View on Why Your Coffee Habit Feeds the Jitters",
-      "path": "/symptoms/anxiety/anxiety-and-caffeine-tcm/",
-      "type": "cluster",
-      "parent": "anxiety",
-      "estimated_read_time": 6,
-      "keywords": [
-        "caffeine anxiety",
-        "coffee jitters TCM",
-        "Heart Shen stimulants"
-      ],
-      "id": "496"
-    },
-    {
       "title": "Your Core in TCM: Why Kidney Qi and Deep Stabilizers Support the Lower Back",
       "path": "/symptoms/back-pain/core-strength-tcm/",
       "type": "cluster",
@@ -6516,6 +6503,19 @@
         "Heart Spleen overwork"
       ],
       "id": "495"
+    },
+    {
+      "title": "Caffeine and Anxiety: A TCM View on Why Your Coffee Habit Feeds the Jitters",
+      "path": "/symptoms/anxiety/anxiety-and-caffeine-tcm/",
+      "type": "cluster",
+      "parent": "anxiety",
+      "estimated_read_time": 6,
+      "keywords": [
+        "caffeine anxiety",
+        "coffee jitters TCM",
+        "Heart Shen stimulants"
+      ],
+      "id": "496"
     }
   ]
 }
