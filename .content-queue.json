@@ -4,19 +4,6 @@
   "note": "每3小时自动生产一篇内容。从队列头部取，完成后移到 published。",
   "queue": [
     {
-      "title": "Jet Lag and Travel Sleep: A TCM Guide to Resetting Your Body Clock Across Time Zones",
-      "path": "/symptoms/insomnia/insomnia-travel-tcm/",
-      "type": "cluster",
-      "parent": "insomnia",
-      "estimated_read_time": 7,
-      "keywords": [
-        "jet lag TCM",
-        "travel insomnia",
-        "circadian rhythm Chinese medicine"
-      ],
-      "id": "498"
-    },
-    {
       "title": "Menopause Diet from a TCM Perspective: Cooling Foods and the Yin Transition",
       "path": "/symptoms/womens-health/menopause-diet-tcm/",
       "type": "cluster",
@@ -6516,6 +6503,19 @@
         "deep stabilizers"
       ],
       "id": "497"
+    },
+    {
+      "title": "Jet Lag and Travel Sleep: A TCM Guide to Resetting Your Body Clock Across Time Zones",
+      "path": "/symptoms/insomnia/insomnia-travel-tcm/",
+      "type": "cluster",
+      "parent": "insomnia",
+      "estimated_read_time": 7,
+      "keywords": [
+        "jet lag TCM",
+        "travel insomnia",
+        "circadian rhythm Chinese medicine"
+      ],
+      "id": "498"
     }
   ]
 }
