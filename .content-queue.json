@@ -4,19 +4,6 @@
   "note": "每3小时自动生产一篇内容。从队列头部取，完成后移到 published。",
   "queue": [
     {
-      "title": "Voice Health and the Lung: A TCM Guide for Singers, Teachers, and Heavy Talkers",
-      "path": "/symptoms/respiratory-health/voice-health-tcm/",
-      "type": "cluster",
-      "parent": "respiratory-health",
-      "estimated_read_time": 7,
-      "keywords": [
-        "voice health TCM",
-        "hoarse voice Lung Qi",
-        "vocal strain Chinese medicine"
-      ],
-      "id": "501"
-    },
-    {
       "title": "Dark Circles Under Eyes: A TCM View on Kidney, Spleen, and Sleep-Deprived Skin",
       "path": "/symptoms/skin-conditions/dark-circles-tcm/",
       "type": "cluster",
@@ -6516,6 +6503,19 @@
         "Spleen Stomach care"
       ],
       "id": "500"
+    },
+    {
+      "title": "Voice Health and the Lung: A TCM Guide for Singers, Teachers, and Heavy Talkers",
+      "path": "/symptoms/respiratory-health/voice-health-tcm/",
+      "type": "cluster",
+      "parent": "respiratory-health",
+      "estimated_read_time": 7,
+      "keywords": [
+        "voice health TCM",
+        "hoarse voice Lung Qi",
+        "vocal strain Chinese medicine"
+      ],
+      "id": "501"
     }
   ]
 }
