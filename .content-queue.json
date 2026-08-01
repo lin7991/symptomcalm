@@ -4,21 +4,6 @@
   "note": "每3小时自动生产一篇内容。从队列头部取，完成后移到 published。",
   "queue": [
     {
-      "title": "Acupressure for Women's Health: 5 Essential Points Every Woman Should Know",
-      "path": "/treatments/acupressure-womens-health-tcm/",
-      "type": "treatment",
-      "parent": "treatments",
-      "estimated_read_time": 7,
-      "keywords": [
-        "acupressure for women's health",
-        "women's health acupuncture points",
-        "acupressure hormones",
-        "acupressure menstrual health",
-        "female fertility acupressure"
-      ],
-      "id": "492"
-    },
-    {
       "title": "Herbal Baths for Respiratory Health: A Gentle Path to Clear Breathing",
       "path": "/treatments/herbal-baths-respiratory-tcm/",
       "type": "treatment",
@@ -6516,6 +6501,21 @@
         "abdominal cupping"
       ],
       "id": "491"
+    },
+    {
+      "title": "Acupressure for Women's Health: 5 Essential Points Every Woman Should Know",
+      "path": "/treatments/acupressure-womens-health-tcm/",
+      "type": "treatment",
+      "parent": "treatments",
+      "estimated_read_time": 7,
+      "keywords": [
+        "acupressure for women's health",
+        "women's health acupuncture points",
+        "acupressure hormones",
+        "acupressure menstrual health",
+        "female fertility acupressure"
+      ],
+      "id": "492"
     }
   ]
 }
