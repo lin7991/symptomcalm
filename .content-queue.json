@@ -4,19 +4,6 @@
   "note": "每3小时自动生产一篇内容。从队列头部取，完成后移到 published。",
   "queue": [
     {
-      "title": "Dark Circles Under Eyes: A TCM View on Kidney, Spleen, and Sleep-Deprived Skin",
-      "path": "/symptoms/skin-conditions/dark-circles-tcm/",
-      "type": "cluster",
-      "parent": "skin-conditions",
-      "estimated_read_time": 6,
-      "keywords": [
-        "dark circles TCM",
-        "under eye bags Chinese medicine",
-        "Kidney Spleen eye area"
-      ],
-      "id": "502"
-    },
-    {
       "title": "Decision Fatigue: The TCM View on Why Choices Drain You and How to Rebuild Reserves",
       "path": "/symptoms/stress/decision-fatigue-tcm/",
       "type": "cluster",
@@ -6516,6 +6503,19 @@
         "vocal strain Chinese medicine"
       ],
       "id": "501"
+    },
+    {
+      "title": "Dark Circles Under Eyes: A TCM View on Kidney, Spleen, and Sleep-Deprived Skin",
+      "path": "/symptoms/skin-conditions/dark-circles-tcm/",
+      "type": "cluster",
+      "parent": "skin-conditions",
+      "estimated_read_time": 6,
+      "keywords": [
+        "dark circles TCM",
+        "under eye bags Chinese medicine",
+        "Kidney Spleen eye area"
+      ],
+      "id": "502"
     }
   ]
 }
