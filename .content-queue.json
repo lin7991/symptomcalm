@@ -4,19 +4,6 @@
   "note": "每3小时自动生产一篇内容。从队列头部取，完成后移到 published。",
   "queue": [
     {
-      "title": "Cupping for Headaches: A Targeted Guide to Cups, Tension, and Migraine Patterns",
-      "path": "/treatments/cupping-headaches-tcm/",
-      "type": "treatment",
-      "parent": "treatments",
-      "estimated_read_time": 7,
-      "keywords": [
-        "cupping headaches",
-        "cupping migraine",
-        "cupping therapy tension"
-      ],
-      "id": "505"
-    },
-    {
       "title": "Herbal Tea for Immune Support: Warming Blends and the Wei Qi Connection",
       "path": "/treatments/herbal-tea-immunity-tcm/",
       "type": "treatment",
@@ -6516,6 +6503,19 @@
         "Wei Qi allergy support"
       ],
       "id": "504"
+    },
+    {
+      "title": "Cupping for Headaches: A Targeted Guide to Cups, Tension, and Migraine Patterns",
+      "path": "/treatments/cupping-headaches-tcm/",
+      "type": "treatment",
+      "parent": "treatments",
+      "estimated_read_time": 7,
+      "keywords": [
+        "cupping headaches",
+        "cupping migraine",
+        "cupping therapy tension"
+      ],
+      "id": "505"
     }
   ]
 }
