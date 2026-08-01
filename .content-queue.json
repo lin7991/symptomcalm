@@ -4,19 +4,6 @@
   "note": "每3小时自动生产一篇内容。从队列头部取，完成后移到 published。",
   "queue": [
     {
-      "title": "Decision Fatigue: The TCM View on Why Choices Drain You and How to Rebuild Reserves",
-      "path": "/symptoms/stress/decision-fatigue-tcm/",
-      "type": "cluster",
-      "parent": "stress",
-      "estimated_read_time": 6,
-      "keywords": [
-        "decision fatigue TCM",
-        "mental exhaustion choices",
-        "Qi reserves"
-      ],
-      "id": "503"
-    },
-    {
       "title": "Pet Allergies from a TCM Perspective: Building Tolerance to Dander and Fur",
       "path": "/symptoms/allergies/pet-allergies-tcm/",
       "type": "cluster",
@@ -6516,6 +6503,19 @@
         "Kidney Spleen eye area"
       ],
       "id": "502"
+    },
+    {
+      "title": "Decision Fatigue: The TCM View on Why Choices Drain You and How to Rebuild Reserves",
+      "path": "/symptoms/stress/decision-fatigue-tcm/",
+      "type": "cluster",
+      "parent": "stress",
+      "estimated_read_time": 6,
+      "keywords": [
+        "decision fatigue TCM",
+        "mental exhaustion choices",
+        "Qi reserves"
+      ],
+      "id": "503"
     }
   ]
 }
