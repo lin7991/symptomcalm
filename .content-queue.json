@@ -4,19 +4,6 @@
   "note": "每3小时自动生产一篇内容。从队列头部取，完成后移到 published。",
   "queue": [
     {
-      "title": "Menopause Diet from a TCM Perspective: Cooling Foods and the Yin Transition",
-      "path": "/symptoms/womens-health/menopause-diet-tcm/",
-      "type": "cluster",
-      "parent": "womens-health",
-      "estimated_read_time": 7,
-      "keywords": [
-        "menopause diet TCM",
-        "cooling foods menopause",
-        "Yin deficiency nutrition"
-      ],
-      "id": "499"
-    },
-    {
       "title": "The First Step of Digestion: Why TCM Says Chewing Mindfully Is Half the Meal",
       "path": "/symptoms/digestion/chewing-mindful-eating-tcm/",
       "type": "cluster",
@@ -6516,6 +6503,19 @@
         "circadian rhythm Chinese medicine"
       ],
       "id": "498"
+    },
+    {
+      "title": "Menopause Diet from a TCM Perspective: Cooling Foods and the Yin Transition",
+      "path": "/symptoms/womens-health/menopause-diet-tcm/",
+      "type": "cluster",
+      "parent": "womens-health",
+      "estimated_read_time": 7,
+      "keywords": [
+        "menopause diet TCM",
+        "cooling foods menopause",
+        "Yin deficiency nutrition"
+      ],
+      "id": "499"
     }
   ]
 }
