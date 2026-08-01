@@ -4,21 +4,6 @@
   "note": "每3小时自动生产一篇内容。从队列头部取，完成后移到 published。",
   "queue": [
     {
-      "title": "Herbal Baths for Respiratory Health: A Gentle Path to Clear Breathing",
-      "path": "/treatments/herbal-baths-respiratory-tcm/",
-      "type": "treatment",
-      "parent": "treatments",
-      "estimated_read_time": 7,
-      "keywords": [
-        "herbal baths for respiratory health",
-        "lung health herbal bath",
-        "congestion bath TCM",
-        "steam inhalation TCM",
-        "eucalyptus bath congestion"
-      ],
-      "id": "493"
-    },
-    {
       "title": "Lymphatic Health in TCM: The Body's Hidden Drainage System",
       "path": "/tcm-basics/lymphatic-health-tcm/",
       "type": "basics",
@@ -6516,6 +6501,21 @@
         "female fertility acupressure"
       ],
       "id": "492"
+    },
+    {
+      "title": "Herbal Baths for Respiratory Health: A Gentle Path to Clear Breathing",
+      "path": "/treatments/herbal-baths-respiratory-tcm/",
+      "type": "treatment",
+      "parent": "treatments",
+      "estimated_read_time": 7,
+      "keywords": [
+        "herbal baths for respiratory health",
+        "lung health herbal bath",
+        "congestion bath TCM",
+        "steam inhalation TCM",
+        "eucalyptus bath congestion"
+      ],
+      "id": "493"
     }
   ]
 }
