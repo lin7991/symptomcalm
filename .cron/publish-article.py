@@ -12,7 +12,7 @@ Environment:
     WORKDIR: defaults to ~/symptomcalm (or set explicitly)
 """
 
-import json, os, shutil, subprocess, sys, time
+import json, os, re, shutil, subprocess, sys, time
 from pathlib import Path
 
 WORKDIR = Path(os.environ.get("WORKDIR", os.path.expanduser("~/symptomcalm")))
@@ -89,25 +89,40 @@ def commit_and_push(article_path):
 
 
 def update_sitemap(article_path):
-    """Add the new article URL to sitemap.xml."""
+    """Add the new article URL to sitemap.xml (handles both plain and ns0:-namespaced formats)."""
     url = f"https://symptomcalm.com{article_path}/"
     with open(SITEMAP_FILE) as f:
         content = f.read()
 
-    # Insert before closing </urlset>
+    if url in content:
+        print(f"Sitemap unchanged: {url} already exists")
+        return
+
+    # Plain sitemap format: insert before </urlset>
     insert = f"""  <url>
     <loc>{url}</loc>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>"""
-
-    if url not in content:
+    if "</urlset>" in content:
         content = content.replace("</urlset>", f"{insert}\n</urlset>")
-        with open(SITEMAP_FILE, "w") as f:
-            f.write(content)
-        print(f"Sitemap updated: {url}")
     else:
-        print(f"Sitemap unchanged: {url} already exists")
+        # Namespaced format (ns0: prefix): build the entry with the same prefix.
+        m = re.search(r"</(ns\d+):urlset>", content)
+        if m:
+            prefix = m.group(1)
+            insert_ns = f"""  <{prefix}:url>
+    <{prefix}:loc>{url}</{prefix}:loc>
+    <{prefix}:changefreq>monthly</{prefix}:changefreq>
+    <{prefix}:priority>0.7</{prefix}:priority>
+  </{prefix}:url>"""
+            content = content.replace(f"</{prefix}:urlset>", f"{insert_ns}\n</{prefix}:urlset>")
+        else:
+            print(f"WARNING: could not find urlset close tag in {SITEMAP_FILE}", file=sys.stderr)
+            return
+    with open(SITEMAP_FILE, "w") as f:
+        f.write(content)
+    print(f"Sitemap updated: {url}")
 
 
 def ensure_parent_dir(path: Path):
