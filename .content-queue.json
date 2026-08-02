@@ -4,20 +4,6 @@
   "note": "每3小时自动生产一篇内容。从队列头部取，完成后移到 published。",
   "queue": [
     {
-      "title": "Celiac Disease and Gluten Sensitivity: A TCM View of the Spleen",
-      "path": "/symptoms/digestion/celiac-disease-tcm/",
-      "type": "cluster",
-      "parent": "digestion",
-      "estimated_read_time": 8,
-      "keywords": [
-        "celiac disease TCM",
-        "gluten sensitivity",
-        "Spleen Qi",
-        "Dampness gluten"
-      ],
-      "id": "513"
-    },
-    {
       "title": "OCD and Intrusive Thoughts: A TCM Perspective on the Restless Shen",
       "path": "/symptoms/mental-emotional-health/ocd-tcm/",
       "type": "cluster",
@@ -6720,6 +6706,20 @@
         "gut barrier"
       ],
       "id": "512"
+    },
+    {
+      "title": "Celiac Disease and Gluten Sensitivity: A TCM View of the Spleen",
+      "path": "/symptoms/digestion/celiac-disease-tcm/",
+      "type": "cluster",
+      "parent": "digestion",
+      "estimated_read_time": 8,
+      "keywords": [
+        "celiac disease TCM",
+        "gluten sensitivity",
+        "Spleen Qi",
+        "Dampness gluten"
+      ],
+      "id": "513"
     }
   ]
 }
