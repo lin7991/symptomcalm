@@ -4,20 +4,6 @@
   "note": "每3小时自动生产一篇内容。从队列头部取，完成后移到 published。",
   "queue": [
     {
-      "title": "OCD and Intrusive Thoughts: A TCM Perspective on the Restless Shen",
-      "path": "/symptoms/mental-emotional-health/ocd-tcm/",
-      "type": "cluster",
-      "parent": "mental-emotional-health",
-      "estimated_read_time": 8,
-      "keywords": [
-        "OCD TCM",
-        "intrusive thoughts",
-        "restless Shen",
-        "obsessive compulsive natural"
-      ],
-      "id": "514"
-    },
-    {
       "title": "Melasma and Skin Pigmentation: A TCM View of Liver and Spleen",
       "path": "/symptoms/skin-conditions/melasma-tcm/",
       "type": "cluster",
@@ -6720,6 +6706,20 @@
         "Dampness gluten"
       ],
       "id": "513"
+    },
+    {
+      "title": "OCD and Intrusive Thoughts: A TCM Perspective on the Restless Shen",
+      "path": "/symptoms/mental-emotional-health/ocd-tcm/",
+      "type": "cluster",
+      "parent": "mental-emotional-health",
+      "estimated_read_time": 8,
+      "keywords": [
+        "OCD TCM",
+        "intrusive thoughts",
+        "restless Shen",
+        "obsessive compulsive natural"
+      ],
+      "id": "514"
     }
   ]
 }
