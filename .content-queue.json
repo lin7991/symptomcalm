@@ -4,20 +4,6 @@
   "note": "每3小时自动生产一篇内容。从队列头部取，完成后移到 published。",
   "queue": [
     {
-      "title": "Leaky Gut from a TCM Perspective: The Spleen's Barrier Role",
-      "path": "/symptoms/digestion/leaky-gut-tcm/",
-      "type": "cluster",
-      "parent": "digestion",
-      "estimated_read_time": 8,
-      "keywords": [
-        "leaky gut TCM",
-        "intestinal permeability",
-        "Spleen Qi deficiency",
-        "gut barrier"
-      ],
-      "id": "512"
-    },
-    {
       "title": "Celiac Disease and Gluten Sensitivity: A TCM View of the Spleen",
       "path": "/symptoms/digestion/celiac-disease-tcm/",
       "type": "cluster",
@@ -6720,6 +6706,20 @@
         "Liver Qi timing"
       ],
       "id": "511"
+    },
+    {
+      "title": "Leaky Gut from a TCM Perspective: The Spleen's Barrier Role",
+      "path": "/symptoms/digestion/leaky-gut-tcm/",
+      "type": "cluster",
+      "parent": "digestion",
+      "estimated_read_time": 8,
+      "keywords": [
+        "leaky gut TCM",
+        "intestinal permeability",
+        "Spleen Qi deficiency",
+        "gut barrier"
+      ],
+      "id": "512"
     }
   ]
 }
