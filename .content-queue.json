@@ -4,19 +4,6 @@
   "note": "每3小时自动生产一篇内容。从队列头部取，完成后移到 published。",
   "queue": [
     {
-      "title": "Qigong for Digestion: Moving Qi to Support Your Gut",
-      "path": "/treatments/qigong-digestion-tcm/",
-      "type": "treatment",
-      "parent": "treatments",
-      "estimated_read_time": 7,
-      "keywords": [
-        "qigong digestion",
-        "qigong for gut",
-        "qigong bloating"
-      ],
-      "id": "520"
-    },
-    {
       "title": "Herbal Tea for Energy: Warming Blends to Combat Fatigue",
       "path": "/treatments/herbal-tea-energy-tcm/",
       "type": "treatment",
@@ -6720,6 +6707,19 @@
         "Spleen stomach massage"
       ],
       "id": "519"
+    },
+    {
+      "title": "Qigong for Digestion: Moving Qi to Support Your Gut",
+      "path": "/treatments/qigong-digestion-tcm/",
+      "type": "treatment",
+      "parent": "treatments",
+      "estimated_read_time": 7,
+      "keywords": [
+        "qigong digestion",
+        "qigong for gut",
+        "qigong bloating"
+      ],
+      "id": "520"
     }
   ]
 }
