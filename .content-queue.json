@@ -4,20 +4,6 @@
   "note": "每3小时自动生产一篇内容。从队列头部取，完成后移到 published。",
   "queue": [
     {
-      "title": "Waking at 3AM: TCM's View of Early Morning Waking Insomnia",
-      "path": "/symptoms/insomnia/early-morning-waking-tcm/",
-      "type": "cluster",
-      "parent": "insomnia",
-      "estimated_read_time": 7,
-      "keywords": [
-        "early morning waking",
-        "3am insomnia",
-        "waking at 3am TCM",
-        "Liver Qi timing"
-      ],
-      "id": "511"
-    },
-    {
       "title": "Leaky Gut from a TCM Perspective: The Spleen's Barrier Role",
       "path": "/symptoms/digestion/leaky-gut-tcm/",
       "type": "cluster",
@@ -6720,6 +6706,20 @@
         "Shen and Liver Qi"
       ],
       "id": "510"
+    },
+    {
+      "title": "Waking at 3AM: TCM's View of Early Morning Waking Insomnia",
+      "path": "/symptoms/insomnia/early-morning-waking-tcm/",
+      "type": "cluster",
+      "parent": "insomnia",
+      "estimated_read_time": 7,
+      "keywords": [
+        "early morning waking",
+        "3am insomnia",
+        "waking at 3am TCM",
+        "Liver Qi timing"
+      ],
+      "id": "511"
     }
   ]
 }
