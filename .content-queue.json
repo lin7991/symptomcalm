@@ -4,19 +4,6 @@
   "note": "每3小时自动生产一篇内容。从队列头部取，完成后移到 published。",
   "queue": [
     {
-      "title": "Qi Deficiency Explained: The Body's Low-Battery State and How TCM Recharges It",
-      "path": "/tcm-basics/qi-deficiency-explained/",
-      "type": "tcm-basics",
-      "parent": "tcm-basics",
-      "estimated_read_time": 7,
-      "keywords": [
-        "Qi deficiency",
-        "low battery TCM",
-        "Spleen Qi support"
-      ],
-      "id": "508"
-    },
-    {
       "title": "Blood Deficiency in TCM: When Your Body's Fuel Supply Runs Low",
       "path": "/tcm-basics/blood-deficiency-tcm/",
       "type": "tcm-basics",
@@ -6720,6 +6707,19 @@
         "warming therapy exhaustion"
       ],
       "id": "507"
+    },
+    {
+      "title": "Qi Deficiency Explained: The Body's Low-Battery State and How TCM Recharges It",
+      "path": "/tcm-basics/qi-deficiency-explained/",
+      "type": "tcm-basics",
+      "parent": "tcm-basics",
+      "estimated_read_time": 7,
+      "keywords": [
+        "Qi deficiency",
+        "low battery TCM",
+        "Spleen Qi support"
+      ],
+      "id": "508"
     }
   ]
 }
