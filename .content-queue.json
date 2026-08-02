@@ -4,19 +4,6 @@
   "note": "每3小时自动生产一篇内容。从队列头部取，完成后移到 published。",
   "queue": [
     {
-      "title": "Cupping for Better Sleep: Releasing Tension to Rest",
-      "path": "/treatments/cupping-sleep-tcm/",
-      "type": "treatment",
-      "parent": "treatments",
-      "estimated_read_time": 7,
-      "keywords": [
-        "cupping for sleep",
-        "cupping insomnia",
-        "cupping therapy relaxation"
-      ],
-      "id": "516"
-    },
-    {
       "title": "Gua Sha for Immune Support: A Gentle Approach to Wei Qi",
       "path": "/treatments/gua-sha-immunity-tcm/",
       "type": "treatment",
@@ -6720,6 +6707,19 @@
         "Liver Blood Stasis"
       ],
       "id": "515"
+    },
+    {
+      "title": "Cupping for Better Sleep: Releasing Tension to Rest",
+      "path": "/treatments/cupping-sleep-tcm/",
+      "type": "treatment",
+      "parent": "treatments",
+      "estimated_read_time": 7,
+      "keywords": [
+        "cupping for sleep",
+        "cupping insomnia",
+        "cupping therapy relaxation"
+      ],
+      "id": "516"
     }
   ]
 }
