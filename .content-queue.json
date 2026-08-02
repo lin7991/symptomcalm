@@ -4,19 +4,6 @@
   "note": "每3小时自动生产一篇内容。从队列头部取，完成后移到 published。",
   "queue": [
     {
-      "title": "Herbal Tea for Immune Support: Warming Blends and the Wei Qi Connection",
-      "path": "/treatments/herbal-tea-immunity-tcm/",
-      "type": "treatment",
-      "parent": "treatments",
-      "estimated_read_time": 6,
-      "keywords": [
-        "herbal tea immune support",
-        "Wei Qi tea",
-        "warming immune tea TCM"
-      ],
-      "id": "506"
-    },
-    {
       "title": "Moxibustion for Fatigue: Warming the Body's Energy Furnace When You're Running on Empty",
       "path": "/treatments/moxibustion-fatigue-tcm/",
       "type": "treatment",
@@ -54,6 +41,210 @@
         "anemia TCM view"
       ],
       "id": "509"
+    },
+    {
+      "title": "High-Functioning Anxiety: TCM's View of the Exhausted Achiever",
+      "path": "/symptoms/mental-emotional-health/high-functioning-anxiety-tcm/",
+      "type": "cluster",
+      "parent": "mental-emotional-health",
+      "estimated_read_time": 8,
+      "keywords": [
+        "high functioning anxiety",
+        "anxiety TCM",
+        "exhausted achiever",
+        "Shen and Liver Qi"
+      ],
+      "id": "510"
+    },
+    {
+      "title": "Waking at 3AM: TCM's View of Early Morning Waking Insomnia",
+      "path": "/symptoms/insomnia/early-morning-waking-tcm/",
+      "type": "cluster",
+      "parent": "insomnia",
+      "estimated_read_time": 7,
+      "keywords": [
+        "early morning waking",
+        "3am insomnia",
+        "waking at 3am TCM",
+        "Liver Qi timing"
+      ],
+      "id": "511"
+    },
+    {
+      "title": "Leaky Gut from a TCM Perspective: The Spleen's Barrier Role",
+      "path": "/symptoms/digestion/leaky-gut-tcm/",
+      "type": "cluster",
+      "parent": "digestion",
+      "estimated_read_time": 8,
+      "keywords": [
+        "leaky gut TCM",
+        "intestinal permeability",
+        "Spleen Qi deficiency",
+        "gut barrier"
+      ],
+      "id": "512"
+    },
+    {
+      "title": "Celiac Disease and Gluten Sensitivity: A TCM View of the Spleen",
+      "path": "/symptoms/digestion/celiac-disease-tcm/",
+      "type": "cluster",
+      "parent": "digestion",
+      "estimated_read_time": 8,
+      "keywords": [
+        "celiac disease TCM",
+        "gluten sensitivity",
+        "Spleen Qi",
+        "Dampness gluten"
+      ],
+      "id": "513"
+    },
+    {
+      "title": "OCD and Intrusive Thoughts: A TCM Perspective on the Restless Shen",
+      "path": "/symptoms/mental-emotional-health/ocd-tcm/",
+      "type": "cluster",
+      "parent": "mental-emotional-health",
+      "estimated_read_time": 8,
+      "keywords": [
+        "OCD TCM",
+        "intrusive thoughts",
+        "restless Shen",
+        "obsessive compulsive natural"
+      ],
+      "id": "514"
+    },
+    {
+      "title": "Melasma and Skin Pigmentation: A TCM View of Liver and Spleen",
+      "path": "/symptoms/skin-conditions/melasma-tcm/",
+      "type": "cluster",
+      "parent": "skin-conditions",
+      "estimated_read_time": 7,
+      "keywords": [
+        "melasma TCM",
+        "skin pigmentation",
+        "dark spots face",
+        "Liver Blood Stasis"
+      ],
+      "id": "515"
+    },
+    {
+      "title": "Cupping for Better Sleep: Releasing Tension to Rest",
+      "path": "/treatments/cupping-sleep-tcm/",
+      "type": "treatment",
+      "parent": "treatments",
+      "estimated_read_time": 7,
+      "keywords": [
+        "cupping for sleep",
+        "cupping insomnia",
+        "cupping therapy relaxation"
+      ],
+      "id": "516"
+    },
+    {
+      "title": "Gua Sha for Immune Support: A Gentle Approach to Wei Qi",
+      "path": "/treatments/gua-sha-immunity-tcm/",
+      "type": "treatment",
+      "parent": "treatments",
+      "estimated_read_time": 7,
+      "keywords": [
+        "gua sha immune",
+        "gua sha immunity",
+        "Wei Qi gua sha"
+      ],
+      "id": "517"
+    },
+    {
+      "title": "Moxibustion for Sleep: Warming Your Way to Deeper Rest",
+      "path": "/treatments/moxibustion-sleep-tcm/",
+      "type": "treatment",
+      "parent": "treatments",
+      "estimated_read_time": 7,
+      "keywords": [
+        "moxibustion sleep",
+        "moxibustion insomnia",
+        "moxa for sleep"
+      ],
+      "id": "518"
+    },
+    {
+      "title": "Tui Na for Digestion: Self-Massage for Your Spleen and Stomach",
+      "path": "/treatments/tui-na-digestion-tcm/",
+      "type": "treatment",
+      "parent": "treatments",
+      "estimated_read_time": 7,
+      "keywords": [
+        "tui na digestion",
+        "abdominal self massage",
+        "Spleen stomach massage"
+      ],
+      "id": "519"
+    },
+    {
+      "title": "Qigong for Digestion: Moving Qi to Support Your Gut",
+      "path": "/treatments/qigong-digestion-tcm/",
+      "type": "treatment",
+      "parent": "treatments",
+      "estimated_read_time": 7,
+      "keywords": [
+        "qigong digestion",
+        "qigong for gut",
+        "qigong bloating"
+      ],
+      "id": "520"
+    },
+    {
+      "title": "Herbal Tea for Energy: Warming Blends to Combat Fatigue",
+      "path": "/treatments/herbal-tea-energy-tcm/",
+      "type": "treatment",
+      "parent": "treatments",
+      "estimated_read_time": 7,
+      "keywords": [
+        "herbal tea energy",
+        "tea for fatigue",
+        "energy tea TCM"
+      ],
+      "id": "521"
+    },
+    {
+      "title": "PMDD: When PMS Feels Unmanageable, a TCM View",
+      "path": "/symptoms/womens-health/pmdd-tcm/",
+      "type": "cluster",
+      "parent": "womens-health",
+      "estimated_read_time": 8,
+      "keywords": [
+        "PMDD TCM",
+        "premenstrual dysphoric disorder",
+        "severe PMS natural",
+        "Liver Qi PMDD"
+      ],
+      "id": "522"
+    },
+    {
+      "title": "Keratosis Pilaris: TCM's View of the 'Chicken Skin' Bumps",
+      "path": "/symptoms/skin-conditions/keratosis-pilaris-tcm/",
+      "type": "cluster",
+      "parent": "skin-conditions",
+      "estimated_read_time": 7,
+      "keywords": [
+        "keratosis pilaris TCM",
+        "chicken skin bumps",
+        "rough skin arms",
+        "Lung Spleen Phlegm"
+      ],
+      "id": "523"
+    },
+    {
+      "title": "Eyelid Twitching: TCM's View of Liver Wind and Eye Spasms",
+      "path": "/symptoms/eye-health/eye-twitching-tcm/",
+      "type": "cluster",
+      "parent": "eye-health",
+      "estimated_read_time": 7,
+      "keywords": [
+        "eyelid twitching TCM",
+        "eye twitch natural",
+        "Liver Wind",
+        "eye spasm"
+      ],
+      "id": "524"
     }
   ],
   "published": [
@@ -6516,6 +6707,19 @@
         "cupping therapy tension"
       ],
       "id": "505"
+    },
+    {
+      "title": "Herbal Tea for Immune Support: Warming Blends and the Wei Qi Connection",
+      "path": "/treatments/herbal-tea-immunity-tcm/",
+      "type": "treatment",
+      "parent": "treatments",
+      "estimated_read_time": 6,
+      "keywords": [
+        "herbal tea immune support",
+        "Wei Qi tea",
+        "warming immune tea TCM"
+      ],
+      "id": "506"
     }
   ]
 }
