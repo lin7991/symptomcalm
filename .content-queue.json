@@ -4,19 +4,6 @@
   "note": "每3小时自动生产一篇内容。从队列头部取，完成后移到 published。",
   "queue": [
     {
-      "title": "Moxibustion for Sleep: Warming Your Way to Deeper Rest",
-      "path": "/treatments/moxibustion-sleep-tcm/",
-      "type": "treatment",
-      "parent": "treatments",
-      "estimated_read_time": 7,
-      "keywords": [
-        "moxibustion sleep",
-        "moxibustion insomnia",
-        "moxa for sleep"
-      ],
-      "id": "518"
-    },
-    {
       "title": "Tui Na for Digestion: Self-Massage for Your Spleen and Stomach",
       "path": "/treatments/tui-na-digestion-tcm/",
       "type": "treatment",
@@ -6720,6 +6707,19 @@
         "Wei Qi gua sha"
       ],
       "id": "517"
+    },
+    {
+      "title": "Moxibustion for Sleep: Warming Your Way to Deeper Rest",
+      "path": "/treatments/moxibustion-sleep-tcm/",
+      "type": "treatment",
+      "parent": "treatments",
+      "estimated_read_time": 7,
+      "keywords": [
+        "moxibustion sleep",
+        "moxibustion insomnia",
+        "moxa for sleep"
+      ],
+      "id": "518"
     }
   ]
 }
