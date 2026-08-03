@@ -4,19 +4,6 @@
   "note": "每3小时自动生产一篇内容。从队列头部取，完成后移到 published。",
   "queue": [
     {
-      "title": "Vitiligo and TCM: Understanding Pigment Loss from a Chinese Medicine View",
-      "path": "/symptoms/skin-conditions/vitiligo-tcm/",
-      "type": "cluster",
-      "parent": "skin-conditions",
-      "estimated_read_time": 7,
-      "keywords": [
-        "vitiligo TCM",
-        "white patches skin",
-        "blood deficiency pigment"
-      ],
-      "id": "531"
-    },
-    {
       "title": "Pregnancy Insomnia and TCM: Restful Sleep While Growing a Baby",
       "path": "/symptoms/insomnia/pregnancy-insomnia-tcm/",
       "type": "cluster",
@@ -6915,6 +6902,19 @@
         "test anxiety"
       ],
       "id": "530"
+    },
+    {
+      "title": "Vitiligo and TCM: Understanding Pigment Loss from a Chinese Medicine View",
+      "path": "/symptoms/skin-conditions/vitiligo-tcm/",
+      "type": "cluster",
+      "parent": "skin-conditions",
+      "estimated_read_time": 7,
+      "keywords": [
+        "vitiligo TCM",
+        "white patches skin",
+        "blood deficiency pigment"
+      ],
+      "id": "531"
     }
   ]
 }
