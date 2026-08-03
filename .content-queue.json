@@ -4,19 +4,6 @@
   "note": "每3小时自动生产一篇内容。从队列头部取，完成后移到 published。",
   "queue": [
     {
-      "title": "Exercise Headaches and TCM: When Movement Triggers the Pain",
-      "path": "/symptoms/headaches/exercise-headache-tcm/",
-      "type": "cluster",
-      "parent": "headaches",
-      "estimated_read_time": 6,
-      "keywords": [
-        "exercise headache TCM",
-        "exertion headache",
-        "workout headache"
-      ],
-      "id": "535"
-    },
-    {
       "title": "Chest Congestion and TCM: Clearing the Lungs from the Inside",
       "path": "/symptoms/respiratory-health/chest-congestion-tcm/",
       "type": "cluster",
@@ -6915,6 +6902,19 @@
         "moxa for head pain"
       ],
       "id": "534"
+    },
+    {
+      "title": "Exercise Headaches and TCM: When Movement Triggers the Pain",
+      "path": "/symptoms/headaches/exercise-headache-tcm/",
+      "type": "cluster",
+      "parent": "headaches",
+      "estimated_read_time": 6,
+      "keywords": [
+        "exercise headache TCM",
+        "exertion headache",
+        "workout headache"
+      ],
+      "id": "535"
     }
   ]
 }
