@@ -4,20 +4,6 @@
   "note": "每3小时自动生产一篇内容。从队列头部取，完成后移到 published。",
   "queue": [
     {
-      "title": "PMDD: When PMS Feels Unmanageable, a TCM View",
-      "path": "/symptoms/womens-health/pmdd-tcm/",
-      "type": "cluster",
-      "parent": "womens-health",
-      "estimated_read_time": 8,
-      "keywords": [
-        "PMDD TCM",
-        "premenstrual dysphoric disorder",
-        "severe PMS natural",
-        "Liver Qi PMDD"
-      ],
-      "id": "522"
-    },
-    {
       "title": "Keratosis Pilaris: TCM's View of the 'Chicken Skin' Bumps",
       "path": "/symptoms/skin-conditions/keratosis-pilaris-tcm/",
       "type": "cluster",
@@ -6915,6 +6901,20 @@
         "energy tea TCM"
       ],
       "id": "521"
+    },
+    {
+      "title": "PMDD: When PMS Feels Unmanageable, a TCM View",
+      "path": "/symptoms/womens-health/pmdd-tcm/",
+      "type": "cluster",
+      "parent": "womens-health",
+      "estimated_read_time": 8,
+      "keywords": [
+        "PMDD TCM",
+        "premenstrual dysphoric disorder",
+        "severe PMS natural",
+        "Liver Qi PMDD"
+      ],
+      "id": "522"
     }
   ]
 }
