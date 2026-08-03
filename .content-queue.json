@@ -4,19 +4,6 @@
   "note": "每3小时自动生产一篇内容。从队列头部取，完成后移到 published。",
   "queue": [
     {
-      "title": "Perimenopause and TCM: Navigating the Transition Years",
-      "path": "/symptoms/womens-health/perimenopause-tcm/",
-      "type": "cluster",
-      "parent": "womens-health",
-      "estimated_read_time": 8,
-      "keywords": [
-        "perimenopause TCM",
-        "perimenopause symptoms",
-        "kidney yin transition"
-      ],
-      "id": "528"
-    },
-    {
       "title": "IBD and TCM: Supporting Digestion During Flare-Ups",
       "path": "/symptoms/digestion/ibd-tcm/",
       "type": "cluster",
@@ -6915,6 +6902,19 @@
         "mold sensitivity natural support"
       ],
       "id": "527"
+    },
+    {
+      "title": "Perimenopause and TCM: Navigating the Transition Years",
+      "path": "/symptoms/womens-health/perimenopause-tcm/",
+      "type": "cluster",
+      "parent": "womens-health",
+      "estimated_read_time": 8,
+      "keywords": [
+        "perimenopause TCM",
+        "perimenopause symptoms",
+        "kidney yin transition"
+      ],
+      "id": "528"
     }
   ]
 }
