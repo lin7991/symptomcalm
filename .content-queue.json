@@ -4,19 +4,6 @@
   "note": "每3小时自动生产一篇内容。从队列头部取，完成后移到 published。",
   "queue": [
     {
-      "title": "IBD and TCM: Supporting Digestion During Flare-Ups",
-      "path": "/symptoms/digestion/ibd-tcm/",
-      "type": "cluster",
-      "parent": "digestion",
-      "estimated_read_time": 8,
-      "keywords": [
-        "IBD TCM",
-        "crohns traditional medicine",
-        "ulcerative colitis support"
-      ],
-      "id": "529"
-    },
-    {
       "title": "Performance Anxiety and TCM: Calming the Mind Before the Big Moment",
       "path": "/symptoms/anxiety/performance-anxiety-tcm/",
       "type": "cluster",
@@ -6915,6 +6902,19 @@
         "kidney yin transition"
       ],
       "id": "528"
+    },
+    {
+      "title": "IBD and TCM: Supporting Digestion During Flare-Ups",
+      "path": "/symptoms/digestion/ibd-tcm/",
+      "type": "cluster",
+      "parent": "digestion",
+      "estimated_read_time": 8,
+      "keywords": [
+        "IBD TCM",
+        "crohns traditional medicine",
+        "ulcerative colitis support"
+      ],
+      "id": "529"
     }
   ]
 }
