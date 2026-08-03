@@ -4331,4 +4331,44 @@
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
+  <url>
+    <loc>https://symptomcalm.com/symptoms/digestion/celiac-disease-tcm/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://symptomcalm.com/symptoms/digestion/leaky-gut-tcm/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://symptomcalm.com/symptoms/insomnia/early-morning-waking-tcm/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://symptomcalm.com/symptoms/mental-emotional-health/ocd-tcm/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://symptomcalm.com/symptoms/skin-conditions/melasma-tcm/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://symptomcalm.com/tcm-basics/blood-deficiency-tcm/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://symptomcalm.com/zh/symptoms/digestion/leaky-gut-tcm/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://symptomcalm.com/zh/symptoms/mental-emotional-health/ocd-tcm/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
 </urlset>
