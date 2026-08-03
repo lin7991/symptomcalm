@@ -4,19 +4,6 @@
   "note": "每3小时自动生产一篇内容。从队列头部取，完成后移到 published。",
   "queue": [
     {
-      "title": "Qigong for Immunity: Moving Wei Qi Through the Body",
-      "path": "/treatments/qigong-immunity-tcm/",
-      "type": "treatment",
-      "parent": "treatments",
-      "estimated_read_time": 7,
-      "keywords": [
-        "qigong immunity",
-        "wei qi exercise",
-        "qigong for immune support"
-      ],
-      "id": "526"
-    },
-    {
       "title": "Mold Allergy and TCM: A Dampness Perspective",
       "path": "/symptoms/allergies/mold-allergy-tcm/",
       "type": "cluster",
@@ -6915,6 +6902,19 @@
         "tan in Chinese medicine"
       ],
       "id": "525"
+    },
+    {
+      "title": "Qigong for Immunity: Moving Wei Qi Through the Body",
+      "path": "/treatments/qigong-immunity-tcm/",
+      "type": "treatment",
+      "parent": "treatments",
+      "estimated_read_time": 7,
+      "keywords": [
+        "qigong immunity",
+        "wei qi exercise",
+        "qigong for immune support"
+      ],
+      "id": "526"
     }
   ]
 }
