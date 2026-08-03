@@ -4,20 +4,6 @@
   "note": "每3小时自动生产一篇内容。从队列头部取，完成后移到 published。",
   "queue": [
     {
-      "title": "Keratosis Pilaris: TCM's View of the 'Chicken Skin' Bumps",
-      "path": "/symptoms/skin-conditions/keratosis-pilaris-tcm/",
-      "type": "cluster",
-      "parent": "skin-conditions",
-      "estimated_read_time": 7,
-      "keywords": [
-        "keratosis pilaris TCM",
-        "chicken skin bumps",
-        "rough skin arms",
-        "Lung Spleen Phlegm"
-      ],
-      "id": "523"
-    },
-    {
       "title": "Eyelid Twitching: TCM's View of Liver Wind and Eye Spasms",
       "path": "/symptoms/eye-health/eye-twitching-tcm/",
       "type": "cluster",
@@ -6915,6 +6901,20 @@
         "Liver Qi PMDD"
       ],
       "id": "522"
+    },
+    {
+      "title": "Keratosis Pilaris: TCM's View of the 'Chicken Skin' Bumps",
+      "path": "/symptoms/skin-conditions/keratosis-pilaris-tcm/",
+      "type": "cluster",
+      "parent": "skin-conditions",
+      "estimated_read_time": 7,
+      "keywords": [
+        "keratosis pilaris TCM",
+        "chicken skin bumps",
+        "rough skin arms",
+        "Lung Spleen Phlegm"
+      ],
+      "id": "523"
     }
   ]
 }
