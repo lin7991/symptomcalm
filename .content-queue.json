@@ -4,19 +4,6 @@
   "note": "每3小时自动生产一篇内容。从队列头部取，完成后移到 published。",
   "queue": [
     {
-      "title": "Tendonitis and TCM: Overworked Sinews and the Liver's Lubrication",
-      "path": "/symptoms/joint-pain/tendonitis-tcm/",
-      "type": "cluster",
-      "parent": "joint-pain",
-      "estimated_read_time": 7,
-      "keywords": [
-        "tendonitis TCM",
-        "liver blood tendons",
-        "tendon health"
-      ],
-      "id": "543"
-    },
-    {
       "title": "Sleep Paralysis and TCM: When the Body Wakes Before the Mind",
       "path": "/symptoms/insomnia/sleep-paralysis-tcm/",
       "type": "cluster",
@@ -7110,6 +7097,19 @@
         "stuck shoulder"
       ],
       "id": "542"
+    },
+    {
+      "title": "Tendonitis and TCM: Overworked Sinews and the Liver's Lubrication",
+      "path": "/symptoms/joint-pain/tendonitis-tcm/",
+      "type": "cluster",
+      "parent": "joint-pain",
+      "estimated_read_time": 7,
+      "keywords": [
+        "tendonitis TCM",
+        "liver blood tendons",
+        "tendon health"
+      ],
+      "id": "543"
     }
   ]
 }
