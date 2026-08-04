@@ -4,19 +4,6 @@
   "note": "每3小时自动生产一篇内容。从队列头部取，完成后移到 published。",
   "queue": [
     {
-      "title": "Dandruff and TCM: Calming the Wind-Dry Scalp",
-      "path": "/symptoms/skin-conditions/dandruff-tcm/",
-      "type": "cluster",
-      "parent": "skin-conditions",
-      "estimated_read_time": 7,
-      "keywords": [
-        "dandruff TCM",
-        "wind dry scalp",
-        "flaky scalp natural"
-      ],
-      "id": "545"
-    },
-    {
       "title": "Myopia and TCM: Supporting Eyesight Through the Liver",
       "path": "/symptoms/eye-health/myopia-tcm/",
       "type": "cluster",
@@ -7110,6 +7097,19 @@
         "lucid sleep disorder"
       ],
       "id": "544"
+    },
+    {
+      "title": "Dandruff and TCM: Calming the Wind-Dry Scalp",
+      "path": "/symptoms/skin-conditions/dandruff-tcm/",
+      "type": "cluster",
+      "parent": "skin-conditions",
+      "estimated_read_time": 7,
+      "keywords": [
+        "dandruff TCM",
+        "wind dry scalp",
+        "flaky scalp natural"
+      ],
+      "id": "545"
     }
   ]
 }
