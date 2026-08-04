@@ -4,19 +4,6 @@
   "note": "每3小时自动生产一篇内容。从队列头部取，完成后移到 published。",
   "queue": [
     {
-      "title": "Loneliness and TCM: The Heart's Need for Connection",
-      "path": "/symptoms/mental-emotional-health/loneliness-tcm/",
-      "type": "cluster",
-      "parent": "mental-emotional-health",
-      "estimated_read_time": 7,
-      "keywords": [
-        "loneliness TCM",
-        "heart shen loneliness",
-        "emotional health"
-      ],
-      "id": "537"
-    },
-    {
       "title": "Meditation for Pain: A TCM-Informed Mind-Body Approach",
       "path": "/treatments/meditation-pain-tcm/",
       "type": "treatment",
@@ -7110,6 +7097,19 @@
         "lung clearing"
       ],
       "id": "536"
+    },
+    {
+      "title": "Loneliness and TCM: The Heart's Need for Connection",
+      "path": "/symptoms/mental-emotional-health/loneliness-tcm/",
+      "type": "cluster",
+      "parent": "mental-emotional-health",
+      "estimated_read_time": 7,
+      "keywords": [
+        "loneliness TCM",
+        "heart shen loneliness",
+        "emotional health"
+      ],
+      "id": "537"
     }
   ]
 }
