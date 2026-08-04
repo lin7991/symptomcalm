@@ -4,19 +4,6 @@
   "note": "每3小时自动生产一篇内容。从队列头部取，完成后移到 published。",
   "queue": [
     {
-      "title": "Fatty Liver and TCM: When the Spleen's Storage System Overflows",
-      "path": "/symptoms/digestion/fatty-liver-tcm/",
-      "type": "cluster",
-      "parent": "digestion",
-      "estimated_read_time": 8,
-      "keywords": [
-        "fatty liver TCM",
-        "liver dampness",
-        "spleen fat accumulation"
-      ],
-      "id": "540"
-    },
-    {
       "title": "Bad Breath and TCM: Cooling the Stomach's Rising Heat",
       "path": "/symptoms/digestion/bad-breath-tcm/",
       "type": "cluster",
@@ -7110,6 +7097,19 @@
         "kidney essence caregiving"
       ],
       "id": "539"
+    },
+    {
+      "title": "Fatty Liver and TCM: When the Spleen's Storage System Overflows",
+      "path": "/symptoms/digestion/fatty-liver-tcm/",
+      "type": "cluster",
+      "parent": "digestion",
+      "estimated_read_time": 8,
+      "keywords": [
+        "fatty liver TCM",
+        "liver dampness",
+        "spleen fat accumulation"
+      ],
+      "id": "540"
     }
   ]
 }
