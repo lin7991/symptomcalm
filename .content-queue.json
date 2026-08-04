@@ -4,19 +4,6 @@
   "note": "每3小时自动生产一篇内容。从队列头部取，完成后移到 published。",
   "queue": [
     {
-      "title": "Motion Sickness and TCM: Calming the Stomach's Alarm System",
-      "path": "/symptoms/ear-health-tinnitus/motion-sickness-tcm/",
-      "type": "cluster",
-      "parent": "ear-health-tinnitus",
-      "estimated_read_time": 7,
-      "keywords": [
-        "motion sickness TCM",
-        "travel nausea acupressure",
-        "P6 point seasickness"
-      ],
-      "id": "547"
-    },
-    {
       "title": "Dehydration Headaches and TCM: When Fluids Run Low",
       "path": "/symptoms/headaches/dehydration-headache-tcm/",
       "type": "cluster",
@@ -7110,6 +7097,19 @@
         "eye health children"
       ],
       "id": "546"
+    },
+    {
+      "title": "Motion Sickness and TCM: Calming the Stomach's Alarm System",
+      "path": "/symptoms/ear-health-tinnitus/motion-sickness-tcm/",
+      "type": "cluster",
+      "parent": "ear-health-tinnitus",
+      "estimated_read_time": 7,
+      "keywords": [
+        "motion sickness TCM",
+        "travel nausea acupressure",
+        "P6 point seasickness"
+      ],
+      "id": "547"
     }
   ]
 }
