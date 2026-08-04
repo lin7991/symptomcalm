@@ -4,19 +4,6 @@
   "note": "每3小时自动生产一篇内容。从队列头部取，完成后移到 published。",
   "queue": [
     {
-      "title": "Frozen Shoulder and TCM: Thawing a Stuck Joint",
-      "path": "/symptoms/joint-pain/frozen-shoulder-tcm/",
-      "type": "cluster",
-      "parent": "joint-pain",
-      "estimated_read_time": 8,
-      "keywords": [
-        "frozen shoulder TCM",
-        "adhesive capsulitis acupuncture",
-        "stuck shoulder"
-      ],
-      "id": "542"
-    },
-    {
       "title": "Tendonitis and TCM: Overworked Sinews and the Liver's Lubrication",
       "path": "/symptoms/joint-pain/tendonitis-tcm/",
       "type": "cluster",
@@ -7110,6 +7097,19 @@
         "halitosis natural"
       ],
       "id": "541"
+    },
+    {
+      "title": "Frozen Shoulder and TCM: Thawing a Stuck Joint",
+      "path": "/symptoms/joint-pain/frozen-shoulder-tcm/",
+      "type": "cluster",
+      "parent": "joint-pain",
+      "estimated_read_time": 8,
+      "keywords": [
+        "frozen shoulder TCM",
+        "adhesive capsulitis acupuncture",
+        "stuck shoulder"
+      ],
+      "id": "542"
     }
   ]
 }
