@@ -4,19 +4,6 @@
   "note": "每3小时自动生产一篇内容。从队列头部取，完成后移到 published。",
   "queue": [
     {
-      "title": "Sleep Paralysis and TCM: When the Body Wakes Before the Mind",
-      "path": "/symptoms/insomnia/sleep-paralysis-tcm/",
-      "type": "cluster",
-      "parent": "insomnia",
-      "estimated_read_time": 7,
-      "keywords": [
-        "sleep paralysis TCM",
-        "ghost oppression",
-        "lucid sleep disorder"
-      ],
-      "id": "544"
-    },
-    {
       "title": "Dandruff and TCM: Calming the Wind-Dry Scalp",
       "path": "/symptoms/skin-conditions/dandruff-tcm/",
       "type": "cluster",
@@ -7110,6 +7097,19 @@
         "tendon health"
       ],
       "id": "543"
+    },
+    {
+      "title": "Sleep Paralysis and TCM: When the Body Wakes Before the Mind",
+      "path": "/symptoms/insomnia/sleep-paralysis-tcm/",
+      "type": "cluster",
+      "parent": "insomnia",
+      "estimated_read_time": 7,
+      "keywords": [
+        "sleep paralysis TCM",
+        "ghost oppression",
+        "lucid sleep disorder"
+      ],
+      "id": "544"
     }
   ]
 }
