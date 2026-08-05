@@ -4,19 +4,6 @@
   "note": "每3小时自动生产一篇内容。从队列头部取，完成后移到 published。",
   "queue": [
     {
-      "title": "Smoker's Lung and TCM: Repairing Smoke-Damaged Lungs",
-      "path": "/symptoms/respiratory-health/smokers-lung-tcm/",
-      "type": "cluster",
-      "parent": "respiratory-health",
-      "estimated_read_time": 8,
-      "keywords": [
-        "smokers lung TCM",
-        "lung damage repair",
-        "quit smoking lung health"
-      ],
-      "id": "553"
-    },
-    {
       "title": "Piriformis Syndrome and TCM: Unknotting the Deep Gluteal Tension",
       "path": "/symptoms/back-pain/piriformis-tcm/",
       "type": "cluster",
@@ -7305,6 +7292,19 @@
         "heavy clotting period"
       ],
       "id": "552"
+    },
+    {
+      "title": "Smoker's Lung and TCM: Repairing Smoke-Damaged Lungs",
+      "path": "/symptoms/respiratory-health/smokers-lung-tcm/",
+      "type": "cluster",
+      "parent": "respiratory-health",
+      "estimated_read_time": 8,
+      "keywords": [
+        "smokers lung TCM",
+        "lung damage repair",
+        "quit smoking lung health"
+      ],
+      "id": "553"
     }
   ]
 }
