@@ -4,19 +4,6 @@
   "note": "每3小时自动生产一篇内容。从队列头部取，完成后移到 published。",
   "queue": [
     {
-      "title": "Financial Stress and TCM: The Worry That Weighs on the Spleen",
-      "path": "/symptoms/stress/financial-stress-tcm/",
-      "type": "cluster",
-      "parent": "stress",
-      "estimated_read_time": 7,
-      "keywords": [
-        "financial stress TCM",
-        "money worry spleen",
-        "economic anxiety"
-      ],
-      "id": "549"
-    },
-    {
       "title": "Yang Deficiency Explained: The Body's Dimming Furnace",
       "path": "/tcm-basics/yang-deficiency-tcm/",
       "type": "tcm-basics",
@@ -7110,6 +7097,19 @@
         "thirst headache"
       ],
       "id": "548"
+    },
+    {
+      "title": "Financial Stress and TCM: The Worry That Weighs on the Spleen",
+      "path": "/symptoms/stress/financial-stress-tcm/",
+      "type": "cluster",
+      "parent": "stress",
+      "estimated_read_time": 7,
+      "keywords": [
+        "financial stress TCM",
+        "money worry spleen",
+        "economic anxiety"
+      ],
+      "id": "549"
     }
   ]
 }
