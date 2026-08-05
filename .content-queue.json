@@ -4,19 +4,6 @@
   "note": "每3小时自动生产一篇内容。从队列头部取，完成后移到 published。",
   "queue": [
     {
-      "title": "Foot Baths for Fatigue: Warming the Body's Bottom Line",
-      "path": "/treatments/foot-baths-fatigue-tcm/",
-      "type": "treatment",
-      "parent": "treatments",
-      "estimated_read_time": 7,
-      "keywords": [
-        "foot bath fatigue TCM",
-        "foot soak energy",
-        "warm foot soak"
-      ],
-      "id": "551"
-    },
-    {
       "title": "Menstrual Clots and TCM: When Blood Stasis Blocks the Flow",
       "path": "/symptoms/womens-health/menstrual-clots-tcm/",
       "type": "cluster",
@@ -54,6 +41,201 @@
         "deep buttock pain"
       ],
       "id": "554"
+    },
+    {
+      "title": "Mast Cell Activation and Histamine: A TCM View of an Overactive Alarm System",
+      "path": "/symptoms/allergies/mast-cell-activation-tcm/",
+      "type": "symptom",
+      "parent": "allergies",
+      "estimated_read_time": 8,
+      "keywords": [
+        "mast cell activation TCM",
+        "histamine intolerance TCM",
+        "MCAS natural support"
+      ],
+      "id": "555"
+    },
+    {
+      "title": "Spondylolisthesis and Spinal Instability: A TCM Perspective on the Slipped Vertebra",
+      "path": "/symptoms/back-pain/spondylolisthesis-tcm/",
+      "type": "symptom",
+      "parent": "back-pain",
+      "estimated_read_time": 8,
+      "keywords": [
+        "spondylolisthesis TCM",
+        "slipped vertebra natural support",
+        "spinal instability TCM"
+      ],
+      "id": "556"
+    },
+    {
+      "title": "Vocal Cord Dysfunction: When Your Airway Closes on Exertion — A TCM View",
+      "path": "/symptoms/respiratory-health/vocal-cord-dysfunction-tcm/",
+      "type": "symptom",
+      "parent": "respiratory-health",
+      "estimated_read_time": 7,
+      "keywords": [
+        "vocal cord dysfunction TCM",
+        "VCD natural support",
+        "paradoxical vocal fold motion"
+      ],
+      "id": "557"
+    },
+    {
+      "title": "Seborrheic Dermatitis: TCM Patterns Behind Scalp Flakes and Facial Redness",
+      "path": "/symptoms/skin-conditions/seborrheic-dermatitis-tcm/",
+      "type": "symptom",
+      "parent": "skin-conditions",
+      "estimated_read_time": 8,
+      "keywords": [
+        "seborrheic dermatitis TCM",
+        "dandruff TCM",
+        "scalp flaking natural support"
+      ],
+      "id": "558"
+    },
+    {
+      "title": "Hidradenitis Suppurativa: A TCM View of Recurrent Boil-Like Lumps",
+      "path": "/symptoms/skin-conditions/hidradenitis-suppurativa-tcm/",
+      "type": "symptom",
+      "parent": "skin-conditions",
+      "estimated_read_time": 8,
+      "keywords": [
+        "hidradenitis suppurativa TCM",
+        "HS natural support",
+        "recurrent boils TCM"
+      ],
+      "id": "559"
+    },
+    {
+      "title": "Gastroparesis and Slow Emptying: A TCM View of the Stomach That Won't Move",
+      "path": "/symptoms/digestion/gastroparesis-tcm/",
+      "type": "symptom",
+      "parent": "digestion",
+      "estimated_read_time": 8,
+      "keywords": [
+        "gastroparesis TCM",
+        "slow stomach emptying natural support",
+        "delayed gastric emptying TCM"
+      ],
+      "id": "560"
+    },
+    {
+      "title": "Cupping for Fatigue: Lifting the Stagnation Behind Low Energy",
+      "path": "/treatments/cupping-fatigue-tcm/",
+      "type": "treatment",
+      "parent": "treatments",
+      "estimated_read_time": 7,
+      "keywords": [
+        "cupping fatigue TCM",
+        "cupping therapy energy",
+        "fire cupping for tiredness"
+      ],
+      "id": "561"
+    },
+    {
+      "title": "Gua Sha for Stress: Scraping Tension Out of the Shoulders and Neck",
+      "path": "/treatments/guasha-stress-tcm/",
+      "type": "treatment",
+      "parent": "treatments",
+      "estimated_read_time": 7,
+      "keywords": [
+        "gua sha stress relief",
+        "gua sha shoulders",
+        "scraping therapy tension"
+      ],
+      "id": "562"
+    },
+    {
+      "title": "Cupping for Fertility: Supporting the Lower Abdomen in TCM",
+      "path": "/treatments/cupping-fertility-tcm/",
+      "type": "treatment",
+      "parent": "treatments",
+      "estimated_read_time": 7,
+      "keywords": [
+        "cupping fertility TCM",
+        "cupping for conception",
+        "abdominal cupping pregnancy support"
+      ],
+      "id": "563"
+    },
+    {
+      "title": "Foot Baths for Joint Pain: Warming Cold, Stiff Joints From the Bottom Up",
+      "path": "/treatments/foot-baths-joint-pain-tcm/",
+      "type": "treatment",
+      "parent": "treatments",
+      "estimated_read_time": 7,
+      "keywords": [
+        "foot bath joint pain",
+        "warm foot soak arthritis",
+        "foot soak stiffness"
+      ],
+      "id": "564"
+    },
+    {
+      "title": "Moxibustion for PMS: Warming the Lower Abdomen Through the Cycle",
+      "path": "/treatments/moxibustion-pms-tcm/",
+      "type": "treatment",
+      "parent": "treatments",
+      "estimated_read_time": 7,
+      "keywords": [
+        "moxibustion PMS",
+        "moxa for period cramps",
+        "mugwort menstruation"
+      ],
+      "id": "565"
+    },
+    {
+      "title": "Caffeine Headaches: The Rebound Effect Through a TCM Lens",
+      "path": "/symptoms/headaches/caffeine-headaches-tcm/",
+      "type": "symptom",
+      "parent": "headaches",
+      "estimated_read_time": 7,
+      "keywords": [
+        "caffeine headache TCM",
+        "coffee withdrawal headache",
+        "rebound headache caffeine"
+      ],
+      "id": "566"
+    },
+    {
+      "title": "Bursitis: TCM Patterns Behind Deep, Aching Joint Pain",
+      "path": "/symptoms/joint-pain/bursitis-tcm/",
+      "type": "symptom",
+      "parent": "joint-pain",
+      "estimated_read_time": 8,
+      "keywords": [
+        "bursitis TCM",
+        "bursa inflammation natural support",
+        "shoulder bursitis TCM"
+      ],
+      "id": "567"
+    },
+    {
+      "title": "Hyperacusis: When Sound Feels Too Loud — A TCM Perspective",
+      "path": "/symptoms/ear-health-tinnitus/hyperacusis-tcm/",
+      "type": "symptom",
+      "parent": "ear-health-tinnitus",
+      "estimated_read_time": 7,
+      "keywords": [
+        "hyperacusis TCM",
+        "sound sensitivity natural support",
+        "noise intolerance TCM"
+      ],
+      "id": "568"
+    },
+    {
+      "title": "Emetophobia: The Fear of Vomiting Through a TCM Lens",
+      "path": "/symptoms/anxiety/emetophobia-tcm/",
+      "type": "symptom",
+      "parent": "anxiety",
+      "estimated_read_time": 7,
+      "keywords": [
+        "emetophobia TCM",
+        "fear of vomiting natural support",
+        "nausea anxiety TCM"
+      ],
+      "id": "569"
     }
   ],
   "published": [
@@ -7110,6 +7292,19 @@
         "cold body constitution"
       ],
       "id": "550"
+    },
+    {
+      "title": "Foot Baths for Fatigue: Warming the Body's Bottom Line",
+      "path": "/treatments/foot-baths-fatigue-tcm/",
+      "type": "treatment",
+      "parent": "treatments",
+      "estimated_read_time": 7,
+      "keywords": [
+        "foot bath fatigue TCM",
+        "foot soak energy",
+        "warm foot soak"
+      ],
+      "id": "551"
     }
   ]
 }
