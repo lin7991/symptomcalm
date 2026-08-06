@@ -4,19 +4,6 @@
   "note": "每3小时自动生产一篇内容。从队列头部取，完成后移到 published。",
   "queue": [
     {
-      "title": "Vocal Cord Dysfunction: When Your Airway Closes on Exertion — A TCM View",
-      "path": "/symptoms/respiratory-health/vocal-cord-dysfunction-tcm/",
-      "type": "symptom",
-      "parent": "respiratory-health",
-      "estimated_read_time": 7,
-      "keywords": [
-        "vocal cord dysfunction TCM",
-        "VCD natural support",
-        "paradoxical vocal fold motion"
-      ],
-      "id": "557"
-    },
-    {
       "title": "Seborrheic Dermatitis: TCM Patterns Behind Scalp Flakes and Facial Redness",
       "path": "/symptoms/skin-conditions/seborrheic-dermatitis-tcm/",
       "type": "symptom",
@@ -7305,6 +7292,19 @@
         "spinal instability TCM"
       ],
       "id": "556"
+    },
+    {
+      "title": "Vocal Cord Dysfunction: When Your Airway Closes on Exertion — A TCM View",
+      "path": "/symptoms/respiratory-health/vocal-cord-dysfunction-tcm/",
+      "type": "symptom",
+      "parent": "respiratory-health",
+      "estimated_read_time": 7,
+      "keywords": [
+        "vocal cord dysfunction TCM",
+        "VCD natural support",
+        "paradoxical vocal fold motion"
+      ],
+      "id": "557"
     }
   ]
 }
