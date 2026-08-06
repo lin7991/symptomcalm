@@ -44,6 +44,14 @@ echo "$(date): Auto-publish EN+ZH complete" >> "$HOME/symptomcalm/.cron/publish.
 echo "$(date): Generating FAQ schema..." >> "$HOME/symptomcalm/.cron/publish.log"
 python3 .cron/add-faq-schema.py >> "$HOME/symptomcalm/.cron/publish.log" 2>&1
 
+# Regenerate RSS feed
+echo "$(date): Regenerating RSS feed..." >> "$HOME/symptomcalm/.cron/publish.log"
+python3 .cron/gen-rss.py >> "$HOME/symptomcalm/.cron/publish.log" 2>&1
+
+# Update share buttons + og:image for new pages
+echo "$(date): Updating share/images..." >> "$HOME/symptomcalm/.cron/publish.log"
+python3 .cron/add-share-images.py >> "$HOME/symptomcalm/.cron/publish.log" 2>&1
+
 # Commit all changes
 cd "$HOME/symptomcalm"
 git add -A 2>/dev/null
