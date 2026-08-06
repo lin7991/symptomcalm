@@ -4,19 +4,6 @@
   "note": "每3小时自动生产一篇内容。从队列头部取，完成后移到 published。",
   "queue": [
     {
-      "title": "Hidradenitis Suppurativa: A TCM View of Recurrent Boil-Like Lumps",
-      "path": "/symptoms/skin-conditions/hidradenitis-suppurativa-tcm/",
-      "type": "symptom",
-      "parent": "skin-conditions",
-      "estimated_read_time": 8,
-      "keywords": [
-        "hidradenitis suppurativa TCM",
-        "HS natural support",
-        "recurrent boils TCM"
-      ],
-      "id": "559"
-    },
-    {
       "title": "Gastroparesis and Slow Emptying: A TCM View of the Stomach That Won't Move",
       "path": "/symptoms/digestion/gastroparesis-tcm/",
       "type": "symptom",
@@ -7305,6 +7292,19 @@
         "scalp flaking natural support"
       ],
       "id": "558"
+    },
+    {
+      "title": "Hidradenitis Suppurativa: A TCM View of Recurrent Boil-Like Lumps",
+      "path": "/symptoms/skin-conditions/hidradenitis-suppurativa-tcm/",
+      "type": "symptom",
+      "parent": "skin-conditions",
+      "estimated_read_time": 8,
+      "keywords": [
+        "hidradenitis suppurativa TCM",
+        "HS natural support",
+        "recurrent boils TCM"
+      ],
+      "id": "559"
     }
   ]
 }
