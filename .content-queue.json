@@ -4,19 +4,6 @@
   "note": "每3小时自动生产一篇内容。从队列头部取，完成后移到 published。",
   "queue": [
     {
-      "title": "Mast Cell Activation and Histamine: A TCM View of an Overactive Alarm System",
-      "path": "/symptoms/allergies/mast-cell-activation-tcm/",
-      "type": "symptom",
-      "parent": "allergies",
-      "estimated_read_time": 8,
-      "keywords": [
-        "mast cell activation TCM",
-        "histamine intolerance TCM",
-        "MCAS natural support"
-      ],
-      "id": "555"
-    },
-    {
       "title": "Spondylolisthesis and Spinal Instability: A TCM Perspective on the Slipped Vertebra",
       "path": "/symptoms/back-pain/spondylolisthesis-tcm/",
       "type": "symptom",
@@ -7305,6 +7292,19 @@
         "deep buttock pain"
       ],
       "id": "554"
+    },
+    {
+      "title": "Mast Cell Activation and Histamine: A TCM View of an Overactive Alarm System",
+      "path": "/symptoms/allergies/mast-cell-activation-tcm/",
+      "type": "symptom",
+      "parent": "allergies",
+      "estimated_read_time": 8,
+      "keywords": [
+        "mast cell activation TCM",
+        "histamine intolerance TCM",
+        "MCAS natural support"
+      ],
+      "id": "555"
     }
   ]
 }
