@@ -4,19 +4,6 @@
   "note": "每3小时自动生产一篇内容。从队列头部取，完成后移到 published。",
   "queue": [
     {
-      "title": "Moxibustion for PMS: Warming the Lower Abdomen Through the Cycle",
-      "path": "/treatments/moxibustion-pms-tcm/",
-      "type": "treatment",
-      "parent": "treatments",
-      "estimated_read_time": 7,
-      "keywords": [
-        "moxibustion PMS",
-        "moxa for period cramps",
-        "mugwort menstruation"
-      ],
-      "id": "565"
-    },
-    {
       "title": "Caffeine Headaches: The Rebound Effect Through a TCM Lens",
       "path": "/symptoms/headaches/caffeine-headaches-tcm/",
       "type": "symptom",
@@ -7305,6 +7292,19 @@
         "foot soak stiffness"
       ],
       "id": "564"
+    },
+    {
+      "title": "Moxibustion for PMS: Warming the Lower Abdomen Through the Cycle",
+      "path": "/treatments/moxibustion-pms-tcm/",
+      "type": "treatment",
+      "parent": "treatments",
+      "estimated_read_time": 7,
+      "keywords": [
+        "moxibustion PMS",
+        "moxa for period cramps",
+        "mugwort menstruation"
+      ],
+      "id": "565"
     }
   ]
 }
