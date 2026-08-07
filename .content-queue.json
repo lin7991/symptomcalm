@@ -4,19 +4,6 @@
   "note": "每3小时自动生产一篇内容。从队列头部取，完成后移到 published。",
   "queue": [
     {
-      "title": "Foot Baths for Joint Pain: Warming Cold, Stiff Joints From the Bottom Up",
-      "path": "/treatments/foot-baths-joint-pain-tcm/",
-      "type": "treatment",
-      "parent": "treatments",
-      "estimated_read_time": 7,
-      "keywords": [
-        "foot bath joint pain",
-        "warm foot soak arthritis",
-        "foot soak stiffness"
-      ],
-      "id": "564"
-    },
-    {
       "title": "Moxibustion for PMS: Warming the Lower Abdomen Through the Cycle",
       "path": "/treatments/moxibustion-pms-tcm/",
       "type": "treatment",
@@ -7305,6 +7292,19 @@
         "abdominal cupping pregnancy support"
       ],
       "id": "563"
+    },
+    {
+      "title": "Foot Baths for Joint Pain: Warming Cold, Stiff Joints From the Bottom Up",
+      "path": "/treatments/foot-baths-joint-pain-tcm/",
+      "type": "treatment",
+      "parent": "treatments",
+      "estimated_read_time": 7,
+      "keywords": [
+        "foot bath joint pain",
+        "warm foot soak arthritis",
+        "foot soak stiffness"
+      ],
+      "id": "564"
     }
   ]
 }
