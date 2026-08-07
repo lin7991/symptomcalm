@@ -4,19 +4,6 @@
   "note": "每3小时自动生产一篇内容。从队列头部取，完成后移到 published。",
   "queue": [
     {
-      "title": "Gua Sha for Stress: Scraping Tension Out of the Shoulders and Neck",
-      "path": "/treatments/guasha-stress-tcm/",
-      "type": "treatment",
-      "parent": "treatments",
-      "estimated_read_time": 7,
-      "keywords": [
-        "gua sha stress relief",
-        "gua sha shoulders",
-        "scraping therapy tension"
-      ],
-      "id": "562"
-    },
-    {
       "title": "Cupping for Fertility: Supporting the Lower Abdomen in TCM",
       "path": "/treatments/cupping-fertility-tcm/",
       "type": "treatment",
@@ -7305,6 +7292,19 @@
         "fire cupping for tiredness"
       ],
       "id": "561"
+    },
+    {
+      "title": "Gua Sha for Stress: Scraping Tension Out of the Shoulders and Neck",
+      "path": "/treatments/guasha-stress-tcm/",
+      "type": "treatment",
+      "parent": "treatments",
+      "estimated_read_time": 7,
+      "keywords": [
+        "gua sha stress relief",
+        "gua sha shoulders",
+        "scraping therapy tension"
+      ],
+      "id": "562"
     }
   ]
 }
