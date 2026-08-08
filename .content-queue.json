@@ -4,19 +4,6 @@
   "note": "每3小时自动生产一篇内容。从队列头部取，完成后移到 published。",
   "queue": [
     {
-      "title": "Hyperacusis: When Sound Feels Too Loud — A TCM Perspective",
-      "path": "/symptoms/ear-health-tinnitus/hyperacusis-tcm/",
-      "type": "symptom",
-      "parent": "ear-health-tinnitus",
-      "estimated_read_time": 7,
-      "keywords": [
-        "hyperacusis TCM",
-        "sound sensitivity natural support",
-        "noise intolerance TCM"
-      ],
-      "id": "568"
-    },
-    {
       "title": "Emetophobia: The Fear of Vomiting Through a TCM Lens",
       "path": "/symptoms/anxiety/emetophobia-tcm/",
       "type": "symptom",
@@ -7497,6 +7484,19 @@
         "shoulder bursitis TCM"
       ],
       "id": "567"
+    },
+    {
+      "title": "Hyperacusis: When Sound Feels Too Loud — A TCM Perspective",
+      "path": "/symptoms/ear-health-tinnitus/hyperacusis-tcm/",
+      "type": "symptom",
+      "parent": "ear-health-tinnitus",
+      "estimated_read_time": 7,
+      "keywords": [
+        "hyperacusis TCM",
+        "sound sensitivity natural support",
+        "noise intolerance TCM"
+      ],
+      "id": "568"
     }
   ]
 }
