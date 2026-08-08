@@ -4,19 +4,6 @@
   "note": "每3小时自动生产一篇内容。从队列头部取，完成后移到 published。",
   "queue": [
     {
-      "title": "Hypnic Headaches: The Alarm Clock Headache Through a TCM Lens",
-      "path": "/symptoms/headaches/hypnic-headache-tcm/",
-      "type": "symptom",
-      "parent": "headaches",
-      "estimated_read_time": 7,
-      "keywords": [
-        "hypnic headache TCM",
-        "headache at night wake up",
-        "alarm clock headache"
-      ],
-      "id": "575"
-    },
-    {
       "title": "Pet Allergies: Living with Cats and Dogs Through a TCM Lens",
       "path": "/symptoms/allergies/pet-allergy-tcm/",
       "type": "symptom",
@@ -7497,6 +7484,19 @@
         "tinnitus sleep TCM"
       ],
       "id": "574"
+    },
+    {
+      "title": "Hypnic Headaches: The Alarm Clock Headache Through a TCM Lens",
+      "path": "/symptoms/headaches/hypnic-headache-tcm/",
+      "type": "symptom",
+      "parent": "headaches",
+      "estimated_read_time": 7,
+      "keywords": [
+        "hypnic headache TCM",
+        "headache at night wake up",
+        "alarm clock headache"
+      ],
+      "id": "575"
     }
   ]
 }
