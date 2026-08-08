@@ -4,19 +4,6 @@
   "note": "每3小时自动生产一篇内容。从队列头部取，完成后移到 published。",
   "queue": [
     {
-      "title": "Spring Fatigue: Why You're Drained When Everything Else Is Blooming",
-      "path": "/symptoms/fatigue/spring-fatigue-tcm/",
-      "type": "symptom",
-      "parent": "fatigue",
-      "estimated_read_time": 7,
-      "keywords": [
-        "spring fatigue TCM",
-        "seasonal tiredness spring",
-        "spring energy slump"
-      ],
-      "id": "570"
-    },
-    {
       "title": "Test Anxiety: Calming the Racing Mind Through a TCM Lens",
       "path": "/symptoms/anxiety/test-anxiety-tcm/",
       "type": "symptom",
@@ -7497,6 +7484,19 @@
         "nausea anxiety TCM"
       ],
       "id": "569"
+    },
+    {
+      "title": "Spring Fatigue: Why You're Drained When Everything Else Is Blooming",
+      "path": "/symptoms/fatigue/spring-fatigue-tcm/",
+      "type": "symptom",
+      "parent": "fatigue",
+      "estimated_read_time": 7,
+      "keywords": [
+        "spring fatigue TCM",
+        "seasonal tiredness spring",
+        "spring energy slump"
+      ],
+      "id": "570"
     }
   ]
 }
