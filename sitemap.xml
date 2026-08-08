@@ -4634,4 +4634,9 @@
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
+  <url>
+    <loc>https://symptomcalm.com/symptoms/mental-emotional-health/imposter-syndrome-tcm/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
 </urlset>
