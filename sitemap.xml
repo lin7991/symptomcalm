@@ -4603,4 +4603,9 @@
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
-<url><loc>https://symptomcalm.com/zh/symptoms/headaches/caffeine-headaches-tcm/</loc><changefreq>monthly</changefreq><priority>0.7</priority></url></urlset>
+<url><loc>https://symptomcalm.com/zh/symptoms/headaches/caffeine-headaches-tcm/</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>  <url>
+    <loc>https://symptomcalm.com/symptoms/joint-pain/bursitis-tcm/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+</urlset>

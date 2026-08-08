@@ -4,19 +4,6 @@
   "note": "每3小时自动生产一篇内容。从队列头部取，完成后移到 published。",
   "queue": [
     {
-      "title": "Bursitis: TCM Patterns Behind Deep, Aching Joint Pain",
-      "path": "/symptoms/joint-pain/bursitis-tcm/",
-      "type": "symptom",
-      "parent": "joint-pain",
-      "estimated_read_time": 8,
-      "keywords": [
-        "bursitis TCM",
-        "bursa inflammation natural support",
-        "shoulder bursitis TCM"
-      ],
-      "id": "567"
-    },
-    {
       "title": "Hyperacusis: When Sound Feels Too Loud — A TCM Perspective",
       "path": "/symptoms/ear-health-tinnitus/hyperacusis-tcm/",
       "type": "symptom",
@@ -7497,6 +7484,19 @@
         "rebound headache caffeine"
       ],
       "id": "566"
+    },
+    {
+      "title": "Bursitis: TCM Patterns Behind Deep, Aching Joint Pain",
+      "path": "/symptoms/joint-pain/bursitis-tcm/",
+      "type": "symptom",
+      "parent": "joint-pain",
+      "estimated_read_time": 8,
+      "keywords": [
+        "bursitis TCM",
+        "bursa inflammation natural support",
+        "shoulder bursitis TCM"
+      ],
+      "id": "567"
     }
   ]
 }
