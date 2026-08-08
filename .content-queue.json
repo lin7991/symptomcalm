@@ -4,19 +4,6 @@
   "note": "每3小时自动生产一篇内容。从队列头部取，完成后移到 published。",
   "queue": [
     {
-      "title": "Caffeine Headaches: The Rebound Effect Through a TCM Lens",
-      "path": "/symptoms/headaches/caffeine-headaches-tcm/",
-      "type": "symptom",
-      "parent": "headaches",
-      "estimated_read_time": 7,
-      "keywords": [
-        "caffeine headache TCM",
-        "coffee withdrawal headache",
-        "rebound headache caffeine"
-      ],
-      "id": "566"
-    },
-    {
       "title": "Bursitis: TCM Patterns Behind Deep, Aching Joint Pain",
       "path": "/symptoms/joint-pain/bursitis-tcm/",
       "type": "symptom",
@@ -54,6 +41,198 @@
         "nausea anxiety TCM"
       ],
       "id": "569"
+    },
+    {
+      "title": "Spring Fatigue: Why You're Drained When Everything Else Is Blooming",
+      "path": "/symptoms/fatigue/spring-fatigue-tcm/",
+      "type": "symptom",
+      "parent": "fatigue",
+      "estimated_read_time": 7,
+      "keywords": [
+        "spring fatigue TCM",
+        "seasonal tiredness spring",
+        "spring energy slump"
+      ],
+      "id": "570"
+    },
+    {
+      "title": "Test Anxiety: Calming the Racing Mind Through a TCM Lens",
+      "path": "/symptoms/anxiety/test-anxiety-tcm/",
+      "type": "symptom",
+      "parent": "anxiety",
+      "estimated_read_time": 7,
+      "keywords": [
+        "test anxiety TCM",
+        "exam nerves natural support",
+        "performance stress TCM"
+      ],
+      "id": "571"
+    },
+    {
+      "title": "Imposter Syndrome: The Inner Critic Through a TCM Lens",
+      "path": "/symptoms/mental-emotional-health/imposter-syndrome-tcm/",
+      "type": "symptom",
+      "parent": "mental-emotional-health",
+      "estimated_read_time": 8,
+      "keywords": [
+        "imposter syndrome TCM",
+        "self doubt TCM",
+        "inner critic liver qi"
+      ],
+      "id": "572"
+    },
+    {
+      "title": "Acne Scars: Supporting Skin Repair with TCM",
+      "path": "/symptoms/skin-conditions/acne-scars-tcm/",
+      "type": "symptom",
+      "parent": "skin-conditions",
+      "estimated_read_time": 7,
+      "keywords": [
+        "acne scars TCM",
+        "post acne marks",
+        "skin repair blood deficiency"
+      ],
+      "id": "573"
+    },
+    {
+      "title": "Tinnitus at Night: Why It Gets Louder When You Lie Down",
+      "path": "/symptoms/ear-health-tinnitus/tinnitus-sleep-tcm/",
+      "type": "symptom",
+      "parent": "ear-health-tinnitus",
+      "estimated_read_time": 7,
+      "keywords": [
+        "tinnitus at night",
+        "tinnitus when lying down",
+        "tinnitus sleep TCM"
+      ],
+      "id": "574"
+    },
+    {
+      "title": "Hypnic Headaches: The Alarm Clock Headache Through a TCM Lens",
+      "path": "/symptoms/headaches/hypnic-headache-tcm/",
+      "type": "symptom",
+      "parent": "headaches",
+      "estimated_read_time": 7,
+      "keywords": [
+        "hypnic headache TCM",
+        "headache at night wake up",
+        "alarm clock headache"
+      ],
+      "id": "575"
+    },
+    {
+      "title": "Pet Allergies: Living with Cats and Dogs Through a TCM Lens",
+      "path": "/symptoms/allergies/pet-allergy-tcm/",
+      "type": "symptom",
+      "parent": "allergies",
+      "estimated_read_time": 7,
+      "keywords": [
+        "pet allergy TCM",
+        "cat allergy natural support",
+        "dog dander TCM"
+      ],
+      "id": "576"
+    },
+    {
+      "title": "Sleep in Later Life: An Insomnia Guide for Older Adults",
+      "path": "/symptoms/insomnia/insomnia-older-adults-tcm/",
+      "type": "symptom",
+      "parent": "insomnia",
+      "estimated_read_time": 7,
+      "keywords": [
+        "insomnia older adults TCM",
+        "aging sleep changes",
+        "elderly sleep support"
+      ],
+      "id": "577"
+    },
+    {
+      "title": "Travel Digestion: Protecting Your Gut on the Road",
+      "path": "/symptoms/digestion/travel-digestion-tcm/",
+      "type": "symptom",
+      "parent": "digestion",
+      "estimated_read_time": 7,
+      "keywords": [
+        "travel digestion TCM",
+        "traveler stomach support",
+        "digestive upset travel"
+      ],
+      "id": "578"
+    },
+    {
+      "title": "Air Quality and Lung Health: A TCM Perspective",
+      "path": "/symptoms/respiratory-health/air-quality-lungs-tcm/",
+      "type": "symptom",
+      "parent": "respiratory-health",
+      "estimated_read_time": 7,
+      "keywords": [
+        "air quality lungs TCM",
+        "pollution lung support",
+        "indoor air lung health"
+      ],
+      "id": "579"
+    },
+    {
+      "title": "Foot Baths for Headaches: A TCM Home Remedy Guide",
+      "path": "/treatments/foot-baths-headaches-tcm/",
+      "type": "treatment",
+      "estimated_read_time": 6,
+      "keywords": [
+        "foot bath headache TCM",
+        "warm foot soak headache",
+        "foot bath remedy"
+      ],
+      "id": "580"
+    },
+    {
+      "title": "Acupressure for Vertigo: Points and Sequences to Try at Home",
+      "path": "/treatments/acupressure-vertigo-tcm/",
+      "type": "treatment",
+      "estimated_read_time": 7,
+      "keywords": [
+        "acupressure vertigo",
+        "dizziness acupressure points",
+        "vertigo TCM points"
+      ],
+      "id": "581"
+    },
+    {
+      "title": "Moxibustion for Arthritis: Warmth Therapy for Aching Joints",
+      "path": "/treatments/moxibustion-arthritis-tcm/",
+      "type": "treatment",
+      "estimated_read_time": 7,
+      "keywords": [
+        "moxibustion arthritis",
+        "moxa joint pain",
+        "heat therapy arthritis TCM"
+      ],
+      "id": "582"
+    },
+    {
+      "title": "Postpartum Hair Thinning: What TCM Says About the Shed",
+      "path": "/symptoms/womens-health/postpartum-hair-thinning-tcm/",
+      "type": "symptom",
+      "parent": "womens-health",
+      "estimated_read_time": 7,
+      "keywords": [
+        "postpartum hair loss TCM",
+        "post pregnancy hair shedding",
+        "hair thinning after baby"
+      ],
+      "id": "583"
+    },
+    {
+      "title": "Iron Deficiency Fatigue: TCM Patterns When Your Energy Drains",
+      "path": "/symptoms/fatigue/iron-deficiency-fatigue-tcm/",
+      "type": "symptom",
+      "parent": "fatigue",
+      "estimated_read_time": 7,
+      "keywords": [
+        "iron deficiency fatigue TCM",
+        "low iron energy TCM",
+        "blood deficiency iron"
+      ],
+      "id": "584"
     }
   ],
   "published": [
@@ -7305,6 +7484,19 @@
         "mugwort menstruation"
       ],
       "id": "565"
+    },
+    {
+      "title": "Caffeine Headaches: The Rebound Effect Through a TCM Lens",
+      "path": "/symptoms/headaches/caffeine-headaches-tcm/",
+      "type": "symptom",
+      "parent": "headaches",
+      "estimated_read_time": 7,
+      "keywords": [
+        "caffeine headache TCM",
+        "coffee withdrawal headache",
+        "rebound headache caffeine"
+      ],
+      "id": "566"
     }
   ]
 }
