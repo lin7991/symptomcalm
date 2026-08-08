@@ -4,19 +4,6 @@
   "note": "每3小时自动生产一篇内容。从队列头部取，完成后移到 published。",
   "queue": [
     {
-      "title": "Tinnitus at Night: Why It Gets Louder When You Lie Down",
-      "path": "/symptoms/ear-health-tinnitus/tinnitus-sleep-tcm/",
-      "type": "symptom",
-      "parent": "ear-health-tinnitus",
-      "estimated_read_time": 7,
-      "keywords": [
-        "tinnitus at night",
-        "tinnitus when lying down",
-        "tinnitus sleep TCM"
-      ],
-      "id": "574"
-    },
-    {
       "title": "Hypnic Headaches: The Alarm Clock Headache Through a TCM Lens",
       "path": "/symptoms/headaches/hypnic-headache-tcm/",
       "type": "symptom",
@@ -7497,6 +7484,19 @@
         "skin repair blood deficiency"
       ],
       "id": "573"
+    },
+    {
+      "title": "Tinnitus at Night: Why It Gets Louder When You Lie Down",
+      "path": "/symptoms/ear-health-tinnitus/tinnitus-sleep-tcm/",
+      "type": "symptom",
+      "parent": "ear-health-tinnitus",
+      "estimated_read_time": 7,
+      "keywords": [
+        "tinnitus at night",
+        "tinnitus when lying down",
+        "tinnitus sleep TCM"
+      ],
+      "id": "574"
     }
   ]
 }
