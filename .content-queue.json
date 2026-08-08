@@ -4,19 +4,6 @@
   "note": "每3小时自动生产一篇内容。从队列头部取，完成后移到 published。",
   "queue": [
     {
-      "title": "Acne Scars: Supporting Skin Repair with TCM",
-      "path": "/symptoms/skin-conditions/acne-scars-tcm/",
-      "type": "symptom",
-      "parent": "skin-conditions",
-      "estimated_read_time": 7,
-      "keywords": [
-        "acne scars TCM",
-        "post acne marks",
-        "skin repair blood deficiency"
-      ],
-      "id": "573"
-    },
-    {
       "title": "Tinnitus at Night: Why It Gets Louder When You Lie Down",
       "path": "/symptoms/ear-health-tinnitus/tinnitus-sleep-tcm/",
       "type": "symptom",
@@ -7497,6 +7484,19 @@
         "inner critic liver qi"
       ],
       "id": "572"
+    },
+    {
+      "title": "Acne Scars: Supporting Skin Repair with TCM",
+      "path": "/symptoms/skin-conditions/acne-scars-tcm/",
+      "type": "symptom",
+      "parent": "skin-conditions",
+      "estimated_read_time": 7,
+      "keywords": [
+        "acne scars TCM",
+        "post acne marks",
+        "skin repair blood deficiency"
+      ],
+      "id": "573"
     }
   ]
 }
