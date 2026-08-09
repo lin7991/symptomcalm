@@ -4,19 +4,6 @@
   "note": "每3小时自动生产一篇内容。从队列头部取，完成后移到 published。",
   "queue": [
     {
-      "title": "Trigger Finger from a TCM Perspective: The Stuck Tendon",
-      "path": "/symptoms/joint-pain/trigger-finger-tcm/",
-      "type": "cluster",
-      "parent": "joint-pain",
-      "estimated_read_time": 7,
-      "keywords": [
-        "trigger finger TCM",
-        "stuck finger tendon",
-        "stenosing tenosynovitis"
-      ],
-      "id": "589"
-    },
-    {
       "title": "Stretch Marks and TCM: Skin Resilience Through the Lens of Qi and Blood",
       "path": "/symptoms/skin-conditions/stretch-marks-tcm/",
       "type": "cluster",
@@ -7679,6 +7666,19 @@
         "stye treatment traditional chinese medicine"
       ],
       "id": "588"
+    },
+    {
+      "title": "Trigger Finger from a TCM Perspective: The Stuck Tendon",
+      "path": "/symptoms/joint-pain/trigger-finger-tcm/",
+      "type": "cluster",
+      "parent": "joint-pain",
+      "estimated_read_time": 7,
+      "keywords": [
+        "trigger finger TCM",
+        "stuck finger tendon",
+        "stenosing tenosynovitis"
+      ],
+      "id": "589"
     }
   ]
 }
