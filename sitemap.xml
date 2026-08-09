@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='utf-8'?>
+<?xml version='1.0' encoding='UTF-8'?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://symptomcalm.com/about/</loc>
@@ -4674,4 +4674,4 @@
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
-</urlset>
+<url><loc>https://symptomcalm.com/zh/symptoms/respiratory-health/air-quality-lungs-tcm/</loc><changefreq>monthly</changefreq><priority>0.5</priority></url></urlset>
