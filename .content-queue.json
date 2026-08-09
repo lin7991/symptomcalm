@@ -4,18 +4,6 @@
   "note": "每3小时自动生产一篇内容。从队列头部取，完成后移到 published。",
   "queue": [
     {
-      "title": "Acupressure for Vertigo: Points and Sequences to Try at Home",
-      "path": "/treatments/acupressure-vertigo-tcm/",
-      "type": "treatment",
-      "estimated_read_time": 7,
-      "keywords": [
-        "acupressure vertigo",
-        "dizziness acupressure points",
-        "vertigo TCM points"
-      ],
-      "id": "581"
-    },
-    {
       "title": "Moxibustion for Arthritis: Warmth Therapy for Aching Joints",
       "path": "/treatments/moxibustion-arthritis-tcm/",
       "type": "treatment",
@@ -52,6 +40,201 @@
         "blood deficiency iron"
       ],
       "id": "584"
+    },
+    {
+      "title": "Osteoporosis and Back Pain: A TCM Perspective on Bone Health",
+      "path": "/symptoms/back-pain/osteoporosis-back-pain-tcm/",
+      "type": "cluster",
+      "parent": "back-pain",
+      "estimated_read_time": 8,
+      "keywords": [
+        "osteoporosis TCM",
+        "bone health traditional chinese medicine",
+        "osteoporosis back pain"
+      ],
+      "id": "585"
+    },
+    {
+      "title": "Hunger Headaches: When Low Blood Sugar Meets TCM",
+      "path": "/symptoms/headaches/hunger-headache-tcm/",
+      "type": "cluster",
+      "parent": "headaches",
+      "estimated_read_time": 7,
+      "keywords": [
+        "hunger headache TCM",
+        "low blood sugar headache",
+        "skipped meal headache"
+      ],
+      "id": "586"
+    },
+    {
+      "title": "Hangover Headaches: A TCM Guide to the Morning After",
+      "path": "/symptoms/headaches/hangover-headache-tcm/",
+      "type": "cluster",
+      "parent": "headaches",
+      "estimated_read_time": 7,
+      "keywords": [
+        "hangover headache TCM",
+        "alcohol headache remedy",
+        "TCM hangover"
+      ],
+      "id": "587"
+    },
+    {
+      "title": "Stye Relief with TCM: Understanding the Eyelid Bump",
+      "path": "/symptoms/eye-health/stye-tcm/",
+      "type": "cluster",
+      "parent": "eye-health",
+      "estimated_read_time": 7,
+      "keywords": [
+        "stye TCM",
+        "eyelid bump remedy",
+        "stye treatment traditional chinese medicine"
+      ],
+      "id": "588"
+    },
+    {
+      "title": "Trigger Finger from a TCM Perspective: The Stuck Tendon",
+      "path": "/symptoms/joint-pain/trigger-finger-tcm/",
+      "type": "cluster",
+      "parent": "joint-pain",
+      "estimated_read_time": 7,
+      "keywords": [
+        "trigger finger TCM",
+        "stuck finger tendon",
+        "stenosing tenosynovitis"
+      ],
+      "id": "589"
+    },
+    {
+      "title": "Stretch Marks and TCM: Skin Resilience Through the Lens of Qi and Blood",
+      "path": "/symptoms/skin-conditions/stretch-marks-tcm/",
+      "type": "cluster",
+      "parent": "skin-conditions",
+      "estimated_read_time": 7,
+      "keywords": [
+        "stretch marks TCM",
+        "striae traditional chinese medicine",
+        "skin resilience"
+      ],
+      "id": "590"
+    },
+    {
+      "title": "Age Spots and Liver Health: A TCM View of Pigmentation",
+      "path": "/symptoms/skin-conditions/age-spots-tcm/",
+      "type": "cluster",
+      "parent": "skin-conditions",
+      "estimated_read_time": 7,
+      "keywords": [
+        "age spots TCM",
+        "liver spots traditional chinese medicine",
+        "skin pigmentation"
+      ],
+      "id": "591"
+    },
+    {
+      "title": "Canker Sores from a TCM Perspective: Mouth Ulcers and Internal Heat",
+      "path": "/symptoms/digestion/canker-sores-tcm/",
+      "type": "cluster",
+      "parent": "digestion",
+      "estimated_read_time": 7,
+      "keywords": [
+        "canker sore TCM",
+        "mouth ulcer traditional chinese medicine",
+        "aphthous ulcer"
+      ],
+      "id": "592"
+    },
+    {
+      "title": "Teeth Grinding and TCM: Bruxism Through the Lens of Liver and Shen",
+      "path": "/symptoms/insomnia/teeth-grinding-tcm/",
+      "type": "cluster",
+      "parent": "insomnia",
+      "estimated_read_time": 7,
+      "keywords": [
+        "teeth grinding TCM",
+        "bruxism traditional chinese medicine",
+        "jaw clenching"
+      ],
+      "id": "593"
+    },
+    {
+      "title": "Snoring from a TCM Perspective: When the Breath Gets Blocked",
+      "path": "/symptoms/insomnia/snoring-tcm/",
+      "type": "cluster",
+      "parent": "insomnia",
+      "estimated_read_time": 7,
+      "keywords": [
+        "snoring TCM",
+        "snoring traditional chinese medicine",
+        "sleep breathing"
+      ],
+      "id": "594"
+    },
+    {
+      "title": "Cold Hands and Feet: A TCM Guide to Warming Your Extremities",
+      "path": "/symptoms/fatigue/cold-hands-feet-tcm/",
+      "type": "cluster",
+      "parent": "fatigue",
+      "estimated_read_time": 7,
+      "keywords": [
+        "cold hands and feet TCM",
+        "cold extremities traditional chinese medicine",
+        "yang deficiency cold"
+      ],
+      "id": "595"
+    },
+    {
+      "title": "Urinary Incontinence from a TCM Perspective: The Bladder's Holding Power",
+      "path": "/symptoms/womens-health/urinary-incontinence-tcm/",
+      "type": "cluster",
+      "parent": "womens-health",
+      "estimated_read_time": 7,
+      "keywords": [
+        "urinary incontinence TCM",
+        "bladder control traditional chinese medicine",
+        "leakage"
+      ],
+      "id": "596"
+    },
+    {
+      "title": "Dry Brushing and TCM: Supporting the Lymphatic Highway",
+      "path": "/treatments/dry-brushing-tcm/",
+      "type": "treatment",
+      "parent": "treatments",
+      "estimated_read_time": 6,
+      "keywords": [
+        "dry brushing TCM",
+        "lymphatic dry brush",
+        "skin brushing"
+      ],
+      "id": "597"
+    },
+    {
+      "title": "Steam Therapy in TCM: A Breath of Warmth for Lungs and Skin",
+      "path": "/treatments/steam-therapy-tcm/",
+      "type": "treatment",
+      "parent": "treatments",
+      "estimated_read_time": 6,
+      "keywords": [
+        "steam therapy TCM",
+        "facial steam traditional chinese medicine",
+        "respiratory steam"
+      ],
+      "id": "598"
+    },
+    {
+      "title": "The Eight Principles in TCM: TCM's Diagnostic Compass",
+      "path": "/tcm-basics/eight-principles-tcm/",
+      "type": "tcm-basics",
+      "parent": "tcm-basics",
+      "estimated_read_time": 7,
+      "keywords": [
+        "eight principles TCM",
+        "ba gang",
+        "tcm diagnosis framework"
+      ],
+      "id": "599"
     }
   ],
   "published": [
@@ -7484,6 +7667,18 @@
         "foot bath remedy"
       ],
       "id": "580"
+    },
+    {
+      "title": "Acupressure for Vertigo: Points and Sequences to Try at Home",
+      "path": "/treatments/acupressure-vertigo-tcm/",
+      "type": "treatment",
+      "estimated_read_time": 7,
+      "keywords": [
+        "acupressure vertigo",
+        "dizziness acupressure points",
+        "vertigo TCM points"
+      ],
+      "id": "581"
     }
   ]
 }
