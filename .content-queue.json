@@ -4,19 +4,6 @@
   "note": "每3小时自动生产一篇内容。从队列头部取，完成后移到 published。",
   "queue": [
     {
-      "title": "Air Quality and Lung Health: A TCM Perspective",
-      "path": "/symptoms/respiratory-health/air-quality-lungs-tcm/",
-      "type": "symptom",
-      "parent": "respiratory-health",
-      "estimated_read_time": 7,
-      "keywords": [
-        "air quality lungs TCM",
-        "pollution lung support",
-        "indoor air lung health"
-      ],
-      "id": "579"
-    },
-    {
       "title": "Foot Baths for Headaches: A TCM Home Remedy Guide",
       "path": "/treatments/foot-baths-headaches-tcm/",
       "type": "treatment",
@@ -7484,6 +7471,19 @@
         "digestive upset travel"
       ],
       "id": "578"
+    },
+    {
+      "title": "Air Quality and Lung Health: A TCM Perspective",
+      "path": "/symptoms/respiratory-health/air-quality-lungs-tcm/",
+      "type": "symptom",
+      "parent": "respiratory-health",
+      "estimated_read_time": 7,
+      "keywords": [
+        "air quality lungs TCM",
+        "pollution lung support",
+        "indoor air lung health"
+      ],
+      "id": "579"
     }
   ]
 }
