@@ -4,18 +4,6 @@
   "note": "每3小时自动生产一篇内容。从队列头部取，完成后移到 published。",
   "queue": [
     {
-      "title": "Foot Baths for Headaches: A TCM Home Remedy Guide",
-      "path": "/treatments/foot-baths-headaches-tcm/",
-      "type": "treatment",
-      "estimated_read_time": 6,
-      "keywords": [
-        "foot bath headache TCM",
-        "warm foot soak headache",
-        "foot bath remedy"
-      ],
-      "id": "580"
-    },
-    {
       "title": "Acupressure for Vertigo: Points and Sequences to Try at Home",
       "path": "/treatments/acupressure-vertigo-tcm/",
       "type": "treatment",
@@ -7484,6 +7472,18 @@
         "indoor air lung health"
       ],
       "id": "579"
+    },
+    {
+      "title": "Foot Baths for Headaches: A TCM Home Remedy Guide",
+      "path": "/treatments/foot-baths-headaches-tcm/",
+      "type": "treatment",
+      "estimated_read_time": 6,
+      "keywords": [
+        "foot bath headache TCM",
+        "warm foot soak headache",
+        "foot bath remedy"
+      ],
+      "id": "580"
     }
   ]
 }
