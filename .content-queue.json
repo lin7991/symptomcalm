@@ -4,19 +4,6 @@
   "note": "每3小时自动生产一篇内容。从队列头部取，完成后移到 published。",
   "queue": [
     {
-      "title": "Hunger Headaches: When Low Blood Sugar Meets TCM",
-      "path": "/symptoms/headaches/hunger-headache-tcm/",
-      "type": "cluster",
-      "parent": "headaches",
-      "estimated_read_time": 7,
-      "keywords": [
-        "hunger headache TCM",
-        "low blood sugar headache",
-        "skipped meal headache"
-      ],
-      "id": "586"
-    },
-    {
       "title": "Hangover Headaches: A TCM Guide to the Morning After",
       "path": "/symptoms/headaches/hangover-headache-tcm/",
       "type": "cluster",
@@ -7679,6 +7666,19 @@
         "osteoporosis back pain"
       ],
       "id": "585"
+    },
+    {
+      "title": "Hunger Headaches: When Low Blood Sugar Meets TCM",
+      "path": "/symptoms/headaches/hunger-headache-tcm/",
+      "type": "cluster",
+      "parent": "headaches",
+      "estimated_read_time": 7,
+      "keywords": [
+        "hunger headache TCM",
+        "low blood sugar headache",
+        "skipped meal headache"
+      ],
+      "id": "586"
     }
   ]
 }
