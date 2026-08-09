@@ -4,19 +4,6 @@
   "note": "每3小时自动生产一篇内容。从队列头部取，完成后移到 published。",
   "queue": [
     {
-      "title": "Travel Digestion: Protecting Your Gut on the Road",
-      "path": "/symptoms/digestion/travel-digestion-tcm/",
-      "type": "symptom",
-      "parent": "digestion",
-      "estimated_read_time": 7,
-      "keywords": [
-        "travel digestion TCM",
-        "traveler stomach support",
-        "digestive upset travel"
-      ],
-      "id": "578"
-    },
-    {
       "title": "Air Quality and Lung Health: A TCM Perspective",
       "path": "/symptoms/respiratory-health/air-quality-lungs-tcm/",
       "type": "symptom",
@@ -7484,6 +7471,19 @@
         "elderly sleep support"
       ],
       "id": "577"
+    },
+    {
+      "title": "Travel Digestion: Protecting Your Gut on the Road",
+      "path": "/symptoms/digestion/travel-digestion-tcm/",
+      "type": "symptom",
+      "parent": "digestion",
+      "estimated_read_time": 7,
+      "keywords": [
+        "travel digestion TCM",
+        "traveler stomach support",
+        "digestive upset travel"
+      ],
+      "id": "578"
     }
   ]
 }
