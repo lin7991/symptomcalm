@@ -4,19 +4,6 @@
   "note": "每3小时自动生产一篇内容。从队列头部取，完成后移到 published。",
   "queue": [
     {
-      "title": "Hangover Headaches: A TCM Guide to the Morning After",
-      "path": "/symptoms/headaches/hangover-headache-tcm/",
-      "type": "cluster",
-      "parent": "headaches",
-      "estimated_read_time": 7,
-      "keywords": [
-        "hangover headache TCM",
-        "alcohol headache remedy",
-        "TCM hangover"
-      ],
-      "id": "587"
-    },
-    {
       "title": "Stye Relief with TCM: Understanding the Eyelid Bump",
       "path": "/symptoms/eye-health/stye-tcm/",
       "type": "cluster",
@@ -7679,6 +7666,19 @@
         "skipped meal headache"
       ],
       "id": "586"
+    },
+    {
+      "title": "Hangover Headaches: A TCM Guide to the Morning After",
+      "path": "/symptoms/headaches/hangover-headache-tcm/",
+      "type": "cluster",
+      "parent": "headaches",
+      "estimated_read_time": 7,
+      "keywords": [
+        "hangover headache TCM",
+        "alcohol headache remedy",
+        "TCM hangover"
+      ],
+      "id": "587"
     }
   ]
 }
