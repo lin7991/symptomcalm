@@ -4,19 +4,6 @@
   "note": "每3小时自动生产一篇内容。从队列头部取，完成后移到 published。",
   "queue": [
     {
-      "title": "Postpartum Hair Thinning: What TCM Says About the Shed",
-      "path": "/symptoms/womens-health/postpartum-hair-thinning-tcm/",
-      "type": "symptom",
-      "parent": "womens-health",
-      "estimated_read_time": 7,
-      "keywords": [
-        "postpartum hair loss TCM",
-        "post pregnancy hair shedding",
-        "hair thinning after baby"
-      ],
-      "id": "583"
-    },
-    {
       "title": "Iron Deficiency Fatigue: TCM Patterns When Your Energy Drains",
       "path": "/symptoms/fatigue/iron-deficiency-fatigue-tcm/",
       "type": "symptom",
@@ -7679,6 +7666,19 @@
         "heat therapy arthritis TCM"
       ],
       "id": "582"
+    },
+    {
+      "title": "Postpartum Hair Thinning: What TCM Says About the Shed",
+      "path": "/symptoms/womens-health/postpartum-hair-thinning-tcm/",
+      "type": "symptom",
+      "parent": "womens-health",
+      "estimated_read_time": 7,
+      "keywords": [
+        "postpartum hair loss TCM",
+        "post pregnancy hair shedding",
+        "hair thinning after baby"
+      ],
+      "id": "583"
     }
   ]
 }
