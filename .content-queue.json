@@ -4,19 +4,6 @@
   "note": "每3小时自动生产一篇内容。从队列头部取，完成后移到 published。",
   "queue": [
     {
-      "title": "Stye Relief with TCM: Understanding the Eyelid Bump",
-      "path": "/symptoms/eye-health/stye-tcm/",
-      "type": "cluster",
-      "parent": "eye-health",
-      "estimated_read_time": 7,
-      "keywords": [
-        "stye TCM",
-        "eyelid bump remedy",
-        "stye treatment traditional chinese medicine"
-      ],
-      "id": "588"
-    },
-    {
       "title": "Trigger Finger from a TCM Perspective: The Stuck Tendon",
       "path": "/symptoms/joint-pain/trigger-finger-tcm/",
       "type": "cluster",
@@ -7679,6 +7666,19 @@
         "TCM hangover"
       ],
       "id": "587"
+    },
+    {
+      "title": "Stye Relief with TCM: Understanding the Eyelid Bump",
+      "path": "/symptoms/eye-health/stye-tcm/",
+      "type": "cluster",
+      "parent": "eye-health",
+      "estimated_read_time": 7,
+      "keywords": [
+        "stye TCM",
+        "eyelid bump remedy",
+        "stye treatment traditional chinese medicine"
+      ],
+      "id": "588"
     }
   ]
 }
