@@ -4,18 +4,6 @@
   "note": "每3小时自动生产一篇内容。从队列头部取，完成后移到 published。",
   "queue": [
     {
-      "title": "Moxibustion for Arthritis: Warmth Therapy for Aching Joints",
-      "path": "/treatments/moxibustion-arthritis-tcm/",
-      "type": "treatment",
-      "estimated_read_time": 7,
-      "keywords": [
-        "moxibustion arthritis",
-        "moxa joint pain",
-        "heat therapy arthritis TCM"
-      ],
-      "id": "582"
-    },
-    {
       "title": "Postpartum Hair Thinning: What TCM Says About the Shed",
       "path": "/symptoms/womens-health/postpartum-hair-thinning-tcm/",
       "type": "symptom",
@@ -7679,6 +7667,18 @@
         "vertigo TCM points"
       ],
       "id": "581"
+    },
+    {
+      "title": "Moxibustion for Arthritis: Warmth Therapy for Aching Joints",
+      "path": "/treatments/moxibustion-arthritis-tcm/",
+      "type": "treatment",
+      "estimated_read_time": 7,
+      "keywords": [
+        "moxibustion arthritis",
+        "moxa joint pain",
+        "heat therapy arthritis TCM"
+      ],
+      "id": "582"
     }
   ]
 }
