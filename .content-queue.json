@@ -4,19 +4,6 @@
   "note": "每3小时自动生产一篇内容。从队列头部取，完成后移到 published。",
   "queue": [
     {
-      "title": "The Eight Principles in TCM: TCM's Diagnostic Compass",
-      "path": "/tcm-basics/eight-principles-tcm/",
-      "type": "tcm-basics",
-      "parent": "tcm-basics",
-      "estimated_read_time": 7,
-      "keywords": [
-        "eight principles TCM",
-        "ba gang",
-        "tcm diagnosis framework"
-      ],
-      "id": "599"
-    },
-    {
       "title": "Macular Degeneration: A TCM Perspective on Aging Vision",
       "path": "/symptoms/eye-health/macular-degeneration-tcm/",
       "type": "cluster",
@@ -7874,6 +7861,19 @@
         "respiratory steam"
       ],
       "id": "598"
+    },
+    {
+      "title": "The Eight Principles in TCM: TCM's Diagnostic Compass",
+      "path": "/tcm-basics/eight-principles-tcm/",
+      "type": "tcm-basics",
+      "parent": "tcm-basics",
+      "estimated_read_time": 7,
+      "keywords": [
+        "eight principles TCM",
+        "ba gang",
+        "tcm diagnosis framework"
+      ],
+      "id": "599"
     }
   ]
 }
