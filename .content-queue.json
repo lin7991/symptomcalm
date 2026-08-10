@@ -4,19 +4,6 @@
   "note": "每3小时自动生产一篇内容。从队列头部取，完成后移到 published。",
   "queue": [
     {
-      "title": "Steam Therapy in TCM: A Breath of Warmth for Lungs and Skin",
-      "path": "/treatments/steam-therapy-tcm/",
-      "type": "treatment",
-      "parent": "treatments",
-      "estimated_read_time": 6,
-      "keywords": [
-        "steam therapy TCM",
-        "facial steam traditional chinese medicine",
-        "respiratory steam"
-      ],
-      "id": "598"
-    },
-    {
       "title": "The Eight Principles in TCM: TCM's Diagnostic Compass",
       "path": "/tcm-basics/eight-principles-tcm/",
       "type": "tcm-basics",
@@ -7874,6 +7861,19 @@
         "skin brushing"
       ],
       "id": "597"
+    },
+    {
+      "title": "Steam Therapy in TCM: A Breath of Warmth for Lungs and Skin",
+      "path": "/treatments/steam-therapy-tcm/",
+      "type": "treatment",
+      "parent": "treatments",
+      "estimated_read_time": 6,
+      "keywords": [
+        "steam therapy TCM",
+        "facial steam traditional chinese medicine",
+        "respiratory steam"
+      ],
+      "id": "598"
     }
   ]
 }
