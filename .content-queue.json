@@ -4,19 +4,6 @@
   "note": "每3小时自动生产一篇内容。从队列头部取，完成后移到 published。",
   "queue": [
     {
-      "title": "Cold Hands and Feet: A TCM Guide to Warming Your Extremities",
-      "path": "/symptoms/fatigue/cold-hands-feet-tcm/",
-      "type": "cluster",
-      "parent": "fatigue",
-      "estimated_read_time": 7,
-      "keywords": [
-        "cold hands and feet TCM",
-        "cold extremities traditional chinese medicine",
-        "yang deficiency cold"
-      ],
-      "id": "595"
-    },
-    {
       "title": "Urinary Incontinence from a TCM Perspective: The Bladder's Holding Power",
       "path": "/symptoms/womens-health/urinary-incontinence-tcm/",
       "type": "cluster",
@@ -7679,6 +7666,19 @@
         "sleep breathing"
       ],
       "id": "594"
+    },
+    {
+      "title": "Cold Hands and Feet: A TCM Guide to Warming Your Extremities",
+      "path": "/symptoms/fatigue/cold-hands-feet-tcm/",
+      "type": "cluster",
+      "parent": "fatigue",
+      "estimated_read_time": 7,
+      "keywords": [
+        "cold hands and feet TCM",
+        "cold extremities traditional chinese medicine",
+        "yang deficiency cold"
+      ],
+      "id": "595"
     }
   ]
 }
