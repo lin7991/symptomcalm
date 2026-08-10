@@ -4,19 +4,6 @@
   "note": "每3小时自动生产一篇内容。从队列头部取，完成后移到 published。",
   "queue": [
     {
-      "title": "Teeth Grinding and TCM: Bruxism Through the Lens of Liver and Shen",
-      "path": "/symptoms/insomnia/teeth-grinding-tcm/",
-      "type": "cluster",
-      "parent": "insomnia",
-      "estimated_read_time": 7,
-      "keywords": [
-        "teeth grinding TCM",
-        "bruxism traditional chinese medicine",
-        "jaw clenching"
-      ],
-      "id": "593"
-    },
-    {
       "title": "Snoring from a TCM Perspective: When the Breath Gets Blocked",
       "path": "/symptoms/insomnia/snoring-tcm/",
       "type": "cluster",
@@ -7679,6 +7666,19 @@
         "aphthous ulcer"
       ],
       "id": "592"
+    },
+    {
+      "title": "Teeth Grinding and TCM: Bruxism Through the Lens of Liver and Shen",
+      "path": "/symptoms/insomnia/teeth-grinding-tcm/",
+      "type": "cluster",
+      "parent": "insomnia",
+      "estimated_read_time": 7,
+      "keywords": [
+        "teeth grinding TCM",
+        "bruxism traditional chinese medicine",
+        "jaw clenching"
+      ],
+      "id": "593"
     }
   ]
 }
