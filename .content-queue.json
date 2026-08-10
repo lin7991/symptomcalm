@@ -4,19 +4,6 @@
   "note": "每3小时自动生产一篇内容。从队列头部取，完成后移到 published。",
   "queue": [
     {
-      "title": "Canker Sores from a TCM Perspective: Mouth Ulcers and Internal Heat",
-      "path": "/symptoms/digestion/canker-sores-tcm/",
-      "type": "cluster",
-      "parent": "digestion",
-      "estimated_read_time": 7,
-      "keywords": [
-        "canker sore TCM",
-        "mouth ulcer traditional chinese medicine",
-        "aphthous ulcer"
-      ],
-      "id": "592"
-    },
-    {
       "title": "Teeth Grinding and TCM: Bruxism Through the Lens of Liver and Shen",
       "path": "/symptoms/insomnia/teeth-grinding-tcm/",
       "type": "cluster",
@@ -7679,6 +7666,19 @@
         "skin pigmentation"
       ],
       "id": "591"
+    },
+    {
+      "title": "Canker Sores from a TCM Perspective: Mouth Ulcers and Internal Heat",
+      "path": "/symptoms/digestion/canker-sores-tcm/",
+      "type": "cluster",
+      "parent": "digestion",
+      "estimated_read_time": 7,
+      "keywords": [
+        "canker sore TCM",
+        "mouth ulcer traditional chinese medicine",
+        "aphthous ulcer"
+      ],
+      "id": "592"
     }
   ]
 }
