@@ -4,19 +4,6 @@
   "note": "每3小时自动生产一篇内容。从队列头部取，完成后移到 published。",
   "queue": [
     {
-      "title": "Macular Degeneration: A TCM Perspective on Aging Vision",
-      "path": "/symptoms/eye-health/macular-degeneration-tcm/",
-      "type": "cluster",
-      "parent": "eye-health",
-      "estimated_read_time": 8,
-      "keywords": [
-        "macular degeneration",
-        "TCM vision",
-        "liver blood vision"
-      ],
-      "id": "600"
-    },
-    {
       "title": "Pregnancy Nausea and TCM: Morning Sickness Patterns and Support",
       "path": "/symptoms/womens-health/pregnancy-nausea-tcm/",
       "type": "cluster",
@@ -7874,6 +7861,19 @@
         "tcm diagnosis framework"
       ],
       "id": "599"
+    },
+    {
+      "title": "Macular Degeneration: A TCM Perspective on Aging Vision",
+      "path": "/symptoms/eye-health/macular-degeneration-tcm/",
+      "type": "cluster",
+      "parent": "eye-health",
+      "estimated_read_time": 8,
+      "keywords": [
+        "macular degeneration",
+        "TCM vision",
+        "liver blood vision"
+      ],
+      "id": "600"
     }
   ]
 }
