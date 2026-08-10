@@ -4,19 +4,6 @@
   "note": "每3小时自动生产一篇内容。从队列头部取，完成后移到 published。",
   "queue": [
     {
-      "title": "Snoring from a TCM Perspective: When the Breath Gets Blocked",
-      "path": "/symptoms/insomnia/snoring-tcm/",
-      "type": "cluster",
-      "parent": "insomnia",
-      "estimated_read_time": 7,
-      "keywords": [
-        "snoring TCM",
-        "snoring traditional chinese medicine",
-        "sleep breathing"
-      ],
-      "id": "594"
-    },
-    {
       "title": "Cold Hands and Feet: A TCM Guide to Warming Your Extremities",
       "path": "/symptoms/fatigue/cold-hands-feet-tcm/",
       "type": "cluster",
@@ -7679,6 +7666,19 @@
         "jaw clenching"
       ],
       "id": "593"
+    },
+    {
+      "title": "Snoring from a TCM Perspective: When the Breath Gets Blocked",
+      "path": "/symptoms/insomnia/snoring-tcm/",
+      "type": "cluster",
+      "parent": "insomnia",
+      "estimated_read_time": 7,
+      "keywords": [
+        "snoring TCM",
+        "snoring traditional chinese medicine",
+        "sleep breathing"
+      ],
+      "id": "594"
     }
   ]
 }
