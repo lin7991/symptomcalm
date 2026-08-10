@@ -4,19 +4,6 @@
   "note": "每3小时自动生产一篇内容。从队列头部取，完成后移到 published。",
   "queue": [
     {
-      "title": "Urinary Incontinence from a TCM Perspective: The Bladder's Holding Power",
-      "path": "/symptoms/womens-health/urinary-incontinence-tcm/",
-      "type": "cluster",
-      "parent": "womens-health",
-      "estimated_read_time": 7,
-      "keywords": [
-        "urinary incontinence TCM",
-        "bladder control traditional chinese medicine",
-        "leakage"
-      ],
-      "id": "596"
-    },
-    {
       "title": "Dry Brushing and TCM: Supporting the Lymphatic Highway",
       "path": "/treatments/dry-brushing-tcm/",
       "type": "treatment",
@@ -54,6 +41,201 @@
         "tcm diagnosis framework"
       ],
       "id": "599"
+    },
+    {
+      "title": "Macular Degeneration: A TCM Perspective on Aging Vision",
+      "path": "/symptoms/eye-health/macular-degeneration-tcm/",
+      "type": "cluster",
+      "parent": "eye-health",
+      "estimated_read_time": 8,
+      "keywords": [
+        "macular degeneration",
+        "TCM vision",
+        "liver blood vision"
+      ],
+      "id": "600"
+    },
+    {
+      "title": "Pregnancy Nausea and TCM: Morning Sickness Patterns and Support",
+      "path": "/symptoms/womens-health/pregnancy-nausea-tcm/",
+      "type": "cluster",
+      "parent": "womens-health",
+      "estimated_read_time": 7,
+      "keywords": [
+        "pregnancy nausea",
+        "morning sickness TCM",
+        "stomach qi"
+      ],
+      "id": "601"
+    },
+    {
+      "title": "Warts and TCM: Understanding Skin Growths from a Chinese Medicine View",
+      "path": "/symptoms/skin-conditions/warts-tcm/",
+      "type": "cluster",
+      "parent": "skin-conditions",
+      "estimated_read_time": 6,
+      "keywords": [
+        "warts TCM",
+        "skin growths",
+        "dampness skin"
+      ],
+      "id": "602"
+    },
+    {
+      "title": "Keloid Scars and TCM: Blood Stasis and Scar Tissue",
+      "path": "/symptoms/skin-conditions/keloid-tcm/",
+      "type": "cluster",
+      "parent": "skin-conditions",
+      "estimated_read_time": 6,
+      "keywords": [
+        "keloid TCM",
+        "scar tissue",
+        "blood stasis"
+      ],
+      "id": "603"
+    },
+    {
+      "title": "Brittle Nails and TCM: What Your Nails Say About Liver Blood",
+      "path": "/symptoms/skin-conditions/brittle-nails-tcm/",
+      "type": "cluster",
+      "parent": "skin-conditions",
+      "estimated_read_time": 6,
+      "keywords": [
+        "brittle nails TCM",
+        "liver blood nails",
+        "nail health"
+      ],
+      "id": "604"
+    },
+    {
+      "title": "Hyperpigmentation and TCM: Dark Spots, Blood Stasis, and Skin Tone",
+      "path": "/symptoms/skin-conditions/hyperpigmentation-tcm/",
+      "type": "cluster",
+      "parent": "skin-conditions",
+      "estimated_read_time": 7,
+      "keywords": [
+        "hyperpigmentation TCM",
+        "dark spots",
+        "melasma general"
+      ],
+      "id": "605"
+    },
+    {
+      "title": "H. pylori and TCM: Digestive Patterns Linked to the Bacteria",
+      "path": "/symptoms/digestion/h-pylori-tcm/",
+      "type": "cluster",
+      "parent": "digestion",
+      "estimated_read_time": 7,
+      "keywords": [
+        "h pylori TCM",
+        "stomach bacteria",
+        "digestive patterns"
+      ],
+      "id": "606"
+    },
+    {
+      "title": "Food Sensitivity and TCM: When Your Gut Flags Certain Foods",
+      "path": "/symptoms/digestion/food-sensitivity-tcm/",
+      "type": "cluster",
+      "parent": "digestion",
+      "estimated_read_time": 7,
+      "keywords": [
+        "food sensitivity TCM",
+        "spleen qi digestion",
+        "food intolerance"
+      ],
+      "id": "607"
+    },
+    {
+      "title": "COPD and TCM: Supporting Breathing with Lung and Kidney Patterns",
+      "path": "/symptoms/respiratory-health/copd-tcm/",
+      "type": "cluster",
+      "parent": "respiratory-health",
+      "estimated_read_time": 8,
+      "keywords": [
+        "COPD TCM",
+        "lung qi breathing",
+        "kidney grasping qi"
+      ],
+      "id": "608"
+    },
+    {
+      "title": "Jealousy and TCM: The Liver's Role in Envy and Comparison",
+      "path": "/symptoms/mental-emotional-health/jealousy-tcm/",
+      "type": "cluster",
+      "parent": "mental-emotional-health",
+      "estimated_read_time": 7,
+      "keywords": [
+        "jealousy TCM",
+        "liver emotion",
+        "envy"
+      ],
+      "id": "609"
+    },
+    {
+      "title": "Guilt and TCM: Processing Shame Through Heart and Spleen",
+      "path": "/symptoms/mental-emotional-health/guilt-tcm/",
+      "type": "cluster",
+      "parent": "mental-emotional-health",
+      "estimated_read_time": 7,
+      "keywords": [
+        "guilt TCM",
+        "shame emotion",
+        "heart shen"
+      ],
+      "id": "610"
+    },
+    {
+      "title": "Procrastination and TCM: Why You Delay and How to Move",
+      "path": "/symptoms/mental-emotional-health/procrastination-tcm/",
+      "type": "cluster",
+      "parent": "mental-emotional-health",
+      "estimated_read_time": 7,
+      "keywords": [
+        "procrastination TCM",
+        "spleen yi",
+        "motivation"
+      ],
+      "id": "611"
+    },
+    {
+      "title": "Impacted Earwax and TCM: Ear Blockage from a Chinese Medicine View",
+      "path": "/symptoms/ear-health-tinnitus/earwax-impacted-tcm/",
+      "type": "cluster",
+      "parent": "ear-health-tinnitus",
+      "estimated_read_time": 6,
+      "keywords": [
+        "impacted earwax TCM",
+        "ear blockage",
+        "ear care"
+      ],
+      "id": "612"
+    },
+    {
+      "title": "Chronic Daily Headache and TCM: When Head Pain Becomes Constant",
+      "path": "/symptoms/headaches/daily-chronic-headache-tcm/",
+      "type": "cluster",
+      "parent": "headaches",
+      "estimated_read_time": 7,
+      "keywords": [
+        "chronic daily headache TCM",
+        "constant headache",
+        "headache patterns"
+      ],
+      "id": "613"
+    },
+    {
+      "title": "Breathing Exercises for Anxiety: A TCM Approach to Calming Breath",
+      "path": "/treatments/breathing-exercises-anxiety-tcm/",
+      "type": "treatment",
+      "parent": "treatments",
+      "estimated_read_time": 7,
+      "keywords": [
+        "breathing anxiety TCM",
+        "qigong breath",
+        "calming breath"
+      ],
+      "id": "614"
     }
   ],
   "published": [
@@ -7679,6 +7861,19 @@
         "yang deficiency cold"
       ],
       "id": "595"
+    },
+    {
+      "title": "Urinary Incontinence from a TCM Perspective: The Bladder's Holding Power",
+      "path": "/symptoms/womens-health/urinary-incontinence-tcm/",
+      "type": "cluster",
+      "parent": "womens-health",
+      "estimated_read_time": 7,
+      "keywords": [
+        "urinary incontinence TCM",
+        "bladder control traditional chinese medicine",
+        "leakage"
+      ],
+      "id": "596"
     }
   ]
 }
