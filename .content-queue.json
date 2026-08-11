@@ -4,19 +4,6 @@
   "note": "每3小时自动生产一篇内容。从队列头部取，完成后移到 published。",
   "queue": [
     {
-      "title": "Brittle Nails and TCM: What Your Nails Say About Liver Blood",
-      "path": "/symptoms/skin-conditions/brittle-nails-tcm/",
-      "type": "cluster",
-      "parent": "skin-conditions",
-      "estimated_read_time": 6,
-      "keywords": [
-        "brittle nails TCM",
-        "liver blood nails",
-        "nail health"
-      ],
-      "id": "604"
-    },
-    {
       "title": "Hyperpigmentation and TCM: Dark Spots, Blood Stasis, and Skin Tone",
       "path": "/symptoms/skin-conditions/hyperpigmentation-tcm/",
       "type": "cluster",
@@ -7861,6 +7848,19 @@
         "blood stasis"
       ],
       "id": "603"
+    },
+    {
+      "title": "Brittle Nails and TCM: What Your Nails Say About Liver Blood",
+      "path": "/symptoms/skin-conditions/brittle-nails-tcm/",
+      "type": "cluster",
+      "parent": "skin-conditions",
+      "estimated_read_time": 6,
+      "keywords": [
+        "brittle nails TCM",
+        "liver blood nails",
+        "nail health"
+      ],
+      "id": "604"
     }
   ]
 }
