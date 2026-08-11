@@ -4,19 +4,6 @@
   "note": "每3小时自动生产一篇内容。从队列头部取，完成后移到 published。",
   "queue": [
     {
-      "title": "Procrastination and TCM: Why You Delay and How to Move",
-      "path": "/symptoms/mental-emotional-health/procrastination-tcm/",
-      "type": "cluster",
-      "parent": "mental-emotional-health",
-      "estimated_read_time": 7,
-      "keywords": [
-        "procrastination TCM",
-        "spleen yi",
-        "motivation"
-      ],
-      "id": "611"
-    },
-    {
       "title": "Impacted Earwax and TCM: Ear Blockage from a Chinese Medicine View",
       "path": "/symptoms/ear-health-tinnitus/earwax-impacted-tcm/",
       "type": "cluster",
@@ -8052,6 +8039,19 @@
         "heart shen"
       ],
       "id": "610"
+    },
+    {
+      "title": "Procrastination and TCM: Why You Delay and How to Move",
+      "path": "/symptoms/mental-emotional-health/procrastination-tcm/",
+      "type": "cluster",
+      "parent": "mental-emotional-health",
+      "estimated_read_time": 7,
+      "keywords": [
+        "procrastination TCM",
+        "spleen yi",
+        "motivation"
+      ],
+      "id": "611"
     }
   ]
 }
