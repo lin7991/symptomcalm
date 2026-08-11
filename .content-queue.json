@@ -4,32 +4,6 @@
   "note": "每3小时自动生产一篇内容。从队列头部取，完成后移到 published。",
   "queue": [
     {
-      "title": "Pregnancy Nausea and TCM: Morning Sickness Patterns and Support",
-      "path": "/symptoms/womens-health/pregnancy-nausea-tcm/",
-      "type": "cluster",
-      "parent": "womens-health",
-      "estimated_read_time": 7,
-      "keywords": [
-        "pregnancy nausea",
-        "morning sickness TCM",
-        "stomach qi"
-      ],
-      "id": "601"
-    },
-    {
-      "title": "Warts and TCM: Understanding Skin Growths from a Chinese Medicine View",
-      "path": "/symptoms/skin-conditions/warts-tcm/",
-      "type": "cluster",
-      "parent": "skin-conditions",
-      "estimated_read_time": 6,
-      "keywords": [
-        "warts TCM",
-        "skin growths",
-        "dampness skin"
-      ],
-      "id": "602"
-    },
-    {
       "title": "Keloid Scars and TCM: Blood Stasis and Scar Tissue",
       "path": "/symptoms/skin-conditions/keloid-tcm/",
       "type": "cluster",
@@ -7874,6 +7848,19 @@
         "liver blood vision"
       ],
       "id": "600"
+    },
+    {
+      "title": "Warts and TCM: Understanding Skin Growths from a Chinese Medicine View",
+      "path": "/symptoms/skin-conditions/warts-tcm/",
+      "type": "cluster",
+      "parent": "skin-conditions",
+      "estimated_read_time": 6,
+      "keywords": [
+        "warts TCM",
+        "skin growths",
+        "dampness skin"
+      ],
+      "id": "602"
     }
   ]
 }
