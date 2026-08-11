@@ -4,19 +4,6 @@
   "note": "每3小时自动生产一篇内容。从队列头部取，完成后移到 published。",
   "queue": [
     {
-      "title": "Hyperpigmentation and TCM: Dark Spots, Blood Stasis, and Skin Tone",
-      "path": "/symptoms/skin-conditions/hyperpigmentation-tcm/",
-      "type": "cluster",
-      "parent": "skin-conditions",
-      "estimated_read_time": 7,
-      "keywords": [
-        "hyperpigmentation TCM",
-        "dark spots",
-        "melasma general"
-      ],
-      "id": "605"
-    },
-    {
       "title": "H. pylori and TCM: Digestive Patterns Linked to the Bacteria",
       "path": "/symptoms/digestion/h-pylori-tcm/",
       "type": "cluster",
@@ -7861,6 +7848,19 @@
         "nail health"
       ],
       "id": "604"
+    },
+    {
+      "title": "Hyperpigmentation and TCM: Dark Spots, Blood Stasis, and Skin Tone",
+      "path": "/symptoms/skin-conditions/hyperpigmentation-tcm/",
+      "type": "cluster",
+      "parent": "skin-conditions",
+      "estimated_read_time": 7,
+      "keywords": [
+        "hyperpigmentation TCM",
+        "dark spots",
+        "melasma general"
+      ],
+      "id": "605"
     }
   ]
 }
