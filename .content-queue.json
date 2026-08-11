@@ -4,19 +4,6 @@
   "note": "每3小时自动生产一篇内容。从队列头部取，完成后移到 published。",
   "queue": [
     {
-      "title": "COPD and TCM: Supporting Breathing with Lung and Kidney Patterns",
-      "path": "/symptoms/respiratory-health/copd-tcm/",
-      "type": "cluster",
-      "parent": "respiratory-health",
-      "estimated_read_time": 8,
-      "keywords": [
-        "COPD TCM",
-        "lung qi breathing",
-        "kidney grasping qi"
-      ],
-      "id": "608"
-    },
-    {
       "title": "Jealousy and TCM: The Liver's Role in Envy and Comparison",
       "path": "/symptoms/mental-emotional-health/jealousy-tcm/",
       "type": "cluster",
@@ -7861,6 +7848,19 @@
         "food intolerance"
       ],
       "id": "607"
+    },
+    {
+      "title": "COPD and TCM: Supporting Breathing with Lung and Kidney Patterns",
+      "path": "/symptoms/respiratory-health/copd-tcm/",
+      "type": "cluster",
+      "parent": "respiratory-health",
+      "estimated_read_time": 8,
+      "keywords": [
+        "COPD TCM",
+        "lung qi breathing",
+        "kidney grasping qi"
+      ],
+      "id": "608"
     }
   ]
 }
