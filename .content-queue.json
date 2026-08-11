@@ -4,19 +4,6 @@
   "note": "每3小时自动生产一篇内容。从队列头部取，完成后移到 published。",
   "queue": [
     {
-      "title": "Jealousy and TCM: The Liver's Role in Envy and Comparison",
-      "path": "/symptoms/mental-emotional-health/jealousy-tcm/",
-      "type": "cluster",
-      "parent": "mental-emotional-health",
-      "estimated_read_time": 7,
-      "keywords": [
-        "jealousy TCM",
-        "liver emotion",
-        "envy"
-      ],
-      "id": "609"
-    },
-    {
       "title": "Guilt and TCM: Processing Shame Through Heart and Spleen",
       "path": "/symptoms/mental-emotional-health/guilt-tcm/",
       "type": "cluster",
@@ -7861,6 +7848,19 @@
         "kidney grasping qi"
       ],
       "id": "608"
+    },
+    {
+      "title": "Jealousy and TCM: The Liver's Role in Envy and Comparison",
+      "path": "/symptoms/mental-emotional-health/jealousy-tcm/",
+      "type": "cluster",
+      "parent": "mental-emotional-health",
+      "estimated_read_time": 7,
+      "keywords": [
+        "jealousy TCM",
+        "liver emotion",
+        "envy"
+      ],
+      "id": "609"
     }
   ]
 }
