@@ -4,19 +4,6 @@
   "note": "每3小时自动生产一篇内容。从队列头部取，完成后移到 published。",
   "queue": [
     {
-      "title": "Keloid Scars and TCM: Blood Stasis and Scar Tissue",
-      "path": "/symptoms/skin-conditions/keloid-tcm/",
-      "type": "cluster",
-      "parent": "skin-conditions",
-      "estimated_read_time": 6,
-      "keywords": [
-        "keloid TCM",
-        "scar tissue",
-        "blood stasis"
-      ],
-      "id": "603"
-    },
-    {
       "title": "Brittle Nails and TCM: What Your Nails Say About Liver Blood",
       "path": "/symptoms/skin-conditions/brittle-nails-tcm/",
       "type": "cluster",
@@ -7861,6 +7848,19 @@
         "dampness skin"
       ],
       "id": "602"
+    },
+    {
+      "title": "Keloid Scars and TCM: Blood Stasis and Scar Tissue",
+      "path": "/symptoms/skin-conditions/keloid-tcm/",
+      "type": "cluster",
+      "parent": "skin-conditions",
+      "estimated_read_time": 6,
+      "keywords": [
+        "keloid TCM",
+        "scar tissue",
+        "blood stasis"
+      ],
+      "id": "603"
     }
   ]
 }
