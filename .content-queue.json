@@ -4,19 +4,6 @@
   "note": "每3小时自动生产一篇内容。从队列头部取，完成后移到 published。",
   "queue": [
     {
-      "title": "H. pylori and TCM: Digestive Patterns Linked to the Bacteria",
-      "path": "/symptoms/digestion/h-pylori-tcm/",
-      "type": "cluster",
-      "parent": "digestion",
-      "estimated_read_time": 7,
-      "keywords": [
-        "h pylori TCM",
-        "stomach bacteria",
-        "digestive patterns"
-      ],
-      "id": "606"
-    },
-    {
       "title": "Food Sensitivity and TCM: When Your Gut Flags Certain Foods",
       "path": "/symptoms/digestion/food-sensitivity-tcm/",
       "type": "cluster",
@@ -7861,6 +7848,19 @@
         "melasma general"
       ],
       "id": "605"
+    },
+    {
+      "title": "H. pylori and TCM: Digestive Patterns Linked to the Bacteria",
+      "path": "/symptoms/digestion/h-pylori-tcm/",
+      "type": "cluster",
+      "parent": "digestion",
+      "estimated_read_time": 7,
+      "keywords": [
+        "h pylori TCM",
+        "stomach bacteria",
+        "digestive patterns"
+      ],
+      "id": "606"
     }
   ]
 }
