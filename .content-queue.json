@@ -4,19 +4,6 @@
   "note": "每3小时自动生产一篇内容。从队列头部取，完成后移到 published。",
   "queue": [
     {
-      "title": "Folliculitis and TCM: Cooling the Skin's Inflammatory Response",
-      "path": "/symptoms/skin-conditions/folliculitis-tcm/",
-      "type": "cluster",
-      "parent": "skin-conditions",
-      "estimated_read_time": 7,
-      "keywords": [
-        "folliculitis TCM",
-        "skin inflammation",
-        "damp heat"
-      ],
-      "id": "619"
-    },
-    {
       "title": "Forgiveness and TCM: Releasing Resentment Through the Liver and Heart",
       "path": "/symptoms/mental-emotional-health/forgiveness-tcm/",
       "type": "cluster",
@@ -8052,6 +8039,19 @@
         "digestive recovery"
       ],
       "id": "618"
+    },
+    {
+      "title": "Folliculitis and TCM: Cooling the Skin's Inflammatory Response",
+      "path": "/symptoms/skin-conditions/folliculitis-tcm/",
+      "type": "cluster",
+      "parent": "skin-conditions",
+      "estimated_read_time": 7,
+      "keywords": [
+        "folliculitis TCM",
+        "skin inflammation",
+        "damp heat"
+      ],
+      "id": "619"
     }
   ]
 }
