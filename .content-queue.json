@@ -4,19 +4,6 @@
   "note": "每3小时自动生产一篇内容。从队列头部取，完成后移到 published。",
   "queue": [
     {
-      "title": "Breathing Exercises for Anxiety: A TCM Approach to Calming Breath",
-      "path": "/treatments/breathing-exercises-anxiety-tcm/",
-      "type": "treatment",
-      "parent": "treatments",
-      "estimated_read_time": 7,
-      "keywords": [
-        "breathing anxiety TCM",
-        "qigong breath",
-        "calming breath"
-      ],
-      "id": "614"
-    },
-    {
       "title": "Night Terrors in Adults: A TCM Look at Shen Disturbance",
       "path": "/symptoms/insomnia/night-terrors-tcm/",
       "type": "cluster",
@@ -8052,6 +8039,19 @@
         "headache patterns"
       ],
       "id": "613"
+    },
+    {
+      "title": "Breathing Exercises for Anxiety: A TCM Approach to Calming Breath",
+      "path": "/treatments/breathing-exercises-anxiety-tcm/",
+      "type": "treatment",
+      "parent": "treatments",
+      "estimated_read_time": 7,
+      "keywords": [
+        "breathing anxiety TCM",
+        "qigong breath",
+        "calming breath"
+      ],
+      "id": "614"
     }
   ]
 }
