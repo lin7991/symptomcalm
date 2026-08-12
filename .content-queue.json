@@ -4,19 +4,6 @@
   "note": "每3小时自动生产一篇内容。从队列头部取，完成后移到 published。",
   "queue": [
     {
-      "title": "Chronic Daily Headache and TCM: When Head Pain Becomes Constant",
-      "path": "/symptoms/headaches/daily-chronic-headache-tcm/",
-      "type": "cluster",
-      "parent": "headaches",
-      "estimated_read_time": 7,
-      "keywords": [
-        "chronic daily headache TCM",
-        "constant headache",
-        "headache patterns"
-      ],
-      "id": "613"
-    },
-    {
       "title": "Breathing Exercises for Anxiety: A TCM Approach to Calming Breath",
       "path": "/treatments/breathing-exercises-anxiety-tcm/",
       "type": "treatment",
@@ -8052,6 +8039,19 @@
         "ear care"
       ],
       "id": "612"
+    },
+    {
+      "title": "Chronic Daily Headache and TCM: When Head Pain Becomes Constant",
+      "path": "/symptoms/headaches/daily-chronic-headache-tcm/",
+      "type": "cluster",
+      "parent": "headaches",
+      "estimated_read_time": 7,
+      "keywords": [
+        "chronic daily headache TCM",
+        "constant headache",
+        "headache patterns"
+      ],
+      "id": "613"
     }
   ]
 }
