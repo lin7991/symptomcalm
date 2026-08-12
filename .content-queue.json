@@ -4,18 +4,6 @@
   "note": "每3小时自动生产一篇内容。从队列头部取，完成后移到 published。",
   "queue": [
     {
-      "title": "Six Healing Sounds: The Ancient TCM Practice for Releasing Emotional Tension",
-      "path": "/tcm-basics/six-healing-sounds-tcm/",
-      "type": "tcm-basics",
-      "estimated_read_time": 7,
-      "keywords": [
-        "six healing sounds",
-        "liu zi jue",
-        "TCM qigong"
-      ],
-      "id": "621"
-    },
-    {
       "title": "Acupressure for Travel Anxiety: Calming Points for Planes, Trains, and Long Drives",
       "path": "/treatments/acupressure-travel-anxiety-tcm/",
       "type": "treatment",
@@ -8052,6 +8040,18 @@
         "emotional release"
       ],
       "id": "620"
+    },
+    {
+      "title": "Six Healing Sounds: The Ancient TCM Practice for Releasing Emotional Tension",
+      "path": "/tcm-basics/six-healing-sounds-tcm/",
+      "type": "tcm-basics",
+      "estimated_read_time": 7,
+      "keywords": [
+        "six healing sounds",
+        "liu zi jue",
+        "TCM qigong"
+      ],
+      "id": "621"
     }
   ]
 }
