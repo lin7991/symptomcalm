@@ -4,19 +4,6 @@
   "note": "每3小时自动生产一篇内容。从队列头部取，完成后移到 published。",
   "queue": [
     {
-      "title": "Anticipatory Anxiety: Dreading What Hasn't Happened",
-      "path": "/symptoms/anxiety/anticipatory-anxiety-tcm/",
-      "type": "cluster",
-      "parent": "anxiety",
-      "estimated_read_time": 7,
-      "keywords": [
-        "anticipatory anxiety",
-        "dread TCM",
-        "liver qi"
-      ],
-      "id": "616"
-    },
-    {
       "title": "Pregnancy Back Pain: Supporting Your Lower Back Through the Third Trimester",
       "path": "/symptoms/back-pain/pregnancy-back-pain-tcm/",
       "type": "cluster",
@@ -8052,6 +8039,19 @@
         "heart shen"
       ],
       "id": "615"
+    },
+    {
+      "title": "Anticipatory Anxiety: Dreading What Hasn't Happened",
+      "path": "/symptoms/anxiety/anticipatory-anxiety-tcm/",
+      "type": "cluster",
+      "parent": "anxiety",
+      "estimated_read_time": 7,
+      "keywords": [
+        "anticipatory anxiety",
+        "dread TCM",
+        "liver qi"
+      ],
+      "id": "616"
     }
   ]
 }
