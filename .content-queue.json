@@ -4,19 +4,6 @@
   "note": "每3小时自动生产一篇内容。从队列头部取，完成后移到 published。",
   "queue": [
     {
-      "title": "Menopause Insomnia: A TCM Approach to Sleep Through the Transition",
-      "path": "/symptoms/insomnia/insomnia-menopause-tcm/",
-      "type": "cluster",
-      "parent": "insomnia",
-      "estimated_read_time": 7,
-      "keywords": [
-        "menopause insomnia",
-        "night sweats sleep",
-        "kidney yin"
-      ],
-      "id": "623"
-    },
-    {
       "title": "Death Anxiety: The Fear of Mortality Through a TCM Lens",
       "path": "/symptoms/anxiety/death-anxiety-tcm/",
       "type": "cluster",
@@ -8052,6 +8039,19 @@
         "PC6"
       ],
       "id": "622"
+    },
+    {
+      "title": "Menopause Insomnia: A TCM Approach to Sleep Through the Transition",
+      "path": "/symptoms/insomnia/insomnia-menopause-tcm/",
+      "type": "cluster",
+      "parent": "insomnia",
+      "estimated_read_time": 7,
+      "keywords": [
+        "menopause insomnia",
+        "night sweats sleep",
+        "kidney yin"
+      ],
+      "id": "623"
     }
   ]
 }
