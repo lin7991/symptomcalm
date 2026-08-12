@@ -4,19 +4,6 @@
   "note": "每3小时自动生产一篇内容。从队列头部取，完成后移到 published。",
   "queue": [
     {
-      "title": "Forgiveness and TCM: Releasing Resentment Through the Liver and Heart",
-      "path": "/symptoms/mental-emotional-health/forgiveness-tcm/",
-      "type": "cluster",
-      "parent": "mental-emotional-health",
-      "estimated_read_time": 7,
-      "keywords": [
-        "forgiveness TCM",
-        "resentment liver",
-        "emotional release"
-      ],
-      "id": "620"
-    },
-    {
       "title": "Six Healing Sounds: The Ancient TCM Practice for Releasing Emotional Tension",
       "path": "/tcm-basics/six-healing-sounds-tcm/",
       "type": "tcm-basics",
@@ -8052,6 +8039,19 @@
         "damp heat"
       ],
       "id": "619"
+    },
+    {
+      "title": "Forgiveness and TCM: Releasing Resentment Through the Liver and Heart",
+      "path": "/symptoms/mental-emotional-health/forgiveness-tcm/",
+      "type": "cluster",
+      "parent": "mental-emotional-health",
+      "estimated_read_time": 7,
+      "keywords": [
+        "forgiveness TCM",
+        "resentment liver",
+        "emotional release"
+      ],
+      "id": "620"
     }
   ]
 }
