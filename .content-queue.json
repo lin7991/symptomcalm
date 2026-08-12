@@ -4,19 +4,6 @@
   "note": "每3小时自动生产一篇内容。从队列头部取，完成后移到 published。",
   "queue": [
     {
-      "title": "Night Terrors in Adults: A TCM Look at Shen Disturbance",
-      "path": "/symptoms/insomnia/night-terrors-tcm/",
-      "type": "cluster",
-      "parent": "insomnia",
-      "estimated_read_time": 7,
-      "keywords": [
-        "night terrors adults",
-        "TCM sleep",
-        "heart shen"
-      ],
-      "id": "615"
-    },
-    {
       "title": "Anticipatory Anxiety: Dreading What Hasn't Happened",
       "path": "/symptoms/anxiety/anticipatory-anxiety-tcm/",
       "type": "cluster",
@@ -8052,6 +8039,19 @@
         "calming breath"
       ],
       "id": "614"
+    },
+    {
+      "title": "Night Terrors in Adults: A TCM Look at Shen Disturbance",
+      "path": "/symptoms/insomnia/night-terrors-tcm/",
+      "type": "cluster",
+      "parent": "insomnia",
+      "estimated_read_time": 7,
+      "keywords": [
+        "night terrors adults",
+        "TCM sleep",
+        "heart shen"
+      ],
+      "id": "615"
     }
   ]
 }
