@@ -111,7 +111,7 @@ echo ""
 # --- Sitemap URL 数量 ---
 echo "## 🔗 Sitemap"
 echo ""
-SITEMAP_COUNT=$(curl -s 'https://symptomcalm.com/sitemap.xml' 2>/dev/null | grep -c '<loc>' || echo 0)
+SITEMAP_COUNT=$(curl -s --compressed -H 'User-Agent: Mozilla/5.0' 'https://symptomcalm.com/sitemap.xml' 2>/dev/null | grep -oE '<[a-zA-Z0-9]*:?loc>' | wc -l | tr -d ' ')
 echo "  收录 URL: $SITEMAP_COUNT 个"
 echo ""
 
