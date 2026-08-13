@@ -4,19 +4,6 @@
   "note": "每3小时自动生产一篇内容。从队列头部取，完成后移到 published。",
   "queue": [
     {
-      "title": "Blurry Vision and TCM: When Your Eyes Lose Focus",
-      "path": "/symptoms/eye-health/blurry-vision-tcm/",
-      "type": "cluster",
-      "parent": "eye-health",
-      "estimated_read_time": 7,
-      "keywords": [
-        "blurry vision TCM",
-        "liver blood eyes",
-        "eye focus"
-      ],
-      "id": "625"
-    },
-    {
       "title": "Endometriosis Diet: TCM Food Strategies for Managing Discomfort",
       "path": "/symptoms/womens-health/endometriosis-diet-tcm/",
       "type": "cluster",
@@ -64,7 +51,212 @@
         "gratitude TCM",
         "heart shen",
         "positive emotion"
-      ]
+      ],
+      "id": "630"
+    },
+    {
+      "title": "Berberine and TCM: The Ancient Huang Lian Root of a Modern Wellness Trend",
+      "path": "/treatments/berberine-tcm/",
+      "type": "treatments",
+      "estimated_read_time": 7,
+      "keywords": [
+        "berberine",
+        "huang lian",
+        "coptis",
+        "TCM herbs"
+      ],
+      "id": "631"
+    },
+    {
+      "title": "Carpal Tunnel Syndrome: A TCM Perspective on Wrist Pain and Numbness",
+      "path": "/symptoms/joint-pain/carpal-tunnel-tcm/",
+      "type": "cluster",
+      "parent": "joint-pain",
+      "estimated_read_time": 7,
+      "keywords": [
+        "carpal tunnel",
+        "wrist pain",
+        "bi syndrome",
+        "nerve entrapment"
+      ],
+      "id": "632"
+    },
+    {
+      "title": "Overtraining Syndrome: TCM on Athletic Exhaustion and Recovery",
+      "path": "/symptoms/fatigue/overtraining-tcm/",
+      "type": "cluster",
+      "parent": "fatigue",
+      "estimated_read_time": 7,
+      "keywords": [
+        "overtraining",
+        "athlete fatigue",
+        "recovery",
+        "kidney jing"
+      ],
+      "id": "633"
+    },
+    {
+      "title": "FODMAP and TCM: Mapping Western Food Triggers to Traditional Patterns",
+      "path": "/symptoms/digestion/fodmap-tcm/",
+      "type": "cluster",
+      "parent": "digestion",
+      "estimated_read_time": 7,
+      "keywords": [
+        "FODMAP",
+        "IBS diet",
+        "spleen qi",
+        "food triggers"
+      ],
+      "id": "634"
+    },
+    {
+      "title": "Adenomyosis: A TCM Perspective on Heavy Painful Periods",
+      "path": "/symptoms/womens-health/adenomyosis-tcm/",
+      "type": "cluster",
+      "parent": "womens-health",
+      "estimated_read_time": 7,
+      "keywords": [
+        "adenomyosis",
+        "heavy periods",
+        "blood stasis",
+        "endometriosis comparison"
+      ],
+      "id": "635"
+    },
+    {
+      "title": "Nosebleeds: A TCM Guide to Recurrent Epistaxis",
+      "path": "/symptoms/respiratory-health/nosebleeds-tcm/",
+      "type": "cluster",
+      "parent": "respiratory-health",
+      "estimated_read_time": 6,
+      "keywords": [
+        "nosebleed",
+        "epistaxis",
+        "lung heat",
+        "liver fire"
+      ],
+      "id": "636"
+    },
+    {
+      "title": "Gua Sha for Fatigue: Circulating Qi and Blood to Restore Energy",
+      "path": "/treatments/gua-sha-fatigue-tcm/",
+      "type": "treatments",
+      "estimated_read_time": 7,
+      "keywords": [
+        "gua sha fatigue",
+        "energy",
+        "qi stagnation",
+        "self-care"
+      ],
+      "id": "637"
+    },
+    {
+      "title": "Tui Na for Back Pain: A Self-Massage Approach to a Stiff Lower Back",
+      "path": "/treatments/tui-na-back-pain-tcm/",
+      "type": "treatments",
+      "estimated_read_time": 7,
+      "keywords": [
+        "tui na back pain",
+        "self-massage",
+        "kidney qi",
+        "lower back"
+      ],
+      "id": "638"
+    },
+    {
+      "title": "Cupping for Menstrual Health: Easing Cramps and Stagnant Flow",
+      "path": "/treatments/cupping-womens-health-tcm/",
+      "type": "treatments",
+      "estimated_read_time": 7,
+      "keywords": [
+        "cupping period",
+        "menstrual cramps",
+        "blood stasis",
+        "womens health"
+      ],
+      "id": "639"
+    },
+    {
+      "title": "Qigong for Fatigue: Gentle Movement to Rebuild Energy Reserves",
+      "path": "/treatments/qigong-fatigue-tcm/",
+      "type": "treatments",
+      "estimated_read_time": 7,
+      "keywords": [
+        "qigong fatigue",
+        "energy",
+        "spleen qi",
+        "gentle movement"
+      ],
+      "id": "640"
+    },
+    {
+      "title": "Meditation for Sleep: Calming the Shen Before Bed",
+      "path": "/treatments/meditation-sleep-tcm/",
+      "type": "treatments",
+      "estimated_read_time": 6,
+      "keywords": [
+        "meditation sleep",
+        "shen",
+        "bedtime routine",
+        "insomnia"
+      ],
+      "id": "641"
+    },
+    {
+      "title": "Psoriasis Diet: TCM Food Strategies for Calmer Skin",
+      "path": "/symptoms/skin-conditions/psoriasis-diet-tcm/",
+      "type": "cluster",
+      "parent": "skin-conditions",
+      "estimated_read_time": 7,
+      "keywords": [
+        "psoriasis diet",
+        "blood heat",
+        "dampness",
+        "food triggers"
+      ],
+      "id": "642"
+    },
+    {
+      "title": "SIBO Diet: TCM Food Strategies for Small Intestinal Bacterial Overgrowth",
+      "path": "/symptoms/digestion/sibo-diet-tcm/",
+      "type": "cluster",
+      "parent": "digestion",
+      "estimated_read_time": 7,
+      "keywords": [
+        "SIBO diet",
+        "spleen dampness",
+        "bacterial overgrowth",
+        "food therapy"
+      ],
+      "id": "643"
+    },
+    {
+      "title": "Tennis Elbow: A TCM Guide to Lateral Elbow Pain",
+      "path": "/symptoms/joint-pain/tennis-elbow-tcm/",
+      "type": "cluster",
+      "parent": "joint-pain",
+      "estimated_read_time": 6,
+      "keywords": [
+        "tennis elbow",
+        "lateral epicondylitis",
+        "tendon",
+        "liver blood"
+      ],
+      "id": "644"
+    },
+    {
+      "title": "Gastritis: A TCM Perspective on Stomach Heat and Spleen Deficiency",
+      "path": "/symptoms/digestion/gastritis-tcm/",
+      "type": "cluster",
+      "parent": "digestion",
+      "estimated_read_time": 7,
+      "keywords": [
+        "gastritis",
+        "stomach heat",
+        "spleen deficiency",
+        "indigestion"
+      ],
+      "id": "645"
     }
   ],
   "published": [
@@ -8052,6 +8244,19 @@
         "existential anxiety TCM"
       ],
       "id": "624"
+    },
+    {
+      "title": "Blurry Vision and TCM: When Your Eyes Lose Focus",
+      "path": "/symptoms/eye-health/blurry-vision-tcm/",
+      "type": "cluster",
+      "parent": "eye-health",
+      "estimated_read_time": 7,
+      "keywords": [
+        "blurry vision TCM",
+        "liver blood eyes",
+        "eye focus"
+      ],
+      "id": "625"
     }
   ]
 }
