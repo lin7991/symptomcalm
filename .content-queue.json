@@ -4,19 +4,6 @@
   "note": "每3小时自动生产一篇内容。从队列头部取，完成后移到 published。",
   "queue": [
     {
-      "title": "Death Anxiety: The Fear of Mortality Through a TCM Lens",
-      "path": "/symptoms/anxiety/death-anxiety-tcm/",
-      "type": "cluster",
-      "parent": "anxiety",
-      "estimated_read_time": 7,
-      "keywords": [
-        "death anxiety",
-        "fear kidney",
-        "existential anxiety TCM"
-      ],
-      "id": "624"
-    },
-    {
       "title": "Blurry Vision and TCM: When Your Eyes Lose Focus",
       "path": "/symptoms/eye-health/blurry-vision-tcm/",
       "type": "cluster",
@@ -8052,6 +8039,19 @@
         "kidney yin"
       ],
       "id": "623"
+    },
+    {
+      "title": "Death Anxiety: The Fear of Mortality Through a TCM Lens",
+      "path": "/symptoms/anxiety/death-anxiety-tcm/",
+      "type": "cluster",
+      "parent": "anxiety",
+      "estimated_read_time": 7,
+      "keywords": [
+        "death anxiety",
+        "fear kidney",
+        "existential anxiety TCM"
+      ],
+      "id": "624"
     }
   ]
 }
