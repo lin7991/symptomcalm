@@ -4,20 +4,6 @@
   "note": "每3小时自动生产一篇内容。从队列头部取，完成后移到 published。",
   "queue": [
     {
-      "title": "Overtraining Syndrome: TCM on Athletic Exhaustion and Recovery",
-      "path": "/symptoms/fatigue/overtraining-tcm/",
-      "type": "cluster",
-      "parent": "fatigue",
-      "estimated_read_time": 7,
-      "keywords": [
-        "overtraining",
-        "athlete fatigue",
-        "recovery",
-        "kidney jing"
-      ],
-      "id": "633"
-    },
-    {
       "title": "FODMAP and TCM: Mapping Western Food Triggers to Traditional Patterns",
       "path": "/symptoms/digestion/fodmap-tcm/",
       "type": "cluster",
@@ -8257,6 +8243,20 @@
         "TCM herbs"
       ],
       "id": "631"
+    },
+    {
+      "title": "Overtraining Syndrome: TCM on Athletic Exhaustion and Recovery",
+      "path": "/symptoms/fatigue/overtraining-tcm/",
+      "type": "cluster",
+      "parent": "fatigue",
+      "estimated_read_time": 7,
+      "keywords": [
+        "overtraining",
+        "athlete fatigue",
+        "recovery",
+        "kidney jing"
+      ],
+      "id": "633"
     }
   ]
 }
