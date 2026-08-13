@@ -4,20 +4,6 @@
   "note": "每3小时自动生产一篇内容。从队列头部取，完成后移到 published。",
   "queue": [
     {
-      "title": "Adenomyosis: A TCM Perspective on Heavy Painful Periods",
-      "path": "/symptoms/womens-health/adenomyosis-tcm/",
-      "type": "cluster",
-      "parent": "womens-health",
-      "estimated_read_time": 7,
-      "keywords": [
-        "adenomyosis",
-        "heavy periods",
-        "blood stasis",
-        "endometriosis comparison"
-      ],
-      "id": "635"
-    },
-    {
       "title": "Nosebleeds: A TCM Guide to Recurrent Epistaxis",
       "path": "/symptoms/respiratory-health/nosebleeds-tcm/",
       "type": "cluster",
@@ -8257,6 +8243,20 @@
         "food triggers"
       ],
       "id": "634"
+    },
+    {
+      "title": "Adenomyosis: A TCM Perspective on Heavy Painful Periods",
+      "path": "/symptoms/womens-health/adenomyosis-tcm/",
+      "type": "cluster",
+      "parent": "womens-health",
+      "estimated_read_time": 7,
+      "keywords": [
+        "adenomyosis",
+        "heavy periods",
+        "blood stasis",
+        "endometriosis comparison"
+      ],
+      "id": "635"
     }
   ]
 }
