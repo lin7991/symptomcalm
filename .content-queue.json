@@ -4,19 +4,6 @@
   "note": "每3小时自动生产一篇内容。从队列头部取，完成后移到 published。",
   "queue": [
     {
-      "title": "Endometriosis Diet: TCM Food Strategies for Managing Discomfort",
-      "path": "/symptoms/womens-health/endometriosis-diet-tcm/",
-      "type": "cluster",
-      "parent": "womens-health",
-      "estimated_read_time": 7,
-      "keywords": [
-        "endometriosis diet",
-        "TCM food therapy",
-        "blood stasis"
-      ],
-      "id": "626"
-    },
-    {
       "title": "Postpartum Back Pain: Supporting Recovery After Birth",
       "path": "/symptoms/back-pain/postpartum-back-pain-tcm/",
       "type": "cluster",
@@ -8257,6 +8244,19 @@
         "eye focus"
       ],
       "id": "625"
+    },
+    {
+      "title": "Endometriosis Diet: TCM Food Strategies for Managing Discomfort",
+      "path": "/symptoms/womens-health/endometriosis-diet-tcm/",
+      "type": "cluster",
+      "parent": "womens-health",
+      "estimated_read_time": 7,
+      "keywords": [
+        "endometriosis diet",
+        "TCM food therapy",
+        "blood stasis"
+      ],
+      "id": "626"
     }
   ]
 }
