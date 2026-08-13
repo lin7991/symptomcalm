@@ -4,19 +4,6 @@
   "note": "每3小时自动生产一篇内容。从队列头部取，完成后移到 published。",
   "queue": [
     {
-      "title": "Gratitude and TCM: Nourishing the Heart Through Appreciation",
-      "path": "/symptoms/mental-emotional-health/gratitude-tcm/",
-      "type": "cluster",
-      "parent": "mental-emotional-health",
-      "estimated_read_time": 7,
-      "keywords": [
-        "gratitude TCM",
-        "heart shen",
-        "positive emotion"
-      ],
-      "id": "630"
-    },
-    {
       "title": "Berberine and TCM: The Ancient Huang Lian Root of a Modern Wellness Trend",
       "path": "/treatments/berberine-tcm/",
       "type": "treatments",
@@ -8257,6 +8244,19 @@
         "TCM meridians"
       ],
       "id": "629"
+    },
+    {
+      "title": "Gratitude and TCM: Nourishing the Heart Through Appreciation",
+      "path": "/symptoms/mental-emotional-health/gratitude-tcm/",
+      "type": "cluster",
+      "parent": "mental-emotional-health",
+      "estimated_read_time": 7,
+      "keywords": [
+        "gratitude TCM",
+        "heart shen",
+        "positive emotion"
+      ],
+      "id": "630"
     }
   ]
 }
