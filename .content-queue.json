@@ -55,20 +55,6 @@
       "id": "631"
     },
     {
-      "title": "Carpal Tunnel Syndrome: A TCM Perspective on Wrist Pain and Numbness",
-      "path": "/symptoms/joint-pain/carpal-tunnel-tcm/",
-      "type": "cluster",
-      "parent": "joint-pain",
-      "estimated_read_time": 7,
-      "keywords": [
-        "carpal tunnel",
-        "wrist pain",
-        "bi syndrome",
-        "nerve entrapment"
-      ],
-      "id": "632"
-    },
-    {
       "title": "Overtraining Syndrome: TCM on Athletic Exhaustion and Recovery",
       "path": "/symptoms/fatigue/overtraining-tcm/",
       "type": "cluster",
@@ -244,6 +230,20 @@
         "indigestion"
       ],
       "id": "645"
+    },
+    {
+      "title": "Sitting All Day and Back Pain: TCM Strategies for the Desk-Bound",
+      "path": "/symptoms/back-pain/sitting-all-day-tcm/",
+      "type": "cluster",
+      "parent": "back-pain",
+      "estimated_read_time": 7,
+      "keywords": [
+        "sitting all day back pain",
+        "desk job",
+        "qi stagnation",
+        "lower back"
+      ],
+      "id": "646"
     }
   ],
   "published": [
