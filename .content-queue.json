@@ -4,20 +4,6 @@
   "note": "每3小时自动生产一篇内容。从队列头部取，完成后移到 published。",
   "queue": [
     {
-      "title": "Sitting All Day and Back Pain: TCM Strategies for the Desk-Bound",
-      "path": "/symptoms/back-pain/sitting-all-day-tcm/",
-      "type": "cluster",
-      "parent": "back-pain",
-      "estimated_read_time": 7,
-      "keywords": [
-        "sitting all day back pain",
-        "desk job",
-        "qi stagnation",
-        "lower back"
-      ],
-      "id": "646"
-    },
-    {
       "title": "Spinal Stenosis: A TCM Perspective on Narrowing and Nerve Compression",
       "path": "/symptoms/back-pain/spinal-stenosis-tcm/",
       "type": "cluster",
@@ -8467,6 +8453,20 @@
         "indigestion"
       ],
       "id": "645"
+    },
+    {
+      "title": "Sitting All Day and Back Pain: TCM Strategies for the Desk-Bound",
+      "path": "/symptoms/back-pain/sitting-all-day-tcm/",
+      "type": "cluster",
+      "parent": "back-pain",
+      "estimated_read_time": 7,
+      "keywords": [
+        "sitting all day back pain",
+        "desk job",
+        "qi stagnation",
+        "lower back"
+      ],
+      "id": "646"
     }
   ]
 }
