@@ -4,20 +4,6 @@
   "note": "每3小时自动生产一篇内容。从队列头部取，完成后移到 published。",
   "queue": [
     {
-      "title": "SIBO Diet: TCM Food Strategies for Small Intestinal Bacterial Overgrowth",
-      "path": "/symptoms/digestion/sibo-diet-tcm/",
-      "type": "cluster",
-      "parent": "digestion",
-      "estimated_read_time": 7,
-      "keywords": [
-        "SIBO diet",
-        "spleen dampness",
-        "bacterial overgrowth",
-        "food therapy"
-      ],
-      "id": "643"
-    },
-    {
       "title": "Tennis Elbow: A TCM Guide to Lateral Elbow Pain",
       "path": "/symptoms/joint-pain/tennis-elbow-tcm/",
       "type": "cluster",
@@ -58,6 +44,216 @@
         "lower back"
       ],
       "id": "646"
+    },
+    {
+      "title": "Spinal Stenosis: A TCM Perspective on Narrowing and Nerve Compression",
+      "path": "/symptoms/back-pain/spinal-stenosis-tcm/",
+      "type": "cluster",
+      "parent": "back-pain",
+      "estimated_read_time": 7,
+      "keywords": [
+        "spinal stenosis",
+        "back pain",
+        "TCM",
+        "nerve compression"
+      ],
+      "id": "647"
+    },
+    {
+      "title": "Intestinal Parasites: TCM Food Strategies for Gut Rebalancing",
+      "path": "/symptoms/digestion/parasites-tcm/",
+      "type": "cluster",
+      "parent": "digestion",
+      "estimated_read_time": 7,
+      "keywords": [
+        "intestinal parasites",
+        "digestive health",
+        "TCM",
+        "gut health"
+      ],
+      "id": "648"
+    },
+    {
+      "title": "Gut Candida Overgrowth: A TCM Perspective on Dampness and Yeast",
+      "path": "/symptoms/digestion/candida-tcm/",
+      "type": "cluster",
+      "parent": "digestion",
+      "estimated_read_time": 7,
+      "keywords": [
+        "candida",
+        "gut health",
+        "dampness",
+        "TCM diet"
+      ],
+      "id": "649"
+    },
+    {
+      "title": "Hiatal Hernia: A TCM Perspective on Stomach Qi and Reflux Symptoms",
+      "path": "/symptoms/digestion/hiatal-hernia-tcm/",
+      "type": "cluster",
+      "parent": "digestion",
+      "estimated_read_time": 7,
+      "keywords": [
+        "hiatal hernia",
+        "acid reflux",
+        "TCM",
+        "stomach qi"
+      ],
+      "id": "650"
+    },
+    {
+      "title": "Pneumonia Recovery: TCM Support for Lung Rebuilding After Illness",
+      "path": "/symptoms/respiratory-health/pneumonia-tcm/",
+      "type": "cluster",
+      "parent": "respiratory-health",
+      "estimated_read_time": 7,
+      "keywords": [
+        "pneumonia recovery",
+        "lung health",
+        "TCM",
+        "post-illness"
+      ],
+      "id": "651"
+    },
+    {
+      "title": "Cortisol and Chronic Stress: A TCM View of the Body's Alarm System",
+      "path": "/symptoms/stress/cortisol-tcm/",
+      "type": "cluster",
+      "parent": "stress",
+      "estimated_read_time": 7,
+      "keywords": [
+        "cortisol",
+        "chronic stress",
+        "TCM",
+        "adrenal health"
+      ],
+      "id": "652"
+    },
+    {
+      "title": "Oversleeping and Fatigue: TCM Patterns Behind Hitting Snooze All Day",
+      "path": "/symptoms/insomnia/oversleeping-tcm/",
+      "type": "cluster",
+      "parent": "insomnia",
+      "estimated_read_time": 7,
+      "keywords": [
+        "oversleeping",
+        "fatigue",
+        "TCM",
+        "sleep"
+      ],
+      "id": "653"
+    },
+    {
+      "title": "Cupping for Immunity: TCM Approaches to Strengthening Defenses",
+      "path": "/treatments/cupping-immunity-tcm/",
+      "type": "treatment",
+      "parent": "",
+      "estimated_read_time": 7,
+      "keywords": [
+        "cupping",
+        "immunity",
+        "TCM",
+        "wei qi"
+      ],
+      "id": "654"
+    },
+    {
+      "title": "Qigong for Balance: Gentle Movement to Support Stability and Falls Prevention",
+      "path": "/treatments/qigong-balance-tcm/",
+      "type": "treatment",
+      "parent": "",
+      "estimated_read_time": 7,
+      "keywords": [
+        "qigong",
+        "balance",
+        "falls prevention",
+        "TCM"
+      ],
+      "id": "655"
+    },
+    {
+      "title": "Meditation for Anxiety: A TCM-Informed Practice Guide",
+      "path": "/treatments/meditation-anxiety-tcm/",
+      "type": "treatment",
+      "parent": "",
+      "estimated_read_time": 7,
+      "keywords": [
+        "meditation",
+        "anxiety",
+        "TCM",
+        "shen"
+      ],
+      "id": "656"
+    },
+    {
+      "title": "Gua Sha for Legs: Lower Body Techniques for Circulation and Tension",
+      "path": "/treatments/guasha-legs-tcm/",
+      "type": "treatment",
+      "parent": "",
+      "estimated_read_time": 7,
+      "keywords": [
+        "gua sha",
+        "legs",
+        "circulation",
+        "TCM"
+      ],
+      "id": "657"
+    },
+    {
+      "title": "Foot Baths for Menopause: Warm Water Rituals for Cooling and Calming",
+      "path": "/treatments/foot-baths-menopause-tcm/",
+      "type": "treatment",
+      "parent": "",
+      "estimated_read_time": 7,
+      "keywords": [
+        "foot baths",
+        "menopause",
+        "TCM",
+        "hot flashes"
+      ],
+      "id": "658"
+    },
+    {
+      "title": "Herbal Baths for Skin: Traditional Soaks for Common Skin Concerns",
+      "path": "/treatments/herbal-baths-skin-tcm/",
+      "type": "treatment",
+      "parent": "",
+      "estimated_read_time": 7,
+      "keywords": [
+        "herbal baths",
+        "skin",
+        "TCM",
+        "dampness"
+      ],
+      "id": "659"
+    },
+    {
+      "title": "Breathing Exercises for Sleep: Slow-Breath Protocols from TCM Practice",
+      "path": "/treatments/breathing-exercises-sleep-tcm/",
+      "type": "treatment",
+      "parent": "",
+      "estimated_read_time": 7,
+      "keywords": [
+        "breathing exercises",
+        "sleep",
+        "TCM",
+        "insomnia"
+      ],
+      "id": "660"
+    },
+    {
+      "title": "Dietary Therapy for Heart Health: TCM Foods to Support Circulation",
+      "path": "/treatments/dietary-therapy-heart-tcm/",
+      "type": "treatment",
+      "parent": "",
+      "estimated_read_time": 7,
+      "keywords": [
+        "dietary therapy",
+        "heart health",
+        "TCM",
+        "circulation"
+      ],
+      "id": "661"
     }
   ],
   "published": [
@@ -8257,6 +8453,20 @@
         "food triggers"
       ],
       "id": "642"
+    },
+    {
+      "title": "SIBO Diet: TCM Food Strategies for Small Intestinal Bacterial Overgrowth",
+      "path": "/symptoms/digestion/sibo-diet-tcm/",
+      "type": "cluster",
+      "parent": "digestion",
+      "estimated_read_time": 7,
+      "keywords": [
+        "SIBO diet",
+        "spleen dampness",
+        "bacterial overgrowth",
+        "food therapy"
+      ],
+      "id": "643"
     }
   ]
 }
