@@ -4,20 +4,6 @@
   "note": "每3小时自动生产一篇内容。从队列头部取，完成后移到 published。",
   "queue": [
     {
-      "title": "Gastritis: A TCM Perspective on Stomach Heat and Spleen Deficiency",
-      "path": "/symptoms/digestion/gastritis-tcm/",
-      "type": "cluster",
-      "parent": "digestion",
-      "estimated_read_time": 7,
-      "keywords": [
-        "gastritis",
-        "stomach heat",
-        "spleen deficiency",
-        "indigestion"
-      ],
-      "id": "645"
-    },
-    {
       "title": "Sitting All Day and Back Pain: TCM Strategies for the Desk-Bound",
       "path": "/symptoms/back-pain/sitting-all-day-tcm/",
       "type": "cluster",
@@ -8467,6 +8453,20 @@
         "liver blood"
       ],
       "id": "644"
+    },
+    {
+      "title": "Gastritis: A TCM Perspective on Stomach Heat and Spleen Deficiency",
+      "path": "/symptoms/digestion/gastritis-tcm/",
+      "type": "cluster",
+      "parent": "digestion",
+      "estimated_read_time": 7,
+      "keywords": [
+        "gastritis",
+        "stomach heat",
+        "spleen deficiency",
+        "indigestion"
+      ],
+      "id": "645"
     }
   ]
 }
