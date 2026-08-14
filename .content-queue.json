@@ -4,19 +4,6 @@
   "note": "每3小时自动生产一篇内容。从队列头部取，完成后移到 published。",
   "queue": [
     {
-      "title": "Cupping for Menstrual Health: Easing Cramps and Stagnant Flow",
-      "path": "/treatments/cupping-womens-health-tcm/",
-      "type": "treatments",
-      "estimated_read_time": 7,
-      "keywords": [
-        "cupping period",
-        "menstrual cramps",
-        "blood stasis",
-        "womens health"
-      ],
-      "id": "639"
-    },
-    {
       "title": "Qigong for Fatigue: Gentle Movement to Rebuild Energy Reserves",
       "path": "/treatments/qigong-fatigue-tcm/",
       "type": "treatments",
@@ -8257,6 +8244,19 @@
         "lower back"
       ],
       "id": "638"
+    },
+    {
+      "title": "Cupping for Menstrual Health: Easing Cramps and Stagnant Flow",
+      "path": "/treatments/cupping-womens-health-tcm/",
+      "type": "treatments",
+      "estimated_read_time": 7,
+      "keywords": [
+        "cupping period",
+        "menstrual cramps",
+        "blood stasis",
+        "womens health"
+      ],
+      "id": "639"
     }
   ]
 }
