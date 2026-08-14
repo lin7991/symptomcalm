@@ -4,20 +4,6 @@
   "note": "每3小时自动生产一篇内容。从队列头部取，完成后移到 published。",
   "queue": [
     {
-      "title": "Nosebleeds: A TCM Guide to Recurrent Epistaxis",
-      "path": "/symptoms/respiratory-health/nosebleeds-tcm/",
-      "type": "cluster",
-      "parent": "respiratory-health",
-      "estimated_read_time": 6,
-      "keywords": [
-        "nosebleed",
-        "epistaxis",
-        "lung heat",
-        "liver fire"
-      ],
-      "id": "636"
-    },
-    {
       "title": "Gua Sha for Fatigue: Circulating Qi and Blood to Restore Energy",
       "path": "/treatments/gua-sha-fatigue-tcm/",
       "type": "treatments",
@@ -8257,6 +8243,20 @@
         "endometriosis comparison"
       ],
       "id": "635"
+    },
+    {
+      "title": "Nosebleeds: A TCM Guide to Recurrent Epistaxis",
+      "path": "/symptoms/respiratory-health/nosebleeds-tcm/",
+      "type": "cluster",
+      "parent": "respiratory-health",
+      "estimated_read_time": 6,
+      "keywords": [
+        "nosebleed",
+        "epistaxis",
+        "lung heat",
+        "liver fire"
+      ],
+      "id": "636"
     }
   ]
 }
