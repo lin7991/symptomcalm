@@ -4,19 +4,6 @@
   "note": "每3小时自动生产一篇内容。从队列头部取，完成后移到 published。",
   "queue": [
     {
-      "title": "Tui Na for Back Pain: A Self-Massage Approach to a Stiff Lower Back",
-      "path": "/treatments/tui-na-back-pain-tcm/",
-      "type": "treatments",
-      "estimated_read_time": 7,
-      "keywords": [
-        "tui na back pain",
-        "self-massage",
-        "kidney qi",
-        "lower back"
-      ],
-      "id": "638"
-    },
-    {
       "title": "Cupping for Menstrual Health: Easing Cramps and Stagnant Flow",
       "path": "/treatments/cupping-womens-health-tcm/",
       "type": "treatments",
@@ -8257,6 +8244,19 @@
         "self-care"
       ],
       "id": "637"
+    },
+    {
+      "title": "Tui Na for Back Pain: A Self-Massage Approach to a Stiff Lower Back",
+      "path": "/treatments/tui-na-back-pain-tcm/",
+      "type": "treatments",
+      "estimated_read_time": 7,
+      "keywords": [
+        "tui na back pain",
+        "self-massage",
+        "kidney qi",
+        "lower back"
+      ],
+      "id": "638"
     }
   ]
 }
