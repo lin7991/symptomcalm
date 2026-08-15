@@ -4,20 +4,6 @@
   "note": "每3小时自动生产一篇内容。从队列头部取，完成后移到 published。",
   "queue": [
     {
-      "title": "Meditation for Anxiety: A TCM-Informed Practice Guide",
-      "path": "/treatments/meditation-anxiety-tcm/",
-      "type": "treatment",
-      "parent": "",
-      "estimated_read_time": 7,
-      "keywords": [
-        "meditation",
-        "anxiety",
-        "TCM",
-        "shen"
-      ],
-      "id": "656"
-    },
-    {
       "title": "Gua Sha for Legs: Lower Body Techniques for Circulation and Tension",
       "path": "/treatments/guasha-legs-tcm/",
       "type": "treatment",
@@ -8467,6 +8453,20 @@
         "TCM"
       ],
       "id": "655"
+    },
+    {
+      "title": "Meditation for Anxiety: A TCM-Informed Practice Guide",
+      "path": "/treatments/meditation-anxiety-tcm/",
+      "type": "treatment",
+      "parent": "",
+      "estimated_read_time": 7,
+      "keywords": [
+        "meditation",
+        "anxiety",
+        "TCM",
+        "shen"
+      ],
+      "id": "656"
     }
   ]
 }
