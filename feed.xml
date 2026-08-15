@@ -5,147 +5,147 @@
     <link>https://symptomcalm.com/</link>
     <description>Understand your symptoms through the lens of Traditional Chinese Medicine. No jargon, no miracle claims — clear, grounded wisdom.</description>
     <language>en-us</language>
-    <lastBuildDate>Fri, 14 Aug 2026 19:24:06 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 15 Aug 2026 01:35:41 +0000</lastBuildDate>
     <atom:link href="https://symptomcalm.com/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title><![CDATA[pillar-link: add gastritis-tcm to digestion]]></title>
-      <link>https://symptomcalm.com/symptoms/digestion/</link>
-      <guid>https://symptomcalm.com/symptoms/digestion/</guid>
-      <pubDate>Fri, 14 Aug 2026 19:24:06 +0000</pubDate>
-      <description><![CDATA[Explore pillar-link: add gastritis-tcm to digestion through the lens of Traditional Chinese Medicine at SymptomCalm.]]></description>
+      <title><![CDATA[faq-schema: spinal-stenosis-tcm]]></title>
+      <link>https://symptomcalm.com/symptoms/back-pain/sitting-all-day-tcm/</link>
+      <guid>https://symptomcalm.com/symptoms/back-pain/sitting-all-day-tcm/</guid>
+      <pubDate>Sat, 15 Aug 2026 01:35:41 +0000</pubDate>
+      <description><![CDATA[Explore faq-schema: spinal-stenosis-tcm through the lens of Traditional Chinese Medicine at SymptomCalm.]]></description>
     </item>
     <item>
-      <title><![CDATA[faq-schema: gastritis-tcm]]></title>
+      <title><![CDATA[faq-schema: spinal-stenosis-tcm]]></title>
+      <link>https://symptomcalm.com/symptoms/back-pain/spinal-stenosis-tcm/</link>
+      <guid>https://symptomcalm.com/symptoms/back-pain/spinal-stenosis-tcm/</guid>
+      <pubDate>Sat, 15 Aug 2026 01:35:41 +0000</pubDate>
+      <description><![CDATA[Explore faq-schema: spinal-stenosis-tcm through the lens of Traditional Chinese Medicine at SymptomCalm.]]></description>
+    </item>
+    <item>
+      <title><![CDATA[publish zh + pillar-link: spinal-stenosis-tcm]]></title>
+      <link>https://symptomcalm.com/symptoms/back-pain/</link>
+      <guid>https://symptomcalm.com/symptoms/back-pain/</guid>
+      <pubDate>Sat, 15 Aug 2026 01:35:41 +0000</pubDate>
+      <description><![CDATA[Explore publish zh + pillar-link: spinal-stenosis-tcm through the lens of Traditional Chinese Medicine at SymptomCalm.]]></description>
+    </item>
+    <item>
+      <title><![CDATA[symptoms/back-pain/sitting-all-day-tcm/index.html (+concurrent)]]></title>
       <link>https://symptomcalm.com/symptoms/digestion/gastritis-tcm/</link>
       <guid>https://symptomcalm.com/symptoms/digestion/gastritis-tcm/</guid>
-      <pubDate>Fri, 14 Aug 2026 19:24:06 +0000</pubDate>
-      <description><![CDATA[Explore faq-schema: gastritis-tcm through the lens of Traditional Chinese Medicine at SymptomCalm.]]></description>
+      <pubDate>Sat, 15 Aug 2026 01:35:41 +0000</pubDate>
+      <description><![CDATA[Explore symptoms/back-pain/sitting-all-day-tcm/index.html (+concurrent) through the lens of Traditional Chinese Medicine at SymptomCalm.]]></description>
     </item>
     <item>
-      <title><![CDATA[faq-schema: gastritis-tcm]]></title>
+      <title><![CDATA[symptoms/back-pain/sitting-all-day-tcm/index.html (+concurrent)]]></title>
+      <link>https://symptomcalm.com/symptoms/digestion/sibo-diet-tcm/</link>
+      <guid>https://symptomcalm.com/symptoms/digestion/sibo-diet-tcm/</guid>
+      <pubDate>Sat, 15 Aug 2026 01:35:41 +0000</pubDate>
+      <description><![CDATA[Explore symptoms/back-pain/sitting-all-day-tcm/index.html (+concurrent) through the lens of Traditional Chinese Medicine at SymptomCalm.]]></description>
+    </item>
+    <item>
+      <title><![CDATA[symptoms/back-pain/sitting-all-day-tcm/index.html (+concurrent)]]></title>
       <link>https://symptomcalm.com/symptoms/joint-pain/tennis-elbow-tcm/</link>
       <guid>https://symptomcalm.com/symptoms/joint-pain/tennis-elbow-tcm/</guid>
-      <pubDate>Fri, 14 Aug 2026 19:24:06 +0000</pubDate>
-      <description><![CDATA[Explore faq-schema: gastritis-tcm through the lens of Traditional Chinese Medicine at SymptomCalm.]]></description>
+      <pubDate>Sat, 15 Aug 2026 01:35:41 +0000</pubDate>
+      <description><![CDATA[Explore symptoms/back-pain/sitting-all-day-tcm/index.html (+concurrent) through the lens of Traditional Chinese Medicine at SymptomCalm.]]></description>
     </item>
     <item>
       <title><![CDATA[Auto-publish batch (api push)]]></title>
-      <link>https://symptomcalm.com/symptoms/digestion/sibo-diet-tcm/</link>
-      <guid>https://symptomcalm.com/symptoms/digestion/sibo-diet-tcm/</guid>
-      <pubDate>Fri, 14 Aug 2026 19:24:06 +0000</pubDate>
+      <link>https://symptomcalm.com/symptoms/digestion/</link>
+      <guid>https://symptomcalm.com/symptoms/digestion/</guid>
+      <pubDate>Sat, 15 Aug 2026 01:35:41 +0000</pubDate>
       <description><![CDATA[Explore Auto-publish batch (api push) through the lens of Traditional Chinese Medicine at SymptomCalm.]]></description>
     </item>
     <item>
       <title><![CDATA[Auto-publish batch (api push)]]></title>
       <link>https://symptomcalm.com/symptoms/joint-pain/</link>
       <guid>https://symptomcalm.com/symptoms/joint-pain/</guid>
-      <pubDate>Fri, 14 Aug 2026 19:24:06 +0000</pubDate>
+      <pubDate>Sat, 15 Aug 2026 01:35:41 +0000</pubDate>
       <description><![CDATA[Explore Auto-publish batch (api push) through the lens of Traditional Chinese Medicine at SymptomCalm.]]></description>
     </item>
     <item>
       <title><![CDATA[Auto-publish batch (api push)]]></title>
       <link>https://symptomcalm.com/symptoms/skin-conditions/psoriasis-diet-tcm/</link>
       <guid>https://symptomcalm.com/symptoms/skin-conditions/psoriasis-diet-tcm/</guid>
-      <pubDate>Fri, 14 Aug 2026 19:24:06 +0000</pubDate>
+      <pubDate>Sat, 15 Aug 2026 01:35:41 +0000</pubDate>
       <description><![CDATA[Explore Auto-publish batch (api push) through the lens of Traditional Chinese Medicine at SymptomCalm.]]></description>
     </item>
     <item>
       <title><![CDATA[Auto-publish batch (api push)]]></title>
       <link>https://symptomcalm.com/treatments/meditation-sleep-tcm/</link>
       <guid>https://symptomcalm.com/treatments/meditation-sleep-tcm/</guid>
-      <pubDate>Fri, 14 Aug 2026 19:24:06 +0000</pubDate>
+      <pubDate>Sat, 15 Aug 2026 01:35:41 +0000</pubDate>
       <description><![CDATA[Explore Auto-publish batch (api push) through the lens of Traditional Chinese Medicine at SymptomCalm.]]></description>
     </item>
     <item>
       <title><![CDATA[Auto-publish batch (api push)]]></title>
       <link>https://symptomcalm.com/treatments/qigong-fatigue-tcm/</link>
       <guid>https://symptomcalm.com/treatments/qigong-fatigue-tcm/</guid>
-      <pubDate>Fri, 14 Aug 2026 19:24:06 +0000</pubDate>
+      <pubDate>Sat, 15 Aug 2026 01:35:41 +0000</pubDate>
       <description><![CDATA[Explore Auto-publish batch (api push) through the lens of Traditional Chinese Medicine at SymptomCalm.]]></description>
     </item>
     <item>
       <title><![CDATA[Auto-publish batch (api push)]]></title>
       <link>https://symptomcalm.com/symptoms/skin-conditions/</link>
       <guid>https://symptomcalm.com/symptoms/skin-conditions/</guid>
-      <pubDate>Fri, 14 Aug 2026 19:24:06 +0000</pubDate>
+      <pubDate>Sat, 15 Aug 2026 01:35:41 +0000</pubDate>
       <description><![CDATA[Explore Auto-publish batch (api push) through the lens of Traditional Chinese Medicine at SymptomCalm.]]></description>
     </item>
     <item>
       <title><![CDATA[Auto-publish batch (api push)]]></title>
       <link>https://symptomcalm.com/treatments/cupping-womens-health-tcm/</link>
       <guid>https://symptomcalm.com/treatments/cupping-womens-health-tcm/</guid>
-      <pubDate>Fri, 14 Aug 2026 19:24:06 +0000</pubDate>
+      <pubDate>Sat, 15 Aug 2026 01:35:41 +0000</pubDate>
       <description><![CDATA[Explore Auto-publish batch (api push) through the lens of Traditional Chinese Medicine at SymptomCalm.]]></description>
     </item>
     <item>
       <title><![CDATA[Auto-publish batch (api push)]]></title>
       <link>https://symptomcalm.com/treatments/gua-sha-fatigue-tcm/</link>
       <guid>https://symptomcalm.com/treatments/gua-sha-fatigue-tcm/</guid>
-      <pubDate>Fri, 14 Aug 2026 19:24:06 +0000</pubDate>
+      <pubDate>Sat, 15 Aug 2026 01:35:41 +0000</pubDate>
       <description><![CDATA[Explore Auto-publish batch (api push) through the lens of Traditional Chinese Medicine at SymptomCalm.]]></description>
     </item>
     <item>
       <title><![CDATA[Auto-publish batch (api push)]]></title>
       <link>https://symptomcalm.com/treatments/tui-na-back-pain-tcm/</link>
       <guid>https://symptomcalm.com/treatments/tui-na-back-pain-tcm/</guid>
-      <pubDate>Fri, 14 Aug 2026 19:24:06 +0000</pubDate>
+      <pubDate>Sat, 15 Aug 2026 01:35:41 +0000</pubDate>
       <description><![CDATA[Explore Auto-publish batch (api push) through the lens of Traditional Chinese Medicine at SymptomCalm.]]></description>
     </item>
     <item>
       <title><![CDATA[faq-schema: cupping-womens-health-tcm]]></title>
       <link>https://symptomcalm.com/symptoms/digestion/fodmap-tcm/</link>
       <guid>https://symptomcalm.com/symptoms/digestion/fodmap-tcm/</guid>
-      <pubDate>Fri, 14 Aug 2026 19:24:06 +0000</pubDate>
+      <pubDate>Sat, 15 Aug 2026 01:35:41 +0000</pubDate>
       <description><![CDATA[Explore faq-schema: cupping-womens-health-tcm through the lens of Traditional Chinese Medicine at SymptomCalm.]]></description>
     </item>
     <item>
       <title><![CDATA[faq-schema: cupping-womens-health-tcm]]></title>
       <link>https://symptomcalm.com/symptoms/respiratory-health/nosebleeds-tcm/</link>
       <guid>https://symptomcalm.com/symptoms/respiratory-health/nosebleeds-tcm/</guid>
-      <pubDate>Fri, 14 Aug 2026 19:24:06 +0000</pubDate>
+      <pubDate>Sat, 15 Aug 2026 01:35:41 +0000</pubDate>
       <description><![CDATA[Explore faq-schema: cupping-womens-health-tcm through the lens of Traditional Chinese Medicine at SymptomCalm.]]></description>
     </item>
     <item>
       <title><![CDATA[faq-schema + pillar-link: nosebleeds-tcm]]></title>
       <link>https://symptomcalm.com/symptoms/respiratory-health/</link>
       <guid>https://symptomcalm.com/symptoms/respiratory-health/</guid>
-      <pubDate>Fri, 14 Aug 2026 19:24:06 +0000</pubDate>
+      <pubDate>Sat, 15 Aug 2026 01:35:41 +0000</pubDate>
       <description><![CDATA[Explore faq-schema + pillar-link: nosebleeds-tcm through the lens of Traditional Chinese Medicine at SymptomCalm.]]></description>
     </item>
     <item>
       <title><![CDATA[faq-schema + pillar-link: nosebleeds-tcm]]></title>
       <link>https://symptomcalm.com/symptoms/womens-health/adenomyosis-tcm/</link>
       <guid>https://symptomcalm.com/symptoms/womens-health/adenomyosis-tcm/</guid>
-      <pubDate>Fri, 14 Aug 2026 19:24:06 +0000</pubDate>
+      <pubDate>Sat, 15 Aug 2026 01:35:41 +0000</pubDate>
       <description><![CDATA[Explore faq-schema + pillar-link: nosebleeds-tcm through the lens of Traditional Chinese Medicine at SymptomCalm.]]></description>
     </item>
     <item>
       <title><![CDATA[faq-schema + pillar-link: adenomyosis-tcm]]></title>
       <link>https://symptomcalm.com/symptoms/womens-health/</link>
       <guid>https://symptomcalm.com/symptoms/womens-health/</guid>
-      <pubDate>Fri, 14 Aug 2026 19:24:06 +0000</pubDate>
+      <pubDate>Sat, 15 Aug 2026 01:35:41 +0000</pubDate>
       <description><![CDATA[Explore faq-schema + pillar-link: adenomyosis-tcm through the lens of Traditional Chinese Medicine at SymptomCalm.]]></description>
-    </item>
-    <item>
-      <title><![CDATA[faq-schema + pillar-link: fodmap-tcm]]></title>
-      <link>https://symptomcalm.com/symptoms/fatigue/overtraining-tcm/</link>
-      <guid>https://symptomcalm.com/symptoms/fatigue/overtraining-tcm/</guid>
-      <pubDate>Fri, 14 Aug 2026 19:24:06 +0000</pubDate>
-      <description><![CDATA[Explore faq-schema + pillar-link: fodmap-tcm through the lens of Traditional Chinese Medicine at SymptomCalm.]]></description>
-    </item>
-    <item>
-      <title><![CDATA[faq-schema + pillar-link: fodmap-tcm]]></title>
-      <link>https://symptomcalm.com/symptoms/mental-emotional-health/gratitude-tcm/</link>
-      <guid>https://symptomcalm.com/symptoms/mental-emotional-health/gratitude-tcm/</guid>
-      <pubDate>Fri, 14 Aug 2026 19:24:06 +0000</pubDate>
-      <description><![CDATA[Explore faq-schema + pillar-link: fodmap-tcm through the lens of Traditional Chinese Medicine at SymptomCalm.]]></description>
-    </item>
-    <item>
-      <title><![CDATA[faq-schema + pillar-link: fodmap-tcm]]></title>
-      <link>https://symptomcalm.com/treatments/berberine-tcm/</link>
-      <guid>https://symptomcalm.com/treatments/berberine-tcm/</guid>
-      <pubDate>Fri, 14 Aug 2026 19:24:06 +0000</pubDate>
-      <description><![CDATA[Explore faq-schema + pillar-link: fodmap-tcm through the lens of Traditional Chinese Medicine at SymptomCalm.]]></description>
     </item>
   </channel>
 </rss>
