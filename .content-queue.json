@@ -4,20 +4,6 @@
   "note": "每3小时自动生产一篇内容。从队列头部取，完成后移到 published。",
   "queue": [
     {
-      "title": "Qigong for Balance: Gentle Movement to Support Stability and Falls Prevention",
-      "path": "/treatments/qigong-balance-tcm/",
-      "type": "treatment",
-      "parent": "",
-      "estimated_read_time": 7,
-      "keywords": [
-        "qigong",
-        "balance",
-        "falls prevention",
-        "TCM"
-      ],
-      "id": "655"
-    },
-    {
       "title": "Meditation for Anxiety: A TCM-Informed Practice Guide",
       "path": "/treatments/meditation-anxiety-tcm/",
       "type": "treatment",
@@ -8467,6 +8453,20 @@
         "wei qi"
       ],
       "id": "654"
+    },
+    {
+      "title": "Qigong for Balance: Gentle Movement to Support Stability and Falls Prevention",
+      "path": "/treatments/qigong-balance-tcm/",
+      "type": "treatment",
+      "parent": "",
+      "estimated_read_time": 7,
+      "keywords": [
+        "qigong",
+        "balance",
+        "falls prevention",
+        "TCM"
+      ],
+      "id": "655"
     }
   ]
 }
