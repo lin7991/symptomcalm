@@ -4,20 +4,6 @@
   "note": "每3小时自动生产一篇内容。从队列头部取，完成后移到 published。",
   "queue": [
     {
-      "title": "Spinal Stenosis: A TCM Perspective on Narrowing and Nerve Compression",
-      "path": "/symptoms/back-pain/spinal-stenosis-tcm/",
-      "type": "cluster",
-      "parent": "back-pain",
-      "estimated_read_time": 7,
-      "keywords": [
-        "spinal stenosis",
-        "back pain",
-        "TCM",
-        "nerve compression"
-      ],
-      "id": "647"
-    },
-    {
       "title": "Intestinal Parasites: TCM Food Strategies for Gut Rebalancing",
       "path": "/symptoms/digestion/parasites-tcm/",
       "type": "cluster",
@@ -8467,6 +8453,20 @@
         "lower back"
       ],
       "id": "646"
+    },
+    {
+      "title": "Spinal Stenosis: A TCM Perspective on Narrowing and Nerve Compression",
+      "path": "/symptoms/back-pain/spinal-stenosis-tcm/",
+      "type": "cluster",
+      "parent": "back-pain",
+      "estimated_read_time": 7,
+      "keywords": [
+        "spinal stenosis",
+        "back pain",
+        "TCM",
+        "nerve compression"
+      ],
+      "id": "647"
     }
   ]
 }
