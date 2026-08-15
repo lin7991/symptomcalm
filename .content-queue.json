@@ -4,20 +4,6 @@
   "note": "每3小时自动生产一篇内容。从队列头部取，完成后移到 published。",
   "queue": [
     {
-      "title": "Cortisol and Chronic Stress: A TCM View of the Body's Alarm System",
-      "path": "/symptoms/stress/cortisol-tcm/",
-      "type": "cluster",
-      "parent": "stress",
-      "estimated_read_time": 7,
-      "keywords": [
-        "cortisol",
-        "chronic stress",
-        "TCM",
-        "adrenal health"
-      ],
-      "id": "652"
-    },
-    {
       "title": "Oversleeping and Fatigue: TCM Patterns Behind Hitting Snooze All Day",
       "path": "/symptoms/insomnia/oversleeping-tcm/",
       "type": "cluster",
@@ -8467,6 +8453,20 @@
         "post-illness"
       ],
       "id": "651"
+    },
+    {
+      "title": "Cortisol and Chronic Stress: A TCM View of the Body's Alarm System",
+      "path": "/symptoms/stress/cortisol-tcm/",
+      "type": "cluster",
+      "parent": "stress",
+      "estimated_read_time": 7,
+      "keywords": [
+        "cortisol",
+        "chronic stress",
+        "TCM",
+        "adrenal health"
+      ],
+      "id": "652"
     }
   ]
 }
