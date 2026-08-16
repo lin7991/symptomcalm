@@ -4,21 +4,6 @@
   "note": "每3小时自动生产一篇内容。从队列头部取，完成后移到 published。",
   "queue": [
     {
-      "title": "Vulvodynia: A TCM Perspective on Chronic Vulvar Pain",
-      "path": "/symptoms/womens-health/vulvodynia-tcm/",
-      "type": "cluster",
-      "parent": "womens-health",
-      "estimated_read_time": 7,
-      "keywords": [
-        "vulvodynia",
-        "vulvar pain",
-        "chronic pelvic pain",
-        "TCM",
-        "damp heat"
-      ],
-      "id": "663"
-    },
-    {
       "title": "Hyperhidrosis and Excessive Sweating: A TCM Guide to Overactive Sweat Glands",
       "path": "/symptoms/skin-conditions/hyperhidrosis-tcm/",
       "type": "cluster",
@@ -8692,6 +8677,21 @@
         "connective tissue"
       ],
       "id": "662"
+    },
+    {
+      "title": "Vulvodynia: A TCM Perspective on Chronic Vulvar Pain",
+      "path": "/symptoms/womens-health/vulvodynia-tcm/",
+      "type": "cluster",
+      "parent": "womens-health",
+      "estimated_read_time": 7,
+      "keywords": [
+        "vulvodynia",
+        "vulvar pain",
+        "chronic pelvic pain",
+        "TCM",
+        "damp heat"
+      ],
+      "id": "663"
     }
   ]
 }
