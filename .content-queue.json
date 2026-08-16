@@ -4,20 +4,6 @@
   "note": "每3小时自动生产一篇内容。从队列头部取，完成后移到 published。",
   "queue": [
     {
-      "title": "Foot Baths for Menopause: Warm Water Rituals for Cooling and Calming",
-      "path": "/treatments/foot-baths-menopause-tcm/",
-      "type": "treatment",
-      "parent": "",
-      "estimated_read_time": 7,
-      "keywords": [
-        "foot baths",
-        "menopause",
-        "TCM",
-        "hot flashes"
-      ],
-      "id": "658"
-    },
-    {
       "title": "Herbal Baths for Skin: Traditional Soaks for Common Skin Concerns",
       "path": "/treatments/herbal-baths-skin-tcm/",
       "type": "treatment",
@@ -58,6 +44,231 @@
         "circulation"
       ],
       "id": "661"
+    },
+    {
+      "title": "Hypermobility and Loose Joints: A TCM Perspective on Connective Tissue",
+      "path": "/symptoms/joint-pain/hypermobility-tcm/",
+      "type": "cluster",
+      "parent": "joint-pain",
+      "estimated_read_time": 7,
+      "keywords": [
+        "hypermobility",
+        "loose joints",
+        "EDS",
+        "TCM",
+        "connective tissue"
+      ],
+      "id": "662"
+    },
+    {
+      "title": "Vulvodynia: A TCM Perspective on Chronic Vulvar Pain",
+      "path": "/symptoms/womens-health/vulvodynia-tcm/",
+      "type": "cluster",
+      "parent": "womens-health",
+      "estimated_read_time": 7,
+      "keywords": [
+        "vulvodynia",
+        "vulvar pain",
+        "chronic pelvic pain",
+        "TCM",
+        "damp heat"
+      ],
+      "id": "663"
+    },
+    {
+      "title": "Hyperhidrosis and Excessive Sweating: A TCM Guide to Overactive Sweat Glands",
+      "path": "/symptoms/skin-conditions/hyperhidrosis-tcm/",
+      "type": "cluster",
+      "parent": "skin-conditions",
+      "estimated_read_time": 7,
+      "keywords": [
+        "hyperhidrosis",
+        "excessive sweating",
+        "sweaty palms",
+        "TCM",
+        "night sweats"
+      ],
+      "id": "664"
+    },
+    {
+      "title": "New Daily Persistent Headache: A TCM Perspective on the Headache That Never Leaves",
+      "path": "/symptoms/headaches/ndph-tcm/",
+      "type": "cluster",
+      "parent": "headaches",
+      "estimated_read_time": 7,
+      "keywords": [
+        "NDPH",
+        "new daily persistent headache",
+        "chronic daily headache",
+        "TCM",
+        "headache"
+      ],
+      "id": "665"
+    },
+    {
+      "title": "Doomscrolling and the Anxious Mind: A TCM View of the News Feed Loop",
+      "path": "/symptoms/mental-emotional-health/doomscrolling-tcm/",
+      "type": "cluster",
+      "parent": "mental-emotional-health",
+      "estimated_read_time": 7,
+      "keywords": [
+        "doomscrolling",
+        "news anxiety",
+        "screen time",
+        "TCM",
+        "racing thoughts"
+      ],
+      "id": "666"
+    },
+    {
+      "title": "Burning Mouth Syndrome: A TCM Perspective on Lingering Oral Heat",
+      "path": "/symptoms/digestion/burning-mouth-tcm/",
+      "type": "cluster",
+      "parent": "digestion",
+      "estimated_read_time": 7,
+      "keywords": [
+        "burning mouth syndrome",
+        "oral burning",
+        "taste changes",
+        "TCM",
+        "stomach heat"
+      ],
+      "id": "667"
+    },
+    {
+      "title": "Moxibustion for Respiratory Health: Warming the Lungs Through Cold Season",
+      "path": "/treatments/moxibustion-respiratory-tcm/",
+      "type": "treatment",
+      "parent": "",
+      "estimated_read_time": 7,
+      "keywords": [
+        "moxibustion",
+        "respiratory health",
+        "lung support",
+        "TCM",
+        "winter wellness"
+      ],
+      "id": "668"
+    },
+    {
+      "title": "Gua Sha for Menstrual Health: Easing Cramps and Stagnant Flow",
+      "path": "/treatments/gua-sha-womens-health-tcm/",
+      "type": "treatment",
+      "parent": "",
+      "estimated_read_time": 7,
+      "keywords": [
+        "gua sha",
+        "menstrual cramps",
+        "period pain",
+        "TCM",
+        "sacrum"
+      ],
+      "id": "669"
+    },
+    {
+      "title": "Breathing Exercises for Digestion: Slow-Breath Support for the Gut",
+      "path": "/treatments/breathing-exercises-digestion-tcm/",
+      "type": "treatment",
+      "parent": "",
+      "estimated_read_time": 7,
+      "keywords": [
+        "breathing exercises",
+        "digestion",
+        "bloating",
+        "TCM",
+        "gut motility"
+      ],
+      "id": "670"
+    },
+    {
+      "title": "Foot Baths for Immunity: Warming the Feet to Support the Body's Defenses",
+      "path": "/treatments/foot-baths-immunity-tcm/",
+      "type": "treatment",
+      "parent": "",
+      "estimated_read_time": 6,
+      "keywords": [
+        "foot bath immunity",
+        "foot soak",
+        "wei qi",
+        "TCM",
+        "cold season"
+      ],
+      "id": "671"
+    },
+    {
+      "title": "Herbal Tea for Joint Comfort: Traditional Warm Brews for Aching Joints",
+      "path": "/treatments/herbal-tea-joint-pain-tcm/",
+      "type": "treatment",
+      "parent": "",
+      "estimated_read_time": 7,
+      "keywords": [
+        "herbal tea joints",
+        "joint pain tea",
+        "anti-inflammatory tea",
+        "TCM",
+        "ginger tea"
+      ],
+      "id": "672"
+    },
+    {
+      "title": "Sleepwalking: A TCM Perspective on Wandering Through the Night",
+      "path": "/symptoms/insomnia/sleepwalking-tcm/",
+      "type": "cluster",
+      "parent": "insomnia",
+      "estimated_read_time": 6,
+      "keywords": [
+        "sleepwalking",
+        "somnambulism",
+        "night wandering",
+        "TCM",
+        "liver yang"
+      ],
+      "id": "673"
+    },
+    {
+      "title": "Hiccups That Won't Quit: A TCM Guide to Stubborn Hiccups",
+      "path": "/symptoms/digestion/hiccups-tcm/",
+      "type": "cluster",
+      "parent": "digestion",
+      "estimated_read_time": 6,
+      "keywords": [
+        "hiccups",
+        "persistent hiccups",
+        "stomach qi",
+        "TCM",
+        "diaphragm"
+      ],
+      "id": "674"
+    },
+    {
+      "title": "Bunions: A TCM Perspective on Big Toe Joint Pain",
+      "path": "/symptoms/joint-pain/bunions-tcm/",
+      "type": "cluster",
+      "parent": "joint-pain",
+      "estimated_read_time": 6,
+      "keywords": [
+        "bunions",
+        "hallux valgus",
+        "big toe pain",
+        "TCM",
+        "liver sinews"
+      ],
+      "id": "675"
+    },
+    {
+      "title": "Laryngitis and Voice Loss: TCM Support for a Strained Voice",
+      "path": "/symptoms/respiratory-health/laryngitis-tcm/",
+      "type": "cluster",
+      "parent": "respiratory-health",
+      "estimated_read_time": 7,
+      "keywords": [
+        "laryngitis",
+        "voice loss",
+        "hoarse voice",
+        "TCM",
+        "throat health"
+      ],
+      "id": "676"
     }
   ],
   "published": [
@@ -8467,6 +8678,20 @@
         "TCM"
       ],
       "id": "657"
+    },
+    {
+      "title": "Foot Baths for Menopause: Warm Water Rituals for Cooling and Calming",
+      "path": "/treatments/foot-baths-menopause-tcm/",
+      "type": "treatment",
+      "parent": "",
+      "estimated_read_time": 7,
+      "keywords": [
+        "foot baths",
+        "menopause",
+        "TCM",
+        "hot flashes"
+      ],
+      "id": "658"
     }
   ]
 }
