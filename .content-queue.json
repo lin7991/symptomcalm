@@ -4,20 +4,6 @@
   "note": "每3小时自动生产一篇内容。从队列头部取，完成后移到 published。",
   "queue": [
     {
-      "title": "Dietary Therapy for Heart Health: TCM Foods to Support Circulation",
-      "path": "/treatments/dietary-therapy-heart-tcm/",
-      "type": "treatment",
-      "parent": "",
-      "estimated_read_time": 7,
-      "keywords": [
-        "dietary therapy",
-        "heart health",
-        "TCM",
-        "circulation"
-      ],
-      "id": "661"
-    },
-    {
       "title": "Hypermobility and Loose Joints: A TCM Perspective on Connective Tissue",
       "path": "/symptoms/joint-pain/hypermobility-tcm/",
       "type": "cluster",
@@ -8692,6 +8678,20 @@
         "insomnia"
       ],
       "id": "660"
+    },
+    {
+      "title": "Dietary Therapy for Heart Health: TCM Foods to Support Circulation",
+      "path": "/treatments/dietary-therapy-heart-tcm/",
+      "type": "treatment",
+      "parent": "",
+      "estimated_read_time": 7,
+      "keywords": [
+        "dietary therapy",
+        "heart health",
+        "TCM",
+        "circulation"
+      ],
+      "id": "661"
     }
   ]
 }
