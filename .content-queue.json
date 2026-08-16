@@ -4,20 +4,6 @@
   "note": "每3小时自动生产一篇内容。从队列头部取，完成后移到 published。",
   "queue": [
     {
-      "title": "Gua Sha for Legs: Lower Body Techniques for Circulation and Tension",
-      "path": "/treatments/guasha-legs-tcm/",
-      "type": "treatment",
-      "parent": "",
-      "estimated_read_time": 7,
-      "keywords": [
-        "gua sha",
-        "legs",
-        "circulation",
-        "TCM"
-      ],
-      "id": "657"
-    },
-    {
       "title": "Foot Baths for Menopause: Warm Water Rituals for Cooling and Calming",
       "path": "/treatments/foot-baths-menopause-tcm/",
       "type": "treatment",
@@ -8467,6 +8453,20 @@
         "shen"
       ],
       "id": "656"
+    },
+    {
+      "title": "Gua Sha for Legs: Lower Body Techniques for Circulation and Tension",
+      "path": "/treatments/guasha-legs-tcm/",
+      "type": "treatment",
+      "parent": "",
+      "estimated_read_time": 7,
+      "keywords": [
+        "gua sha",
+        "legs",
+        "circulation",
+        "TCM"
+      ],
+      "id": "657"
     }
   ]
 }
