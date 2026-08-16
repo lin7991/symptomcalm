@@ -4,21 +4,6 @@
   "note": "每3小时自动生产一篇内容。从队列头部取，完成后移到 published。",
   "queue": [
     {
-      "title": "Hypermobility and Loose Joints: A TCM Perspective on Connective Tissue",
-      "path": "/symptoms/joint-pain/hypermobility-tcm/",
-      "type": "cluster",
-      "parent": "joint-pain",
-      "estimated_read_time": 7,
-      "keywords": [
-        "hypermobility",
-        "loose joints",
-        "EDS",
-        "TCM",
-        "connective tissue"
-      ],
-      "id": "662"
-    },
-    {
       "title": "Vulvodynia: A TCM Perspective on Chronic Vulvar Pain",
       "path": "/symptoms/womens-health/vulvodynia-tcm/",
       "type": "cluster",
@@ -8692,6 +8677,21 @@
         "circulation"
       ],
       "id": "661"
+    },
+    {
+      "title": "Hypermobility and Loose Joints: A TCM Perspective on Connective Tissue",
+      "path": "/symptoms/joint-pain/hypermobility-tcm/",
+      "type": "cluster",
+      "parent": "joint-pain",
+      "estimated_read_time": 7,
+      "keywords": [
+        "hypermobility",
+        "loose joints",
+        "EDS",
+        "TCM",
+        "connective tissue"
+      ],
+      "id": "662"
     }
   ]
 }
