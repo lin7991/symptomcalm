@@ -5175,4 +5175,9 @@
     <ns0:changefreq>monthly</ns0:changefreq>
     <ns0:priority>0.7</ns0:priority>
   </ns0:url>
+  <ns0:url>
+    <ns0:loc>https://symptomcalm.com/symptoms/skin-conditions/hyperhidrosis-tcm/</ns0:loc>
+    <ns0:changefreq>monthly</ns0:changefreq>
+    <ns0:priority>0.7</ns0:priority>
+  </ns0:url>
 </ns0:urlset>
