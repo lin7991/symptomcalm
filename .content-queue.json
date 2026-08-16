@@ -4,20 +4,6 @@
   "note": "每3小时自动生产一篇内容。从队列头部取，完成后移到 published。",
   "queue": [
     {
-      "title": "Herbal Baths for Skin: Traditional Soaks for Common Skin Concerns",
-      "path": "/treatments/herbal-baths-skin-tcm/",
-      "type": "treatment",
-      "parent": "",
-      "estimated_read_time": 7,
-      "keywords": [
-        "herbal baths",
-        "skin",
-        "TCM",
-        "dampness"
-      ],
-      "id": "659"
-    },
-    {
       "title": "Breathing Exercises for Sleep: Slow-Breath Protocols from TCM Practice",
       "path": "/treatments/breathing-exercises-sleep-tcm/",
       "type": "treatment",
@@ -8692,6 +8678,20 @@
         "hot flashes"
       ],
       "id": "658"
+    },
+    {
+      "title": "Herbal Baths for Skin: Traditional Soaks for Common Skin Concerns",
+      "path": "/treatments/herbal-baths-skin-tcm/",
+      "type": "treatment",
+      "parent": "",
+      "estimated_read_time": 7,
+      "keywords": [
+        "herbal baths",
+        "skin",
+        "TCM",
+        "dampness"
+      ],
+      "id": "659"
     }
   ]
 }
