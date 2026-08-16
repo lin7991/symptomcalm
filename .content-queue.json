@@ -4,21 +4,6 @@
   "note": "每3小时自动生产一篇内容。从队列头部取，完成后移到 published。",
   "queue": [
     {
-      "title": "Doomscrolling and the Anxious Mind: A TCM View of the News Feed Loop",
-      "path": "/symptoms/mental-emotional-health/doomscrolling-tcm/",
-      "type": "cluster",
-      "parent": "mental-emotional-health",
-      "estimated_read_time": 7,
-      "keywords": [
-        "doomscrolling",
-        "news anxiety",
-        "screen time",
-        "TCM",
-        "racing thoughts"
-      ],
-      "id": "666"
-    },
-    {
       "title": "Burning Mouth Syndrome: A TCM Perspective on Lingering Oral Heat",
       "path": "/symptoms/digestion/burning-mouth-tcm/",
       "type": "cluster",
@@ -8692,6 +8677,21 @@
         "headache"
       ],
       "id": "665"
+    },
+    {
+      "title": "Doomscrolling and the Anxious Mind: A TCM View of the News Feed Loop",
+      "path": "/symptoms/mental-emotional-health/doomscrolling-tcm/",
+      "type": "cluster",
+      "parent": "mental-emotional-health",
+      "estimated_read_time": 7,
+      "keywords": [
+        "doomscrolling",
+        "news anxiety",
+        "screen time",
+        "TCM",
+        "racing thoughts"
+      ],
+      "id": "666"
     }
   ]
 }
