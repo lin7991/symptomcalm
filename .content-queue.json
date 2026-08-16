@@ -4,21 +4,6 @@
   "note": "每3小时自动生产一篇内容。从队列头部取，完成后移到 published。",
   "queue": [
     {
-      "title": "New Daily Persistent Headache: A TCM Perspective on the Headache That Never Leaves",
-      "path": "/symptoms/headaches/ndph-tcm/",
-      "type": "cluster",
-      "parent": "headaches",
-      "estimated_read_time": 7,
-      "keywords": [
-        "NDPH",
-        "new daily persistent headache",
-        "chronic daily headache",
-        "TCM",
-        "headache"
-      ],
-      "id": "665"
-    },
-    {
       "title": "Doomscrolling and the Anxious Mind: A TCM View of the News Feed Loop",
       "path": "/symptoms/mental-emotional-health/doomscrolling-tcm/",
       "type": "cluster",
@@ -8692,6 +8677,21 @@
         "night sweats"
       ],
       "id": "664"
+    },
+    {
+      "title": "New Daily Persistent Headache: A TCM Perspective on the Headache That Never Leaves",
+      "path": "/symptoms/headaches/ndph-tcm/",
+      "type": "cluster",
+      "parent": "headaches",
+      "estimated_read_time": 7,
+      "keywords": [
+        "NDPH",
+        "new daily persistent headache",
+        "chronic daily headache",
+        "TCM",
+        "headache"
+      ],
+      "id": "665"
     }
   ]
 }
