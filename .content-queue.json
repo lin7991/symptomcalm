@@ -4,21 +4,6 @@
   "note": "每3小时自动生产一篇内容。从队列头部取，完成后移到 published。",
   "queue": [
     {
-      "title": "Breathing Exercises for Digestion: Slow-Breath Support for the Gut",
-      "path": "/treatments/breathing-exercises-digestion-tcm/",
-      "type": "treatment",
-      "parent": "",
-      "estimated_read_time": 7,
-      "keywords": [
-        "breathing exercises",
-        "digestion",
-        "bloating",
-        "TCM",
-        "gut motility"
-      ],
-      "id": "670"
-    },
-    {
       "title": "Foot Baths for Immunity: Warming the Feet to Support the Body's Defenses",
       "path": "/treatments/foot-baths-immunity-tcm/",
       "type": "treatment",
@@ -8692,6 +8677,21 @@
         "sacrum"
       ],
       "id": "669"
+    },
+    {
+      "title": "Breathing Exercises for Digestion: Slow-Breath Support for the Gut",
+      "path": "/treatments/breathing-exercises-digestion-tcm/",
+      "type": "treatment",
+      "parent": "",
+      "estimated_read_time": 7,
+      "keywords": [
+        "breathing exercises",
+        "digestion",
+        "bloating",
+        "TCM",
+        "gut motility"
+      ],
+      "id": "670"
     }
   ]
 }
