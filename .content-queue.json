@@ -4,21 +4,6 @@
   "note": "每3小时自动生产一篇内容。从队列头部取，完成后移到 published。",
   "queue": [
     {
-      "title": "Foot Baths for Immunity: Warming the Feet to Support the Body's Defenses",
-      "path": "/treatments/foot-baths-immunity-tcm/",
-      "type": "treatment",
-      "parent": "",
-      "estimated_read_time": 6,
-      "keywords": [
-        "foot bath immunity",
-        "foot soak",
-        "wei qi",
-        "TCM",
-        "cold season"
-      ],
-      "id": "671"
-    },
-    {
       "title": "Herbal Tea for Joint Comfort: Traditional Warm Brews for Aching Joints",
       "path": "/treatments/herbal-tea-joint-pain-tcm/",
       "type": "treatment",
@@ -8692,6 +8677,21 @@
         "gut motility"
       ],
       "id": "670"
+    },
+    {
+      "title": "Foot Baths for Immunity: Warming the Feet to Support the Body's Defenses",
+      "path": "/treatments/foot-baths-immunity-tcm/",
+      "type": "treatment",
+      "parent": "",
+      "estimated_read_time": 6,
+      "keywords": [
+        "foot bath immunity",
+        "foot soak",
+        "wei qi",
+        "TCM",
+        "cold season"
+      ],
+      "id": "671"
     }
   ]
 }
