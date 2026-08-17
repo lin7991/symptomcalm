@@ -4,21 +4,6 @@
   "note": "每3小时自动生产一篇内容。从队列头部取，完成后移到 published。",
   "queue": [
     {
-      "title": "Moxibustion for Respiratory Health: Warming the Lungs Through Cold Season",
-      "path": "/treatments/moxibustion-respiratory-tcm/",
-      "type": "treatment",
-      "parent": "",
-      "estimated_read_time": 7,
-      "keywords": [
-        "moxibustion",
-        "respiratory health",
-        "lung support",
-        "TCM",
-        "winter wellness"
-      ],
-      "id": "668"
-    },
-    {
       "title": "Gua Sha for Menstrual Health: Easing Cramps and Stagnant Flow",
       "path": "/treatments/gua-sha-womens-health-tcm/",
       "type": "treatment",
@@ -8692,6 +8677,21 @@
         "stomach heat"
       ],
       "id": "667"
+    },
+    {
+      "title": "Moxibustion for Respiratory Health: Warming the Lungs Through Cold Season",
+      "path": "/treatments/moxibustion-respiratory-tcm/",
+      "type": "treatment",
+      "parent": "",
+      "estimated_read_time": 7,
+      "keywords": [
+        "moxibustion",
+        "respiratory health",
+        "lung support",
+        "TCM",
+        "winter wellness"
+      ],
+      "id": "668"
     }
   ]
 }
