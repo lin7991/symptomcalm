@@ -4,21 +4,6 @@
   "note": "每3小时自动生产一篇内容。从队列头部取，完成后移到 published。",
   "queue": [
     {
-      "title": "Laryngitis and Voice Loss: TCM Support for a Strained Voice",
-      "path": "/symptoms/respiratory-health/laryngitis-tcm/",
-      "type": "cluster",
-      "parent": "respiratory-health",
-      "estimated_read_time": 7,
-      "keywords": [
-        "laryngitis",
-        "voice loss",
-        "hoarse voice",
-        "TCM",
-        "throat health"
-      ],
-      "id": "676"
-    },
-    {
       "title": "Cycle Syncing: Aligning Your Routine with Your Menstrual Phases (TCM View)",
       "path": "/symptoms/womens-health/cycle-syncing-tcm/",
       "type": "cluster",
@@ -8887,6 +8872,21 @@
         "liver sinews"
       ],
       "id": "675"
+    },
+    {
+      "title": "Laryngitis and Voice Loss: TCM Support for a Strained Voice",
+      "path": "/symptoms/respiratory-health/laryngitis-tcm/",
+      "type": "cluster",
+      "parent": "respiratory-health",
+      "estimated_read_time": 7,
+      "keywords": [
+        "laryngitis",
+        "voice loss",
+        "hoarse voice",
+        "TCM",
+        "throat health"
+      ],
+      "id": "676"
     }
   ]
 }
