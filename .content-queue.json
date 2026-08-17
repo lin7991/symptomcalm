@@ -4,21 +4,6 @@
   "note": "每3小时自动生产一篇内容。从队列头部取，完成后移到 published。",
   "queue": [
     {
-      "title": "Herbal Tea for Joint Comfort: Traditional Warm Brews for Aching Joints",
-      "path": "/treatments/herbal-tea-joint-pain-tcm/",
-      "type": "treatment",
-      "parent": "",
-      "estimated_read_time": 7,
-      "keywords": [
-        "herbal tea joints",
-        "joint pain tea",
-        "anti-inflammatory tea",
-        "TCM",
-        "ginger tea"
-      ],
-      "id": "672"
-    },
-    {
       "title": "Sleepwalking: A TCM Perspective on Wandering Through the Night",
       "path": "/symptoms/insomnia/sleepwalking-tcm/",
       "type": "cluster",
@@ -8692,6 +8677,21 @@
         "cold season"
       ],
       "id": "671"
+    },
+    {
+      "title": "Herbal Tea for Joint Comfort: Traditional Warm Brews for Aching Joints",
+      "path": "/treatments/herbal-tea-joint-pain-tcm/",
+      "type": "treatment",
+      "parent": "",
+      "estimated_read_time": 7,
+      "keywords": [
+        "herbal tea joints",
+        "joint pain tea",
+        "anti-inflammatory tea",
+        "TCM",
+        "ginger tea"
+      ],
+      "id": "672"
     }
   ]
 }
