@@ -99,8 +99,11 @@ def add_faq_schema(filepath):
     
     # Insert before </head>
     if '</head>' in html:
-        # Remove existing FAQ schema if present
-        html = re.sub(r'\s*<script type="application/ld\+json">.*?"@type":\s*"FAQPage".*?</script>', '', html, flags=re.DOTALL)
+        # Remove existing FAQ schema if present — only blocks that CONTAIN FAQPage
+        # (never span from an earlier ld+json block like BreadcrumbList/Article)
+        def _drop_faq(m):
+            return '' if '"@type": "FAQPage"' in m.group(0) else m.group(0)
+        html = re.sub(r'<script type="application/ld\+json">.*?</script>', _drop_faq, html, flags=re.DOTALL)
         
         html = html.replace('</head>', f'{schema_html}</head>')
         

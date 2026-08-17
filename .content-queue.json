@@ -4,51 +4,6 @@
   "note": "每3小时自动生产一篇内容。从队列头部取，完成后移到 published。",
   "queue": [
     {
-      "title": "Sleepwalking: A TCM Perspective on Wandering Through the Night",
-      "path": "/symptoms/insomnia/sleepwalking-tcm/",
-      "type": "cluster",
-      "parent": "insomnia",
-      "estimated_read_time": 6,
-      "keywords": [
-        "sleepwalking",
-        "somnambulism",
-        "night wandering",
-        "TCM",
-        "liver yang"
-      ],
-      "id": "673"
-    },
-    {
-      "title": "Hiccups That Won't Quit: A TCM Guide to Stubborn Hiccups",
-      "path": "/symptoms/digestion/hiccups-tcm/",
-      "type": "cluster",
-      "parent": "digestion",
-      "estimated_read_time": 6,
-      "keywords": [
-        "hiccups",
-        "persistent hiccups",
-        "stomach qi",
-        "TCM",
-        "diaphragm"
-      ],
-      "id": "674"
-    },
-    {
-      "title": "Bunions: A TCM Perspective on Big Toe Joint Pain",
-      "path": "/symptoms/joint-pain/bunions-tcm/",
-      "type": "cluster",
-      "parent": "joint-pain",
-      "estimated_read_time": 6,
-      "keywords": [
-        "bunions",
-        "hallux valgus",
-        "big toe pain",
-        "TCM",
-        "liver sinews"
-      ],
-      "id": "675"
-    },
-    {
       "title": "Laryngitis and Voice Loss: TCM Support for a Strained Voice",
       "path": "/symptoms/respiratory-health/laryngitis-tcm/",
       "type": "cluster",
@@ -62,6 +17,201 @@
         "throat health"
       ],
       "id": "676"
+    },
+    {
+      "title": "Cycle Syncing: Aligning Your Routine with Your Menstrual Phases (TCM View)",
+      "path": "/symptoms/womens-health/cycle-syncing-tcm/",
+      "type": "cluster",
+      "parent": "womens-health",
+      "estimated_read_time": 7,
+      "keywords": [
+        "cycle syncing",
+        "menstrual phases",
+        "TCM women's health"
+      ],
+      "id": "677"
+    },
+    {
+      "title": "Body Odor and TCM: Why You Smell the Way You Do",
+      "path": "/symptoms/skin-conditions/body-odor-tcm/",
+      "type": "cluster",
+      "parent": "skin-conditions",
+      "estimated_read_time": 6,
+      "keywords": [
+        "body odor",
+        "damp heat",
+        "TCM sweating"
+      ],
+      "id": "678"
+    },
+    {
+      "title": "Globus Sensation (Lump in Throat): A TCM Perspective",
+      "path": "/symptoms/respiratory-health/globus-sensation-tcm/",
+      "type": "cluster",
+      "parent": "respiratory-health",
+      "estimated_read_time": 6,
+      "keywords": [
+        "globus sensation",
+        "lump in throat",
+        "plum pit qi"
+      ],
+      "id": "679"
+    },
+    {
+      "title": "Photophobia and Light Sensitivity: A TCM Perspective",
+      "path": "/symptoms/eye-health/photophobia-tcm/",
+      "type": "cluster",
+      "parent": "eye-health",
+      "estimated_read_time": 6,
+      "keywords": [
+        "photophobia",
+        "light sensitivity",
+        "eye pain"
+      ],
+      "id": "680"
+    },
+    {
+      "title": "Knee Cracking and Popping (Crepitus): A TCM Perspective",
+      "path": "/symptoms/joint-pain/knee-crepitus-tcm/",
+      "type": "cluster",
+      "parent": "joint-pain",
+      "estimated_read_time": 6,
+      "keywords": [
+        "knee crepitus",
+        "knee cracking",
+        "joint sounds"
+      ],
+      "id": "681"
+    },
+    {
+      "title": "Shame and the Heart: A TCM Perspective on Self-Criticism",
+      "path": "/symptoms/mental-emotional-health/shame-tcm/",
+      "type": "cluster",
+      "parent": "mental-emotional-health",
+      "estimated_read_time": 7,
+      "keywords": [
+        "shame",
+        "self-criticism",
+        "heart shen"
+      ],
+      "id": "682"
+    },
+    {
+      "title": "Parenting Stress: A TCM Guide to Recharging Between Meltdowns",
+      "path": "/symptoms/stress/parenting-stress-tcm/",
+      "type": "cluster",
+      "parent": "stress",
+      "estimated_read_time": 7,
+      "keywords": [
+        "parenting stress",
+        "parent burnout",
+        "TCM stress relief"
+      ],
+      "id": "683"
+    },
+    {
+      "title": "Agoraphobia and Fear of Leaving Home: A TCM Perspective",
+      "path": "/symptoms/anxiety/agoraphobia-tcm/",
+      "type": "cluster",
+      "parent": "anxiety",
+      "estimated_read_time": 6,
+      "keywords": [
+        "agoraphobia",
+        "fear",
+        "kidney qi"
+      ],
+      "id": "684"
+    },
+    {
+      "title": "Menstrual Fatigue: Why Your Period Drains Your Energy (TCM View)",
+      "path": "/symptoms/fatigue/menstrual-fatigue-tcm/",
+      "type": "cluster",
+      "parent": "fatigue",
+      "estimated_read_time": 7,
+      "keywords": [
+        "menstrual fatigue",
+        "period exhaustion",
+        "blood deficiency"
+      ],
+      "id": "685"
+    },
+    {
+      "title": "The Eight Extraordinary Vessels: TCM's Deep Energy Reservoirs",
+      "path": "/tcm-basics/extraordinary-vessels-tcm/",
+      "type": "tcm-basics",
+      "parent": "tcm-basics",
+      "estimated_read_time": 7,
+      "keywords": [
+        "extraordinary vessels",
+        "governing vessel",
+        "conception vessel"
+      ],
+      "id": "686"
+    },
+    {
+      "title": "What Your Sweat Reveals: A TCM Diagnostic Window",
+      "path": "/tcm-basics/sweat-and-health-tcm/",
+      "type": "tcm-basics",
+      "parent": "tcm-basics",
+      "estimated_read_time": 6,
+      "keywords": [
+        "sweat diagnosis",
+        "night sweats",
+        "body fluids"
+      ],
+      "id": "687"
+    },
+    {
+      "title": "Foot Baths for Anxiety: A Calming Evening Ritual",
+      "path": "/treatments/foot-baths-anxiety-tcm/",
+      "type": "treatment",
+      "parent": "treatments",
+      "estimated_read_time": 6,
+      "keywords": [
+        "foot bath",
+        "anxiety relief",
+        "evening ritual"
+      ],
+      "id": "688"
+    },
+    {
+      "title": "Motion Sickness and TCM: Calming a Rebounding Stomach",
+      "path": "/symptoms/digestion/motion-sickness-tcm/",
+      "type": "cluster",
+      "parent": "digestion",
+      "estimated_read_time": 6,
+      "keywords": [
+        "motion sickness",
+        "nausea",
+        "stomach qi"
+      ],
+      "id": "689"
+    },
+    {
+      "title": "Tonsillitis and TCM: Soothing a Sore, Swollen Throat",
+      "path": "/symptoms/respiratory-health/tonsillitis-tcm/",
+      "type": "cluster",
+      "parent": "respiratory-health",
+      "estimated_read_time": 6,
+      "keywords": [
+        "tonsillitis",
+        "sore throat",
+        "heat clearing"
+      ],
+      "id": "690"
+    },
+    {
+      "title": "Noise Sensitivity and Anxiety: When Sound Feels Like an Attack",
+      "path": "/symptoms/anxiety/noise-sensitivity-anxiety-tcm/",
+      "type": "cluster",
+      "parent": "anxiety",
+      "estimated_read_time": 6,
+      "keywords": [
+        "noise sensitivity",
+        "sound sensitivity",
+        "misophonia"
+      ],
+      "id": "691"
     }
   ],
   "published": [
@@ -8692,6 +8842,51 @@
         "ginger tea"
       ],
       "id": "672"
+    },
+    {
+      "title": "Sleepwalking: A TCM Perspective on Wandering Through the Night",
+      "path": "/symptoms/insomnia/sleepwalking-tcm/",
+      "type": "cluster",
+      "parent": "insomnia",
+      "estimated_read_time": 6,
+      "keywords": [
+        "sleepwalking",
+        "somnambulism",
+        "night wandering",
+        "TCM",
+        "liver yang"
+      ],
+      "id": "673"
+    },
+    {
+      "title": "Hiccups That Won't Quit: A TCM Guide to Stubborn Hiccups",
+      "path": "/symptoms/digestion/hiccups-tcm/",
+      "type": "cluster",
+      "parent": "digestion",
+      "estimated_read_time": 6,
+      "keywords": [
+        "hiccups",
+        "persistent hiccups",
+        "stomach qi",
+        "TCM",
+        "diaphragm"
+      ],
+      "id": "674"
+    },
+    {
+      "title": "Bunions: A TCM Perspective on Big Toe Joint Pain",
+      "path": "/symptoms/joint-pain/bunions-tcm/",
+      "type": "cluster",
+      "parent": "joint-pain",
+      "estimated_read_time": 6,
+      "keywords": [
+        "bunions",
+        "hallux valgus",
+        "big toe pain",
+        "TCM",
+        "liver sinews"
+      ],
+      "id": "675"
     }
   ]
 }

@@ -52,6 +52,18 @@ python3 .cron/gen-rss.py >> "$HOME/symptomcalm/.cron/publish.log" 2>&1
 echo "$(date): Updating share/images..." >> "$HOME/symptomcalm/.cron/publish.log"
 python3 .cron/add-share-images.py >> "$HOME/symptomcalm/.cron/publish.log" 2>&1
 
+# Add Breadcrumb + Article schema to new pages
+echo "$(date): Adding schemas..." >> "$HOME/symptomcalm/.cron/publish.log"
+python3 .cron/add-schemas.py >> "$HOME/symptomcalm/.cron/publish.log" 2>&1
+
+# Add hreflang bidirectional tags
+echo "$(date): Adding hreflang..." >> "$HOME/symptomcalm/.cron/publish.log"
+python3 .cron/add-hreflang.py >> "$HOME/symptomcalm/.cron/publish.log" 2>&1
+
+# Ensure ZH mirror exists for new articles (batch fallback)
+echo "$(date): Ensuring ZH mirrors..." >> "$HOME/symptomcalm/.cron/publish.log"
+python3 .cron/batch-zh.py >> "$HOME/symptomcalm/.cron/publish.log" 2>&1
+
 # Commit all changes
 cd "$HOME/symptomcalm"
 git add -A 2>/dev/null
