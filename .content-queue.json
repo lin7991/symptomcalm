@@ -4,19 +4,6 @@
   "note": "每3小时自动生产一篇内容。从队列头部取，完成后移到 published。",
   "queue": [
     {
-      "title": "Photophobia and Light Sensitivity: A TCM Perspective",
-      "path": "/symptoms/eye-health/photophobia-tcm/",
-      "type": "cluster",
-      "parent": "eye-health",
-      "estimated_read_time": 6,
-      "keywords": [
-        "photophobia",
-        "light sensitivity",
-        "eye pain"
-      ],
-      "id": "680"
-    },
-    {
       "title": "Knee Cracking and Popping (Crepitus): A TCM Perspective",
       "path": "/symptoms/joint-pain/knee-crepitus-tcm/",
       "type": "cluster",
@@ -8887,6 +8874,19 @@
         "plum pit qi"
       ],
       "id": "679"
+    },
+    {
+      "title": "Photophobia and Light Sensitivity: A TCM Perspective",
+      "path": "/symptoms/eye-health/photophobia-tcm/",
+      "type": "cluster",
+      "parent": "eye-health",
+      "estimated_read_time": 6,
+      "keywords": [
+        "photophobia",
+        "light sensitivity",
+        "eye pain"
+      ],
+      "id": "680"
     }
   ]
 }
