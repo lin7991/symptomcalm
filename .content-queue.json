@@ -4,19 +4,6 @@
   "note": "每3小时自动生产一篇内容。从队列头部取，完成后移到 published。",
   "queue": [
     {
-      "title": "Knee Cracking and Popping (Crepitus): A TCM Perspective",
-      "path": "/symptoms/joint-pain/knee-crepitus-tcm/",
-      "type": "cluster",
-      "parent": "joint-pain",
-      "estimated_read_time": 6,
-      "keywords": [
-        "knee crepitus",
-        "knee cracking",
-        "joint sounds"
-      ],
-      "id": "681"
-    },
-    {
       "title": "Shame and the Heart: A TCM Perspective on Self-Criticism",
       "path": "/symptoms/mental-emotional-health/shame-tcm/",
       "type": "cluster",
@@ -8887,6 +8874,19 @@
         "eye pain"
       ],
       "id": "680"
+    },
+    {
+      "title": "Knee Cracking and Popping (Crepitus): A TCM Perspective",
+      "path": "/symptoms/joint-pain/knee-crepitus-tcm/",
+      "type": "cluster",
+      "parent": "joint-pain",
+      "estimated_read_time": 6,
+      "keywords": [
+        "knee crepitus",
+        "knee cracking",
+        "joint sounds"
+      ],
+      "id": "681"
     }
   ]
 }
