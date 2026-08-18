@@ -4,32 +4,6 @@
   "note": "每3小时自动生产一篇内容。从队列头部取，完成后移到 published。",
   "queue": [
     {
-      "title": "Cycle Syncing: Aligning Your Routine with Your Menstrual Phases (TCM View)",
-      "path": "/symptoms/womens-health/cycle-syncing-tcm/",
-      "type": "cluster",
-      "parent": "womens-health",
-      "estimated_read_time": 7,
-      "keywords": [
-        "cycle syncing",
-        "menstrual phases",
-        "TCM women's health"
-      ],
-      "id": "677"
-    },
-    {
-      "title": "Body Odor and TCM: Why You Smell the Way You Do",
-      "path": "/symptoms/skin-conditions/body-odor-tcm/",
-      "type": "cluster",
-      "parent": "skin-conditions",
-      "estimated_read_time": 6,
-      "keywords": [
-        "body odor",
-        "damp heat",
-        "TCM sweating"
-      ],
-      "id": "678"
-    },
-    {
       "title": "Globus Sensation (Lump in Throat): A TCM Perspective",
       "path": "/symptoms/respiratory-health/globus-sensation-tcm/",
       "type": "cluster",
@@ -8887,6 +8861,32 @@
         "throat health"
       ],
       "id": "676"
+    },
+    {
+      "title": "Cycle Syncing: Aligning Your Routine with Your Menstrual Phases (TCM View)",
+      "path": "/symptoms/womens-health/cycle-syncing-tcm/",
+      "type": "cluster",
+      "parent": "womens-health",
+      "estimated_read_time": 7,
+      "keywords": [
+        "cycle syncing",
+        "menstrual phases",
+        "TCM women's health"
+      ],
+      "id": "677"
+    },
+    {
+      "title": "Body Odor and TCM: Why You Smell the Way You Do",
+      "path": "/symptoms/skin-conditions/body-odor-tcm/",
+      "type": "cluster",
+      "parent": "skin-conditions",
+      "estimated_read_time": 6,
+      "keywords": [
+        "body odor",
+        "damp heat",
+        "TCM sweating"
+      ],
+      "id": "678"
     }
   ]
 }
