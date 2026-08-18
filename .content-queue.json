@@ -4,32 +4,6 @@
   "note": "每3小时自动生产一篇内容。从队列头部取，完成后移到 published。",
   "queue": [
     {
-      "title": "Foot Baths for Anxiety: A Calming Evening Ritual",
-      "path": "/treatments/foot-baths-anxiety-tcm/",
-      "type": "treatment",
-      "parent": "treatments",
-      "estimated_read_time": 6,
-      "keywords": [
-        "foot bath",
-        "anxiety relief",
-        "evening ritual"
-      ],
-      "id": "688"
-    },
-    {
-      "title": "Motion Sickness and TCM: Calming a Rebounding Stomach",
-      "path": "/symptoms/digestion/motion-sickness-tcm/",
-      "type": "cluster",
-      "parent": "digestion",
-      "estimated_read_time": 6,
-      "keywords": [
-        "motion sickness",
-        "nausea",
-        "stomach qi"
-      ],
-      "id": "689"
-    },
-    {
       "title": "Tonsillitis and TCM: Soothing a Sore, Swollen Throat",
       "path": "/symptoms/respiratory-health/tonsillitis-tcm/",
       "type": "cluster",
@@ -54,6 +28,217 @@
         "misophonia"
       ],
       "id": "691"
+    },
+    {
+      "title": "Uncertainty and Anxiety: TCM for a Mind That Craves Certainty",
+      "path": "/symptoms/anxiety/uncertainty-tcm/",
+      "type": "cluster",
+      "parent": "anxiety",
+      "estimated_read_time": 7,
+      "keywords": [
+        "uncertainty anxiety tcm",
+        "intolerance of uncertainty tcm",
+        "liver qi stagnation uncertainty",
+        "anxiety about the unknown"
+      ],
+      "id": "692"
+    },
+    {
+      "title": "Sleep-Onset Insomnia and TCM: Why Your Mind Won't Switch Off",
+      "path": "/symptoms/insomnia/sleep-onset-tcm/",
+      "type": "cluster",
+      "parent": "insomnia",
+      "estimated_read_time": 7,
+      "keywords": [
+        "sleep onset insomnia tcm",
+        "can't fall asleep tcm",
+        "racing mind at bedtime",
+        "shen unsettled insomnia"
+      ],
+      "id": "693"
+    },
+    {
+      "title": "Daytime Sleepiness and TCM: When You're Tired Despite Enough Sleep",
+      "path": "/symptoms/fatigue/daytime-sleepiness-tcm/",
+      "type": "cluster",
+      "parent": "fatigue",
+      "estimated_read_time": 7,
+      "keywords": [
+        "daytime sleepiness tcm",
+        "always sleepy tcm",
+        "spleen qi daytime sleepiness",
+        "excessive sleepiness traditional chinese medicine"
+      ],
+      "id": "694"
+    },
+    {
+      "title": "Sunburn and TCM: Cooling Heat-Stressed Skin from the Inside Out",
+      "path": "/symptoms/skin-conditions/sunburn-tcm/",
+      "type": "cluster",
+      "parent": "skin-conditions",
+      "estimated_read_time": 7,
+      "keywords": [
+        "sunburn tcm",
+        "heat in skin tcm",
+        "sun exposure chinese medicine",
+        "cooling herbs sunburn"
+      ],
+      "id": "695"
+    },
+    {
+      "title": "Shortness of Breath and TCM: When Breathing Feels Effortful",
+      "path": "/symptoms/respiratory-health/shortness-of-breath-tcm/",
+      "type": "cluster",
+      "parent": "respiratory-health",
+      "estimated_read_time": 7,
+      "keywords": [
+        "shortness of breath tcm",
+        "dyspnea chinese medicine",
+        "lung qi deficiency breathlessness",
+        "sighing tcm"
+      ],
+      "id": "696"
+    },
+    {
+      "title": "Amblyopia (Lazy Eye) and TCM: A Developmental View of Vision",
+      "path": "/symptoms/eye-health/lazy-eye-tcm/",
+      "type": "cluster",
+      "parent": "eye-health",
+      "estimated_read_time": 7,
+      "keywords": [
+        "amblyopia tcm",
+        "lazy eye chinese medicine",
+        "liver blood vision development",
+        "children eye health tcm"
+      ],
+      "id": "697"
+    },
+    {
+      "title": "Breast Tenderness and TCM: Cyclical Pain Through a Different Lens",
+      "path": "/symptoms/womens-health/breast-tenderness-tcm/",
+      "type": "cluster",
+      "parent": "womens-health",
+      "estimated_read_time": 7,
+      "keywords": [
+        "breast tenderness tcm",
+        "cyclic breast pain chinese medicine",
+        "liver qi breast tenderness",
+        "mastalgia tcm"
+      ],
+      "id": "698"
+    },
+    {
+      "title": "Sleep-Deprivation Headaches and TCM: The Tension of a Tired Body",
+      "path": "/symptoms/headaches/sleep-deprivation-headache-tcm/",
+      "type": "cluster",
+      "parent": "headaches",
+      "estimated_read_time": 7,
+      "keywords": [
+        "sleep deprivation headache tcm",
+        "headache after poor sleep",
+        "liver yang headache fatigue",
+        "tired headache chinese medicine"
+      ],
+      "id": "699"
+    },
+    {
+      "title": "Slow Digestion and TCM: When Food Feels Like It Just Sits There",
+      "path": "/symptoms/digestion/slow-digestion-tcm/",
+      "type": "cluster",
+      "parent": "digestion",
+      "estimated_read_time": 7,
+      "keywords": [
+        "slow digestion tcm",
+        "food sits in stomach",
+        "spleen qi slow digestion",
+        "sluggish digestion chinese medicine"
+      ],
+      "id": "700"
+    },
+    {
+      "title": "Resentment and TCM: The Quiet Fire That Burns Inward",
+      "path": "/symptoms/mental-emotional-health/resentment-tcm/",
+      "type": "cluster",
+      "parent": "mental-emotional-health",
+      "estimated_read_time": 7,
+      "keywords": [
+        "resentment tcm",
+        "holding grudges health",
+        "liver qi resentment",
+        "stagnation emotions chinese medicine"
+      ],
+      "id": "701"
+    },
+    {
+      "title": "Psoriatic Arthritis and TCM: When Skin and Joints Share a Story",
+      "path": "/symptoms/joint-pain/psoriatic-arthritis-tcm/",
+      "type": "cluster",
+      "parent": "joint-pain",
+      "estimated_read_time": 7,
+      "keywords": [
+        "psoriatic arthritis tcm",
+        "psoriasis joint pain",
+        "bi syndrome psoriatic",
+        "damp heat joints skin"
+      ],
+      "id": "702"
+    },
+    {
+      "title": "Ear Seed Acupressure: A Tiny Tool for Big Calm",
+      "path": "/treatments/ear-seed-acupressure-tcm/",
+      "type": "treatment",
+      "parent": "",
+      "estimated_read_time": 6,
+      "keywords": [
+        "ear seed acupressure",
+        "auricular acupressure tcm",
+        "ear seeds anxiety",
+        "ear acupuncture at home"
+      ],
+      "id": "703"
+    },
+    {
+      "title": "Foot Baths for Migraine: Cooling the Head Through the Feet",
+      "path": "/treatments/foot-baths-migraine-tcm/",
+      "type": "treatment",
+      "parent": "",
+      "estimated_read_time": 6,
+      "keywords": [
+        "foot bath migraine",
+        "foot soak headache tcm",
+        "drawing heat down feet",
+        "migraine home remedy foot bath"
+      ],
+      "id": "704"
+    },
+    {
+      "title": "Cupping for Neck Pain: A Targeted Home Guide",
+      "path": "/treatments/cupping-neck-pain-tcm/",
+      "type": "treatment",
+      "parent": "",
+      "estimated_read_time": 7,
+      "keywords": [
+        "cupping neck pain",
+        "neck cupping at home",
+        "cupping shoulder tension",
+        "tcm neck pain relief"
+      ],
+      "id": "705"
+    },
+    {
+      "title": "Yuan Qi (Original Qi) in TCM: The Deep Reserve Powering Everything",
+      "path": "/tcm-basics/yuan-qi-tcm/",
+      "type": "tcm-basics",
+      "parent": "",
+      "estimated_read_time": 7,
+      "keywords": [
+        "yuan qi tcm",
+        "original qi chinese medicine",
+        "prenatal qi",
+        "kidney qi root",
+        "vital essence qi"
+      ],
+      "id": "706"
     }
   ],
   "published": [
@@ -8887,6 +9072,19 @@
         "body fluids"
       ],
       "id": "687"
+    },
+    {
+      "title": "Foot Baths for Anxiety: A Calming Evening Ritual",
+      "path": "/treatments/foot-baths-anxiety-tcm/",
+      "type": "treatment",
+      "parent": "treatments",
+      "estimated_read_time": 6,
+      "keywords": [
+        "foot bath",
+        "anxiety relief",
+        "evening ritual"
+      ],
+      "id": "688"
     }
   ]
 }
