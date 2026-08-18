@@ -4,19 +4,6 @@
   "note": "每3小时自动生产一篇内容。从队列头部取，完成后移到 published。",
   "queue": [
     {
-      "title": "Parenting Stress: A TCM Guide to Recharging Between Meltdowns",
-      "path": "/symptoms/stress/parenting-stress-tcm/",
-      "type": "cluster",
-      "parent": "stress",
-      "estimated_read_time": 7,
-      "keywords": [
-        "parenting stress",
-        "parent burnout",
-        "TCM stress relief"
-      ],
-      "id": "683"
-    },
-    {
       "title": "Agoraphobia and Fear of Leaving Home: A TCM Perspective",
       "path": "/symptoms/anxiety/agoraphobia-tcm/",
       "type": "cluster",
@@ -8887,6 +8874,19 @@
         "heart shen"
       ],
       "id": "682"
+    },
+    {
+      "title": "Parenting Stress: A TCM Guide to Recharging Between Meltdowns",
+      "path": "/symptoms/stress/parenting-stress-tcm/",
+      "type": "cluster",
+      "parent": "stress",
+      "estimated_read_time": 7,
+      "keywords": [
+        "parenting stress",
+        "parent burnout",
+        "TCM stress relief"
+      ],
+      "id": "683"
     }
   ]
 }
