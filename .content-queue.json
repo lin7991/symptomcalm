@@ -4,19 +4,6 @@
   "note": "每3小时自动生产一篇内容。从队列头部取，完成后移到 published。",
   "queue": [
     {
-      "title": "Shame and the Heart: A TCM Perspective on Self-Criticism",
-      "path": "/symptoms/mental-emotional-health/shame-tcm/",
-      "type": "cluster",
-      "parent": "mental-emotional-health",
-      "estimated_read_time": 7,
-      "keywords": [
-        "shame",
-        "self-criticism",
-        "heart shen"
-      ],
-      "id": "682"
-    },
-    {
       "title": "Parenting Stress: A TCM Guide to Recharging Between Meltdowns",
       "path": "/symptoms/stress/parenting-stress-tcm/",
       "type": "cluster",
@@ -8887,6 +8874,19 @@
         "joint sounds"
       ],
       "id": "681"
+    },
+    {
+      "title": "Shame and the Heart: A TCM Perspective on Self-Criticism",
+      "path": "/symptoms/mental-emotional-health/shame-tcm/",
+      "type": "cluster",
+      "parent": "mental-emotional-health",
+      "estimated_read_time": 7,
+      "keywords": [
+        "shame",
+        "self-criticism",
+        "heart shen"
+      ],
+      "id": "682"
     }
   ]
 }
