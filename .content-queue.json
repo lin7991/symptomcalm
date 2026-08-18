@@ -4,19 +4,6 @@
   "note": "每3小时自动生产一篇内容。从队列头部取，完成后移到 published。",
   "queue": [
     {
-      "title": "Menstrual Fatigue: Why Your Period Drains Your Energy (TCM View)",
-      "path": "/symptoms/fatigue/menstrual-fatigue-tcm/",
-      "type": "cluster",
-      "parent": "fatigue",
-      "estimated_read_time": 7,
-      "keywords": [
-        "menstrual fatigue",
-        "period exhaustion",
-        "blood deficiency"
-      ],
-      "id": "685"
-    },
-    {
       "title": "The Eight Extraordinary Vessels: TCM's Deep Energy Reservoirs",
       "path": "/tcm-basics/extraordinary-vessels-tcm/",
       "type": "tcm-basics",
@@ -8887,6 +8874,19 @@
         "kidney qi"
       ],
       "id": "684"
+    },
+    {
+      "title": "Menstrual Fatigue: Why Your Period Drains Your Energy (TCM View)",
+      "path": "/symptoms/fatigue/menstrual-fatigue-tcm/",
+      "type": "cluster",
+      "parent": "fatigue",
+      "estimated_read_time": 7,
+      "keywords": [
+        "menstrual fatigue",
+        "period exhaustion",
+        "blood deficiency"
+      ],
+      "id": "685"
     }
   ]
 }
