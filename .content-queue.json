@@ -4,19 +4,6 @@
   "note": "每3小时自动生产一篇内容。从队列头部取，完成后移到 published。",
   "queue": [
     {
-      "title": "Agoraphobia and Fear of Leaving Home: A TCM Perspective",
-      "path": "/symptoms/anxiety/agoraphobia-tcm/",
-      "type": "cluster",
-      "parent": "anxiety",
-      "estimated_read_time": 6,
-      "keywords": [
-        "agoraphobia",
-        "fear",
-        "kidney qi"
-      ],
-      "id": "684"
-    },
-    {
       "title": "Menstrual Fatigue: Why Your Period Drains Your Energy (TCM View)",
       "path": "/symptoms/fatigue/menstrual-fatigue-tcm/",
       "type": "cluster",
@@ -8887,6 +8874,19 @@
         "TCM stress relief"
       ],
       "id": "683"
+    },
+    {
+      "title": "Agoraphobia and Fear of Leaving Home: A TCM Perspective",
+      "path": "/symptoms/anxiety/agoraphobia-tcm/",
+      "type": "cluster",
+      "parent": "anxiety",
+      "estimated_read_time": 6,
+      "keywords": [
+        "agoraphobia",
+        "fear",
+        "kidney qi"
+      ],
+      "id": "684"
     }
   ]
 }
