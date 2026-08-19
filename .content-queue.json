@@ -4,19 +4,6 @@
   "note": "每3小时自动生产一篇内容。从队列头部取，完成后移到 published。",
   "queue": [
     {
-      "title": "Noise Sensitivity and Anxiety: When Sound Feels Like an Attack",
-      "path": "/symptoms/anxiety/noise-sensitivity-anxiety-tcm/",
-      "type": "cluster",
-      "parent": "anxiety",
-      "estimated_read_time": 6,
-      "keywords": [
-        "noise sensitivity",
-        "sound sensitivity",
-        "misophonia"
-      ],
-      "id": "691"
-    },
-    {
       "title": "Uncertainty and Anxiety: TCM for a Mind That Craves Certainty",
       "path": "/symptoms/anxiety/uncertainty-tcm/",
       "type": "cluster",
@@ -9085,6 +9072,19 @@
         "heat clearing"
       ],
       "id": "690"
+    },
+    {
+      "title": "Noise Sensitivity and Anxiety: When Sound Feels Like an Attack",
+      "path": "/symptoms/anxiety/noise-sensitivity-anxiety-tcm/",
+      "type": "cluster",
+      "parent": "anxiety",
+      "estimated_read_time": 6,
+      "keywords": [
+        "noise sensitivity",
+        "sound sensitivity",
+        "misophonia"
+      ],
+      "id": "691"
     }
   ]
 }
