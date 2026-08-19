@@ -4,20 +4,6 @@
   "note": "每3小时自动生产一篇内容。从队列头部取，完成后移到 published。",
   "queue": [
     {
-      "title": "Sleep-Onset Insomnia and TCM: Why Your Mind Won't Switch Off",
-      "path": "/symptoms/insomnia/sleep-onset-tcm/",
-      "type": "cluster",
-      "parent": "insomnia",
-      "estimated_read_time": 7,
-      "keywords": [
-        "sleep onset insomnia tcm",
-        "can't fall asleep tcm",
-        "racing mind at bedtime",
-        "shen unsettled insomnia"
-      ],
-      "id": "693"
-    },
-    {
       "title": "Daytime Sleepiness and TCM: When You're Tired Despite Enough Sleep",
       "path": "/symptoms/fatigue/daytime-sleepiness-tcm/",
       "type": "cluster",
@@ -9085,6 +9071,20 @@
         "anxiety about the unknown"
       ],
       "id": "692"
+    },
+    {
+      "title": "Sleep-Onset Insomnia and TCM: Why Your Mind Won't Switch Off",
+      "path": "/symptoms/insomnia/sleep-onset-tcm/",
+      "type": "cluster",
+      "parent": "insomnia",
+      "estimated_read_time": 7,
+      "keywords": [
+        "sleep onset insomnia tcm",
+        "can't fall asleep tcm",
+        "racing mind at bedtime",
+        "shen unsettled insomnia"
+      ],
+      "id": "693"
     }
   ]
 }
