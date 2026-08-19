@@ -4,20 +4,6 @@
   "note": "每3小时自动生产一篇内容。从队列头部取，完成后移到 published。",
   "queue": [
     {
-      "title": "Shortness of Breath and TCM: When Breathing Feels Effortful",
-      "path": "/symptoms/respiratory-health/shortness-of-breath-tcm/",
-      "type": "cluster",
-      "parent": "respiratory-health",
-      "estimated_read_time": 7,
-      "keywords": [
-        "shortness of breath tcm",
-        "dyspnea chinese medicine",
-        "lung qi deficiency breathlessness",
-        "sighing tcm"
-      ],
-      "id": "696"
-    },
-    {
       "title": "Amblyopia (Lazy Eye) and TCM: A Developmental View of Vision",
       "path": "/symptoms/eye-health/lazy-eye-tcm/",
       "type": "cluster",
@@ -9085,6 +9071,20 @@
         "cooling herbs sunburn"
       ],
       "id": "695"
+    },
+    {
+      "title": "Shortness of Breath and TCM: When Breathing Feels Effortful",
+      "path": "/symptoms/respiratory-health/shortness-of-breath-tcm/",
+      "type": "cluster",
+      "parent": "respiratory-health",
+      "estimated_read_time": 7,
+      "keywords": [
+        "shortness of breath tcm",
+        "dyspnea chinese medicine",
+        "lung qi deficiency breathlessness",
+        "sighing tcm"
+      ],
+      "id": "696"
     }
   ]
 }
