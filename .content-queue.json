@@ -4,19 +4,6 @@
   "note": "每3小时自动生产一篇内容。从队列头部取，完成后移到 published。",
   "queue": [
     {
-      "title": "Tonsillitis and TCM: Soothing a Sore, Swollen Throat",
-      "path": "/symptoms/respiratory-health/tonsillitis-tcm/",
-      "type": "cluster",
-      "parent": "respiratory-health",
-      "estimated_read_time": 6,
-      "keywords": [
-        "tonsillitis",
-        "sore throat",
-        "heat clearing"
-      ],
-      "id": "690"
-    },
-    {
       "title": "Noise Sensitivity and Anxiety: When Sound Feels Like an Attack",
       "path": "/symptoms/anxiety/noise-sensitivity-anxiety-tcm/",
       "type": "cluster",
@@ -9085,6 +9072,19 @@
         "evening ritual"
       ],
       "id": "688"
+    },
+    {
+      "title": "Tonsillitis and TCM: Soothing a Sore, Swollen Throat",
+      "path": "/symptoms/respiratory-health/tonsillitis-tcm/",
+      "type": "cluster",
+      "parent": "respiratory-health",
+      "estimated_read_time": 6,
+      "keywords": [
+        "tonsillitis",
+        "sore throat",
+        "heat clearing"
+      ],
+      "id": "690"
     }
   ]
 }
