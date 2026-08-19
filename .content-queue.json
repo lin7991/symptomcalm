@@ -4,20 +4,6 @@
   "note": "每3小时自动生产一篇内容。从队列头部取，完成后移到 published。",
   "queue": [
     {
-      "title": "Uncertainty and Anxiety: TCM for a Mind That Craves Certainty",
-      "path": "/symptoms/anxiety/uncertainty-tcm/",
-      "type": "cluster",
-      "parent": "anxiety",
-      "estimated_read_time": 7,
-      "keywords": [
-        "uncertainty anxiety tcm",
-        "intolerance of uncertainty tcm",
-        "liver qi stagnation uncertainty",
-        "anxiety about the unknown"
-      ],
-      "id": "692"
-    },
-    {
       "title": "Sleep-Onset Insomnia and TCM: Why Your Mind Won't Switch Off",
       "path": "/symptoms/insomnia/sleep-onset-tcm/",
       "type": "cluster",
@@ -9085,6 +9071,20 @@
         "misophonia"
       ],
       "id": "691"
+    },
+    {
+      "title": "Uncertainty and Anxiety: TCM for a Mind That Craves Certainty",
+      "path": "/symptoms/anxiety/uncertainty-tcm/",
+      "type": "cluster",
+      "parent": "anxiety",
+      "estimated_read_time": 7,
+      "keywords": [
+        "uncertainty anxiety tcm",
+        "intolerance of uncertainty tcm",
+        "liver qi stagnation uncertainty",
+        "anxiety about the unknown"
+      ],
+      "id": "692"
     }
   ]
 }
