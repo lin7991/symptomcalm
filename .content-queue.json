@@ -4,20 +4,6 @@
   "note": "每3小时自动生产一篇内容。从队列头部取，完成后移到 published。",
   "queue": [
     {
-      "title": "Ear Seed Acupressure: A Tiny Tool for Big Calm",
-      "path": "/treatments/ear-seed-acupressure-tcm/",
-      "type": "treatment",
-      "parent": "",
-      "estimated_read_time": 6,
-      "keywords": [
-        "ear seed acupressure",
-        "auricular acupressure tcm",
-        "ear seeds anxiety",
-        "ear acupuncture at home"
-      ],
-      "id": "703"
-    },
-    {
       "title": "Foot Baths for Migraine: Cooling the Head Through the Feet",
       "path": "/treatments/foot-baths-migraine-tcm/",
       "type": "treatment",
@@ -59,6 +45,216 @@
         "vital essence qi"
       ],
       "id": "706"
+    },
+    {
+      "title": "Post-Concussion Syndrome: A TCM Perspective on Recovery",
+      "path": "/symptoms/headaches/post-concussion-tcm/",
+      "type": "cluster",
+      "parent": "headaches",
+      "estimated_read_time": 8,
+      "keywords": [
+        "post concussion syndrome",
+        "concussion recovery tcm",
+        "post concussion tcm",
+        "brain fog after concussion"
+      ],
+      "id": "707"
+    },
+    {
+      "title": "POTS (Postural Orthostatic Tachycardia): A TCM View on Dizziness and Fatigue",
+      "path": "/symptoms/fatigue/pots-tcm/",
+      "type": "cluster",
+      "parent": "fatigue",
+      "estimated_read_time": 8,
+      "keywords": [
+        "pots syndrome",
+        "pots tcm",
+        "postural orthostatic tachycardia",
+        "pots fatigue dizziness"
+      ],
+      "id": "708"
+    },
+    {
+      "title": "Insulin Resistance: The TCM View on Metabolic Balance",
+      "path": "/symptoms/digestion/insulin-resistance-tcm/",
+      "type": "cluster",
+      "parent": "digestion",
+      "estimated_read_time": 8,
+      "keywords": [
+        "insulin resistance tcm",
+        "insulin resistance diet",
+        "blood sugar tcm",
+        "metabolic health tcm"
+      ],
+      "id": "709"
+    },
+    {
+      "title": "Mastitis Support: A TCM Guide for Nursing Mothers",
+      "path": "/symptoms/womens-health/mastitis-tcm/",
+      "type": "cluster",
+      "parent": "womens-health",
+      "estimated_read_time": 7,
+      "keywords": [
+        "mastitis tcm",
+        "mastitis relief",
+        "breastfeeding mastitis natural",
+        "mastitis support"
+      ],
+      "id": "710"
+    },
+    {
+      "title": "Wheezing and Whistling Breath: A TCM Perspective",
+      "path": "/symptoms/respiratory-health/wheezing-tcm/",
+      "type": "cluster",
+      "parent": "respiratory-health",
+      "estimated_read_time": 7,
+      "keywords": [
+        "wheezing tcm",
+        "wheezing causes",
+        "whistling breath",
+        "wheezing natural support"
+      ],
+      "id": "711"
+    },
+    {
+      "title": "Perioral Dermatitis: The TCM Approach to the Red Ring Around the Mouth",
+      "path": "/symptoms/skin-conditions/perioral-dermatitis-tcm/",
+      "type": "cluster",
+      "parent": "skin-conditions",
+      "estimated_read_time": 7,
+      "keywords": [
+        "perioral dermatitis tcm",
+        "perioral dermatitis natural",
+        "rash around mouth",
+        "perioral dermatitis diet"
+      ],
+      "id": "712"
+    },
+    {
+      "title": "Cupping for Back Pain: A Targeted Home Guide",
+      "path": "/treatments/cupping-back-pain-tcm/",
+      "type": "treatment",
+      "parent": "",
+      "estimated_read_time": 7,
+      "keywords": [
+        "cupping for back pain",
+        "cupping therapy back",
+        "cupping at home back pain",
+        "back pain cupping tcm"
+      ],
+      "id": "713"
+    },
+    {
+      "title": "Moxibustion for Back Pain: Warming the Channels That Carry the Load",
+      "path": "/treatments/moxibustion-back-pain-tcm/",
+      "type": "treatment",
+      "parent": "",
+      "estimated_read_time": 7,
+      "keywords": [
+        "moxibustion for back pain",
+        "moxibustion back",
+        "moxa for back pain",
+        "tcm back pain moxibustion"
+      ],
+      "id": "714"
+    },
+    {
+      "title": "Gua Sha for Better Sleep: A Calming Evening Routine",
+      "path": "/treatments/gua-sha-sleep-tcm/",
+      "type": "treatment",
+      "parent": "",
+      "estimated_read_time": 7,
+      "keywords": [
+        "gua sha for sleep",
+        "gua sha before bed",
+        "gua sha evening routine",
+        "gua sha insomnia"
+      ],
+      "id": "715"
+    },
+    {
+      "title": "Herbal Baths for Headaches: Soaking the Tension Away",
+      "path": "/treatments/herbal-baths-headaches-tcm/",
+      "type": "treatment",
+      "parent": "",
+      "estimated_read_time": 7,
+      "keywords": [
+        "herbal bath headache",
+        "bath for headache relief",
+        "herbal soak headache",
+        "tcm bath headaches"
+      ],
+      "id": "716"
+    },
+    {
+      "title": "Breathing Exercises for Headaches: The Diaphragm-Head Connection",
+      "path": "/treatments/breathing-exercises-headaches-tcm/",
+      "type": "treatment",
+      "parent": "",
+      "estimated_read_time": 7,
+      "keywords": [
+        "breathing exercises headache",
+        "breathwork headache",
+        "breathing for headache relief",
+        "diaphragm breathing headache"
+      ],
+      "id": "717"
+    },
+    {
+      "title": "Acupressure for Menopause: Points That Support the Transition",
+      "path": "/treatments/acupressure-menopause-tcm/",
+      "type": "treatment",
+      "parent": "",
+      "estimated_read_time": 7,
+      "keywords": [
+        "acupressure menopause",
+        "acupressure hot flashes",
+        "acupressure for menopause symptoms",
+        "tcm menopause points"
+      ],
+      "id": "718"
+    },
+    {
+      "title": "Herbal Tea for Menopause: Sips That Support the Transition",
+      "path": "/treatments/herbal-tea-menopause-tcm/",
+      "type": "treatment",
+      "parent": "",
+      "estimated_read_time": 7,
+      "keywords": [
+        "herbal tea menopause",
+        "tea for hot flashes",
+        "menopause herbal tea",
+        "tcm tea menopause"
+      ],
+      "id": "719"
+    },
+    {
+      "title": "Chapped Lips: The TCM View on Dryness at the Mouth's Edge",
+      "path": "/symptoms/skin-conditions/chapped-lips-tcm/",
+      "type": "cluster",
+      "parent": "skin-conditions",
+      "estimated_read_time": 7,
+      "keywords": [
+        "chapped lips tcm",
+        "dry lips causes",
+        "chapped lips natural",
+        "lip dryness tcm"
+      ],
+      "id": "720"
+    },
+    {
+      "title": "Night Leg Cramps: The TCM View on Sudden Middle-of-the-Night Twinges",
+      "path": "/symptoms/joint-pain/leg-cramps-tcm/",
+      "type": "cluster",
+      "parent": "joint-pain",
+      "estimated_read_time": 7,
+      "keywords": [
+        "night leg cramps",
+        "leg cramps at night tcm",
+        "calf cramps tcm",
+        "leg cramps natural relief"
+      ],
+      "id": "721"
     }
   ],
   "published": [
@@ -9085,6 +9281,20 @@
         "damp heat joints skin"
       ],
       "id": "702"
+    },
+    {
+      "title": "Ear Seed Acupressure: A Tiny Tool for Big Calm",
+      "path": "/treatments/ear-seed-acupressure-tcm/",
+      "type": "treatment",
+      "parent": "",
+      "estimated_read_time": 6,
+      "keywords": [
+        "ear seed acupressure",
+        "auricular acupressure tcm",
+        "ear seeds anxiety",
+        "ear acupuncture at home"
+      ],
+      "id": "703"
     }
   ]
 }
