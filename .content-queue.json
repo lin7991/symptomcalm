@@ -4,20 +4,6 @@
   "note": "每3小时自动生产一篇内容。从队列头部取，完成后移到 published。",
   "queue": [
     {
-      "title": "Sleep-Deprivation Headaches and TCM: The Tension of a Tired Body",
-      "path": "/symptoms/headaches/sleep-deprivation-headache-tcm/",
-      "type": "cluster",
-      "parent": "headaches",
-      "estimated_read_time": 7,
-      "keywords": [
-        "sleep deprivation headache tcm",
-        "headache after poor sleep",
-        "liver yang headache fatigue",
-        "tired headache chinese medicine"
-      ],
-      "id": "699"
-    },
-    {
       "title": "Slow Digestion and TCM: When Food Feels Like It Just Sits There",
       "path": "/symptoms/digestion/slow-digestion-tcm/",
       "type": "cluster",
@@ -9085,6 +9071,20 @@
         "mastalgia tcm"
       ],
       "id": "698"
+    },
+    {
+      "title": "Sleep-Deprivation Headaches and TCM: The Tension of a Tired Body",
+      "path": "/symptoms/headaches/sleep-deprivation-headache-tcm/",
+      "type": "cluster",
+      "parent": "headaches",
+      "estimated_read_time": 7,
+      "keywords": [
+        "sleep deprivation headache tcm",
+        "headache after poor sleep",
+        "liver yang headache fatigue",
+        "tired headache chinese medicine"
+      ],
+      "id": "699"
     }
   ]
 }
