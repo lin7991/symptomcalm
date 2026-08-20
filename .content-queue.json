@@ -4,20 +4,6 @@
   "note": "每3小时自动生产一篇内容。从队列头部取，完成后移到 published。",
   "queue": [
     {
-      "title": "Resentment and TCM: The Quiet Fire That Burns Inward",
-      "path": "/symptoms/mental-emotional-health/resentment-tcm/",
-      "type": "cluster",
-      "parent": "mental-emotional-health",
-      "estimated_read_time": 7,
-      "keywords": [
-        "resentment tcm",
-        "holding grudges health",
-        "liver qi resentment",
-        "stagnation emotions chinese medicine"
-      ],
-      "id": "701"
-    },
-    {
       "title": "Psoriatic Arthritis and TCM: When Skin and Joints Share a Story",
       "path": "/symptoms/joint-pain/psoriatic-arthritis-tcm/",
       "type": "cluster",
@@ -9085,6 +9071,20 @@
         "sluggish digestion chinese medicine"
       ],
       "id": "700"
+    },
+    {
+      "title": "Resentment and TCM: The Quiet Fire That Burns Inward",
+      "path": "/symptoms/mental-emotional-health/resentment-tcm/",
+      "type": "cluster",
+      "parent": "mental-emotional-health",
+      "estimated_read_time": 7,
+      "keywords": [
+        "resentment tcm",
+        "holding grudges health",
+        "liver qi resentment",
+        "stagnation emotions chinese medicine"
+      ],
+      "id": "701"
     }
   ]
 }
