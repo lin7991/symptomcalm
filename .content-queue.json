@@ -4,20 +4,6 @@
   "note": "每3小时自动生产一篇内容。从队列头部取，完成后移到 published。",
   "queue": [
     {
-      "title": "Slow Digestion and TCM: When Food Feels Like It Just Sits There",
-      "path": "/symptoms/digestion/slow-digestion-tcm/",
-      "type": "cluster",
-      "parent": "digestion",
-      "estimated_read_time": 7,
-      "keywords": [
-        "slow digestion tcm",
-        "food sits in stomach",
-        "spleen qi slow digestion",
-        "sluggish digestion chinese medicine"
-      ],
-      "id": "700"
-    },
-    {
       "title": "Resentment and TCM: The Quiet Fire That Burns Inward",
       "path": "/symptoms/mental-emotional-health/resentment-tcm/",
       "type": "cluster",
@@ -9085,6 +9071,20 @@
         "tired headache chinese medicine"
       ],
       "id": "699"
+    },
+    {
+      "title": "Slow Digestion and TCM: When Food Feels Like It Just Sits There",
+      "path": "/symptoms/digestion/slow-digestion-tcm/",
+      "type": "cluster",
+      "parent": "digestion",
+      "estimated_read_time": 7,
+      "keywords": [
+        "slow digestion tcm",
+        "food sits in stomach",
+        "spleen qi slow digestion",
+        "sluggish digestion chinese medicine"
+      ],
+      "id": "700"
     }
   ]
 }
