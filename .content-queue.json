@@ -4,20 +4,6 @@
   "note": "每3小时自动生产一篇内容。从队列头部取，完成后移到 published。",
   "queue": [
     {
-      "title": "Psoriatic Arthritis and TCM: When Skin and Joints Share a Story",
-      "path": "/symptoms/joint-pain/psoriatic-arthritis-tcm/",
-      "type": "cluster",
-      "parent": "joint-pain",
-      "estimated_read_time": 7,
-      "keywords": [
-        "psoriatic arthritis tcm",
-        "psoriasis joint pain",
-        "bi syndrome psoriatic",
-        "damp heat joints skin"
-      ],
-      "id": "702"
-    },
-    {
       "title": "Ear Seed Acupressure: A Tiny Tool for Big Calm",
       "path": "/treatments/ear-seed-acupressure-tcm/",
       "type": "treatment",
@@ -9085,6 +9071,20 @@
         "stagnation emotions chinese medicine"
       ],
       "id": "701"
+    },
+    {
+      "title": "Psoriatic Arthritis and TCM: When Skin and Joints Share a Story",
+      "path": "/symptoms/joint-pain/psoriatic-arthritis-tcm/",
+      "type": "cluster",
+      "parent": "joint-pain",
+      "estimated_read_time": 7,
+      "keywords": [
+        "psoriatic arthritis tcm",
+        "psoriasis joint pain",
+        "bi syndrome psoriatic",
+        "damp heat joints skin"
+      ],
+      "id": "702"
     }
   ]
 }
