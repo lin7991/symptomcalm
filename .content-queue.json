@@ -4,20 +4,6 @@
   "note": "每3小时自动生产一篇内容。从队列头部取，完成后移到 published。",
   "queue": [
     {
-      "title": "Breast Tenderness and TCM: Cyclical Pain Through a Different Lens",
-      "path": "/symptoms/womens-health/breast-tenderness-tcm/",
-      "type": "cluster",
-      "parent": "womens-health",
-      "estimated_read_time": 7,
-      "keywords": [
-        "breast tenderness tcm",
-        "cyclic breast pain chinese medicine",
-        "liver qi breast tenderness",
-        "mastalgia tcm"
-      ],
-      "id": "698"
-    },
-    {
       "title": "Sleep-Deprivation Headaches and TCM: The Tension of a Tired Body",
       "path": "/symptoms/headaches/sleep-deprivation-headache-tcm/",
       "type": "cluster",
@@ -9085,6 +9071,20 @@
         "children eye health tcm"
       ],
       "id": "697"
+    },
+    {
+      "title": "Breast Tenderness and TCM: Cyclical Pain Through a Different Lens",
+      "path": "/symptoms/womens-health/breast-tenderness-tcm/",
+      "type": "cluster",
+      "parent": "womens-health",
+      "estimated_read_time": 7,
+      "keywords": [
+        "breast tenderness tcm",
+        "cyclic breast pain chinese medicine",
+        "liver qi breast tenderness",
+        "mastalgia tcm"
+      ],
+      "id": "698"
     }
   ]
 }

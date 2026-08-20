@@ -5387,4 +5387,9 @@
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
-<url><loc>https://symptomcalm.com/zh/symptoms/eye-health/lazy-eye-tcm/</loc><changefreq>monthly</changefreq><priority>0.5</priority></url></urlset>
+<url><loc>https://symptomcalm.com/zh/symptoms/eye-health/lazy-eye-tcm/</loc><changefreq>monthly</changefreq><priority>0.5</priority></url>  <url>
+    <loc>https://symptomcalm.com/symptoms/womens-health/breast-tenderness-tcm/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+</urlset>
