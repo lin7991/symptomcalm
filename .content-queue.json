@@ -4,20 +4,6 @@
   "note": "每3小时自动生产一篇内容。从队列头部取，完成后移到 published。",
   "queue": [
     {
-      "title": "Amblyopia (Lazy Eye) and TCM: A Developmental View of Vision",
-      "path": "/symptoms/eye-health/lazy-eye-tcm/",
-      "type": "cluster",
-      "parent": "eye-health",
-      "estimated_read_time": 7,
-      "keywords": [
-        "amblyopia tcm",
-        "lazy eye chinese medicine",
-        "liver blood vision development",
-        "children eye health tcm"
-      ],
-      "id": "697"
-    },
-    {
       "title": "Breast Tenderness and TCM: Cyclical Pain Through a Different Lens",
       "path": "/symptoms/womens-health/breast-tenderness-tcm/",
       "type": "cluster",
@@ -9085,6 +9071,20 @@
         "sighing tcm"
       ],
       "id": "696"
+    },
+    {
+      "title": "Amblyopia (Lazy Eye) and TCM: A Developmental View of Vision",
+      "path": "/symptoms/eye-health/lazy-eye-tcm/",
+      "type": "cluster",
+      "parent": "eye-health",
+      "estimated_read_time": 7,
+      "keywords": [
+        "amblyopia tcm",
+        "lazy eye chinese medicine",
+        "liver blood vision development",
+        "children eye health tcm"
+      ],
+      "id": "697"
     }
   ]
 }
