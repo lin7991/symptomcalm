@@ -4,21 +4,6 @@
   "note": "每3小时自动生产一篇内容。从队列头部取，完成后移到 published。",
   "queue": [
     {
-      "title": "Yuan Qi (Original Qi) in TCM: The Deep Reserve Powering Everything",
-      "path": "/tcm-basics/yuan-qi-tcm/",
-      "type": "tcm-basics",
-      "parent": "",
-      "estimated_read_time": 7,
-      "keywords": [
-        "yuan qi tcm",
-        "original qi chinese medicine",
-        "prenatal qi",
-        "kidney qi root",
-        "vital essence qi"
-      ],
-      "id": "706"
-    },
-    {
       "title": "Post-Concussion Syndrome: A TCM Perspective on Recovery",
       "path": "/symptoms/headaches/post-concussion-tcm/",
       "type": "cluster",
@@ -9295,6 +9280,21 @@
         "tcm neck pain relief"
       ],
       "id": "705"
+    },
+    {
+      "title": "Yuan Qi (Original Qi) in TCM: The Deep Reserve Powering Everything",
+      "path": "/tcm-basics/yuan-qi-tcm/",
+      "type": "tcm-basics",
+      "parent": "",
+      "estimated_read_time": 7,
+      "keywords": [
+        "yuan qi tcm",
+        "original qi chinese medicine",
+        "prenatal qi",
+        "kidney qi root",
+        "vital essence qi"
+      ],
+      "id": "706"
     }
   ]
 }
