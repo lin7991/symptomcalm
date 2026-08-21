@@ -4,20 +4,6 @@
   "note": "每3小时自动生产一篇内容。从队列头部取，完成后移到 published。",
   "queue": [
     {
-      "title": "Cupping for Neck Pain: A Targeted Home Guide",
-      "path": "/treatments/cupping-neck-pain-tcm/",
-      "type": "treatment",
-      "parent": "",
-      "estimated_read_time": 7,
-      "keywords": [
-        "cupping neck pain",
-        "neck cupping at home",
-        "cupping shoulder tension",
-        "tcm neck pain relief"
-      ],
-      "id": "705"
-    },
-    {
       "title": "Yuan Qi (Original Qi) in TCM: The Deep Reserve Powering Everything",
       "path": "/tcm-basics/yuan-qi-tcm/",
       "type": "tcm-basics",
@@ -9295,6 +9281,20 @@
         "migraine home remedy foot bath"
       ],
       "id": "704"
+    },
+    {
+      "title": "Cupping for Neck Pain: A Targeted Home Guide",
+      "path": "/treatments/cupping-neck-pain-tcm/",
+      "type": "treatment",
+      "parent": "",
+      "estimated_read_time": 7,
+      "keywords": [
+        "cupping neck pain",
+        "neck cupping at home",
+        "cupping shoulder tension",
+        "tcm neck pain relief"
+      ],
+      "id": "705"
     }
   ]
 }
