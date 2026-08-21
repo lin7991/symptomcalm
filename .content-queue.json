@@ -4,20 +4,6 @@
   "note": "每3小时自动生产一篇内容。从队列头部取，完成后移到 published。",
   "queue": [
     {
-      "title": "POTS (Postural Orthostatic Tachycardia): A TCM View on Dizziness and Fatigue",
-      "path": "/symptoms/fatigue/pots-tcm/",
-      "type": "cluster",
-      "parent": "fatigue",
-      "estimated_read_time": 8,
-      "keywords": [
-        "pots syndrome",
-        "pots tcm",
-        "postural orthostatic tachycardia",
-        "pots fatigue dizziness"
-      ],
-      "id": "708"
-    },
-    {
       "title": "Insulin Resistance: The TCM View on Metabolic Balance",
       "path": "/symptoms/digestion/insulin-resistance-tcm/",
       "type": "cluster",
@@ -9295,6 +9281,20 @@
         "brain fog after concussion"
       ],
       "id": "707"
+    },
+    {
+      "title": "POTS (Postural Orthostatic Tachycardia): A TCM View on Dizziness and Fatigue",
+      "path": "/symptoms/fatigue/pots-tcm/",
+      "type": "cluster",
+      "parent": "fatigue",
+      "estimated_read_time": 8,
+      "keywords": [
+        "pots syndrome",
+        "pots tcm",
+        "postural orthostatic tachycardia",
+        "pots fatigue dizziness"
+      ],
+      "id": "708"
     }
   ]
 }
