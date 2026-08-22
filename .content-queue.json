@@ -4,34 +4,6 @@
   "note": "每3小时自动生产一篇内容。从队列头部取，完成后移到 published。",
   "queue": [
     {
-      "title": "Chapped Lips: The TCM View on Dryness at the Mouth's Edge",
-      "path": "/symptoms/skin-conditions/chapped-lips-tcm/",
-      "type": "cluster",
-      "parent": "skin-conditions",
-      "estimated_read_time": 7,
-      "keywords": [
-        "chapped lips tcm",
-        "dry lips causes",
-        "chapped lips natural",
-        "lip dryness tcm"
-      ],
-      "id": "720"
-    },
-    {
-      "title": "Night Leg Cramps: The TCM View on Sudden Middle-of-the-Night Twinges",
-      "path": "/symptoms/joint-pain/leg-cramps-tcm/",
-      "type": "cluster",
-      "parent": "joint-pain",
-      "estimated_read_time": 7,
-      "keywords": [
-        "night leg cramps",
-        "leg cramps at night tcm",
-        "calf cramps tcm",
-        "leg cramps natural relief"
-      ],
-      "id": "721"
-    },
-    {
       "title": "Moxibustion for Menopause: Warming Practices for the Transition Years",
       "path": "/treatments/moxibustion-menopause-tcm/",
       "type": "treatment",
@@ -9490,6 +9462,34 @@
         "tcm tea menopause"
       ],
       "id": "719"
+    },
+    {
+      "title": "Chapped Lips: The TCM View on Dryness at the Mouth's Edge",
+      "path": "/symptoms/skin-conditions/chapped-lips-tcm/",
+      "type": "cluster",
+      "parent": "skin-conditions",
+      "estimated_read_time": 7,
+      "keywords": [
+        "chapped lips tcm",
+        "dry lips causes",
+        "chapped lips natural",
+        "lip dryness tcm"
+      ],
+      "id": "720"
+    },
+    {
+      "title": "Night Leg Cramps: The TCM View on Sudden Middle-of-the-Night Twinges",
+      "path": "/symptoms/joint-pain/leg-cramps-tcm/",
+      "type": "cluster",
+      "parent": "joint-pain",
+      "estimated_read_time": 7,
+      "keywords": [
+        "night leg cramps",
+        "leg cramps at night tcm",
+        "calf cramps tcm",
+        "leg cramps natural relief"
+      ],
+      "id": "721"
     }
   ]
 }
