@@ -5467,4 +5467,9 @@
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
-<url><loc>https://symptomcalm.com/zh/symptoms/respiratory-health/wheezing-tcm/</loc><changefreq>monthly</changefreq><priority>0.7</priority></url></urlset>
+<url><loc>https://symptomcalm.com/zh/symptoms/respiratory-health/wheezing-tcm/</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>  <url>
+    <loc>https://symptomcalm.com/symptoms/skin-conditions/perioral-dermatitis-tcm/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+</urlset>

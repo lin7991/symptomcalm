@@ -4,20 +4,6 @@
   "note": "每3小时自动生产一篇内容。从队列头部取，完成后移到 published。",
   "queue": [
     {
-      "title": "Perioral Dermatitis: The TCM Approach to the Red Ring Around the Mouth",
-      "path": "/symptoms/skin-conditions/perioral-dermatitis-tcm/",
-      "type": "cluster",
-      "parent": "skin-conditions",
-      "estimated_read_time": 7,
-      "keywords": [
-        "perioral dermatitis tcm",
-        "perioral dermatitis natural",
-        "rash around mouth",
-        "perioral dermatitis diet"
-      ],
-      "id": "712"
-    },
-    {
       "title": "Cupping for Back Pain: A Targeted Home Guide",
       "path": "/treatments/cupping-back-pain-tcm/",
       "type": "treatment",
@@ -9295,6 +9281,20 @@
         "wheezing natural support"
       ],
       "id": "711"
+    },
+    {
+      "title": "Perioral Dermatitis: The TCM Approach to the Red Ring Around the Mouth",
+      "path": "/symptoms/skin-conditions/perioral-dermatitis-tcm/",
+      "type": "cluster",
+      "parent": "skin-conditions",
+      "estimated_read_time": 7,
+      "keywords": [
+        "perioral dermatitis tcm",
+        "perioral dermatitis natural",
+        "rash around mouth",
+        "perioral dermatitis diet"
+      ],
+      "id": "712"
     }
   ]
 }
