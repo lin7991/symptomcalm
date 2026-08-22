@@ -4,20 +4,6 @@
   "note": "每3小时自动生产一篇内容。从队列头部取，完成后移到 published。",
   "queue": [
     {
-      "title": "Breathing Exercises for Headaches: The Diaphragm-Head Connection",
-      "path": "/treatments/breathing-exercises-headaches-tcm/",
-      "type": "treatment",
-      "parent": "",
-      "estimated_read_time": 7,
-      "keywords": [
-        "breathing exercises headache",
-        "breathwork headache",
-        "breathing for headache relief",
-        "diaphragm breathing headache"
-      ],
-      "id": "717"
-    },
-    {
       "title": "Acupressure for Menopause: Points That Support the Transition",
       "path": "/treatments/acupressure-menopause-tcm/",
       "type": "treatment",
@@ -9295,6 +9281,20 @@
         "tcm bath headaches"
       ],
       "id": "716"
+    },
+    {
+      "title": "Breathing Exercises for Headaches: The Diaphragm-Head Connection",
+      "path": "/treatments/breathing-exercises-headaches-tcm/",
+      "type": "treatment",
+      "parent": "",
+      "estimated_read_time": 7,
+      "keywords": [
+        "breathing exercises headache",
+        "breathwork headache",
+        "breathing for headache relief",
+        "diaphragm breathing headache"
+      ],
+      "id": "717"
     }
   ]
 }
