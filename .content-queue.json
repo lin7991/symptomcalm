@@ -4,20 +4,6 @@
   "note": "每3小时自动生产一篇内容。从队列头部取，完成后移到 published。",
   "queue": [
     {
-      "title": "Herbal Tea for Menopause: Sips That Support the Transition",
-      "path": "/treatments/herbal-tea-menopause-tcm/",
-      "type": "treatment",
-      "parent": "",
-      "estimated_read_time": 7,
-      "keywords": [
-        "herbal tea menopause",
-        "tea for hot flashes",
-        "menopause herbal tea",
-        "tcm tea menopause"
-      ],
-      "id": "719"
-    },
-    {
       "title": "Chapped Lips: The TCM View on Dryness at the Mouth's Edge",
       "path": "/symptoms/skin-conditions/chapped-lips-tcm/",
       "type": "cluster",
@@ -44,6 +30,201 @@
         "leg cramps natural relief"
       ],
       "id": "721"
+    },
+    {
+      "title": "Moxibustion for Menopause: Warming Practices for the Transition Years",
+      "path": "/treatments/moxibustion-menopause-tcm/",
+      "type": "treatment",
+      "parent": "",
+      "estimated_read_time": 7,
+      "keywords": [
+        "moxibustion menopause",
+        "moxa for hot flashes",
+        "TCM menopause support"
+      ],
+      "id": "722"
+    },
+    {
+      "title": "Tui Na for Headaches: Massage Points and Sequences for Tension Relief",
+      "path": "/treatments/tui-na-headaches-tcm/",
+      "type": "treatment",
+      "parent": "",
+      "estimated_read_time": 7,
+      "keywords": [
+        "tui na headache",
+        "Chinese massage for tension headache",
+        "acupressure head massage"
+      ],
+      "id": "723"
+    },
+    {
+      "title": "Foot Baths for Respiratory Support: Warming the Lower Body for Lung Health",
+      "path": "/treatments/foot-baths-respiratory-tcm/",
+      "type": "treatment",
+      "parent": "",
+      "estimated_read_time": 7,
+      "keywords": [
+        "foot bath cold",
+        "warm foot soak respiratory",
+        "TCM foot bath lung"
+      ],
+      "id": "724"
+    },
+    {
+      "title": "Qigong for Back Pain: Gentle Movement Sequences for a Stiff Spine",
+      "path": "/treatments/qigong-back-pain-tcm/",
+      "type": "treatment",
+      "parent": "",
+      "estimated_read_time": 7,
+      "keywords": [
+        "qigong back pain",
+        "gentle exercise for back",
+        "TCM movement therapy"
+      ],
+      "id": "725"
+    },
+    {
+      "title": "Meditation for Fatigue: Restoring Energy When Rest Feels Impossible",
+      "path": "/treatments/meditation-fatigue-tcm/",
+      "type": "treatment",
+      "parent": "",
+      "estimated_read_time": 7,
+      "keywords": [
+        "meditation fatigue",
+        "rest for exhaustion",
+        "TCM rest and Qi"
+      ],
+      "id": "726"
+    },
+    {
+      "title": "Breathing Exercises for Menopause: Cooling the Heat From Within",
+      "path": "/treatments/breathing-exercises-menopause-tcm/",
+      "type": "treatment",
+      "parent": "",
+      "estimated_read_time": 7,
+      "keywords": [
+        "breathing menopause hot flashes",
+        "paced breathing",
+        "TCM breathwork"
+      ],
+      "id": "727"
+    },
+    {
+      "title": "Early Satiety: Why You Feel Full After a Few Bites, From a TCM View",
+      "path": "/symptoms/digestion/early-satiety-tcm/",
+      "type": "cluster",
+      "parent": "digestion",
+      "estimated_read_time": 7,
+      "keywords": [
+        "early satiety",
+        "full after few bites",
+        "Spleen Qi deficiency appetite"
+      ],
+      "id": "728"
+    },
+    {
+      "title": "Morning Headaches: Why You Wake Up With a Sore Head, From a TCM View",
+      "path": "/symptoms/headaches/morning-headache-tcm/",
+      "type": "cluster",
+      "parent": "headaches",
+      "estimated_read_time": 7,
+      "keywords": [
+        "morning headache",
+        "wake up headache",
+        "TCM headache patterns"
+      ],
+      "id": "729"
+    },
+    {
+      "title": "Winter Fatigue: Conserving Your Energy Through the Dark Months",
+      "path": "/symptoms/fatigue/winter-fatigue-tcm/",
+      "type": "cluster",
+      "parent": "fatigue",
+      "estimated_read_time": 7,
+      "keywords": [
+        "winter fatigue",
+        "seasonal tiredness",
+        "Kidney energy winter"
+      ],
+      "id": "730"
+    },
+    {
+      "title": "Microstress: The Tiny Pressures That Drain You, From a TCM View",
+      "path": "/symptoms/stress/microstress-tcm/",
+      "type": "cluster",
+      "parent": "stress",
+      "estimated_read_time": 7,
+      "keywords": [
+        "microstress",
+        "death by a thousand cuts",
+        "TCM stress patterns"
+      ],
+      "id": "731"
+    },
+    {
+      "title": "Constant Throat Clearing: The TCM View on the Habit That Won't Quit",
+      "path": "/symptoms/respiratory-health/throat-clearing-tcm/",
+      "type": "cluster",
+      "parent": "respiratory-health",
+      "estimated_read_time": 7,
+      "keywords": [
+        "throat clearing habit",
+        "constant throat clearing",
+        "Phlegm TCM throat"
+      ],
+      "id": "732"
+    },
+    {
+      "title": "Regret: The TCM View on Living With What You Can't Change",
+      "path": "/symptoms/mental-emotional-health/regret-tcm/",
+      "type": "cluster",
+      "parent": "mental-emotional-health",
+      "estimated_read_time": 7,
+      "keywords": [
+        "regret",
+        "living with regret",
+        "TCM emotions Heart"
+      ],
+      "id": "733"
+    },
+    {
+      "title": "Ovulation Pain: The TCM View on Mid-Cycle Twinges",
+      "path": "/symptoms/womens-health/ovulation-pain-tcm/",
+      "type": "cluster",
+      "parent": "womens-health",
+      "estimated_read_time": 7,
+      "keywords": [
+        "ovulation pain",
+        "mittelschmerz",
+        "TCM cycle pain"
+      ],
+      "id": "734"
+    },
+    {
+      "title": "Costochondritis: The TCM View on Chest Wall Pain",
+      "path": "/symptoms/joint-pain/costochondritis-tcm/",
+      "type": "cluster",
+      "parent": "joint-pain",
+      "estimated_read_time": 7,
+      "keywords": [
+        "costochondritis",
+        "chest wall pain",
+        "TCM rib pain Liver Qi"
+      ],
+      "id": "735"
+    },
+    {
+      "title": "Boils and Abscesses: The TCM View on Recurrent Skin Infections",
+      "path": "/symptoms/skin-conditions/boils-tcm/",
+      "type": "cluster",
+      "parent": "skin-conditions",
+      "estimated_read_time": 7,
+      "keywords": [
+        "boils",
+        "recurrent boils",
+        "Damp-Heat skin TCM"
+      ],
+      "id": "736"
     }
   ],
   "published": [
@@ -9295,6 +9476,20 @@
         "tcm menopause points"
       ],
       "id": "718"
+    },
+    {
+      "title": "Herbal Tea for Menopause: Sips That Support the Transition",
+      "path": "/treatments/herbal-tea-menopause-tcm/",
+      "type": "treatment",
+      "parent": "",
+      "estimated_read_time": 7,
+      "keywords": [
+        "herbal tea menopause",
+        "tea for hot flashes",
+        "menopause herbal tea",
+        "tcm tea menopause"
+      ],
+      "id": "719"
     }
   ]
 }
