@@ -10,13 +10,14 @@ cd "$HOME/symptomcalm" || exit 1
 REMAINING=$(python3 .cron/publish-article.py remaining 2>/dev/null)
 echo "$(date): Queue has $REMAINING items" >> "$HOME/symptomcalm/.cron/publish.log"
 
-# Run Hermes to publish EN + ZH
+# Run Hermes to publish 2 articles (EN + ZH each)
 hermes chat --profile symptomcalm -Q -q "
 You are in ~/symptomcalm.
 
 STEP 1: Check queue. If remaining < 5, generate 15 new ideas and pipe to add command.
 
-STEP 2: Publish ENGLISH article.
+STEP 2: Publish TWO articles in this run. For EACH of the next 2 queue items, do:
+A) ENGLISH article:
 - Read next item from queue
 - Use .cron/article-template.html
 - Replace <!--NEWSLETTER_SECTION--> with actual newsletter form HTML
@@ -25,7 +26,7 @@ STEP 2: Publish ENGLISH article.
 - Run: python3 .cron/publish-article.py publish /tmp/sc-en.html
 - If pillar page exists, update its CTA to link to new article
 
-STEP 3: Publish CHINESE version.
+B) CHINESE version:
 - Read same English article from /tmp/sc-en.html to get title/info
 - Use .cron/article-template-zh.html
 - Replace <!--NEWSLETTER_SECTION--> with Chinese version form HTML
@@ -35,10 +36,12 @@ STEP 3: Publish CHINESE version.
 - Copy: cp /tmp/sc-zh.html zh/CURRENT_PATH/index.html
 - Git add and commit
 
-STEP 4: Verify both EN and ZH pages with curl.
+Repeat A+B for the second article.
+
+STEP 3: Verify both EN and ZH pages with curl.
 " --skills tcm-content-production 2>&1 >> "$HOME/symptomcalm/.cron/publish.log"
 
-echo "$(date): Auto-publish EN+ZH complete" >> "$HOME/symptomcalm/.cron/publish.log"
+echo "$(date): Auto-publish 2x EN+ZH complete" >> "$HOME/symptomcalm/.cron/publish.log"
 
 # Generate FAQ schema
 echo "$(date): Generating FAQ schema..." >> "$HOME/symptomcalm/.cron/publish.log"
