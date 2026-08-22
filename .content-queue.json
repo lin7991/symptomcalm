@@ -4,20 +4,6 @@
   "note": "每3小时自动生产一篇内容。从队列头部取，完成后移到 published。",
   "queue": [
     {
-      "title": "Moxibustion for Back Pain: Warming the Channels That Carry the Load",
-      "path": "/treatments/moxibustion-back-pain-tcm/",
-      "type": "treatment",
-      "parent": "",
-      "estimated_read_time": 7,
-      "keywords": [
-        "moxibustion for back pain",
-        "moxibustion back",
-        "moxa for back pain",
-        "tcm back pain moxibustion"
-      ],
-      "id": "714"
-    },
-    {
       "title": "Gua Sha for Better Sleep: A Calming Evening Routine",
       "path": "/treatments/gua-sha-sleep-tcm/",
       "type": "treatment",
@@ -9295,6 +9281,20 @@
         "back pain cupping tcm"
       ],
       "id": "713"
+    },
+    {
+      "title": "Moxibustion for Back Pain: Warming the Channels That Carry the Load",
+      "path": "/treatments/moxibustion-back-pain-tcm/",
+      "type": "treatment",
+      "parent": "",
+      "estimated_read_time": 7,
+      "keywords": [
+        "moxibustion for back pain",
+        "moxibustion back",
+        "moxa for back pain",
+        "tcm back pain moxibustion"
+      ],
+      "id": "714"
     }
   ]
 }
