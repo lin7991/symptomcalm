@@ -4,20 +4,6 @@
   "note": "每3小时自动生产一篇内容。从队列头部取，完成后移到 published。",
   "queue": [
     {
-      "title": "Gua Sha for Better Sleep: A Calming Evening Routine",
-      "path": "/treatments/gua-sha-sleep-tcm/",
-      "type": "treatment",
-      "parent": "",
-      "estimated_read_time": 7,
-      "keywords": [
-        "gua sha for sleep",
-        "gua sha before bed",
-        "gua sha evening routine",
-        "gua sha insomnia"
-      ],
-      "id": "715"
-    },
-    {
       "title": "Herbal Baths for Headaches: Soaking the Tension Away",
       "path": "/treatments/herbal-baths-headaches-tcm/",
       "type": "treatment",
@@ -9295,6 +9281,20 @@
         "tcm back pain moxibustion"
       ],
       "id": "714"
+    },
+    {
+      "title": "Gua Sha for Better Sleep: A Calming Evening Routine",
+      "path": "/treatments/gua-sha-sleep-tcm/",
+      "type": "treatment",
+      "parent": "",
+      "estimated_read_time": 7,
+      "keywords": [
+        "gua sha for sleep",
+        "gua sha before bed",
+        "gua sha evening routine",
+        "gua sha insomnia"
+      ],
+      "id": "715"
     }
   ]
 }
