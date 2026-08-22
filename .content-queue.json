@@ -4,20 +4,6 @@
   "note": "每3小时自动生产一篇内容。从队列头部取，完成后移到 published。",
   "queue": [
     {
-      "title": "Acupressure for Menopause: Points That Support the Transition",
-      "path": "/treatments/acupressure-menopause-tcm/",
-      "type": "treatment",
-      "parent": "",
-      "estimated_read_time": 7,
-      "keywords": [
-        "acupressure menopause",
-        "acupressure hot flashes",
-        "acupressure for menopause symptoms",
-        "tcm menopause points"
-      ],
-      "id": "718"
-    },
-    {
       "title": "Herbal Tea for Menopause: Sips That Support the Transition",
       "path": "/treatments/herbal-tea-menopause-tcm/",
       "type": "treatment",
@@ -9295,6 +9281,20 @@
         "diaphragm breathing headache"
       ],
       "id": "717"
+    },
+    {
+      "title": "Acupressure for Menopause: Points That Support the Transition",
+      "path": "/treatments/acupressure-menopause-tcm/",
+      "type": "treatment",
+      "parent": "",
+      "estimated_read_time": 7,
+      "keywords": [
+        "acupressure menopause",
+        "acupressure hot flashes",
+        "acupressure for menopause symptoms",
+        "tcm menopause points"
+      ],
+      "id": "718"
     }
   ]
 }
