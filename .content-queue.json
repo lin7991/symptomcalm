@@ -4,20 +4,6 @@
   "note": "每3小时自动生产一篇内容。从队列头部取，完成后移到 published。",
   "queue": [
     {
-      "title": "Cupping for Back Pain: A Targeted Home Guide",
-      "path": "/treatments/cupping-back-pain-tcm/",
-      "type": "treatment",
-      "parent": "",
-      "estimated_read_time": 7,
-      "keywords": [
-        "cupping for back pain",
-        "cupping therapy back",
-        "cupping at home back pain",
-        "back pain cupping tcm"
-      ],
-      "id": "713"
-    },
-    {
       "title": "Moxibustion for Back Pain: Warming the Channels That Carry the Load",
       "path": "/treatments/moxibustion-back-pain-tcm/",
       "type": "treatment",
@@ -9295,6 +9281,20 @@
         "perioral dermatitis diet"
       ],
       "id": "712"
+    },
+    {
+      "title": "Cupping for Back Pain: A Targeted Home Guide",
+      "path": "/treatments/cupping-back-pain-tcm/",
+      "type": "treatment",
+      "parent": "",
+      "estimated_read_time": 7,
+      "keywords": [
+        "cupping for back pain",
+        "cupping therapy back",
+        "cupping at home back pain",
+        "back pain cupping tcm"
+      ],
+      "id": "713"
     }
   ]
 }
