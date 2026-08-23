@@ -4,19 +4,6 @@
   "note": "每3小时自动生产一篇内容。从队列头部取，完成后移到 published。",
   "queue": [
     {
-      "title": "Early Satiety: Why You Feel Full After a Few Bites, From a TCM View",
-      "path": "/symptoms/digestion/early-satiety-tcm/",
-      "type": "cluster",
-      "parent": "digestion",
-      "estimated_read_time": 7,
-      "keywords": [
-        "early satiety",
-        "full after few bites",
-        "Spleen Qi deficiency appetite"
-      ],
-      "id": "728"
-    },
-    {
       "title": "Morning Headaches: Why You Wake Up With a Sore Head, From a TCM View",
       "path": "/symptoms/headaches/morning-headache-tcm/",
       "type": "cluster",
@@ -9490,6 +9477,19 @@
         "TCM breathwork"
       ],
       "id": "727"
+    },
+    {
+      "title": "Early Satiety: Why You Feel Full After a Few Bites, From a TCM View",
+      "path": "/symptoms/digestion/early-satiety-tcm/",
+      "type": "cluster",
+      "parent": "digestion",
+      "estimated_read_time": 7,
+      "keywords": [
+        "early satiety",
+        "full after few bites",
+        "Spleen Qi deficiency appetite"
+      ],
+      "id": "728"
     }
   ]
 }
