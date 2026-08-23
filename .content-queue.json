@@ -4,19 +4,6 @@
   "note": "每3小时自动生产一篇内容。从队列头部取，完成后移到 published。",
   "queue": [
     {
-      "title": "Tui Na for Headaches: Massage Points and Sequences for Tension Relief",
-      "path": "/treatments/tui-na-headaches-tcm/",
-      "type": "treatment",
-      "parent": "",
-      "estimated_read_time": 7,
-      "keywords": [
-        "tui na headache",
-        "Chinese massage for tension headache",
-        "acupressure head massage"
-      ],
-      "id": "723"
-    },
-    {
       "title": "Foot Baths for Respiratory Support: Warming the Lower Body for Lung Health",
       "path": "/treatments/foot-baths-respiratory-tcm/",
       "type": "treatment",
@@ -9490,6 +9477,19 @@
         "TCM menopause support"
       ],
       "id": "722"
+    },
+    {
+      "title": "Tui Na for Headaches: Massage Points and Sequences for Tension Relief",
+      "path": "/treatments/tui-na-headaches-tcm/",
+      "type": "treatment",
+      "parent": "",
+      "estimated_read_time": 7,
+      "keywords": [
+        "tui na headache",
+        "Chinese massage for tension headache",
+        "acupressure head massage"
+      ],
+      "id": "723"
     }
   ]
 }
