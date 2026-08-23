@@ -4,45 +4,6 @@
   "note": "每3小时自动生产一篇内容。从队列头部取，完成后移到 published。",
   "queue": [
     {
-      "title": "Foot Baths for Respiratory Support: Warming the Lower Body for Lung Health",
-      "path": "/treatments/foot-baths-respiratory-tcm/",
-      "type": "treatment",
-      "parent": "",
-      "estimated_read_time": 7,
-      "keywords": [
-        "foot bath cold",
-        "warm foot soak respiratory",
-        "TCM foot bath lung"
-      ],
-      "id": "724"
-    },
-    {
-      "title": "Qigong for Back Pain: Gentle Movement Sequences for a Stiff Spine",
-      "path": "/treatments/qigong-back-pain-tcm/",
-      "type": "treatment",
-      "parent": "",
-      "estimated_read_time": 7,
-      "keywords": [
-        "qigong back pain",
-        "gentle exercise for back",
-        "TCM movement therapy"
-      ],
-      "id": "725"
-    },
-    {
-      "title": "Meditation for Fatigue: Restoring Energy When Rest Feels Impossible",
-      "path": "/treatments/meditation-fatigue-tcm/",
-      "type": "treatment",
-      "parent": "",
-      "estimated_read_time": 7,
-      "keywords": [
-        "meditation fatigue",
-        "rest for exhaustion",
-        "TCM rest and Qi"
-      ],
-      "id": "726"
-    },
-    {
       "title": "Breathing Exercises for Menopause: Cooling the Heat From Within",
       "path": "/treatments/breathing-exercises-menopause-tcm/",
       "type": "treatment",
@@ -9490,6 +9451,45 @@
         "acupressure head massage"
       ],
       "id": "723"
+    },
+    {
+      "title": "Foot Baths for Respiratory Support: Warming the Lower Body for Lung Health",
+      "path": "/treatments/foot-baths-respiratory-tcm/",
+      "type": "treatment",
+      "parent": "",
+      "estimated_read_time": 7,
+      "keywords": [
+        "foot bath cold",
+        "warm foot soak respiratory",
+        "TCM foot bath lung"
+      ],
+      "id": "724"
+    },
+    {
+      "title": "Qigong for Back Pain: Gentle Movement Sequences for a Stiff Spine",
+      "path": "/treatments/qigong-back-pain-tcm/",
+      "type": "treatment",
+      "parent": "",
+      "estimated_read_time": 7,
+      "keywords": [
+        "qigong back pain",
+        "gentle exercise for back",
+        "TCM movement therapy"
+      ],
+      "id": "725"
+    },
+    {
+      "title": "Meditation for Fatigue: Restoring Energy When Rest Feels Impossible",
+      "path": "/treatments/meditation-fatigue-tcm/",
+      "type": "treatment",
+      "parent": "",
+      "estimated_read_time": 7,
+      "keywords": [
+        "meditation fatigue",
+        "rest for exhaustion",
+        "TCM rest and Qi"
+      ],
+      "id": "726"
     }
   ]
 }
