@@ -4,19 +4,6 @@
   "note": "每3小时自动生产一篇内容。从队列头部取，完成后移到 published。",
   "queue": [
     {
-      "title": "Constant Throat Clearing: The TCM View on the Habit That Won't Quit",
-      "path": "/symptoms/respiratory-health/throat-clearing-tcm/",
-      "type": "cluster",
-      "parent": "respiratory-health",
-      "estimated_read_time": 7,
-      "keywords": [
-        "throat clearing habit",
-        "constant throat clearing",
-        "Phlegm TCM throat"
-      ],
-      "id": "732"
-    },
-    {
       "title": "Regret: The TCM View on Living With What You Can't Change",
       "path": "/symptoms/mental-emotional-health/regret-tcm/",
       "type": "cluster",
@@ -9490,6 +9477,19 @@
         "TCM stress patterns"
       ],
       "id": "731"
+    },
+    {
+      "title": "Constant Throat Clearing: The TCM View on the Habit That Won't Quit",
+      "path": "/symptoms/respiratory-health/throat-clearing-tcm/",
+      "type": "cluster",
+      "parent": "respiratory-health",
+      "estimated_read_time": 7,
+      "keywords": [
+        "throat clearing habit",
+        "constant throat clearing",
+        "Phlegm TCM throat"
+      ],
+      "id": "732"
     }
   ]
 }
