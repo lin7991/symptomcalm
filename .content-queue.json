@@ -4,20 +4,6 @@
   "note": "每3小时自动生产一篇内容。从队列头部取，完成后移到 published。",
   "queue": [
     {
-      "title": "Caffeine Sensitivity and Energy Crashes: The TCM View on Stimulant Dependence",
-      "path": "/symptoms/fatigue/caffeine-sensitivity-tcm/",
-      "type": "cluster",
-      "parent": "fatigue",
-      "estimated_read_time": 7,
-      "keywords": [
-        "caffeine sensitivity",
-        "energy crash",
-        "TCM adrenal",
-        "Kidney Yin"
-      ],
-      "id": "738"
-    },
-    {
       "title": "Mast Cell Activation and Histamine Intolerance: A TCM View on Reactivity",
       "path": "/symptoms/allergies/mcas-tcm/",
       "type": "cluster",
@@ -9687,6 +9673,20 @@
         "Heart-Shen"
       ],
       "id": "737"
+    },
+    {
+      "title": "Caffeine Sensitivity and Energy Crashes: The TCM View on Stimulant Dependence",
+      "path": "/symptoms/fatigue/caffeine-sensitivity-tcm/",
+      "type": "cluster",
+      "parent": "fatigue",
+      "estimated_read_time": 7,
+      "keywords": [
+        "caffeine sensitivity",
+        "energy crash",
+        "TCM adrenal",
+        "Kidney Yin"
+      ],
+      "id": "738"
     }
   ]
 }
