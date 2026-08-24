@@ -4,19 +4,6 @@
   "note": "每3小时自动生产一篇内容。从队列头部取，完成后移到 published。",
   "queue": [
     {
-      "title": "Ovulation Pain: The TCM View on Mid-Cycle Twinges",
-      "path": "/symptoms/womens-health/ovulation-pain-tcm/",
-      "type": "cluster",
-      "parent": "womens-health",
-      "estimated_read_time": 7,
-      "keywords": [
-        "ovulation pain",
-        "mittelschmerz",
-        "TCM cycle pain"
-      ],
-      "id": "734"
-    },
-    {
       "title": "Costochondritis: The TCM View on Chest Wall Pain",
       "path": "/symptoms/joint-pain/costochondritis-tcm/",
       "type": "cluster",
@@ -9700,6 +9687,19 @@
         "TCM emotions Heart"
       ],
       "id": "733"
+    },
+    {
+      "title": "Ovulation Pain: The TCM View on Mid-Cycle Twinges",
+      "path": "/symptoms/womens-health/ovulation-pain-tcm/",
+      "type": "cluster",
+      "parent": "womens-health",
+      "estimated_read_time": 7,
+      "keywords": [
+        "ovulation pain",
+        "mittelschmerz",
+        "TCM cycle pain"
+      ],
+      "id": "734"
     }
   ]
 }
