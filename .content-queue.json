@@ -4,19 +4,6 @@
   "note": "每3小时自动生产一篇内容。从队列头部取，完成后移到 published。",
   "queue": [
     {
-      "title": "Regret: The TCM View on Living With What You Can't Change",
-      "path": "/symptoms/mental-emotional-health/regret-tcm/",
-      "type": "cluster",
-      "parent": "mental-emotional-health",
-      "estimated_read_time": 7,
-      "keywords": [
-        "regret",
-        "living with regret",
-        "TCM emotions Heart"
-      ],
-      "id": "733"
-    },
-    {
       "title": "Ovulation Pain: The TCM View on Mid-Cycle Twinges",
       "path": "/symptoms/womens-health/ovulation-pain-tcm/",
       "type": "cluster",
@@ -54,6 +41,216 @@
         "Damp-Heat skin TCM"
       ],
       "id": "736"
+    },
+    {
+      "title": "EMF Sensitivity: A TCM View on Feeling Wired and Overstimulated",
+      "path": "/symptoms/mental-emotional-health/emf-sensitivity-tcm/",
+      "type": "cluster",
+      "parent": "mental-emotional-health",
+      "estimated_read_time": 7,
+      "keywords": [
+        "EMF sensitivity",
+        "electrosensitivity",
+        "TCM overstimulation",
+        "Heart-Shen"
+      ],
+      "id": "737"
+    },
+    {
+      "title": "Caffeine Sensitivity and Energy Crashes: The TCM View on Stimulant Dependence",
+      "path": "/symptoms/fatigue/caffeine-sensitivity-tcm/",
+      "type": "cluster",
+      "parent": "fatigue",
+      "estimated_read_time": 7,
+      "keywords": [
+        "caffeine sensitivity",
+        "energy crash",
+        "TCM adrenal",
+        "Kidney Yin"
+      ],
+      "id": "738"
+    },
+    {
+      "title": "Mast Cell Activation and Histamine Intolerance: A TCM View on Reactivity",
+      "path": "/symptoms/allergies/mcas-tcm/",
+      "type": "cluster",
+      "parent": "allergies",
+      "estimated_read_time": 7,
+      "keywords": [
+        "mast cell activation",
+        "histamine intolerance",
+        "TCM Wind",
+        "Damp-Heat"
+      ],
+      "id": "739"
+    },
+    {
+      "title": "Cold Plunges and Ice Baths: What Traditional Chinese Medicine Says About Cold Exposure",
+      "path": "/treatments/cold-plunge-tcm/",
+      "type": "treatment",
+      "parent": "treatments",
+      "estimated_read_time": 7,
+      "keywords": [
+        "cold plunge TCM",
+        "ice bath",
+        "cold exposure",
+        "Yang Qi"
+      ],
+      "id": "740"
+    },
+    {
+      "title": "Mouth Taping at Night: A TCM Perspective on Breathing, Sleep and Wei Qi",
+      "path": "/symptoms/insomnia/sleep-mouth-taping-tcm/",
+      "type": "cluster",
+      "parent": "insomnia",
+      "estimated_read_time": 7,
+      "keywords": [
+        "mouth taping",
+        "sleep breathing",
+        "TCM nose breathing",
+        "Wei Qi"
+      ],
+      "id": "741"
+    },
+    {
+      "title": "Biohacking and Traditional Chinese Medicine: Two Approaches to Optimizing Your Body",
+      "path": "/tcm-basics/biohacking-tcm/",
+      "type": "basics",
+      "parent": "tcm-basics",
+      "estimated_read_time": 8,
+      "keywords": [
+        "biohacking TCM",
+        "quantified self",
+        "TCM vs biohacking",
+        "body optimization"
+      ],
+      "id": "742"
+    },
+    {
+      "title": "Herbal Baths for Sleep: A Soothing Evening Ritual for Better Rest",
+      "path": "/treatments/herbal-baths-sleep-tcm/",
+      "type": "treatment",
+      "parent": "treatments",
+      "estimated_read_time": 7,
+      "keywords": [
+        "herbal bath sleep",
+        "evening bath ritual",
+        "TCM sleep",
+        "foot soak sleep"
+      ],
+      "id": "743"
+    },
+    {
+      "title": "Qigong for Headaches: Gentle Movements to Release Tension",
+      "path": "/treatments/qigong-headaches-tcm/",
+      "type": "treatment",
+      "parent": "treatments",
+      "estimated_read_time": 7,
+      "keywords": [
+        "qigong headaches",
+        "qigong tension release",
+        "TCM headache",
+        "neck movement"
+      ],
+      "id": "744"
+    },
+    {
+      "title": "Foot Baths for Digestion: Supporting the Spleen and Stomach From Below",
+      "path": "/treatments/foot-baths-digestion-tcm/",
+      "type": "treatment",
+      "parent": "treatments",
+      "estimated_read_time": 7,
+      "keywords": [
+        "foot bath digestion",
+        "TCM Spleen",
+        "foot soak stomach",
+        "bloating foot bath"
+      ],
+      "id": "745"
+    },
+    {
+      "title": "When Meditation Feels Wrong: A TCM View on Meditation Side Effects",
+      "path": "/symptoms/anxiety/meditation-side-effects-tcm/",
+      "type": "cluster",
+      "parent": "anxiety",
+      "estimated_read_time": 7,
+      "keywords": [
+        "meditation side effects",
+        "meditation anxiety",
+        "TCM Shen",
+        "grounding"
+      ],
+      "id": "746"
+    },
+    {
+      "title": "Post-Viral Cough: The TCM View on the Cough That Lingers After a Cold",
+      "path": "/symptoms/respiratory-health/post-viral-cough-tcm/",
+      "type": "cluster",
+      "parent": "respiratory-health",
+      "estimated_read_time": 7,
+      "keywords": [
+        "post-viral cough",
+        "lingering cough",
+        "TCM Lung Qi",
+        "cough recovery"
+      ],
+      "id": "747"
+    },
+    {
+      "title": "Sugar Cravings and Blood Sugar Swings: A TCM View on the Sweet Tooth",
+      "path": "/symptoms/digestion/sugar-addiction-tcm/",
+      "type": "cluster",
+      "parent": "digestion",
+      "estimated_read_time": 7,
+      "keywords": [
+        "sugar cravings",
+        "blood sugar swings",
+        "TCM Spleen",
+        "sweet tooth"
+      ],
+      "id": "748"
+    },
+    {
+      "title": "Night Shift Work and the Body Clock: TCM Strategies for Rotating Sleep",
+      "path": "/symptoms/insomnia/night-shift-tcm/",
+      "type": "cluster",
+      "parent": "insomnia",
+      "estimated_read_time": 8,
+      "keywords": [
+        "night shift sleep",
+        "rotating shift work",
+        "TCM body clock",
+        "Organ Clock"
+      ],
+      "id": "749"
+    },
+    {
+      "title": "Jet Lag and the Body's Clock: A TCM Guide to Faster Recalibration",
+      "path": "/symptoms/insomnia/jet-lag-tcm/",
+      "type": "cluster",
+      "parent": "insomnia",
+      "estimated_read_time": 7,
+      "keywords": [
+        "jet lag TCM",
+        "travel sleep",
+        "circadian rhythm",
+        "body clock"
+      ],
+      "id": "750"
+    },
+    {
+      "title": "Gallstones and Bile Flow: A TCM View on the Gallbladder's Role in Digestion",
+      "path": "/symptoms/digestion/gallstones-tcm/",
+      "type": "cluster",
+      "parent": "digestion",
+      "estimated_read_time": 7,
+      "keywords": [
+        "gallstones TCM",
+        "bile flow",
+        "gallbladder TCM",
+        "fat digestion"
+      ],
+      "id": "751"
     }
   ],
   "published": [
@@ -9490,6 +9687,19 @@
         "Phlegm TCM throat"
       ],
       "id": "732"
+    },
+    {
+      "title": "Regret: The TCM View on Living With What You Can't Change",
+      "path": "/symptoms/mental-emotional-health/regret-tcm/",
+      "type": "cluster",
+      "parent": "mental-emotional-health",
+      "estimated_read_time": 7,
+      "keywords": [
+        "regret",
+        "living with regret",
+        "TCM emotions Heart"
+      ],
+      "id": "733"
     }
   ]
 }
