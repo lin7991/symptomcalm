@@ -4,32 +4,6 @@
   "note": "每3小时自动生产一篇内容。从队列头部取，完成后移到 published。",
   "queue": [
     {
-      "title": "Costochondritis: The TCM View on Chest Wall Pain",
-      "path": "/symptoms/joint-pain/costochondritis-tcm/",
-      "type": "cluster",
-      "parent": "joint-pain",
-      "estimated_read_time": 7,
-      "keywords": [
-        "costochondritis",
-        "chest wall pain",
-        "TCM rib pain Liver Qi"
-      ],
-      "id": "735"
-    },
-    {
-      "title": "Boils and Abscesses: The TCM View on Recurrent Skin Infections",
-      "path": "/symptoms/skin-conditions/boils-tcm/",
-      "type": "cluster",
-      "parent": "skin-conditions",
-      "estimated_read_time": 7,
-      "keywords": [
-        "boils",
-        "recurrent boils",
-        "Damp-Heat skin TCM"
-      ],
-      "id": "736"
-    },
-    {
       "title": "EMF Sensitivity: A TCM View on Feeling Wired and Overstimulated",
       "path": "/symptoms/mental-emotional-health/emf-sensitivity-tcm/",
       "type": "cluster",
@@ -9700,6 +9674,19 @@
         "TCM cycle pain"
       ],
       "id": "734"
+    },
+    {
+      "title": "Boils and Abscesses: The TCM View on Recurrent Skin Infections",
+      "path": "/symptoms/skin-conditions/boils-tcm/",
+      "type": "cluster",
+      "parent": "skin-conditions",
+      "estimated_read_time": 7,
+      "keywords": [
+        "boils",
+        "recurrent boils",
+        "Damp-Heat skin TCM"
+      ],
+      "id": "736"
     }
   ]
 }
