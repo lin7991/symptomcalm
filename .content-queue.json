@@ -4,19 +4,6 @@
   "note": "每3小时自动生产一篇内容。从队列头部取，完成后移到 published。",
   "queue": [
     {
-      "title": "Microstress: The Tiny Pressures That Drain You, From a TCM View",
-      "path": "/symptoms/stress/microstress-tcm/",
-      "type": "cluster",
-      "parent": "stress",
-      "estimated_read_time": 7,
-      "keywords": [
-        "microstress",
-        "death by a thousand cuts",
-        "TCM stress patterns"
-      ],
-      "id": "731"
-    },
-    {
       "title": "Constant Throat Clearing: The TCM View on the Habit That Won't Quit",
       "path": "/symptoms/respiratory-health/throat-clearing-tcm/",
       "type": "cluster",
@@ -9490,6 +9477,19 @@
         "Kidney energy winter"
       ],
       "id": "730"
+    },
+    {
+      "title": "Microstress: The Tiny Pressures That Drain You, From a TCM View",
+      "path": "/symptoms/stress/microstress-tcm/",
+      "type": "cluster",
+      "parent": "stress",
+      "estimated_read_time": 7,
+      "keywords": [
+        "microstress",
+        "death by a thousand cuts",
+        "TCM stress patterns"
+      ],
+      "id": "731"
     }
   ]
 }
