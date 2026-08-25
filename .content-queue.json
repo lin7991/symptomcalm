@@ -4,34 +4,6 @@
   "note": "每3小时自动生产一篇内容。从队列头部取，完成后移到 published。",
   "queue": [
     {
-      "title": "Mast Cell Activation and Histamine Intolerance: A TCM View on Reactivity",
-      "path": "/symptoms/allergies/mcas-tcm/",
-      "type": "cluster",
-      "parent": "allergies",
-      "estimated_read_time": 7,
-      "keywords": [
-        "mast cell activation",
-        "histamine intolerance",
-        "TCM Wind",
-        "Damp-Heat"
-      ],
-      "id": "739"
-    },
-    {
-      "title": "Cold Plunges and Ice Baths: What Traditional Chinese Medicine Says About Cold Exposure",
-      "path": "/treatments/cold-plunge-tcm/",
-      "type": "treatment",
-      "parent": "treatments",
-      "estimated_read_time": 7,
-      "keywords": [
-        "cold plunge TCM",
-        "ice bath",
-        "cold exposure",
-        "Yang Qi"
-      ],
-      "id": "740"
-    },
-    {
       "title": "Mouth Taping at Night: A TCM Perspective on Breathing, Sleep and Wei Qi",
       "path": "/symptoms/insomnia/sleep-mouth-taping-tcm/",
       "type": "cluster",
@@ -9687,6 +9659,20 @@
         "Kidney Yin"
       ],
       "id": "738"
+    },
+    {
+      "title": "Cold Plunges and Ice Baths: What Traditional Chinese Medicine Says About Cold Exposure",
+      "path": "/treatments/cold-plunge-tcm/",
+      "type": "treatment",
+      "parent": "treatments",
+      "estimated_read_time": 7,
+      "keywords": [
+        "cold plunge TCM",
+        "ice bath",
+        "cold exposure",
+        "Yang Qi"
+      ],
+      "id": "740"
     }
   ]
 }
