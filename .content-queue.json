@@ -4,20 +4,6 @@
   "note": "每3小时自动生产一篇内容。从队列头部取，完成后移到 published。",
   "queue": [
     {
-      "title": "Biohacking and Traditional Chinese Medicine: Two Approaches to Optimizing Your Body",
-      "path": "/tcm-basics/biohacking-tcm/",
-      "type": "basics",
-      "parent": "tcm-basics",
-      "estimated_read_time": 8,
-      "keywords": [
-        "biohacking TCM",
-        "quantified self",
-        "TCM vs biohacking",
-        "body optimization"
-      ],
-      "id": "742"
-    },
-    {
       "title": "Herbal Baths for Sleep: A Soothing Evening Ritual for Better Rest",
       "path": "/treatments/herbal-baths-sleep-tcm/",
       "type": "treatment",
@@ -9673,6 +9659,20 @@
         "Wei Qi"
       ],
       "id": "741"
+    },
+    {
+      "title": "Biohacking and Traditional Chinese Medicine: Two Approaches to Optimizing Your Body",
+      "path": "/tcm-basics/biohacking-tcm/",
+      "type": "basics",
+      "parent": "tcm-basics",
+      "estimated_read_time": 8,
+      "keywords": [
+        "biohacking TCM",
+        "quantified self",
+        "TCM vs biohacking",
+        "body optimization"
+      ],
+      "id": "742"
     }
   ]
 }
