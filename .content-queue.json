@@ -4,20 +4,6 @@
   "note": "每3小时自动生产一篇内容。从队列头部取，完成后移到 published。",
   "queue": [
     {
-      "title": "Gallstones and Bile Flow: A TCM View on the Gallbladder's Role in Digestion",
-      "path": "/symptoms/digestion/gallstones-tcm/",
-      "type": "cluster",
-      "parent": "digestion",
-      "estimated_read_time": 7,
-      "keywords": [
-        "gallstones TCM",
-        "bile flow",
-        "gallbladder TCM",
-        "fat digestion"
-      ],
-      "id": "751"
-    },
-    {
       "title": "Kidney Stones and Damp-Heat: A TCM View on the Urinary Tract's Crystal Problem",
       "path": "/symptoms/womens-health/kidney-stones-tcm/",
       "type": "cluster",
@@ -9883,6 +9869,20 @@
         "body clock"
       ],
       "id": "750"
+    },
+    {
+      "title": "Gallstones and Bile Flow: A TCM View on the Gallbladder's Role in Digestion",
+      "path": "/symptoms/digestion/gallstones-tcm/",
+      "type": "cluster",
+      "parent": "digestion",
+      "estimated_read_time": 7,
+      "keywords": [
+        "gallstones TCM",
+        "bile flow",
+        "gallbladder TCM",
+        "fat digestion"
+      ],
+      "id": "751"
     }
   ]
 }
