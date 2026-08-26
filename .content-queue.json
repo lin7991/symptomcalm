@@ -4,48 +4,6 @@
   "note": "每3小时自动生产一篇内容。从队列头部取，完成后移到 published。",
   "queue": [
     {
-      "title": "Sugar Cravings and Blood Sugar Swings: A TCM View on the Sweet Tooth",
-      "path": "/symptoms/digestion/sugar-addiction-tcm/",
-      "type": "cluster",
-      "parent": "digestion",
-      "estimated_read_time": 7,
-      "keywords": [
-        "sugar cravings",
-        "blood sugar swings",
-        "TCM Spleen",
-        "sweet tooth"
-      ],
-      "id": "748"
-    },
-    {
-      "title": "Night Shift Work and the Body Clock: TCM Strategies for Rotating Sleep",
-      "path": "/symptoms/insomnia/night-shift-tcm/",
-      "type": "cluster",
-      "parent": "insomnia",
-      "estimated_read_time": 8,
-      "keywords": [
-        "night shift sleep",
-        "rotating shift work",
-        "TCM body clock",
-        "Organ Clock"
-      ],
-      "id": "749"
-    },
-    {
-      "title": "Jet Lag and the Body's Clock: A TCM Guide to Faster Recalibration",
-      "path": "/symptoms/insomnia/jet-lag-tcm/",
-      "type": "cluster",
-      "parent": "insomnia",
-      "estimated_read_time": 7,
-      "keywords": [
-        "jet lag TCM",
-        "travel sleep",
-        "circadian rhythm",
-        "body clock"
-      ],
-      "id": "750"
-    },
-    {
       "title": "Gallstones and Bile Flow: A TCM View on the Gallbladder's Role in Digestion",
       "path": "/symptoms/digestion/gallstones-tcm/",
       "type": "cluster",
@@ -58,6 +16,216 @@
         "fat digestion"
       ],
       "id": "751"
+    },
+    {
+      "title": "Kidney Stones and Damp-Heat: A TCM View on the Urinary Tract's Crystal Problem",
+      "path": "/symptoms/womens-health/kidney-stones-tcm/",
+      "type": "cluster",
+      "parent": "womens-health",
+      "estimated_read_time": 7,
+      "keywords": [
+        "kidney stones",
+        "kidney stone pain",
+        "TCM damp-heat",
+        "urinary tract"
+      ],
+      "id": "752"
+    },
+    {
+      "title": "LPR and Silent Reflux: A TCM View on Stomach Qi Rising Into the Throat",
+      "path": "/symptoms/digestion/lpr-silent-reflux-tcm/",
+      "type": "cluster",
+      "parent": "digestion",
+      "estimated_read_time": 7,
+      "keywords": [
+        "silent reflux",
+        "LPR",
+        "throat clearing",
+        "TCM stomach qi"
+      ],
+      "id": "753"
+    },
+    {
+      "title": "Revenge Bedtime Procrastination: Why You Stay Up Late and the TCM View on the Trade",
+      "path": "/symptoms/insomnia/bedtime-procrastination-tcm/",
+      "type": "cluster",
+      "parent": "insomnia",
+      "estimated_read_time": 7,
+      "keywords": [
+        "revenge bedtime procrastination",
+        "staying up late",
+        "TCM sleep",
+        "evening routine"
+      ],
+      "id": "754"
+    },
+    {
+      "title": "Varicose Veins and Blood Stasis: A TCM View on Heavy, Aching Legs",
+      "path": "/symptoms/skin-conditions/varicose-veins-tcm/",
+      "type": "cluster",
+      "parent": "skin-conditions",
+      "estimated_read_time": 7,
+      "keywords": [
+        "varicose veins",
+        "leg pain",
+        "TCM blood stasis",
+        "heavy legs"
+      ],
+      "id": "755"
+    },
+    {
+      "title": "Heavy Legs and Dampness: A TCM View on Tired, Swollen Lower Limbs",
+      "path": "/symptoms/fatigue/heavy-legs-tcm/",
+      "type": "cluster",
+      "parent": "fatigue",
+      "estimated_read_time": 7,
+      "keywords": [
+        "heavy legs",
+        "leg fatigue",
+        "TCM dampness",
+        "leg swelling"
+      ],
+      "id": "756"
+    },
+    {
+      "title": "Gua Sha for Back Pain: A Home Scraping Routine for Stiff, Aching Muscles",
+      "path": "/treatments/gua-sha-back-pain-tcm/",
+      "type": "treatment",
+      "parent": "treatments",
+      "estimated_read_time": 7,
+      "keywords": [
+        "gua sha back pain",
+        "gua sha home",
+        "back pain relief",
+        "TCM scraping"
+      ],
+      "id": "757"
+    },
+    {
+      "title": "Qigong for Menopause: Gentle Movement for Hot Flashes, Sleep, and Mood",
+      "path": "/treatments/qigong-menopause-tcm/",
+      "type": "treatment",
+      "parent": "treatments",
+      "estimated_read_time": 7,
+      "keywords": [
+        "qigong menopause",
+        "menopause exercise",
+        "hot flashes movement",
+        "TCM menopause"
+      ],
+      "id": "758"
+    },
+    {
+      "title": "Breathing Exercises for Fatigue: A TCM Approach to Rebuilding Your Energy Reserve",
+      "path": "/treatments/breathing-exercises-fatigue-tcm/",
+      "type": "treatment",
+      "parent": "treatments",
+      "estimated_read_time": 7,
+      "keywords": [
+        "breathing exercises fatigue",
+        "energy breathing",
+        "TCM qi breath",
+        "fatigue relief"
+      ],
+      "id": "759"
+    },
+    {
+      "title": "Moxibustion for Postpartum Recovery: Warming Support for the Fourth Trimester",
+      "path": "/treatments/moxibustion-postpartum-tcm/",
+      "type": "treatment",
+      "parent": "treatments",
+      "estimated_read_time": 7,
+      "keywords": [
+        "moxibustion postpartum",
+        "fourth trimester",
+        "postpartum recovery",
+        "TCM warming"
+      ],
+      "id": "760"
+    },
+    {
+      "title": "Tui Na for Sleep: A Gentle Self-Massage Sequence for Racing Thoughts",
+      "path": "/treatments/tui-na-sleep-tcm/",
+      "type": "treatment",
+      "parent": "treatments",
+      "estimated_read_time": 7,
+      "keywords": [
+        "tui na sleep",
+        "sleep massage",
+        "self massage insomnia",
+        "TCM sleep"
+      ],
+      "id": "761"
+    },
+    {
+      "title": "Blepharitis and Eye Heat: A TCM View on Inflamed Eyelid Margins",
+      "path": "/symptoms/eye-health/blepharitis-tcm/",
+      "type": "cluster",
+      "parent": "eye-health",
+      "estimated_read_time": 7,
+      "keywords": [
+        "blepharitis",
+        "eyelid inflammation",
+        "TCM eye heat",
+        "stye prevention"
+      ],
+      "id": "762"
+    },
+    {
+      "title": "Oily Skin and Damp-Heat: A TCM Guide to Balancing Sebum From the Inside Out",
+      "path": "/symptoms/skin-conditions/oily-skin-tcm/",
+      "type": "cluster",
+      "parent": "skin-conditions",
+      "estimated_read_time": 7,
+      "keywords": [
+        "oily skin",
+        "sebum control",
+        "TCM damp-heat",
+        "skin balance"
+      ],
+      "id": "763"
+    },
+    {
+      "title": "Breastfeeding Diet and Milk Supply: What TCM Dietary Therapy Traditionally Emphasizes",
+      "path": "/symptoms/womens-health/breastfeeding-diet-tcm/",
+      "type": "cluster",
+      "parent": "womens-health",
+      "estimated_read_time": 7,
+      "keywords": [
+        "breastfeeding diet",
+        "milk supply",
+        "TCM lactation",
+        "postpartum nutrition"
+      ],
+      "id": "764"
+    },
+    {
+      "title": "Menopause Fatigue and Yin Transition: Why Energy Dips and What TCM Traditionally Suggests",
+      "path": "/symptoms/womens-health/menopause-fatigue-tcm/",
+      "type": "cluster",
+      "parent": "womens-health",
+      "estimated_read_time": 7,
+      "keywords": [
+        "menopause fatigue",
+        "energy menopause",
+        "TCM yin deficiency",
+        "menopause exhaustion"
+      ],
+      "id": "765"
+    },
+    {
+      "title": "Muscle Knots and Qi Stagnation: A TCM View on Trigger Points and How to Release Them",
+      "path": "/symptoms/joint-pain/muscle-knots-tcm/",
+      "type": "cluster",
+      "parent": "joint-pain",
+      "estimated_read_time": 7,
+      "keywords": [
+        "muscle knots",
+        "trigger points",
+        "TCM qi stagnation",
+        "knot release"
+      ],
+      "id": "766"
     }
   ],
   "published": [
@@ -9673,6 +9841,48 @@
         "cough recovery"
       ],
       "id": "747"
+    },
+    {
+      "title": "Sugar Cravings and Blood Sugar Swings: A TCM View on the Sweet Tooth",
+      "path": "/symptoms/digestion/sugar-addiction-tcm/",
+      "type": "cluster",
+      "parent": "digestion",
+      "estimated_read_time": 7,
+      "keywords": [
+        "sugar cravings",
+        "blood sugar swings",
+        "TCM Spleen",
+        "sweet tooth"
+      ],
+      "id": "748"
+    },
+    {
+      "title": "Night Shift Work and the Body Clock: TCM Strategies for Rotating Sleep",
+      "path": "/symptoms/insomnia/night-shift-tcm/",
+      "type": "cluster",
+      "parent": "insomnia",
+      "estimated_read_time": 8,
+      "keywords": [
+        "night shift sleep",
+        "rotating shift work",
+        "TCM body clock",
+        "Organ Clock"
+      ],
+      "id": "749"
+    },
+    {
+      "title": "Jet Lag and the Body's Clock: A TCM Guide to Faster Recalibration",
+      "path": "/symptoms/insomnia/jet-lag-tcm/",
+      "type": "cluster",
+      "parent": "insomnia",
+      "estimated_read_time": 7,
+      "keywords": [
+        "jet lag TCM",
+        "travel sleep",
+        "circadian rhythm",
+        "body clock"
+      ],
+      "id": "750"
     }
   ]
 }
