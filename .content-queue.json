@@ -4,20 +4,6 @@
   "note": "每3小时自动生产一篇内容。从队列头部取，完成后移到 published。",
   "queue": [
     {
-      "title": "Kidney Stones and Damp-Heat: A TCM View on the Urinary Tract's Crystal Problem",
-      "path": "/symptoms/womens-health/kidney-stones-tcm/",
-      "type": "cluster",
-      "parent": "womens-health",
-      "estimated_read_time": 7,
-      "keywords": [
-        "kidney stones",
-        "kidney stone pain",
-        "TCM damp-heat",
-        "urinary tract"
-      ],
-      "id": "752"
-    },
-    {
       "title": "LPR and Silent Reflux: A TCM View on Stomach Qi Rising Into the Throat",
       "path": "/symptoms/digestion/lpr-silent-reflux-tcm/",
       "type": "cluster",
@@ -9883,6 +9869,20 @@
         "fat digestion"
       ],
       "id": "751"
+    },
+    {
+      "title": "Kidney Stones and Damp-Heat: A TCM View on the Urinary Tract's Crystal Problem",
+      "path": "/symptoms/womens-health/kidney-stones-tcm/",
+      "type": "cluster",
+      "parent": "womens-health",
+      "estimated_read_time": 7,
+      "keywords": [
+        "kidney stones",
+        "kidney stone pain",
+        "TCM damp-heat",
+        "urinary tract"
+      ],
+      "id": "752"
     }
   ]
 }
