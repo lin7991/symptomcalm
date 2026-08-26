@@ -4,20 +4,6 @@
   "note": "每3小时自动生产一篇内容。从队列头部取，完成后移到 published。",
   "queue": [
     {
-      "title": "Post-Viral Cough: The TCM View on the Cough That Lingers After a Cold",
-      "path": "/symptoms/respiratory-health/post-viral-cough-tcm/",
-      "type": "cluster",
-      "parent": "respiratory-health",
-      "estimated_read_time": 7,
-      "keywords": [
-        "post-viral cough",
-        "lingering cough",
-        "TCM Lung Qi",
-        "cough recovery"
-      ],
-      "id": "747"
-    },
-    {
       "title": "Sugar Cravings and Blood Sugar Swings: A TCM View on the Sweet Tooth",
       "path": "/symptoms/digestion/sugar-addiction-tcm/",
       "type": "cluster",
@@ -9673,6 +9659,20 @@
         "grounding"
       ],
       "id": "746"
+    },
+    {
+      "title": "Post-Viral Cough: The TCM View on the Cough That Lingers After a Cold",
+      "path": "/symptoms/respiratory-health/post-viral-cough-tcm/",
+      "type": "cluster",
+      "parent": "respiratory-health",
+      "estimated_read_time": 7,
+      "keywords": [
+        "post-viral cough",
+        "lingering cough",
+        "TCM Lung Qi",
+        "cough recovery"
+      ],
+      "id": "747"
     }
   ]
 }
