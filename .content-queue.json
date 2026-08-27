@@ -4,20 +4,6 @@
   "note": "每3小时自动生产一篇内容。从队列头部取，完成后移到 published。",
   "queue": [
     {
-      "title": "Moxibustion for Postpartum Recovery: Warming Support for the Fourth Trimester",
-      "path": "/treatments/moxibustion-postpartum-tcm/",
-      "type": "treatment",
-      "parent": "treatments",
-      "estimated_read_time": 7,
-      "keywords": [
-        "moxibustion postpartum",
-        "fourth trimester",
-        "postpartum recovery",
-        "TCM warming"
-      ],
-      "id": "760"
-    },
-    {
       "title": "Tui Na for Sleep: A Gentle Self-Massage Sequence for Racing Thoughts",
       "path": "/treatments/tui-na-sleep-tcm/",
       "type": "treatment",
@@ -9883,6 +9869,20 @@
         "fatigue relief"
       ],
       "id": "759"
+    },
+    {
+      "title": "Moxibustion for Postpartum Recovery: Warming Support for the Fourth Trimester",
+      "path": "/treatments/moxibustion-postpartum-tcm/",
+      "type": "treatment",
+      "parent": "treatments",
+      "estimated_read_time": 7,
+      "keywords": [
+        "moxibustion postpartum",
+        "fourth trimester",
+        "postpartum recovery",
+        "TCM warming"
+      ],
+      "id": "760"
     }
   ]
 }
