@@ -4,34 +4,6 @@
   "note": "每3小时自动生产一篇内容。从队列头部取，完成后移到 published。",
   "queue": [
     {
-      "title": "Gua Sha for Back Pain: A Home Scraping Routine for Stiff, Aching Muscles",
-      "path": "/treatments/gua-sha-back-pain-tcm/",
-      "type": "treatment",
-      "parent": "treatments",
-      "estimated_read_time": 7,
-      "keywords": [
-        "gua sha back pain",
-        "gua sha home",
-        "back pain relief",
-        "TCM scraping"
-      ],
-      "id": "757"
-    },
-    {
-      "title": "Qigong for Menopause: Gentle Movement for Hot Flashes, Sleep, and Mood",
-      "path": "/treatments/qigong-menopause-tcm/",
-      "type": "treatment",
-      "parent": "treatments",
-      "estimated_read_time": 7,
-      "keywords": [
-        "qigong menopause",
-        "menopause exercise",
-        "hot flashes movement",
-        "TCM menopause"
-      ],
-      "id": "758"
-    },
-    {
       "title": "Breathing Exercises for Fatigue: A TCM Approach to Rebuilding Your Energy Reserve",
       "path": "/treatments/breathing-exercises-fatigue-tcm/",
       "type": "treatment",
@@ -9883,6 +9855,34 @@
         "leg swelling"
       ],
       "id": "756"
+    },
+    {
+      "title": "Gua Sha for Back Pain: A Home Scraping Routine for Stiff, Aching Muscles",
+      "path": "/treatments/gua-sha-back-pain-tcm/",
+      "type": "treatment",
+      "parent": "treatments",
+      "estimated_read_time": 7,
+      "keywords": [
+        "gua sha back pain",
+        "gua sha home",
+        "back pain relief",
+        "TCM scraping"
+      ],
+      "id": "757"
+    },
+    {
+      "title": "Qigong for Menopause: Gentle Movement for Hot Flashes, Sleep, and Mood",
+      "path": "/treatments/qigong-menopause-tcm/",
+      "type": "treatment",
+      "parent": "treatments",
+      "estimated_read_time": 7,
+      "keywords": [
+        "qigong menopause",
+        "menopause exercise",
+        "hot flashes movement",
+        "TCM menopause"
+      ],
+      "id": "758"
     }
   ]
 }
