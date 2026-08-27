@@ -4,20 +4,6 @@
   "note": "每3小时自动生产一篇内容。从队列头部取，完成后移到 published。",
   "queue": [
     {
-      "title": "Revenge Bedtime Procrastination: Why You Stay Up Late and the TCM View on the Trade",
-      "path": "/symptoms/insomnia/bedtime-procrastination-tcm/",
-      "type": "cluster",
-      "parent": "insomnia",
-      "estimated_read_time": 7,
-      "keywords": [
-        "revenge bedtime procrastination",
-        "staying up late",
-        "TCM sleep",
-        "evening routine"
-      ],
-      "id": "754"
-    },
-    {
       "title": "Varicose Veins and Blood Stasis: A TCM View on Heavy, Aching Legs",
       "path": "/symptoms/skin-conditions/varicose-veins-tcm/",
       "type": "cluster",
@@ -9883,6 +9869,20 @@
         "TCM stomach qi"
       ],
       "id": "753"
+    },
+    {
+      "title": "Revenge Bedtime Procrastination: Why You Stay Up Late and the TCM View on the Trade",
+      "path": "/symptoms/insomnia/bedtime-procrastination-tcm/",
+      "type": "cluster",
+      "parent": "insomnia",
+      "estimated_read_time": 7,
+      "keywords": [
+        "revenge bedtime procrastination",
+        "staying up late",
+        "TCM sleep",
+        "evening routine"
+      ],
+      "id": "754"
     }
   ]
 }
