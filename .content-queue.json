@@ -4,20 +4,6 @@
   "note": "每3小时自动生产一篇内容。从队列头部取，完成后移到 published。",
   "queue": [
     {
-      "title": "Breastfeeding Diet and Milk Supply: What TCM Dietary Therapy Traditionally Emphasizes",
-      "path": "/symptoms/womens-health/breastfeeding-diet-tcm/",
-      "type": "cluster",
-      "parent": "womens-health",
-      "estimated_read_time": 7,
-      "keywords": [
-        "breastfeeding diet",
-        "milk supply",
-        "TCM lactation",
-        "postpartum nutrition"
-      ],
-      "id": "764"
-    },
-    {
       "title": "Menopause Fatigue and Yin Transition: Why Energy Dips and What TCM Traditionally Suggests",
       "path": "/symptoms/womens-health/menopause-fatigue-tcm/",
       "type": "cluster",
@@ -10093,6 +10079,20 @@
         "skin balance"
       ],
       "id": "763"
+    },
+    {
+      "title": "Breastfeeding Diet and Milk Supply: What TCM Dietary Therapy Traditionally Emphasizes",
+      "path": "/symptoms/womens-health/breastfeeding-diet-tcm/",
+      "type": "cluster",
+      "parent": "womens-health",
+      "estimated_read_time": 7,
+      "keywords": [
+        "breastfeeding diet",
+        "milk supply",
+        "TCM lactation",
+        "postpartum nutrition"
+      ],
+      "id": "764"
     }
   ]
 }
