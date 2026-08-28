@@ -4,20 +4,6 @@
   "note": "每3小时自动生产一篇内容。从队列头部取，完成后移到 published。",
   "queue": [
     {
-      "title": "Menopause Fatigue and Yin Transition: Why Energy Dips and What TCM Traditionally Suggests",
-      "path": "/symptoms/womens-health/menopause-fatigue-tcm/",
-      "type": "cluster",
-      "parent": "womens-health",
-      "estimated_read_time": 7,
-      "keywords": [
-        "menopause fatigue",
-        "energy menopause",
-        "TCM yin deficiency",
-        "menopause exhaustion"
-      ],
-      "id": "765"
-    },
-    {
       "title": "Muscle Knots and Qi Stagnation: A TCM View on Trigger Points and How to Release Them",
       "path": "/symptoms/joint-pain/muscle-knots-tcm/",
       "type": "cluster",
@@ -10093,6 +10079,20 @@
         "postpartum nutrition"
       ],
       "id": "764"
+    },
+    {
+      "title": "Menopause Fatigue and Yin Transition: Why Energy Dips and What TCM Traditionally Suggests",
+      "path": "/symptoms/womens-health/menopause-fatigue-tcm/",
+      "type": "cluster",
+      "parent": "womens-health",
+      "estimated_read_time": 7,
+      "keywords": [
+        "menopause fatigue",
+        "energy menopause",
+        "TCM yin deficiency",
+        "menopause exhaustion"
+      ],
+      "id": "765"
     }
   ]
 }
