@@ -4,20 +4,6 @@
   "note": "每3小时自动生产一篇内容。从队列头部取，完成后移到 published。",
   "queue": [
     {
-      "title": "Vaginal Dryness and Yin Nourishment: A TCM Guide to Restoring Moisture",
-      "path": "/symptoms/womens-health/vaginal-dryness-tcm/",
-      "type": "cluster",
-      "parent": "womens-health",
-      "estimated_read_time": 7,
-      "keywords": [
-        "vaginal dryness",
-        "yin deficiency",
-        "TCM women's health",
-        "vaginal moisturizer natural"
-      ],
-      "id": "767"
-    },
-    {
       "title": "Back Spasms and Qi Stagnation: A TCM Guide to Sudden Muscle Cramps",
       "path": "/symptoms/back-pain/back-spasms-tcm/",
       "type": "cluster",
@@ -10093,6 +10079,20 @@
         "knot release"
       ],
       "id": "766"
+    },
+    {
+      "title": "Vaginal Dryness and Yin Nourishment: A TCM Guide to Restoring Moisture",
+      "path": "/symptoms/womens-health/vaginal-dryness-tcm/",
+      "type": "cluster",
+      "parent": "womens-health",
+      "estimated_read_time": 7,
+      "keywords": [
+        "vaginal dryness",
+        "yin deficiency",
+        "TCM women's health",
+        "vaginal moisturizer natural"
+      ],
+      "id": "767"
     }
   ]
 }
