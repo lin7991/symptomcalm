@@ -4,20 +4,6 @@
   "note": "每3小时自动生产一篇内容。从队列头部取，完成后移到 published。",
   "queue": [
     {
-      "title": "Back Spasms and Qi Stagnation: A TCM Guide to Sudden Muscle Cramps",
-      "path": "/symptoms/back-pain/back-spasms-tcm/",
-      "type": "cluster",
-      "parent": "back-pain",
-      "estimated_read_time": 7,
-      "keywords": [
-        "back spasms",
-        "muscle spasm relief",
-        "Qi stagnation",
-        "TCM back pain"
-      ],
-      "id": "768"
-    },
-    {
       "title": "Kyphosis and Posture from a TCM View: Supporting the Spine's Natural Curve",
       "path": "/symptoms/back-pain/kyphosis-tcm/",
       "type": "cluster",
@@ -10093,6 +10079,20 @@
         "vaginal moisturizer natural"
       ],
       "id": "767"
+    },
+    {
+      "title": "Back Spasms and Qi Stagnation: A TCM Guide to Sudden Muscle Cramps",
+      "path": "/symptoms/back-pain/back-spasms-tcm/",
+      "type": "cluster",
+      "parent": "back-pain",
+      "estimated_read_time": 7,
+      "keywords": [
+        "back spasms",
+        "muscle spasm relief",
+        "Qi stagnation",
+        "TCM back pain"
+      ],
+      "id": "768"
     }
   ]
 }
