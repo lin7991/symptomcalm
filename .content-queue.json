@@ -4,20 +4,6 @@
   "note": "每3小时自动生产一篇内容。从队列头部取，完成后移到 published。",
   "queue": [
     {
-      "title": "Muscle Knots and Qi Stagnation: A TCM View on Trigger Points and How to Release Them",
-      "path": "/symptoms/joint-pain/muscle-knots-tcm/",
-      "type": "cluster",
-      "parent": "joint-pain",
-      "estimated_read_time": 7,
-      "keywords": [
-        "muscle knots",
-        "trigger points",
-        "TCM qi stagnation",
-        "knot release"
-      ],
-      "id": "766"
-    },
-    {
       "title": "Vaginal Dryness and Yin Nourishment: A TCM Guide to Restoring Moisture",
       "path": "/symptoms/womens-health/vaginal-dryness-tcm/",
       "type": "cluster",
@@ -10093,6 +10079,20 @@
         "menopause exhaustion"
       ],
       "id": "765"
+    },
+    {
+      "title": "Muscle Knots and Qi Stagnation: A TCM View on Trigger Points and How to Release Them",
+      "path": "/symptoms/joint-pain/muscle-knots-tcm/",
+      "type": "cluster",
+      "parent": "joint-pain",
+      "estimated_read_time": 7,
+      "keywords": [
+        "muscle knots",
+        "trigger points",
+        "TCM qi stagnation",
+        "knot release"
+      ],
+      "id": "766"
     }
   ]
 }
