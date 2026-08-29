@@ -4,20 +4,6 @@
   "note": "每3小时自动生产一篇内容。从队列头部取，完成后移到 published。",
   "queue": [
     {
-      "title": "Herbal Teas for Skin Health: Cooling and Nourishing Brews",
-      "path": "/treatments/herbal-tea-skin-tcm/",
-      "type": "treatment",
-      "parent": "treatments",
-      "estimated_read_time": 7,
-      "keywords": [
-        "herbal tea skin",
-        "chrysanthemum tea",
-        "TCM skin health",
-        "cooling teas"
-      ],
-      "id": "775"
-    },
-    {
       "title": "Breathing Exercises for Immunity: Building Defensive Qi",
       "path": "/treatments/breathing-exercises-immunity-tcm/",
       "type": "treatment",
@@ -10093,6 +10079,20 @@
         "TCM"
       ],
       "id": "774"
+    },
+    {
+      "title": "Herbal Teas for Skin Health: Cooling and Nourishing Brews",
+      "path": "/treatments/herbal-tea-skin-tcm/",
+      "type": "treatment",
+      "parent": "treatments",
+      "estimated_read_time": 7,
+      "keywords": [
+        "herbal tea skin",
+        "chrysanthemum tea",
+        "TCM skin health",
+        "cooling teas"
+      ],
+      "id": "775"
     }
   ]
 }
