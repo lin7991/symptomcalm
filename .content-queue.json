@@ -4,20 +4,6 @@
   "note": "每3小时自动生产一篇内容。从队列头部取，完成后移到 published。",
   "queue": [
     {
-      "title": "Shin Splints from a TCM View: Leg Qi Flow for Runners",
-      "path": "/symptoms/joint-pain/shin-splints-tcm/",
-      "type": "cluster",
-      "parent": "joint-pain",
-      "estimated_read_time": 7,
-      "keywords": [
-        "shin splints",
-        "medial tibial stress syndrome",
-        "running injuries",
-        "TCM"
-      ],
-      "id": "774"
-    },
-    {
       "title": "Herbal Teas for Skin Health: Cooling and Nourishing Brews",
       "path": "/treatments/herbal-tea-skin-tcm/",
       "type": "treatment",
@@ -10093,6 +10079,20 @@
         "airway health"
       ],
       "id": "773"
+    },
+    {
+      "title": "Shin Splints from a TCM View: Leg Qi Flow for Runners",
+      "path": "/symptoms/joint-pain/shin-splints-tcm/",
+      "type": "cluster",
+      "parent": "joint-pain",
+      "estimated_read_time": 7,
+      "keywords": [
+        "shin splints",
+        "medial tibial stress syndrome",
+        "running injuries",
+        "TCM"
+      ],
+      "id": "774"
     }
   ]
 }
