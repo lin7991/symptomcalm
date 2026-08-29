@@ -4,20 +4,6 @@
   "note": "每3小时自动生产一篇内容。从队列头部取，完成后移到 published。",
   "queue": [
     {
-      "title": "Kyphosis and Posture from a TCM View: Supporting the Spine's Natural Curve",
-      "path": "/symptoms/back-pain/kyphosis-tcm/",
-      "type": "cluster",
-      "parent": "back-pain",
-      "estimated_read_time": 7,
-      "keywords": [
-        "kyphosis",
-        "hunched posture",
-        "Kidney Qi",
-        "posture TCM"
-      ],
-      "id": "769"
-    },
-    {
       "title": "Eco-Anxiety and the Liver: A TCM Perspective on Climate Worry",
       "path": "/symptoms/anxiety/eco-anxiety-tcm/",
       "type": "cluster",
@@ -10093,6 +10079,20 @@
         "TCM back pain"
       ],
       "id": "768"
+    },
+    {
+      "title": "Kyphosis and Posture from a TCM View: Supporting the Spine's Natural Curve",
+      "path": "/symptoms/back-pain/kyphosis-tcm/",
+      "type": "cluster",
+      "parent": "back-pain",
+      "estimated_read_time": 7,
+      "keywords": [
+        "kyphosis",
+        "hunched posture",
+        "Kidney Qi",
+        "posture TCM"
+      ],
+      "id": "769"
     }
   ]
 }
