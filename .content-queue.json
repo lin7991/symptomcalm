@@ -4,20 +4,6 @@
   "note": "每3小时自动生产一篇内容。从队列头部取，完成后移到 published。",
   "queue": [
     {
-      "title": "Watery Eyes and Wind-Cold: A TCM Look at Excess Tearing",
-      "path": "/symptoms/eye-health/watery-eyes-tcm/",
-      "type": "cluster",
-      "parent": "eye-health",
-      "estimated_read_time": 6,
-      "keywords": [
-        "watery eyes",
-        "excess tearing",
-        "wind-cold",
-        "TCM eye health"
-      ],
-      "id": "772"
-    },
-    {
       "title": "Mouth Breathing and Lung Qi: Why Nasal Breathing Matters",
       "path": "/symptoms/respiratory-health/mouth-breathing-tcm/",
       "type": "cluster",
@@ -10093,6 +10079,20 @@
         "TCM emotional health"
       ],
       "id": "771"
+    },
+    {
+      "title": "Watery Eyes and Wind-Cold: A TCM Look at Excess Tearing",
+      "path": "/symptoms/eye-health/watery-eyes-tcm/",
+      "type": "cluster",
+      "parent": "eye-health",
+      "estimated_read_time": 6,
+      "keywords": [
+        "watery eyes",
+        "excess tearing",
+        "wind-cold",
+        "TCM eye health"
+      ],
+      "id": "772"
     }
   ]
 }
