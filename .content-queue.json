@@ -4,20 +4,6 @@
   "note": "每3小时自动生产一篇内容。从队列头部取，完成后移到 published。",
   "queue": [
     {
-      "title": "Eco-Anxiety and the Liver: A TCM Perspective on Climate Worry",
-      "path": "/symptoms/anxiety/eco-anxiety-tcm/",
-      "type": "cluster",
-      "parent": "anxiety",
-      "estimated_read_time": 6,
-      "keywords": [
-        "eco-anxiety",
-        "climate anxiety",
-        "Liver Qi stagnation",
-        "TCM anxiety"
-      ],
-      "id": "770"
-    },
-    {
       "title": "Social Comparison and the Shen: Why Comparing Feels So Draining",
       "path": "/symptoms/mental-emotional-health/social-comparison-tcm/",
       "type": "cluster",
@@ -10093,6 +10079,20 @@
         "posture TCM"
       ],
       "id": "769"
+    },
+    {
+      "title": "Eco-Anxiety and the Liver: A TCM Perspective on Climate Worry",
+      "path": "/symptoms/anxiety/eco-anxiety-tcm/",
+      "type": "cluster",
+      "parent": "anxiety",
+      "estimated_read_time": 6,
+      "keywords": [
+        "eco-anxiety",
+        "climate anxiety",
+        "Liver Qi stagnation",
+        "TCM anxiety"
+      ],
+      "id": "770"
     }
   ]
 }
