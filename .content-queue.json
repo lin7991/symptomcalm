@@ -4,20 +4,6 @@
   "note": "每3小时自动生产一篇内容。从队列头部取，完成后移到 published。",
   "queue": [
     {
-      "title": "Yuan-Source Points: The Body's Reserve Power Outlets",
-      "path": "/tcm-basics/yuan-source-points-tcm/",
-      "type": "tcm-basics",
-      "parent": "tcm-basics",
-      "estimated_read_time": 6,
-      "keywords": [
-        "yuan-source points",
-        "acupoints",
-        "acupressure",
-        "TCM basics"
-      ],
-      "id": "778"
-    },
-    {
       "title": "Cracked Heels and Blood Deficiency: A TCM Skin Care Guide",
       "path": "/symptoms/skin-conditions/cracked-heels-tcm/",
       "type": "cluster",
@@ -58,6 +44,216 @@
         "TCM stress relief"
       ],
       "id": "781"
+    },
+    {
+      "title": "Sunday Scaries: Why Sunday Evening Anxiety Hits and What TCM Suggests",
+      "path": "/symptoms/stress/sunday-scaries-tcm/",
+      "type": "cluster",
+      "parent": "stress",
+      "estimated_read_time": 7,
+      "keywords": [
+        "sunday scaries",
+        "sunday evening anxiety",
+        "work week dread",
+        "TCM stress relief"
+      ],
+      "id": "782"
+    },
+    {
+      "title": "Hypnic Jerks: Why Your Body Jolts as You Fall Asleep, from a TCM View",
+      "path": "/symptoms/insomnia/hypnic-jerks-tcm/",
+      "type": "cluster",
+      "parent": "insomnia",
+      "estimated_read_time": 6,
+      "keywords": [
+        "hypnic jerks",
+        "sleep starts",
+        "falling asleep jolt",
+        "TCM sleep"
+      ],
+      "id": "783"
+    },
+    {
+      "title": "Gardening Back Pain: TCM Approaches for the Weekend Gardener",
+      "path": "/symptoms/back-pain/gardening-back-pain-tcm/",
+      "type": "cluster",
+      "parent": "back-pain",
+      "estimated_read_time": 6,
+      "keywords": [
+        "gardening back pain",
+        "weekend gardener",
+        "back strain",
+        "TCM back pain"
+      ],
+      "id": "784"
+    },
+    {
+      "title": "Presbyopia and TCM: Supporting Age-Related Near Vision",
+      "path": "/symptoms/eye-health/presbyopia-tcm/",
+      "type": "cluster",
+      "parent": "eye-health",
+      "estimated_read_time": 6,
+      "keywords": [
+        "presbyopia",
+        "age-related near vision",
+        "reading glasses",
+        "TCM eye health"
+      ],
+      "id": "785"
+    },
+    {
+      "title": "Milia: Tiny White Bumps and the TCM View of Stagnant Fluids",
+      "path": "/symptoms/skin-conditions/milia-tcm/",
+      "type": "cluster",
+      "parent": "skin-conditions",
+      "estimated_read_time": 6,
+      "keywords": [
+        "milia",
+        "white bumps on face",
+        "skin bumps",
+        "TCM skin"
+      ],
+      "id": "786"
+    },
+    {
+      "title": "Skin Tags from a TCM Perspective: What They Are and What They Suggest",
+      "path": "/symptoms/skin-conditions/skin-tags-tcm/",
+      "type": "cluster",
+      "parent": "skin-conditions",
+      "estimated_read_time": 6,
+      "keywords": [
+        "skin tags",
+        "acrochordon",
+        "skin growths",
+        "TCM skin"
+      ],
+      "id": "787"
+    },
+    {
+      "title": "Cold Food and Your Digestion: Why Temperature Matters in TCM",
+      "path": "/symptoms/digestion/cold-food-digestion-tcm/",
+      "type": "cluster",
+      "parent": "digestion",
+      "estimated_read_time": 7,
+      "keywords": [
+        "cold food digestion",
+        "iced drinks",
+        "spleen qi",
+        "TCM dietary therapy"
+      ],
+      "id": "788"
+    },
+    {
+      "title": "Social Fatigue: When Being Around People Drains You, from a TCM View",
+      "path": "/symptoms/fatigue/social-fatigue-tcm/",
+      "type": "cluster",
+      "parent": "fatigue",
+      "estimated_read_time": 7,
+      "keywords": [
+        "social fatigue",
+        "social exhaustion",
+        "introvert energy",
+        "TCM fatigue"
+      ],
+      "id": "789"
+    },
+    {
+      "title": "People-Pleasing and TCM: The Energy Cost of Always Saying Yes",
+      "path": "/symptoms/mental-emotional-health/people-pleasing-tcm/",
+      "type": "cluster",
+      "parent": "mental-emotional-health",
+      "estimated_read_time": 7,
+      "keywords": [
+        "people pleasing",
+        "saying yes to everything",
+        "codependency",
+        "TCM emotions"
+      ],
+      "id": "790"
+    },
+    {
+      "title": "Boredom and the Spleen: What Chronic Boredom Says in TCM",
+      "path": "/symptoms/mental-emotional-health/boredom-tcm/",
+      "type": "cluster",
+      "parent": "mental-emotional-health",
+      "estimated_read_time": 6,
+      "keywords": [
+        "boredom",
+        "understimulation",
+        "spleen yi",
+        "TCM emotions"
+      ],
+      "id": "791"
+    },
+    {
+      "title": "Zong Qi: The Gathering Qi of the Chest Explained",
+      "path": "/tcm-basics/zong-qi-tcm/",
+      "type": "tcm-basics",
+      "parent": "tcm-basics",
+      "estimated_read_time": 6,
+      "keywords": [
+        "zong qi",
+        "gathering qi",
+        "chest qi",
+        "TCM basics"
+      ],
+      "id": "792"
+    },
+    {
+      "title": "Ying Qi: The Nutritive Qi That Feeds Your Body, Explained",
+      "path": "/tcm-basics/ying-qi-tcm/",
+      "type": "tcm-basics",
+      "parent": "tcm-basics",
+      "estimated_read_time": 6,
+      "keywords": [
+        "ying qi",
+        "nutritive qi",
+        "wei qi complement",
+        "TCM basics"
+      ],
+      "id": "793"
+    },
+    {
+      "title": "Tui Na for Fatigue: A Self-Massage Sequence for Low Energy",
+      "path": "/treatments/tui-na-fatigue-tcm/",
+      "type": "tcm-basics",
+      "parent": "treatments",
+      "estimated_read_time": 7,
+      "keywords": [
+        "tui na fatigue",
+        "self massage energy",
+        "acupressure fatigue",
+        "TCM treatment"
+      ],
+      "id": "794"
+    },
+    {
+      "title": "Self-Massage for Sleep: A Bedtime Routine from TCM",
+      "path": "/treatments/self-massage-sleep-tcm/",
+      "type": "tcm-basics",
+      "parent": "treatments",
+      "estimated_read_time": 6,
+      "keywords": [
+        "self massage sleep",
+        "bedtime massage",
+        "foot massage sleep",
+        "TCM sleep"
+      ],
+      "id": "795"
+    },
+    {
+      "title": "Breathing Exercises for Chronic Pain: A TCM-Informed Guide",
+      "path": "/treatments/breathing-exercises-pain-tcm/",
+      "type": "tcm-basics",
+      "parent": "treatments",
+      "estimated_read_time": 7,
+      "keywords": [
+        "breathing exercises pain",
+        "chronic pain breathing",
+        "qigong breath",
+        "TCM pain relief"
+      ],
+      "id": "796"
     }
   ],
   "published": [
@@ -10093,6 +10289,20 @@
         "TCM theory"
       ],
       "id": "777"
+    },
+    {
+      "title": "Yuan-Source Points: The Body's Reserve Power Outlets",
+      "path": "/tcm-basics/yuan-source-points-tcm/",
+      "type": "tcm-basics",
+      "parent": "tcm-basics",
+      "estimated_read_time": 6,
+      "keywords": [
+        "yuan-source points",
+        "acupoints",
+        "acupressure",
+        "TCM basics"
+      ],
+      "id": "778"
     }
   ]
 }
