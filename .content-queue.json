@@ -4,34 +4,6 @@
   "note": "每3小时自动生产一篇内容。从队列头部取，完成后移到 published。",
   "queue": [
     {
-      "title": "Hypnic Jerks: Why Your Body Jolts as You Fall Asleep, from a TCM View",
-      "path": "/symptoms/insomnia/hypnic-jerks-tcm/",
-      "type": "cluster",
-      "parent": "insomnia",
-      "estimated_read_time": 6,
-      "keywords": [
-        "hypnic jerks",
-        "sleep starts",
-        "falling asleep jolt",
-        "TCM sleep"
-      ],
-      "id": "783"
-    },
-    {
-      "title": "Gardening Back Pain: TCM Approaches for the Weekend Gardener",
-      "path": "/symptoms/back-pain/gardening-back-pain-tcm/",
-      "type": "cluster",
-      "parent": "back-pain",
-      "estimated_read_time": 6,
-      "keywords": [
-        "gardening back pain",
-        "weekend gardener",
-        "back strain",
-        "TCM back pain"
-      ],
-      "id": "784"
-    },
-    {
       "title": "Presbyopia and TCM: Supporting Age-Related Near Vision",
       "path": "/symptoms/eye-health/presbyopia-tcm/",
       "type": "cluster",
@@ -10303,6 +10275,34 @@
         "TCM stress relief"
       ],
       "id": "782"
+    },
+    {
+      "title": "Hypnic Jerks: Why Your Body Jolts as You Fall Asleep, from a TCM View",
+      "path": "/symptoms/insomnia/hypnic-jerks-tcm/",
+      "type": "cluster",
+      "parent": "insomnia",
+      "estimated_read_time": 6,
+      "keywords": [
+        "hypnic jerks",
+        "sleep starts",
+        "falling asleep jolt",
+        "TCM sleep"
+      ],
+      "id": "783"
+    },
+    {
+      "title": "Gardening Back Pain: TCM Approaches for the Weekend Gardener",
+      "path": "/symptoms/back-pain/gardening-back-pain-tcm/",
+      "type": "cluster",
+      "parent": "back-pain",
+      "estimated_read_time": 6,
+      "keywords": [
+        "gardening back pain",
+        "weekend gardener",
+        "back strain",
+        "TCM back pain"
+      ],
+      "id": "784"
     }
   ]
 }
