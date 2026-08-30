@@ -1,7 +1,0 @@
-User-agent: *
-Allow: /
-
-Sitemap: https://symptomcalm.com/sitemap.xml
-
-# RSS feed
-Allow: /feed.xml
