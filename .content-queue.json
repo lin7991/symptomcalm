@@ -4,20 +4,6 @@
   "note": "每3小时自动生产一篇内容。从队列头部取，完成后移到 published。",
   "queue": [
     {
-      "title": "Commute Stress and the Spleen: Reclaiming the In-Between",
-      "path": "/symptoms/stress/commute-stress-tcm/",
-      "type": "cluster",
-      "parent": "stress",
-      "estimated_read_time": 6,
-      "keywords": [
-        "commute stress",
-        "daily stress",
-        "Spleen Qi",
-        "TCM stress relief"
-      ],
-      "id": "781"
-    },
-    {
       "title": "Sunday Scaries: Why Sunday Evening Anxiety Hits and What TCM Suggests",
       "path": "/symptoms/stress/sunday-scaries-tcm/",
       "type": "cluster",
@@ -10303,6 +10289,20 @@
         "TCM skin"
       ],
       "id": "780"
+    },
+    {
+      "title": "Commute Stress and the Spleen: Reclaiming the In-Between",
+      "path": "/symptoms/stress/commute-stress-tcm/",
+      "type": "cluster",
+      "parent": "stress",
+      "estimated_read_time": 6,
+      "keywords": [
+        "commute stress",
+        "daily stress",
+        "Spleen Qi",
+        "TCM stress relief"
+      ],
+      "id": "781"
     }
   ]
 }
