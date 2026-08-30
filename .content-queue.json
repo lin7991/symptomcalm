@@ -4,20 +4,6 @@
   "note": "每3小时自动生产一篇内容。从队列头部取，完成后移到 published。",
   "queue": [
     {
-      "title": "Internal Wind in TCM: When the Body's Stability Falters",
-      "path": "/tcm-basics/internal-wind-tcm/",
-      "type": "tcm-basics",
-      "parent": "tcm-basics",
-      "estimated_read_time": 7,
-      "keywords": [
-        "internal wind",
-        "Liver wind",
-        "tremor",
-        "TCM theory"
-      ],
-      "id": "777"
-    },
-    {
       "title": "Yuan-Source Points: The Body's Reserve Power Outlets",
       "path": "/tcm-basics/yuan-source-points-tcm/",
       "type": "tcm-basics",
@@ -10093,6 +10079,20 @@
         "lung health"
       ],
       "id": "776"
+    },
+    {
+      "title": "Internal Wind in TCM: When the Body's Stability Falters",
+      "path": "/tcm-basics/internal-wind-tcm/",
+      "type": "tcm-basics",
+      "parent": "tcm-basics",
+      "estimated_read_time": 7,
+      "keywords": [
+        "internal wind",
+        "Liver wind",
+        "tremor",
+        "TCM theory"
+      ],
+      "id": "777"
     }
   ]
 }
