@@ -4,20 +4,6 @@
   "note": "每3小时自动生产一篇内容。从队列头部取，完成后移到 published。",
   "queue": [
     {
-      "title": "Cracked Heels and Blood Deficiency: A TCM Skin Care Guide",
-      "path": "/symptoms/skin-conditions/cracked-heels-tcm/",
-      "type": "cluster",
-      "parent": "skin-conditions",
-      "estimated_read_time": 6,
-      "keywords": [
-        "cracked heels",
-        "dry feet",
-        "blood deficiency",
-        "TCM skin"
-      ],
-      "id": "779"
-    },
-    {
       "title": "Ingrown Hairs and Stagnation: A TCM Guide to Razor Bumps",
       "path": "/symptoms/skin-conditions/ingrown-hairs-tcm/",
       "type": "cluster",
@@ -10303,6 +10289,20 @@
         "TCM basics"
       ],
       "id": "778"
+    },
+    {
+      "title": "Cracked Heels and Blood Deficiency: A TCM Skin Care Guide",
+      "path": "/symptoms/skin-conditions/cracked-heels-tcm/",
+      "type": "cluster",
+      "parent": "skin-conditions",
+      "estimated_read_time": 6,
+      "keywords": [
+        "cracked heels",
+        "dry feet",
+        "blood deficiency",
+        "TCM skin"
+      ],
+      "id": "779"
     }
   ]
 }
