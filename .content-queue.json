@@ -4,20 +4,6 @@
   "note": "每3小时自动生产一篇内容。从队列头部取，完成后移到 published。",
   "queue": [
     {
-      "title": "Presbyopia and TCM: Supporting Age-Related Near Vision",
-      "path": "/symptoms/eye-health/presbyopia-tcm/",
-      "type": "cluster",
-      "parent": "eye-health",
-      "estimated_read_time": 6,
-      "keywords": [
-        "presbyopia",
-        "age-related near vision",
-        "reading glasses",
-        "TCM eye health"
-      ],
-      "id": "785"
-    },
-    {
       "title": "Milia: Tiny White Bumps and the TCM View of Stagnant Fluids",
       "path": "/symptoms/skin-conditions/milia-tcm/",
       "type": "cluster",
@@ -10303,6 +10289,20 @@
         "TCM back pain"
       ],
       "id": "784"
+    },
+    {
+      "title": "Presbyopia and TCM: Supporting Age-Related Near Vision",
+      "path": "/symptoms/eye-health/presbyopia-tcm/",
+      "type": "cluster",
+      "parent": "eye-health",
+      "estimated_read_time": 6,
+      "keywords": [
+        "presbyopia",
+        "age-related near vision",
+        "reading glasses",
+        "TCM eye health"
+      ],
+      "id": "785"
     }
   ]
 }
