@@ -4,34 +4,6 @@
   "note": "每3小时自动生产一篇内容。从队列头部取，完成后移到 published。",
   "queue": [
     {
-      "title": "Skin Tags from a TCM Perspective: What They Are and What They Suggest",
-      "path": "/symptoms/skin-conditions/skin-tags-tcm/",
-      "type": "cluster",
-      "parent": "skin-conditions",
-      "estimated_read_time": 6,
-      "keywords": [
-        "skin tags",
-        "acrochordon",
-        "skin growths",
-        "TCM skin"
-      ],
-      "id": "787"
-    },
-    {
-      "title": "Cold Food and Your Digestion: Why Temperature Matters in TCM",
-      "path": "/symptoms/digestion/cold-food-digestion-tcm/",
-      "type": "cluster",
-      "parent": "digestion",
-      "estimated_read_time": 7,
-      "keywords": [
-        "cold food digestion",
-        "iced drinks",
-        "spleen qi",
-        "TCM dietary therapy"
-      ],
-      "id": "788"
-    },
-    {
       "title": "Social Fatigue: When Being Around People Drains You, from a TCM View",
       "path": "/symptoms/fatigue/social-fatigue-tcm/",
       "type": "cluster",
@@ -10303,6 +10275,34 @@
         "TCM skin"
       ],
       "id": "786"
+    },
+    {
+      "title": "Skin Tags from a TCM Perspective: What They Are and What They Suggest",
+      "path": "/symptoms/skin-conditions/skin-tags-tcm/",
+      "type": "cluster",
+      "parent": "skin-conditions",
+      "estimated_read_time": 6,
+      "keywords": [
+        "skin tags",
+        "acrochordon",
+        "skin growths",
+        "TCM skin"
+      ],
+      "id": "787"
+    },
+    {
+      "title": "Cold Food and Your Digestion: Why Temperature Matters in TCM",
+      "path": "/symptoms/digestion/cold-food-digestion-tcm/",
+      "type": "cluster",
+      "parent": "digestion",
+      "estimated_read_time": 7,
+      "keywords": [
+        "cold food digestion",
+        "iced drinks",
+        "spleen qi",
+        "TCM dietary therapy"
+      ],
+      "id": "788"
     }
   ]
 }
