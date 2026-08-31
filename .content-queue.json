@@ -4,20 +4,6 @@
   "note": "每3小时自动生产一篇内容。从队列头部取，完成后移到 published。",
   "queue": [
     {
-      "title": "Social Fatigue: When Being Around People Drains You, from a TCM View",
-      "path": "/symptoms/fatigue/social-fatigue-tcm/",
-      "type": "cluster",
-      "parent": "fatigue",
-      "estimated_read_time": 7,
-      "keywords": [
-        "social fatigue",
-        "social exhaustion",
-        "introvert energy",
-        "TCM fatigue"
-      ],
-      "id": "789"
-    },
-    {
       "title": "People-Pleasing and TCM: The Energy Cost of Always Saying Yes",
       "path": "/symptoms/mental-emotional-health/people-pleasing-tcm/",
       "type": "cluster",
@@ -10303,6 +10289,20 @@
         "TCM dietary therapy"
       ],
       "id": "788"
+    },
+    {
+      "title": "Social Fatigue: When Being Around People Drains You, from a TCM View",
+      "path": "/symptoms/fatigue/social-fatigue-tcm/",
+      "type": "cluster",
+      "parent": "fatigue",
+      "estimated_read_time": 7,
+      "keywords": [
+        "social fatigue",
+        "social exhaustion",
+        "introvert energy",
+        "TCM fatigue"
+      ],
+      "id": "789"
     }
   ]
 }
