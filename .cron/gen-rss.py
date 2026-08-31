@@ -50,6 +50,7 @@ def build_rss(articles):
     now = datetime.now(timezone.utc).strftime('%a, %d %b %Y %H:%M:%S +0000')
 
     items = ""
+    last_build = None
     for a in articles:
         pub_date = a['date'].replace(' ', 'T')
         # Python <3.11 fromisoformat requires ':' in tz offset (+08:00, not +0800)
@@ -59,6 +60,8 @@ def build_rss(articles):
             rss_date = dt.astimezone(timezone.utc).strftime('%a, %d %b %Y %H:%M:%S +0000')
         except Exception:
             rss_date = now
+        if last_build is None:
+            last_build = rss_date  # newest article's pubDate → deterministic output
 
         title = a['title'] or "SymptomCalm Article"
         items += f"""    <item>
@@ -77,7 +80,7 @@ def build_rss(articles):
     <link>https://symptomcalm.com/</link>
     <description>Understand your symptoms through the lens of Traditional Chinese Medicine. No jargon, no miracle claims — clear, grounded wisdom.</description>
     <language>en-us</language>
-    <lastBuildDate>{now}</lastBuildDate>
+    <lastBuildDate>{last_build or now}</lastBuildDate>
     <atom:link href="https://symptomcalm.com/feed.xml" rel="self" type="application/rss+xml"/>
 {items}  </channel>
 </rss>
