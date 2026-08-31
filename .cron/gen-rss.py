@@ -1,55 +1,63 @@
 #!/usr/bin/env python3
-"""Generate feed.xml (RSS) from git history + sitemap."""
-import os, re, subprocess
+"""Generate feed.xml (RSS) from the content queue's published list.
+
+Why not git log --name-only: a batch commit touching hundreds of files
+(e.g. FAQ schema whitespace sweep) floods the file list alphabetically,
+pushing real new articles out of the top-20 (2026-08-31: sunday-scaries-tcm
+published but missing from feed.xml). The queue's `published` array holds
+the true publish order with real titles.
+"""
+import json, os, subprocess
 from datetime import datetime, timezone
 from pathlib import Path
 
 WORK = Path(os.path.expanduser("~/symptomcalm"))
+QUEUE = WORK / '.content-queue.json'
+
+
+def _git_date(path):
+    """Return author date of the most recent commit touching path (UTC)."""
+    try:
+        r = subprocess.run(
+            ['git', 'log', '-1', '--format=%ai', '--', path],
+            capture_output=True, text=True, timeout=15, cwd=WORK
+        )
+        return r.stdout.strip() or None
+    except Exception:
+        return None
+
 
 def get_recent_articles(limit=20):
-    """Get recent article URLs + titles from git log."""
-    os.chdir(WORK)
-    result = subprocess.run(
-        ['git', 'log', '--since=30 days ago', '--name-only', '--pretty=format:%H|%s|%ai', '--', 'symptoms/', 'tcm-basics/', 'treatments/'],
-        capture_output=True, text=True, timeout=30
-    )
-    
+    """Get the most recent published articles from the content queue."""
+    with open(QUEUE) as f:
+        q = json.load(f)
+    published = q.get('published', [])
+
     articles = []
-    current = None
-    for line in result.stdout.split('\n'):
-        if '|' in line and len(line.split('|')) == 3:
-            current = line.split('|')
-        elif line.endswith('/index.html') and not line.startswith('zh/'):
-            if current:
-                articles.append({
-                    'url': f"https://symptomcalm.com/{line.replace('index.html','')}",
-                    'title': current[1].replace('Auto-publish: ', '').replace('Auto publish EN+ZH + FAQ', '').strip(),
-                    'date': current[2]
-                })
-    
-    # Deduplicate
-    seen = set()
-    deduped = []
-    for a in articles:
-        if a['url'] not in seen:
-            seen.add(a['url'])
-            deduped.append(a)
-    
-    return deduped[:limit]
+    for item in published[-limit:][::-1]:  # newest first
+        path = item.get('path', '').lstrip('/').rstrip('/')
+        if not path:
+            continue
+        title = (item.get('title') or '').strip() or "SymptomCalm Article"
+        url = f"https://symptomcalm.com/{path}/"
+        date = _git_date(path + '/index.html') or datetime.now(timezone.utc).strftime('%Y-%m-%d %H:%M:%S %z')
+        articles.append({'url': url, 'title': title, 'date': date})
+    return articles
+
 
 def build_rss(articles):
     """Build RSS XML."""
     now = datetime.now(timezone.utc).strftime('%a, %d %b %Y %H:%M:%S +0000')
-    
+
     items = ""
     for a in articles:
-        pub_date = a['date'].replace(' ', 'T') + 'Z'
+        pub_date = a['date'].replace(' ', 'T')
         try:
-            dt = datetime.fromisoformat(pub_date.replace('Z', '+00:00'))
-            rss_date = dt.strftime('%a, %d %b %Y %H:%M:%S +0000')
-        except:
+            dt = datetime.fromisoformat(pub_date)
+            rss_date = dt.astimezone(timezone.utc).strftime('%a, %d %b %Y %H:%M:%S +0000')
+        except Exception:
             rss_date = now
-        
+
         title = a['title'] or "SymptomCalm Article"
         items += f"""    <item>
       <title><![CDATA[{title}]]></title>
@@ -59,7 +67,7 @@ def build_rss(articles):
       <description><![CDATA[Explore {title} through the lens of Traditional Chinese Medicine at SymptomCalm.]]></description>
     </item>
 """
-    
+
     return f'''<?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
@@ -73,12 +81,14 @@ def build_rss(articles):
 </rss>
 '''
 
+
 def main():
     articles = get_recent_articles()
     rss = build_rss(articles)
     with open(WORK / 'feed.xml', 'w') as f:
         f.write(rss)
     print(f"✅ Generated feed.xml with {len(articles)} recent articles")
+
 
 if __name__ == "__main__":
     main()
