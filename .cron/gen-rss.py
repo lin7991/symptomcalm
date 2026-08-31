@@ -7,7 +7,7 @@ pushing real new articles out of the top-20 (2026-08-31: sunday-scaries-tcm
 published but missing from feed.xml). The queue's `published` array holds
 the true publish order with real titles.
 """
-import json, os, subprocess
+import json, os, re, subprocess
 from datetime import datetime, timezone
 from pathlib import Path
 
@@ -16,10 +16,10 @@ QUEUE = WORK / '.content-queue.json'
 
 
 def _git_date(path):
-    """Return author date of the most recent commit touching path (UTC)."""
+    """Return author date of the commit that FIRST added path (publish time, UTC)."""
     try:
         r = subprocess.run(
-            ['git', 'log', '-1', '--format=%ai', '--', path],
+            ['git', 'log', '-1', '--diff-filter=A', '--format=%ai', '--', path],
             capture_output=True, text=True, timeout=15, cwd=WORK
         )
         return r.stdout.strip() or None
@@ -52,6 +52,8 @@ def build_rss(articles):
     items = ""
     for a in articles:
         pub_date = a['date'].replace(' ', 'T')
+        # Python <3.11 fromisoformat requires ':' in tz offset (+08:00, not +0800)
+        pub_date = re.sub(r'([+-]\d{2})(\d{2})$', r'\1:\2', pub_date)
         try:
             dt = datetime.fromisoformat(pub_date)
             rss_date = dt.astimezone(timezone.utc).strftime('%a, %d %b %Y %H:%M:%S +0000')
