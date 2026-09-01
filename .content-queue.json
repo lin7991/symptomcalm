@@ -4,20 +4,6 @@
   "note": "每3小时自动生产一篇内容。从队列头部取，完成后移到 published。",
   "queue": [
     {
-      "title": "Self-Massage for Sleep: A Bedtime Routine from TCM",
-      "path": "/treatments/self-massage-sleep-tcm/",
-      "type": "tcm-basics",
-      "parent": "treatments",
-      "estimated_read_time": 6,
-      "keywords": [
-        "self massage sleep",
-        "bedtime massage",
-        "foot massage sleep",
-        "TCM sleep"
-      ],
-      "id": "795"
-    },
-    {
       "title": "Breathing Exercises for Chronic Pain: A TCM-Informed Guide",
       "path": "/treatments/breathing-exercises-pain-tcm/",
       "type": "tcm-basics",
@@ -10498,6 +10484,20 @@
         "TCM treatment"
       ],
       "id": "794"
+    },
+    {
+      "title": "Self-Massage for Sleep: A Bedtime Routine from TCM",
+      "path": "/treatments/self-massage-sleep-tcm/",
+      "type": "tcm-basics",
+      "parent": "treatments",
+      "estimated_read_time": 6,
+      "keywords": [
+        "self massage sleep",
+        "bedtime massage",
+        "foot massage sleep",
+        "TCM sleep"
+      ],
+      "id": "795"
     }
   ]
 }
