@@ -4,20 +4,6 @@
   "note": "每3小时自动生产一篇内容。从队列头部取，完成后移到 published。",
   "queue": [
     {
-      "title": "Breathing Exercises for Chronic Pain: A TCM-Informed Guide",
-      "path": "/treatments/breathing-exercises-pain-tcm/",
-      "type": "tcm-basics",
-      "parent": "treatments",
-      "estimated_read_time": 7,
-      "keywords": [
-        "breathing exercises pain",
-        "chronic pain breathing",
-        "qigong breath",
-        "TCM pain relief"
-      ],
-      "id": "796"
-    },
-    {
       "title": "Qi Transformation: How Your Body Turns Food Into Energy",
       "path": "/tcm-basics/qi-transformation-tcm/",
       "type": "tcm-basics",
@@ -10498,6 +10484,20 @@
         "TCM sleep"
       ],
       "id": "795"
+    },
+    {
+      "title": "Breathing Exercises for Chronic Pain: A TCM-Informed Guide",
+      "path": "/treatments/breathing-exercises-pain-tcm/",
+      "type": "tcm-basics",
+      "parent": "treatments",
+      "estimated_read_time": 7,
+      "keywords": [
+        "breathing exercises pain",
+        "chronic pain breathing",
+        "qigong breath",
+        "TCM pain relief"
+      ],
+      "id": "796"
     }
   ]
 }
