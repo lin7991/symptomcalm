@@ -4,19 +4,6 @@
   "note": "每3小时自动生产一篇内容。从队列头部取，完成后移到 published。",
   "queue": [
     {
-      "title": "Acupressure for Stress: Pressure Points to Calm a Busy Mind",
-      "path": "/treatments/acupressure-stress-tcm/",
-      "type": "tcm-basics",
-      "parent": "treatments",
-      "estimated_read_time": 7,
-      "keywords": [
-        "acupressure for stress",
-        "stress relief points",
-        "self acupressure"
-      ],
-      "id": "800"
-    },
-    {
       "title": "Ear Seeds for Anxiety: A TCM Approach to Daily Calm",
       "path": "/treatments/ear-seed-anxiety-tcm/",
       "type": "tcm-basics",
@@ -10498,6 +10485,19 @@
         "kidney yang TCM"
       ],
       "id": "799"
+    },
+    {
+      "title": "Acupressure for Stress: Pressure Points to Calm a Busy Mind",
+      "path": "/treatments/acupressure-stress-tcm/",
+      "type": "tcm-basics",
+      "parent": "treatments",
+      "estimated_read_time": 7,
+      "keywords": [
+        "acupressure for stress",
+        "stress relief points",
+        "self acupressure"
+      ],
+      "id": "800"
     }
   ]
 }
