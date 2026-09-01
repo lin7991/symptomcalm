@@ -4,20 +4,6 @@
   "note": "每3小时自动生产一篇内容。从队列头部取，完成后移到 published。",
   "queue": [
     {
-      "title": "Tui Na for Fatigue: A Self-Massage Sequence for Low Energy",
-      "path": "/treatments/tui-na-fatigue-tcm/",
-      "type": "tcm-basics",
-      "parent": "treatments",
-      "estimated_read_time": 7,
-      "keywords": [
-        "tui na fatigue",
-        "self massage energy",
-        "acupressure fatigue",
-        "TCM treatment"
-      ],
-      "id": "794"
-    },
-    {
       "title": "Self-Massage for Sleep: A Bedtime Routine from TCM",
       "path": "/treatments/self-massage-sleep-tcm/",
       "type": "tcm-basics",
@@ -10498,6 +10484,20 @@
         "TCM basics"
       ],
       "id": "793"
+    },
+    {
+      "title": "Tui Na for Fatigue: A Self-Massage Sequence for Low Energy",
+      "path": "/treatments/tui-na-fatigue-tcm/",
+      "type": "tcm-basics",
+      "parent": "treatments",
+      "estimated_read_time": 7,
+      "keywords": [
+        "tui na fatigue",
+        "self massage energy",
+        "acupressure fatigue",
+        "TCM treatment"
+      ],
+      "id": "794"
     }
   ]
 }
