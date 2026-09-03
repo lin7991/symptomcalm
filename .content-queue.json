@@ -4,19 +4,6 @@
   "note": "每3小时自动生产一篇内容。从队列头部取，完成后移到 published。",
   "queue": [
     {
-      "title": "Homesickness Through a TCM Lens: When Longing Weighs You Down",
-      "path": "/symptoms/mental-emotional-health/homesickness-tcm/",
-      "type": "cluster",
-      "parent": "mental-emotional-health",
-      "estimated_read_time": 7,
-      "keywords": [
-        "homesickness TCM",
-        "longing emotion",
-        "spleen heart homesickness"
-      ],
-      "id": "811"
-    },
-    {
       "title": "Fragrance Sensitivity: Why Scents Overwhelm and How TCM Views Chemical Sensitivities",
       "path": "/symptoms/allergies/fragrance-sensitivity-tcm/",
       "type": "cluster",
@@ -10704,6 +10691,19 @@
         "morning drowsiness TCM"
       ],
       "id": "810"
+    },
+    {
+      "title": "Homesickness Through a TCM Lens: When Longing Weighs You Down",
+      "path": "/symptoms/mental-emotional-health/homesickness-tcm/",
+      "type": "cluster",
+      "parent": "mental-emotional-health",
+      "estimated_read_time": 7,
+      "keywords": [
+        "homesickness TCM",
+        "longing emotion",
+        "spleen heart homesickness"
+      ],
+      "id": "811"
     }
   ]
 }
