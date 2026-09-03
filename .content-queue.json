@@ -4,19 +4,6 @@
   "note": "每3小时自动生产一篇内容。从队列头部取，完成后移到 published。",
   "queue": [
     {
-      "title": "Allergy Fatigue: Why Seasonal Allergies Drain Your Energy",
-      "path": "/symptoms/allergies/allergy-fatigue-tcm/",
-      "type": "cluster",
-      "parent": "allergies",
-      "estimated_read_time": 8,
-      "keywords": [
-        "allergy fatigue",
-        "seasonal allergy tiredness",
-        "allergy brain fog"
-      ],
-      "id": "808"
-    },
-    {
       "title": "Winter Eczema: Why Cold Weather Makes Skin Flare and What Helps",
       "path": "/symptoms/skin-conditions/winter-eczema-tcm/",
       "type": "cluster",
@@ -54,6 +41,212 @@
         "spleen heart homesickness"
       ],
       "id": "811"
+    },
+    {
+      "title": "Fragrance Sensitivity: Why Scents Overwhelm and How TCM Views Chemical Sensitivities",
+      "path": "/symptoms/allergies/fragrance-sensitivity-tcm/",
+      "type": "cluster",
+      "parent": "allergies",
+      "estimated_read_time": 7,
+      "keywords": [
+        "fragrance sensitivity",
+        "chemical sensitivity tcm",
+        "scent intolerance",
+        "allergy to perfume"
+      ],
+      "id": "812"
+    },
+    {
+      "title": "Video Call Fatigue: Why Zoom Exhausts You and the TCM Perspective",
+      "path": "/symptoms/fatigue/video-call-fatigue-tcm/",
+      "type": "cluster",
+      "parent": "fatigue",
+      "estimated_read_time": 7,
+      "keywords": [
+        "zoom fatigue",
+        "video call exhaustion",
+        "screen fatigue tcm",
+        "remote work energy"
+      ],
+      "id": "813"
+    },
+    {
+      "title": "Heat Rash: A TCM View of Prickly Heat and Damp-Heat on the Skin",
+      "path": "/symptoms/skin-conditions/heat-rash-tcm/",
+      "type": "cluster",
+      "parent": "skin-conditions",
+      "estimated_read_time": 6,
+      "keywords": [
+        "heat rash",
+        "prickly heat tcm",
+        "miliaria",
+        "damp heat skin"
+      ],
+      "id": "814"
+    },
+    {
+      "title": "Alcohol and Sleep: Why the Nightcap Backfires, Seen Through a TCM Lens",
+      "path": "/symptoms/insomnia/alcohol-and-sleep-tcm/",
+      "type": "cluster",
+      "parent": "insomnia",
+      "estimated_read_time": 7,
+      "keywords": [
+        "alcohol and sleep",
+        "nightcap insomnia",
+        "alcohol sleep quality tcm",
+        "damp heat sleep"
+      ],
+      "id": "815"
+    },
+    {
+      "title": "Grieving a Pet: TCM Support for the Loss of a Companion Animal",
+      "path": "/symptoms/mental-emotional-health/pet-loss-grief-tcm/",
+      "type": "cluster",
+      "parent": "mental-emotional-health",
+      "estimated_read_time": 7,
+      "keywords": [
+        "pet loss grief",
+        "grieving a pet tcm",
+        "pet bereavement",
+        "lung qi grief"
+      ],
+      "id": "816"
+    },
+    {
+      "title": "Late-Night Eating and Digestion: TCM Perspectives on the Midnight Snack",
+      "path": "/symptoms/digestion/late-night-eating-tcm/",
+      "type": "cluster",
+      "parent": "digestion",
+      "estimated_read_time": 7,
+      "keywords": [
+        "late night eating",
+        "eating before bed digestion",
+        "midnight snack tcm",
+        "spleen stomach clock"
+      ],
+      "id": "817"
+    },
+    {
+      "title": "Recovery After Miscarriage: A TCM Guide to Nourishing Body and Emotions",
+      "path": "/symptoms/womens-health/miscarriage-recovery-tcm/",
+      "type": "cluster",
+      "parent": "womens-health",
+      "estimated_read_time": 8,
+      "keywords": [
+        "after miscarriage recovery",
+        "tcm miscarriage support",
+        "post miscarriage care",
+        "kidney qi miscarriage"
+      ],
+      "id": "818"
+    },
+    {
+      "title": "Heavy Periods: Understanding Menorrhagia Through a TCM Lens",
+      "path": "/symptoms/womens-health/heavy-periods-tcm/",
+      "type": "cluster",
+      "parent": "womens-health",
+      "estimated_read_time": 7,
+      "keywords": [
+        "heavy periods",
+        "menorrhagia tcm",
+        "excessive menstrual bleeding",
+        "qi deficiency heavy flow"
+      ],
+      "id": "819"
+    },
+    {
+      "title": "Itchy Ears: Causes and TCM Perspectives on Ear Itching",
+      "path": "/symptoms/ear-health-tinnitus/itchy-ears-tcm/",
+      "type": "cluster",
+      "parent": "ear-health-tinnitus",
+      "estimated_read_time": 6,
+      "keywords": [
+        "itchy ears",
+        "ear itching causes tcm",
+        "itchy inner ear",
+        "wind heat ears"
+      ],
+      "id": "820"
+    },
+    {
+      "title": "Dry Mouth: TCM Perspectives on Thirst, Yin Deficiency, and Saliva",
+      "path": "/symptoms/digestion/dry-mouth-tcm/",
+      "type": "cluster",
+      "parent": "digestion",
+      "estimated_read_time": 7,
+      "keywords": [
+        "dry mouth causes",
+        "xerostomia tcm",
+        "dry mouth yin deficiency",
+        "stomach yin dry mouth"
+      ],
+      "id": "821"
+    },
+    {
+      "title": "Dry Nose: TCM Perspectives on Nasal Dryness and Lung Moisture",
+      "path": "/symptoms/respiratory-health/dry-nose-tcm/",
+      "type": "cluster",
+      "parent": "respiratory-health",
+      "estimated_read_time": 6,
+      "keywords": [
+        "dry nose",
+        "nasal dryness tcm",
+        "dry nasal passages",
+        "lung yin dryness"
+      ],
+      "id": "822"
+    },
+    {
+      "title": "Inflammation Through a TCM Lens: Heat, Dampness, and the Body's Fire Alarm",
+      "path": "/tcm-basics/inflammation-tcm/",
+      "type": "tcm-basics",
+      "estimated_read_time": 7,
+      "keywords": [
+        "inflammation tcm",
+        "tcm view of inflammation",
+        "damp heat inflammation",
+        "anti inflammatory tcm theory"
+      ],
+      "id": "823"
+    },
+    {
+      "title": "Herbal Teas for Allergies: A TCM Guide to Soothing Seasonal Sensitivities",
+      "path": "/treatments/herbal-tea-allergies-tcm/",
+      "type": "treatment",
+      "estimated_read_time": 6,
+      "keywords": [
+        "herbal tea for allergies",
+        "allergy tea tcm",
+        "nettle tea allergies",
+        "seasonal allergy tea"
+      ],
+      "id": "824"
+    },
+    {
+      "title": "Herbal Teas for PMS: TCM Approaches to Menstrual Discomfort",
+      "path": "/treatments/herbal-tea-pms-tcm/",
+      "type": "treatment",
+      "estimated_read_time": 6,
+      "keywords": [
+        "herbal tea for pms",
+        "pms tea tcm",
+        "menstrual cramp tea",
+        "liver qi tea pms"
+      ],
+      "id": "825"
+    },
+    {
+      "title": "Meditation for Menopause: Calming the Heat and Restoring Balance",
+      "path": "/treatments/meditation-menopause-tcm/",
+      "type": "treatment",
+      "estimated_read_time": 6,
+      "keywords": [
+        "meditation for menopause",
+        "menopause hot flashes meditation",
+        "menopause mindfulness tcm",
+        "cooling meditation"
+      ],
+      "id": "826"
     }
   ],
   "published": [
@@ -10498,6 +10691,19 @@
         "whooshing sound ear"
       ],
       "id": "807"
+    },
+    {
+      "title": "Allergy Fatigue: Why Seasonal Allergies Drain Your Energy",
+      "path": "/symptoms/allergies/allergy-fatigue-tcm/",
+      "type": "cluster",
+      "parent": "allergies",
+      "estimated_read_time": 8,
+      "keywords": [
+        "allergy fatigue",
+        "seasonal allergy tiredness",
+        "allergy brain fog"
+      ],
+      "id": "808"
     }
   ]
 }
