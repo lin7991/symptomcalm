@@ -4,20 +4,6 @@
   "note": "每3小时自动生产一篇内容。从队列头部取，完成后移到 published。",
   "queue": [
     {
-      "title": "Alcohol and Sleep: Why the Nightcap Backfires, Seen Through a TCM Lens",
-      "path": "/symptoms/insomnia/alcohol-and-sleep-tcm/",
-      "type": "cluster",
-      "parent": "insomnia",
-      "estimated_read_time": 7,
-      "keywords": [
-        "alcohol and sleep",
-        "nightcap insomnia",
-        "alcohol sleep quality tcm",
-        "damp heat sleep"
-      ],
-      "id": "815"
-    },
-    {
       "title": "Grieving a Pet: TCM Support for the Loss of a Companion Animal",
       "path": "/symptoms/mental-emotional-health/pet-loss-grief-tcm/",
       "type": "cluster",
@@ -10704,6 +10690,20 @@
         "damp heat skin"
       ],
       "id": "814"
+    },
+    {
+      "title": "Alcohol and Sleep: Why the Nightcap Backfires, Seen Through a TCM Lens",
+      "path": "/symptoms/insomnia/alcohol-and-sleep-tcm/",
+      "type": "cluster",
+      "parent": "insomnia",
+      "estimated_read_time": 7,
+      "keywords": [
+        "alcohol and sleep",
+        "nightcap insomnia",
+        "alcohol sleep quality tcm",
+        "damp heat sleep"
+      ],
+      "id": "815"
     }
   ]
 }
