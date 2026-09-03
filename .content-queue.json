@@ -4,20 +4,6 @@
   "note": "每3小时自动生产一篇内容。从队列头部取，完成后移到 published。",
   "queue": [
     {
-      "title": "Fragrance Sensitivity: Why Scents Overwhelm and How TCM Views Chemical Sensitivities",
-      "path": "/symptoms/allergies/fragrance-sensitivity-tcm/",
-      "type": "cluster",
-      "parent": "allergies",
-      "estimated_read_time": 7,
-      "keywords": [
-        "fragrance sensitivity",
-        "chemical sensitivity tcm",
-        "scent intolerance",
-        "allergy to perfume"
-      ],
-      "id": "812"
-    },
-    {
       "title": "Video Call Fatigue: Why Zoom Exhausts You and the TCM Perspective",
       "path": "/symptoms/fatigue/video-call-fatigue-tcm/",
       "type": "cluster",
@@ -10704,6 +10690,20 @@
         "spleen heart homesickness"
       ],
       "id": "811"
+    },
+    {
+      "title": "Fragrance Sensitivity: Why Scents Overwhelm and How TCM Views Chemical Sensitivities",
+      "path": "/symptoms/allergies/fragrance-sensitivity-tcm/",
+      "type": "cluster",
+      "parent": "allergies",
+      "estimated_read_time": 7,
+      "keywords": [
+        "fragrance sensitivity",
+        "chemical sensitivity tcm",
+        "scent intolerance",
+        "allergy to perfume"
+      ],
+      "id": "812"
     }
   ]
 }
