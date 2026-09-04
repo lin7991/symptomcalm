@@ -4,20 +4,6 @@
   "note": "每3小时自动生产一篇内容。从队列头部取，完成后移到 published。",
   "queue": [
     {
-      "title": "Itchy Ears: Causes and TCM Perspectives on Ear Itching",
-      "path": "/symptoms/ear-health-tinnitus/itchy-ears-tcm/",
-      "type": "cluster",
-      "parent": "ear-health-tinnitus",
-      "estimated_read_time": 6,
-      "keywords": [
-        "itchy ears",
-        "ear itching causes tcm",
-        "itchy inner ear",
-        "wind heat ears"
-      ],
-      "id": "820"
-    },
-    {
       "title": "Dry Mouth: TCM Perspectives on Thirst, Yin Deficiency, and Saliva",
       "path": "/symptoms/digestion/dry-mouth-tcm/",
       "type": "cluster",
@@ -10704,6 +10690,20 @@
         "qi deficiency heavy flow"
       ],
       "id": "819"
+    },
+    {
+      "title": "Itchy Ears: Causes and TCM Perspectives on Ear Itching",
+      "path": "/symptoms/ear-health-tinnitus/itchy-ears-tcm/",
+      "type": "cluster",
+      "parent": "ear-health-tinnitus",
+      "estimated_read_time": 6,
+      "keywords": [
+        "itchy ears",
+        "ear itching causes tcm",
+        "itchy inner ear",
+        "wind heat ears"
+      ],
+      "id": "820"
     }
   ]
 }
