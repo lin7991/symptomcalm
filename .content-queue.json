@@ -4,20 +4,6 @@
   "note": "每3小时自动生产一篇内容。从队列头部取，完成后移到 published。",
   "queue": [
     {
-      "title": "Dry Mouth: TCM Perspectives on Thirst, Yin Deficiency, and Saliva",
-      "path": "/symptoms/digestion/dry-mouth-tcm/",
-      "type": "cluster",
-      "parent": "digestion",
-      "estimated_read_time": 7,
-      "keywords": [
-        "dry mouth causes",
-        "xerostomia tcm",
-        "dry mouth yin deficiency",
-        "stomach yin dry mouth"
-      ],
-      "id": "821"
-    },
-    {
       "title": "Dry Nose: TCM Perspectives on Nasal Dryness and Lung Moisture",
       "path": "/symptoms/respiratory-health/dry-nose-tcm/",
       "type": "cluster",
@@ -10704,6 +10690,20 @@
         "wind heat ears"
       ],
       "id": "820"
+    },
+    {
+      "title": "Dry Mouth: TCM Perspectives on Thirst, Yin Deficiency, and Saliva",
+      "path": "/symptoms/digestion/dry-mouth-tcm/",
+      "type": "cluster",
+      "parent": "digestion",
+      "estimated_read_time": 7,
+      "keywords": [
+        "dry mouth causes",
+        "xerostomia tcm",
+        "dry mouth yin deficiency",
+        "stomach yin dry mouth"
+      ],
+      "id": "821"
     }
   ]
 }
