@@ -4,20 +4,6 @@
   "note": "每3小时自动生产一篇内容。从队列头部取，完成后移到 published。",
   "queue": [
     {
-      "title": "Dry Nose: TCM Perspectives on Nasal Dryness and Lung Moisture",
-      "path": "/symptoms/respiratory-health/dry-nose-tcm/",
-      "type": "cluster",
-      "parent": "respiratory-health",
-      "estimated_read_time": 6,
-      "keywords": [
-        "dry nose",
-        "nasal dryness tcm",
-        "dry nasal passages",
-        "lung yin dryness"
-      ],
-      "id": "822"
-    },
-    {
       "title": "Inflammation Through a TCM Lens: Heat, Dampness, and the Body's Fire Alarm",
       "path": "/tcm-basics/inflammation-tcm/",
       "type": "tcm-basics",
@@ -10704,6 +10690,20 @@
         "stomach yin dry mouth"
       ],
       "id": "821"
+    },
+    {
+      "title": "Dry Nose: TCM Perspectives on Nasal Dryness and Lung Moisture",
+      "path": "/symptoms/respiratory-health/dry-nose-tcm/",
+      "type": "cluster",
+      "parent": "respiratory-health",
+      "estimated_read_time": 6,
+      "keywords": [
+        "dry nose",
+        "nasal dryness tcm",
+        "dry nasal passages",
+        "lung yin dryness"
+      ],
+      "id": "822"
     }
   ]
 }
