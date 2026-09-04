@@ -4,19 +4,6 @@
   "note": "每3小时自动生产一篇内容。从队列头部取，完成后移到 published。",
   "queue": [
     {
-      "title": "Inflammation Through a TCM Lens: Heat, Dampness, and the Body's Fire Alarm",
-      "path": "/tcm-basics/inflammation-tcm/",
-      "type": "tcm-basics",
-      "estimated_read_time": 7,
-      "keywords": [
-        "inflammation tcm",
-        "tcm view of inflammation",
-        "damp heat inflammation",
-        "anti inflammatory tcm theory"
-      ],
-      "id": "823"
-    },
-    {
       "title": "Herbal Teas for Allergies: A TCM Guide to Soothing Seasonal Sensitivities",
       "path": "/treatments/herbal-tea-allergies-tcm/",
       "type": "treatment",
@@ -10704,6 +10691,19 @@
         "lung yin dryness"
       ],
       "id": "822"
+    },
+    {
+      "title": "Inflammation Through a TCM Lens: Heat, Dampness, and the Body's Fire Alarm",
+      "path": "/tcm-basics/inflammation-tcm/",
+      "type": "tcm-basics",
+      "estimated_read_time": 7,
+      "keywords": [
+        "inflammation tcm",
+        "tcm view of inflammation",
+        "damp heat inflammation",
+        "anti inflammatory tcm theory"
+      ],
+      "id": "823"
     }
   ]
 }
