@@ -5,8 +5,29 @@
     <link>https://symptomcalm.com/</link>
     <description>Understand your symptoms through the lens of Traditional Chinese Medicine. No jargon, no miracle claims — clear, grounded wisdom.</description>
     <language>en-us</language>
-    <lastBuildDate>Fri, 04 Sep 2026 16:19:40 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 04 Sep 2026 22:19:09 +0000</lastBuildDate>
     <atom:link href="https://symptomcalm.com/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title><![CDATA[Inflammation Through a TCM Lens: Heat, Dampness, and the Body's Fire Alarm]]></title>
+      <link>https://symptomcalm.com/tcm-basics/inflammation-tcm/</link>
+      <guid>https://symptomcalm.com/tcm-basics/inflammation-tcm/</guid>
+      <pubDate>Fri, 04 Sep 2026 22:19:09 +0000</pubDate>
+      <description><![CDATA[Explore Inflammation Through a TCM Lens: Heat, Dampness, and the Body's Fire Alarm through the lens of Traditional Chinese Medicine at SymptomCalm.]]></description>
+    </item>
+    <item>
+      <title><![CDATA[Dry Nose: TCM Perspectives on Nasal Dryness and Lung Moisture]]></title>
+      <link>https://symptomcalm.com/symptoms/respiratory-health/dry-nose-tcm/</link>
+      <guid>https://symptomcalm.com/symptoms/respiratory-health/dry-nose-tcm/</guid>
+      <pubDate>Fri, 04 Sep 2026 22:16:40 +0000</pubDate>
+      <description><![CDATA[Explore Dry Nose: TCM Perspectives on Nasal Dryness and Lung Moisture through the lens of Traditional Chinese Medicine at SymptomCalm.]]></description>
+    </item>
+    <item>
+      <title><![CDATA[Dry Mouth: TCM Perspectives on Thirst, Yin Deficiency, and Saliva]]></title>
+      <link>https://symptomcalm.com/symptoms/digestion/dry-mouth-tcm/</link>
+      <guid>https://symptomcalm.com/symptoms/digestion/dry-mouth-tcm/</guid>
+      <pubDate>Fri, 04 Sep 2026 19:32:16 +0000</pubDate>
+      <description><![CDATA[Explore Dry Mouth: TCM Perspectives on Thirst, Yin Deficiency, and Saliva through the lens of Traditional Chinese Medicine at SymptomCalm.]]></description>
+    </item>
     <item>
       <title><![CDATA[Itchy Ears: Causes and TCM Perspectives on Ear Itching]]></title>
       <link>https://symptomcalm.com/symptoms/ear-health-tinnitus/itchy-ears-tcm/</link>
@@ -125,27 +146,6 @@
       <guid>https://symptomcalm.com/symptoms/mental-emotional-health/disappointment-tcm/</guid>
       <pubDate>Wed, 02 Sep 2026 22:20:48 +0000</pubDate>
       <description><![CDATA[Explore Disappointment and TCM: When Expectations Meet Reality through the lens of Traditional Chinese Medicine at SymptomCalm.]]></description>
-    </item>
-    <item>
-      <title><![CDATA[Meditation and Immunity: Can Stillness Support Your Defenses?]]></title>
-      <link>https://symptomcalm.com/treatments/meditation-immunity-tcm/</link>
-      <guid>https://symptomcalm.com/treatments/meditation-immunity-tcm/</guid>
-      <pubDate>Wed, 02 Sep 2026 22:20:48 +0000</pubDate>
-      <description><![CDATA[Explore Meditation and Immunity: Can Stillness Support Your Defenses? through the lens of Traditional Chinese Medicine at SymptomCalm.]]></description>
-    </item>
-    <item>
-      <title><![CDATA[Tai Chi for Joint Pain: Gentle Movement as Daily Support]]></title>
-      <link>https://symptomcalm.com/treatments/tai-chi-joint-pain-tcm/</link>
-      <guid>https://symptomcalm.com/treatments/tai-chi-joint-pain-tcm/</guid>
-      <pubDate>Wed, 02 Sep 2026 11:49:30 +0000</pubDate>
-      <description><![CDATA[Explore Tai Chi for Joint Pain: Gentle Movement as Daily Support through the lens of Traditional Chinese Medicine at SymptomCalm.]]></description>
-    </item>
-    <item>
-      <title><![CDATA[Ear Seeds for Anxiety: A TCM Approach to Daily Calm]]></title>
-      <link>https://symptomcalm.com/treatments/ear-seed-anxiety-tcm/</link>
-      <guid>https://symptomcalm.com/treatments/ear-seed-anxiety-tcm/</guid>
-      <pubDate>Wed, 02 Sep 2026 05:42:12 +0000</pubDate>
-      <description><![CDATA[Explore Ear Seeds for Anxiety: A TCM Approach to Daily Calm through the lens of Traditional Chinese Medicine at SymptomCalm.]]></description>
     </item>
   </channel>
 </rss>
