@@ -4,19 +4,6 @@
   "note": "每3小时自动生产一篇内容。从队列头部取，完成后移到 published。",
   "queue": [
     {
-      "title": "Herbal Teas for PMS: TCM Approaches to Menstrual Discomfort",
-      "path": "/treatments/herbal-tea-pms-tcm/",
-      "type": "treatment",
-      "estimated_read_time": 6,
-      "keywords": [
-        "herbal tea for pms",
-        "pms tea tcm",
-        "menstrual cramp tea",
-        "liver qi tea pms"
-      ],
-      "id": "825"
-    },
-    {
       "title": "Meditation for Menopause: Calming the Heat and Restoring Balance",
       "path": "/treatments/meditation-menopause-tcm/",
       "type": "treatment",
@@ -10914,6 +10901,19 @@
         "seasonal allergy tea"
       ],
       "id": "824"
+    },
+    {
+      "title": "Herbal Teas for PMS: TCM Approaches to Menstrual Discomfort",
+      "path": "/treatments/herbal-tea-pms-tcm/",
+      "type": "treatment",
+      "estimated_read_time": 6,
+      "keywords": [
+        "herbal tea for pms",
+        "pms tea tcm",
+        "menstrual cramp tea",
+        "liver qi tea pms"
+      ],
+      "id": "825"
     }
   ]
 }
