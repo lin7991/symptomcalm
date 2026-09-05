@@ -4,34 +4,6 @@
   "note": "每3小时自动生产一篇内容。从队列头部取，完成后移到 published。",
   "queue": [
     {
-      "title": "Herbal Tea for Fertility Support: Warming Blends for Conception Preparation",
-      "path": "/treatments/herbal-tea-fertility-tcm/",
-      "type": "treatment",
-      "parent": "",
-      "estimated_read_time": 7,
-      "keywords": [
-        "herbal tea fertility",
-        "fertility tea TCM",
-        "warming tea conception",
-        "TCM tea preconception"
-      ],
-      "id": "827"
-    },
-    {
-      "title": "Cupping for Osteoarthritis: A Traditional Approach to Stiff, Aching Joints",
-      "path": "/treatments/cupping-osteoarthritis-tcm/",
-      "type": "treatment",
-      "parent": "",
-      "estimated_read_time": 7,
-      "keywords": [
-        "cupping osteoarthritis",
-        "cupping knee pain",
-        "cupping joint stiffness",
-        "TCM cupping arthritis"
-      ],
-      "id": "828"
-    },
-    {
       "title": "Tui Na for Arthritis: Gentle Self-Massage for Painful Joints",
       "path": "/treatments/tui-na-arthritis-tcm/",
       "type": "treatment",
@@ -10914,6 +10886,34 @@
         "cooling meditation"
       ],
       "id": "826"
+    },
+    {
+      "title": "Herbal Tea for Fertility Support: Warming Blends for Conception Preparation",
+      "path": "/treatments/herbal-tea-fertility-tcm/",
+      "type": "treatment",
+      "parent": "",
+      "estimated_read_time": 7,
+      "keywords": [
+        "herbal tea fertility",
+        "fertility tea TCM",
+        "warming tea conception",
+        "TCM tea preconception"
+      ],
+      "id": "827"
+    },
+    {
+      "title": "Cupping for Osteoarthritis: A Traditional Approach to Stiff, Aching Joints",
+      "path": "/treatments/cupping-osteoarthritis-tcm/",
+      "type": "treatment",
+      "parent": "",
+      "estimated_read_time": 7,
+      "keywords": [
+        "cupping osteoarthritis",
+        "cupping knee pain",
+        "cupping joint stiffness",
+        "TCM cupping arthritis"
+      ],
+      "id": "828"
     }
   ]
 }
