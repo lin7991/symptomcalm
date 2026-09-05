@@ -4,20 +4,6 @@
   "note": "每3小时自动生产一篇内容。从队列头部取，完成后移到 published。",
   "queue": [
     {
-      "title": "Moxibustion for Vertigo: Using Heat Therapy for Dizziness and Imbalance",
-      "path": "/treatments/moxibustion-vertigo-tcm/",
-      "type": "treatment",
-      "parent": "",
-      "estimated_read_time": 6,
-      "keywords": [
-        "moxibustion vertigo",
-        "moxa dizziness",
-        "TCM vertigo",
-        "mugwort therapy balance"
-      ],
-      "id": "831"
-    },
-    {
       "title": "Ear Seeds for Better Sleep: A Tiny Acupressure Tool for Insomnia",
       "path": "/treatments/ear-seed-sleep-tcm/",
       "type": "treatment",
@@ -10914,6 +10900,20 @@
         "mugwort therapy"
       ],
       "id": "830"
+    },
+    {
+      "title": "Moxibustion for Vertigo: Using Heat Therapy for Dizziness and Imbalance",
+      "path": "/treatments/moxibustion-vertigo-tcm/",
+      "type": "treatment",
+      "parent": "",
+      "estimated_read_time": 6,
+      "keywords": [
+        "moxibustion vertigo",
+        "moxa dizziness",
+        "TCM vertigo",
+        "mugwort therapy balance"
+      ],
+      "id": "831"
     }
   ]
 }
