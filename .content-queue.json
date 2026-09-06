@@ -4,20 +4,6 @@
   "note": "每3小时自动生产一篇内容。从队列头部取，完成后移到 published。",
   "queue": [
     {
-      "title": "Foot Reflexology for Digestion: Pressure Points for a Happier Gut",
-      "path": "/treatments/foot-reflexology-digestion-tcm/",
-      "type": "treatment",
-      "parent": "",
-      "estimated_read_time": 6,
-      "keywords": [
-        "foot reflexology digestion",
-        "reflexology bloating",
-        "foot massage gut",
-        "reflexology stomach"
-      ],
-      "id": "833"
-    },
-    {
       "title": "Meditation for Headaches: A Mind-Body Practice for Tension and Migraine",
       "path": "/treatments/meditation-headaches-tcm/",
       "type": "treatment",
@@ -10914,6 +10900,20 @@
         "ear seeds for sleep"
       ],
       "id": "832"
+    },
+    {
+      "title": "Foot Reflexology for Digestion: Pressure Points for a Happier Gut",
+      "path": "/treatments/foot-reflexology-digestion-tcm/",
+      "type": "treatment",
+      "parent": "",
+      "estimated_read_time": 6,
+      "keywords": [
+        "foot reflexology digestion",
+        "reflexology bloating",
+        "foot massage gut",
+        "reflexology stomach"
+      ],
+      "id": "833"
     }
   ]
 }
