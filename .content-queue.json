@@ -4,20 +4,6 @@
   "note": "每3小时自动生产一篇内容。从队列头部取，完成后移到 published。",
   "queue": [
     {
-      "title": "Meditation for Headaches: A Mind-Body Practice for Tension and Migraine",
-      "path": "/treatments/meditation-headaches-tcm/",
-      "type": "treatment",
-      "parent": "",
-      "estimated_read_time": 6,
-      "keywords": [
-        "meditation headaches",
-        "meditation migraine",
-        "mindfulness tension headache",
-        "meditation pain relief"
-      ],
-      "id": "834"
-    },
-    {
       "title": "The Conception Vessel: Your Body's Yin Energy Superhighway",
       "path": "/tcm-basics/conception-vessel-tcm/",
       "type": "tcm-basics",
@@ -10914,6 +10900,20 @@
         "reflexology stomach"
       ],
       "id": "833"
+    },
+    {
+      "title": "Meditation for Headaches: A Mind-Body Practice for Tension and Migraine",
+      "path": "/treatments/meditation-headaches-tcm/",
+      "type": "treatment",
+      "parent": "",
+      "estimated_read_time": 6,
+      "keywords": [
+        "meditation headaches",
+        "meditation migraine",
+        "mindfulness tension headache",
+        "meditation pain relief"
+      ],
+      "id": "834"
     }
   ]
 }
