@@ -4,20 +4,6 @@
   "note": "每3小时自动生产一篇内容。从队列头部取，完成后移到 published。",
   "queue": [
     {
-      "title": "The Stomach in TCM: Your Body's Ripening Cauldron",
-      "path": "/tcm-basics/stomach-in-tcm/",
-      "type": "tcm-basics",
-      "parent": "",
-      "estimated_read_time": 6,
-      "keywords": [
-        "stomach in TCM",
-        "stomach qi",
-        "wei qi digestive",
-        "TCM stomach fire"
-      ],
-      "id": "836"
-    },
-    {
       "title": "Interstitial Cystitis from a TCM Perspective: Soothing the Irritable Bladder",
       "path": "/symptoms/womens-health/interstitial-cystitis-tcm/",
       "type": "cluster",
@@ -10914,6 +10900,20 @@
         "yin energy channel"
       ],
       "id": "835"
+    },
+    {
+      "title": "The Stomach in TCM: Your Body's Ripening Cauldron",
+      "path": "/tcm-basics/stomach-in-tcm/",
+      "type": "tcm-basics",
+      "parent": "",
+      "estimated_read_time": 6,
+      "keywords": [
+        "stomach in TCM",
+        "stomach qi",
+        "wei qi digestive",
+        "TCM stomach fire"
+      ],
+      "id": "836"
     }
   ]
 }
