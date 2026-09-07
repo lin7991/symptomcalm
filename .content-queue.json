@@ -4,32 +4,6 @@
   "note": "每3小时自动生产一篇内容。从队列头部取，完成后移到 published。",
   "queue": [
     {
-      "title": "Scalp Psoriasis: A TCM Guide to Calming a Flaky, Itchy Scalp",
-      "path": "/symptoms/skin-conditions/psoriasis-scalp-tcm/",
-      "type": "cluster",
-      "parent": "skin-conditions",
-      "estimated_read_time": 7,
-      "keywords": [
-        "scalp psoriasis TCM",
-        "psoriasis scalp treatment",
-        "flaky itchy scalp"
-      ],
-      "id": "844"
-    },
-    {
-      "title": "Caffeine Headaches: Why Cutting Back Hurts and How TCM Reads It",
-      "path": "/symptoms/headaches/caffeine-headache-tcm/",
-      "type": "cluster",
-      "parent": "headaches",
-      "estimated_read_time": 7,
-      "keywords": [
-        "caffeine headache",
-        "caffeine withdrawal headache",
-        "coffee headache TCM"
-      ],
-      "id": "845"
-    },
-    {
       "title": "Dental Anxiety from a TCM Perspective: Calming the Chair",
       "path": "/symptoms/anxiety/dental-anxiety-tcm/",
       "type": "cluster",
@@ -11097,6 +11071,19 @@
         "skin texture"
       ],
       "id": "843"
+    },
+    {
+      "title": "Scalp Psoriasis: A TCM Guide to Calming a Flaky, Itchy Scalp",
+      "path": "/symptoms/skin-conditions/psoriasis-scalp-tcm/",
+      "type": "cluster",
+      "parent": "skin-conditions",
+      "estimated_read_time": 7,
+      "keywords": [
+        "scalp psoriasis TCM",
+        "psoriasis scalp treatment",
+        "flaky itchy scalp"
+      ],
+      "id": "844"
     }
   ]
 }
