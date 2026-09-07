@@ -4,34 +4,6 @@
   "note": "每3小时自动生产一篇内容。从队列头部取，完成后移到 published。",
   "queue": [
     {
-      "title": "Ingrown Hairs and Razor Bumps: A TCM View of Skin Irritation",
-      "path": "/symptoms/skin-conditions/ingrown-hair-tcm/",
-      "type": "cluster",
-      "parent": "skin-conditions",
-      "estimated_read_time": 7,
-      "keywords": [
-        "ingrown hair TCM",
-        "razor bumps",
-        "ingrown hair prevention",
-        "folliculitis natural"
-      ],
-      "id": "842"
-    },
-    {
-      "title": "Cellulite from a TCM Perspective: Beyond the Dimples",
-      "path": "/symptoms/skin-conditions/cellulite-tcm/",
-      "type": "cluster",
-      "parent": "skin-conditions",
-      "estimated_read_time": 7,
-      "keywords": [
-        "cellulite TCM",
-        "cellulite treatment",
-        "dampness cellulite",
-        "skin texture"
-      ],
-      "id": "843"
-    },
-    {
       "title": "Scalp Psoriasis: A TCM Guide to Calming a Flaky, Itchy Scalp",
       "path": "/symptoms/skin-conditions/psoriasis-scalp-tcm/",
       "type": "cluster",
@@ -11111,6 +11083,20 @@
         "highly sensitive TCM"
       ],
       "id": "841"
+    },
+    {
+      "title": "Cellulite from a TCM Perspective: Beyond the Dimples",
+      "path": "/symptoms/skin-conditions/cellulite-tcm/",
+      "type": "cluster",
+      "parent": "skin-conditions",
+      "estimated_read_time": 7,
+      "keywords": [
+        "cellulite TCM",
+        "cellulite treatment",
+        "dampness cellulite",
+        "skin texture"
+      ],
+      "id": "843"
     }
   ]
 }
