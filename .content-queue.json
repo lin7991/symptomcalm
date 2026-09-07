@@ -4,19 +4,6 @@
   "note": "每3小时自动生产一篇内容。从队列头部取，完成后移到 published。",
   "queue": [
     {
-      "title": "Claustrophobia from a TCM Perspective: When Enclosed Spaces Trigger Panic",
-      "path": "/symptoms/anxiety/claustrophobia-tcm/",
-      "type": "cluster",
-      "parent": "anxiety",
-      "estimated_read_time": 7,
-      "keywords": [
-        "claustrophobia TCM",
-        "fear of enclosed spaces",
-        "panic in small spaces"
-      ],
-      "id": "848"
-    },
-    {
       "title": "Postpartum Weight: A TCM View of the Body After Birth",
       "path": "/symptoms/womens-health/postpartum-weight-tcm/",
       "type": "cluster",
@@ -11084,6 +11071,19 @@
         "travel anxiety natural"
       ],
       "id": "847"
+    },
+    {
+      "title": "Claustrophobia from a TCM Perspective: When Enclosed Spaces Trigger Panic",
+      "path": "/symptoms/anxiety/claustrophobia-tcm/",
+      "type": "cluster",
+      "parent": "anxiety",
+      "estimated_read_time": 7,
+      "keywords": [
+        "claustrophobia TCM",
+        "fear of enclosed spaces",
+        "panic in small spaces"
+      ],
+      "id": "848"
     }
   ]
 }
