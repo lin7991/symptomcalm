@@ -4,19 +4,6 @@
   "note": "每3小时自动生产一篇内容。从队列头部取，完成后移到 published。",
   "queue": [
     {
-      "title": "Latex Allergy from a TCM Perspective: When the Body Overreacts",
-      "path": "/symptoms/allergies/latex-allergy-tcm/",
-      "type": "cluster",
-      "parent": "allergies",
-      "estimated_read_time": 7,
-      "keywords": [
-        "latex allergy TCM",
-        "type 1 hypersensitivity",
-        "allergy immune response"
-      ],
-      "id": "851"
-    },
-    {
       "title": "Insect Sting Reactions: A TCM View of Histamine and Local Swelling",
       "path": "/symptoms/allergies/insect-sting-allergy-tcm/",
       "type": "cluster",
@@ -11084,6 +11071,19 @@
         "painful intercourse natural support"
       ],
       "id": "850"
+    },
+    {
+      "title": "Latex Allergy from a TCM Perspective: When the Body Overreacts",
+      "path": "/symptoms/allergies/latex-allergy-tcm/",
+      "type": "cluster",
+      "parent": "allergies",
+      "estimated_read_time": 7,
+      "keywords": [
+        "latex allergy TCM",
+        "type 1 hypersensitivity",
+        "allergy immune response"
+      ],
+      "id": "851"
     }
   ]
 }
