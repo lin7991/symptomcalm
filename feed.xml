@@ -5,8 +5,36 @@
     <link>https://symptomcalm.com/</link>
     <description>Understand your symptoms through the lens of Traditional Chinese Medicine. No jargon, no miracle claims — clear, grounded wisdom.</description>
     <language>en-us</language>
-    <lastBuildDate>Mon, 07 Sep 2026 22:19:05 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 08 Sep 2026 16:14:50 +0000</lastBuildDate>
     <atom:link href="https://symptomcalm.com/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title><![CDATA[Tech Neck: A TCM Guide to Device-Induced Neck Strain]]></title>
+      <link>https://symptomcalm.com/symptoms/back-pain/tech-neck-tcm/</link>
+      <guid>https://symptomcalm.com/symptoms/back-pain/tech-neck-tcm/</guid>
+      <pubDate>Tue, 08 Sep 2026 16:14:50 +0000</pubDate>
+      <description><![CDATA[Explore Tech Neck: A TCM Guide to Device-Induced Neck Strain through the lens of Traditional Chinese Medicine at SymptomCalm.]]></description>
+    </item>
+    <item>
+      <title><![CDATA[Insect Sting Reactions: A TCM View of Histamine and Local Swelling]]></title>
+      <link>https://symptomcalm.com/symptoms/allergies/insect-sting-allergy-tcm/</link>
+      <guid>https://symptomcalm.com/symptoms/allergies/insect-sting-allergy-tcm/</guid>
+      <pubDate>Tue, 08 Sep 2026 16:09:51 +0000</pubDate>
+      <description><![CDATA[Explore Insect Sting Reactions: A TCM View of Histamine and Local Swelling through the lens of Traditional Chinese Medicine at SymptomCalm.]]></description>
+    </item>
+    <item>
+      <title><![CDATA[Latex Allergy from a TCM Perspective: When the Body Overreacts]]></title>
+      <link>https://symptomcalm.com/symptoms/allergies/latex-allergy-tcm/</link>
+      <guid>https://symptomcalm.com/symptoms/allergies/latex-allergy-tcm/</guid>
+      <pubDate>Tue, 08 Sep 2026 10:24:59 +0000</pubDate>
+      <description><![CDATA[Explore Latex Allergy from a TCM Perspective: When the Body Overreacts through the lens of Traditional Chinese Medicine at SymptomCalm.]]></description>
+    </item>
+    <item>
+      <title><![CDATA[Vaginismus from a TCM Perspective: Tension, Fear, and the Pelvic Floor]]></title>
+      <link>https://symptomcalm.com/symptoms/womens-health/vaginismus-tcm/</link>
+      <guid>https://symptomcalm.com/symptoms/womens-health/vaginismus-tcm/</guid>
+      <pubDate>Tue, 08 Sep 2026 04:15:02 +0000</pubDate>
+      <description><![CDATA[Explore Vaginismus from a TCM Perspective: Tension, Fear, and the Pelvic Floor through the lens of Traditional Chinese Medicine at SymptomCalm.]]></description>
+    </item>
     <item>
       <title><![CDATA[Postpartum Weight: A TCM View of the Body After Birth]]></title>
       <link>https://symptomcalm.com/symptoms/womens-health/postpartum-weight-tcm/</link>
@@ -25,7 +53,7 @@
       <title><![CDATA[Fear of Flying: A TCM View of Travel Anxiety]]></title>
       <link>https://symptomcalm.com/symptoms/anxiety/flying-anxiety-tcm/</link>
       <guid>https://symptomcalm.com/symptoms/anxiety/flying-anxiety-tcm/</guid>
-      <pubDate>Mon, 07 Sep 2026 22:03:04 +0000</pubDate>
+      <pubDate>Mon, 07 Sep 2026 22:05:59 +0000</pubDate>
       <description><![CDATA[Explore Fear of Flying: A TCM View of Travel Anxiety through the lens of Traditional Chinese Medicine at SymptomCalm.]]></description>
     </item>
     <item>
@@ -118,34 +146,6 @@
       <guid>https://symptomcalm.com/treatments/ear-seed-sleep-tcm/</guid>
       <pubDate>Sun, 06 Sep 2026 02:32:01 +0000</pubDate>
       <description><![CDATA[Explore Ear Seeds for Better Sleep: A Tiny Acupressure Tool for Insomnia through the lens of Traditional Chinese Medicine at SymptomCalm.]]></description>
-    </item>
-    <item>
-      <title><![CDATA[Moxibustion for Vertigo: Using Heat Therapy for Dizziness and Imbalance]]></title>
-      <link>https://symptomcalm.com/treatments/moxibustion-vertigo-tcm/</link>
-      <guid>https://symptomcalm.com/treatments/moxibustion-vertigo-tcm/</guid>
-      <pubDate>Sat, 05 Sep 2026 22:18:31 +0000</pubDate>
-      <description><![CDATA[Explore Moxibustion for Vertigo: Using Heat Therapy for Dizziness and Imbalance through the lens of Traditional Chinese Medicine at SymptomCalm.]]></description>
-    </item>
-    <item>
-      <title><![CDATA[Moxibustion for Urinary Incontinence: A Traditional Heat Therapy for Bladder Control]]></title>
-      <link>https://symptomcalm.com/treatments/moxibustion-urinary-incontinence-tcm/</link>
-      <guid>https://symptomcalm.com/treatments/moxibustion-urinary-incontinence-tcm/</guid>
-      <pubDate>Sat, 05 Sep 2026 22:14:30 +0000</pubDate>
-      <description><![CDATA[Explore Moxibustion for Urinary Incontinence: A Traditional Heat Therapy for Bladder Control through the lens of Traditional Chinese Medicine at SymptomCalm.]]></description>
-    </item>
-    <item>
-      <title><![CDATA[Tui Na for Arthritis: Gentle Self-Massage for Painful Joints]]></title>
-      <link>https://symptomcalm.com/treatments/tui-na-arthritis-tcm/</link>
-      <guid>https://symptomcalm.com/treatments/tui-na-arthritis-tcm/</guid>
-      <pubDate>Sat, 05 Sep 2026 20:23:35 +0000</pubDate>
-      <description><![CDATA[Explore Tui Na for Arthritis: Gentle Self-Massage for Painful Joints through the lens of Traditional Chinese Medicine at SymptomCalm.]]></description>
-    </item>
-    <item>
-      <title><![CDATA[Cupping for Osteoarthritis: A Traditional Approach to Stiff, Aching Joints]]></title>
-      <link>https://symptomcalm.com/treatments/cupping-osteoarthritis-tcm/</link>
-      <guid>https://symptomcalm.com/treatments/cupping-osteoarthritis-tcm/</guid>
-      <pubDate>Sat, 05 Sep 2026 16:19:51 +0000</pubDate>
-      <description><![CDATA[Explore Cupping for Osteoarthritis: A Traditional Approach to Stiff, Aching Joints through the lens of Traditional Chinese Medicine at SymptomCalm.]]></description>
     </item>
   </channel>
 </rss>
