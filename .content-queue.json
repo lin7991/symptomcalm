@@ -4,19 +4,6 @@
   "note": "每3小时自动生产一篇内容。从队列头部取，完成后移到 published。",
   "queue": [
     {
-      "title": "Ear Seed Acupressure for Digestion: A Gentle Way to Soothe the Gut",
-      "path": "/treatments/ear-seed-digestion-tcm/",
-      "type": "treatments",
-      "parent": "treatments",
-      "estimated_read_time": 7,
-      "keywords": [
-        "ear seeds digestion",
-        "auricular acupressure gut",
-        "ear seed bloating"
-      ],
-      "id": "854"
-    },
-    {
       "title": "Foot Baths for Edema: A TCM Approach to Puffiness and Fluid Retention",
       "path": "/treatments/foot-baths-edema-tcm/",
       "type": "treatments",
@@ -41,6 +28,216 @@
         "wei qi massage"
       ],
       "id": "856"
+    },
+    {
+      "title": "The Five Senses in TCM: How Your Eyes, Ears, Nose, Mouth and Tongue Connect to Your Organs",
+      "path": "/tcm-basics/five-senses-tcm/",
+      "type": "tcm-basics",
+      "parent": "tcm-basics",
+      "estimated_read_time": 8,
+      "keywords": [
+        "five senses TCM",
+        "sense organs Chinese medicine",
+        "Liver opens to eyes",
+        "Kidney ears TCM"
+      ],
+      "id": "857"
+    },
+    {
+      "title": "Fragmented Sleep: Why You Wake Multiple Times a Night, and the TCM Perspective",
+      "path": "/symptoms/insomnia/fragmented-sleep-tcm/",
+      "type": "cluster",
+      "parent": "insomnia",
+      "estimated_read_time": 8,
+      "keywords": [
+        "waking multiple times at night",
+        "fragmented sleep TCM",
+        "sleep maintenance insomnia",
+        "why do I keep waking up"
+      ],
+      "id": "858"
+    },
+    {
+      "title": "Ear Seeds for Weight Management: An Auricular Acupressure Guide for Cravings and Appetite",
+      "path": "/treatments/ear-seed-weight-management-tcm/",
+      "type": "treatment",
+      "parent": "treatments",
+      "estimated_read_time": 8,
+      "keywords": [
+        "ear seeds weight loss",
+        "auricular acupressure appetite",
+        "ear seed cravings",
+        "auricular acupuncture weight"
+      ],
+      "id": "859"
+    },
+    {
+      "title": "Seven-Year Cycles: TCM's Map of Life Stages for Women and Men",
+      "path": "/tcm-basics/seven-year-cycles-tcm/",
+      "type": "tcm-basics",
+      "parent": "tcm-basics",
+      "estimated_read_time": 7,
+      "keywords": [
+        "seven year cycle women",
+        "eight year cycle men TCM",
+        "life stages Chinese medicine",
+        "aging cycles TCM"
+      ],
+      "id": "860"
+    },
+    {
+      "title": "Menopause Mood Swings: The TCM View of Irritability, Weepiness and the Emotional Rollercoaster",
+      "path": "/symptoms/womens-health/menopause-mood-swings-tcm/",
+      "type": "cluster",
+      "parent": "womens-health",
+      "estimated_read_time": 7,
+      "keywords": [
+        "menopause mood swings",
+        "menopause irritability TCM",
+        "hormone mood swings natural",
+        "perimenopause anger"
+      ],
+      "id": "861"
+    },
+    {
+      "title": "Foot Reflexology for Stress Relief: A Home Guide from a TCM Perspective",
+      "path": "/treatments/foot-reflexology-stress-tcm/",
+      "type": "treatment",
+      "parent": "treatments",
+      "estimated_read_time": 7,
+      "keywords": [
+        "foot reflexology stress",
+        "reflexology for anxiety",
+        "foot massage stress relief",
+        "reflexology points stress"
+      ],
+      "id": "862"
+    },
+    {
+      "title": "Relationship Anxiety: A TCM Perspective on Insecurity, Overthinking and Fear in Love",
+      "path": "/symptoms/anxiety/relationship-anxiety-tcm/",
+      "type": "cluster",
+      "parent": "anxiety",
+      "estimated_read_time": 8,
+      "keywords": [
+        "relationship anxiety",
+        "anxious attachment TCM",
+        "insecurity in relationships",
+        "fear of abandonment natural support"
+      ],
+      "id": "863"
+    },
+    {
+      "title": "Facial Gua Sha: A Step-by-Step Home Guide for Tension, Puffiness and Circulation",
+      "path": "/treatments/gua-sha-facial-tcm/",
+      "type": "treatment",
+      "parent": "treatments",
+      "estimated_read_time": 7,
+      "keywords": [
+        "facial gua sha",
+        "gua sha face routine",
+        "facial scraping benefits",
+        "gua sha for puffy face"
+      ],
+      "id": "864"
+    },
+    {
+      "title": "Period Diarrhea: Why Your Gut Misbehaves on Your Period and the TCM Perspective",
+      "path": "/symptoms/womens-health/period-diarrhea-tcm/",
+      "type": "cluster",
+      "parent": "womens-health",
+      "estimated_read_time": 7,
+      "keywords": [
+        "period diarrhea",
+        "diarrhea during period",
+        "period poop TCM",
+        "menstrual digestive upset"
+      ],
+      "id": "865"
+    },
+    {
+      "title": "Meditation for Fertility: A Mind-Body Guide from a TCM Perspective",
+      "path": "/treatments/meditation-fertility-tcm/",
+      "type": "treatment",
+      "parent": "treatments",
+      "estimated_read_time": 7,
+      "keywords": [
+        "meditation fertility",
+        "mind body fertility",
+        "stress and conception meditation",
+        "TCM fertility support"
+      ],
+      "id": "866"
+    },
+    {
+      "title": "Whiplash Recovery: A TCM Perspective on Stiffness, Soreness and Getting Back to Normal",
+      "path": "/symptoms/back-pain/whiplash-tcm/",
+      "type": "cluster",
+      "parent": "back-pain",
+      "estimated_read_time": 7,
+      "keywords": [
+        "whiplash recovery",
+        "whiplash neck stiffness TCM",
+        "whiplash natural support",
+        "neck injury recovery"
+      ],
+      "id": "867"
+    },
+    {
+      "title": "Herbal Baths for PMS: A Soothing Home Ritual for Cramps, Tension and Low Mood",
+      "path": "/treatments/herbal-baths-pms-tcm/",
+      "type": "treatment",
+      "parent": "treatments",
+      "estimated_read_time": 7,
+      "keywords": [
+        "herbal bath PMS",
+        "period bath soak",
+        "PMS self care bath",
+        "warm bath cramps"
+      ],
+      "id": "868"
+    },
+    {
+      "title": "Steam Therapy for Sinus Congestion: A Home Guide from a TCM Perspective",
+      "path": "/treatments/steam-therapy-sinus-tcm/",
+      "type": "treatment",
+      "parent": "treatments",
+      "estimated_read_time": 6,
+      "keywords": [
+        "steam for sinus congestion",
+        "facial steam sinus",
+        "steam inhalation stuffy nose",
+        "TCM steam therapy"
+      ],
+      "id": "869"
+    },
+    {
+      "title": "Astigmatism and Blurry Vision: A TCM Perspective on Eye Support",
+      "path": "/symptoms/eye-health/astigmatism-tcm/",
+      "type": "cluster",
+      "parent": "eye-health",
+      "estimated_read_time": 7,
+      "keywords": [
+        "astigmatism TCM",
+        "blurry vision Chinese medicine",
+        "Liver Blood eyes",
+        "astigmatism natural support"
+      ],
+      "id": "870"
+    },
+    {
+      "title": "Self-Massage for TMJ: Releasing Jaw Tension at Home, a TCM Guide",
+      "path": "/treatments/self-massage-tmj-tcm/",
+      "type": "treatment",
+      "parent": "treatments",
+      "estimated_read_time": 7,
+      "keywords": [
+        "TMJ self massage",
+        "jaw tension release",
+        "TMJ massage at home",
+        "clenching jaw acupressure"
+      ],
+      "id": "871"
     }
   ],
   "published": [
@@ -11084,6 +11281,19 @@
         "device neck strain"
       ],
       "id": "853"
+    },
+    {
+      "title": "Ear Seed Acupressure for Digestion: A Gentle Way to Soothe the Gut",
+      "path": "/treatments/ear-seed-digestion-tcm/",
+      "type": "treatments",
+      "parent": "treatments",
+      "estimated_read_time": 7,
+      "keywords": [
+        "ear seeds digestion",
+        "auricular acupressure gut",
+        "ear seed bloating"
+      ],
+      "id": "854"
     }
   ]
 }
