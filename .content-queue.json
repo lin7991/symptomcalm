@@ -4,19 +4,6 @@
   "note": "每3小时自动生产一篇内容。从队列头部取，完成后移到 published。",
   "queue": [
     {
-      "title": "Foot Baths for Edema: A TCM Approach to Puffiness and Fluid Retention",
-      "path": "/treatments/foot-baths-edema-tcm/",
-      "type": "treatments",
-      "parent": "treatments",
-      "estimated_read_time": 7,
-      "keywords": [
-        "foot bath edema",
-        "foot soak water retention",
-        "TCM puffy legs"
-      ],
-      "id": "855"
-    },
-    {
       "title": "Tui Na for Immune Support: A TCM Massage Approach to Defenses",
       "path": "/treatments/tui-na-immunity-tcm/",
       "type": "treatments",
@@ -11294,6 +11281,19 @@
         "ear seed bloating"
       ],
       "id": "854"
+    },
+    {
+      "title": "Foot Baths for Edema: A TCM Approach to Puffiness and Fluid Retention",
+      "path": "/treatments/foot-baths-edema-tcm/",
+      "type": "treatments",
+      "parent": "treatments",
+      "estimated_read_time": 7,
+      "keywords": [
+        "foot bath edema",
+        "foot soak water retention",
+        "TCM puffy legs"
+      ],
+      "id": "855"
     }
   ]
 }
