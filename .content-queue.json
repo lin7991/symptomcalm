@@ -4,32 +4,6 @@
   "note": "每3小时自动生产一篇内容。从队列头部取，完成后移到 published。",
   "queue": [
     {
-      "title": "Insect Sting Reactions: A TCM View of Histamine and Local Swelling",
-      "path": "/symptoms/allergies/insect-sting-allergy-tcm/",
-      "type": "cluster",
-      "parent": "allergies",
-      "estimated_read_time": 7,
-      "keywords": [
-        "insect sting swelling",
-        "bug bite reaction TCM",
-        "histamine skin reaction"
-      ],
-      "id": "852"
-    },
-    {
-      "title": "Tech Neck: A TCM Guide to Device-Induced Neck Strain",
-      "path": "/symptoms/back-pain/tech-neck-tcm/",
-      "type": "cluster",
-      "parent": "back-pain",
-      "estimated_read_time": 7,
-      "keywords": [
-        "tech neck TCM",
-        "text neck pain",
-        "device neck strain"
-      ],
-      "id": "853"
-    },
-    {
       "title": "Ear Seed Acupressure for Digestion: A Gentle Way to Soothe the Gut",
       "path": "/treatments/ear-seed-digestion-tcm/",
       "type": "treatments",
@@ -11084,6 +11058,32 @@
         "allergy immune response"
       ],
       "id": "851"
+    },
+    {
+      "title": "Insect Sting Reactions: A TCM View of Histamine and Local Swelling",
+      "path": "/symptoms/allergies/insect-sting-allergy-tcm/",
+      "type": "cluster",
+      "parent": "allergies",
+      "estimated_read_time": 7,
+      "keywords": [
+        "insect sting swelling",
+        "bug bite reaction TCM",
+        "histamine skin reaction"
+      ],
+      "id": "852"
+    },
+    {
+      "title": "Tech Neck: A TCM Guide to Device-Induced Neck Strain",
+      "path": "/symptoms/back-pain/tech-neck-tcm/",
+      "type": "cluster",
+      "parent": "back-pain",
+      "estimated_read_time": 7,
+      "keywords": [
+        "tech neck TCM",
+        "text neck pain",
+        "device neck strain"
+      ],
+      "id": "853"
     }
   ]
 }
