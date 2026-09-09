@@ -4,20 +4,6 @@
   "note": "每3小时自动生产一篇内容。从队列头部取，完成后移到 published。",
   "queue": [
     {
-      "title": "Ear Seeds for Weight Management: An Auricular Acupressure Guide for Cravings and Appetite",
-      "path": "/treatments/ear-seed-weight-management-tcm/",
-      "type": "treatment",
-      "parent": "treatments",
-      "estimated_read_time": 8,
-      "keywords": [
-        "ear seeds weight loss",
-        "auricular acupressure appetite",
-        "ear seed cravings",
-        "auricular acupuncture weight"
-      ],
-      "id": "859"
-    },
-    {
       "title": "Seven-Year Cycles: TCM's Map of Life Stages for Women and Men",
       "path": "/tcm-basics/seven-year-cycles-tcm/",
       "type": "tcm-basics",
@@ -11294,6 +11280,20 @@
         "why do I keep waking up"
       ],
       "id": "858"
+    },
+    {
+      "title": "Ear Seeds for Weight Management: An Auricular Acupressure Guide for Cravings and Appetite",
+      "path": "/treatments/ear-seed-weight-management-tcm/",
+      "type": "treatment",
+      "parent": "treatments",
+      "estimated_read_time": 8,
+      "keywords": [
+        "ear seeds weight loss",
+        "auricular acupressure appetite",
+        "ear seed cravings",
+        "auricular acupuncture weight"
+      ],
+      "id": "859"
     }
   ]
 }
