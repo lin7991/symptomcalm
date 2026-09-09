@@ -4,20 +4,6 @@
   "note": "每3小时自动生产一篇内容。从队列头部取，完成后移到 published。",
   "queue": [
     {
-      "title": "Fragmented Sleep: Why You Wake Multiple Times a Night, and the TCM Perspective",
-      "path": "/symptoms/insomnia/fragmented-sleep-tcm/",
-      "type": "cluster",
-      "parent": "insomnia",
-      "estimated_read_time": 8,
-      "keywords": [
-        "waking multiple times at night",
-        "fragmented sleep TCM",
-        "sleep maintenance insomnia",
-        "why do I keep waking up"
-      ],
-      "id": "858"
-    },
-    {
       "title": "Ear Seeds for Weight Management: An Auricular Acupressure Guide for Cravings and Appetite",
       "path": "/treatments/ear-seed-weight-management-tcm/",
       "type": "treatment",
@@ -11294,6 +11280,20 @@
         "Kidney ears TCM"
       ],
       "id": "857"
+    },
+    {
+      "title": "Fragmented Sleep: Why You Wake Multiple Times a Night, and the TCM Perspective",
+      "path": "/symptoms/insomnia/fragmented-sleep-tcm/",
+      "type": "cluster",
+      "parent": "insomnia",
+      "estimated_read_time": 8,
+      "keywords": [
+        "waking multiple times at night",
+        "fragmented sleep TCM",
+        "sleep maintenance insomnia",
+        "why do I keep waking up"
+      ],
+      "id": "858"
     }
   ]
 }
