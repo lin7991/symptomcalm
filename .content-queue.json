@@ -4,20 +4,6 @@
   "note": "每3小时自动生产一篇内容。从队列头部取，完成后移到 published。",
   "queue": [
     {
-      "title": "Relationship Anxiety: A TCM Perspective on Insecurity, Overthinking and Fear in Love",
-      "path": "/symptoms/anxiety/relationship-anxiety-tcm/",
-      "type": "cluster",
-      "parent": "anxiety",
-      "estimated_read_time": 8,
-      "keywords": [
-        "relationship anxiety",
-        "anxious attachment TCM",
-        "insecurity in relationships",
-        "fear of abandonment natural support"
-      ],
-      "id": "863"
-    },
-    {
       "title": "Facial Gua Sha: A Step-by-Step Home Guide for Tension, Puffiness and Circulation",
       "path": "/treatments/gua-sha-facial-tcm/",
       "type": "treatment",
@@ -11294,6 +11280,20 @@
         "reflexology points stress"
       ],
       "id": "862"
+    },
+    {
+      "title": "Relationship Anxiety: A TCM Perspective on Insecurity, Overthinking and Fear in Love",
+      "path": "/symptoms/anxiety/relationship-anxiety-tcm/",
+      "type": "cluster",
+      "parent": "anxiety",
+      "estimated_read_time": 8,
+      "keywords": [
+        "relationship anxiety",
+        "anxious attachment TCM",
+        "insecurity in relationships",
+        "fear of abandonment natural support"
+      ],
+      "id": "863"
     }
   ]
 }
