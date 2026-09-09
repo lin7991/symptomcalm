@@ -4,20 +4,6 @@
   "note": "每3小时自动生产一篇内容。从队列头部取，完成后移到 published。",
   "queue": [
     {
-      "title": "Facial Gua Sha: A Step-by-Step Home Guide for Tension, Puffiness and Circulation",
-      "path": "/treatments/gua-sha-facial-tcm/",
-      "type": "treatment",
-      "parent": "treatments",
-      "estimated_read_time": 7,
-      "keywords": [
-        "facial gua sha",
-        "gua sha face routine",
-        "facial scraping benefits",
-        "gua sha for puffy face"
-      ],
-      "id": "864"
-    },
-    {
       "title": "Period Diarrhea: Why Your Gut Misbehaves on Your Period and the TCM Perspective",
       "path": "/symptoms/womens-health/period-diarrhea-tcm/",
       "type": "cluster",
@@ -11294,6 +11280,20 @@
         "fear of abandonment natural support"
       ],
       "id": "863"
+    },
+    {
+      "title": "Facial Gua Sha: A Step-by-Step Home Guide for Tension, Puffiness and Circulation",
+      "path": "/treatments/gua-sha-facial-tcm/",
+      "type": "treatment",
+      "parent": "treatments",
+      "estimated_read_time": 7,
+      "keywords": [
+        "facial gua sha",
+        "gua sha face routine",
+        "facial scraping benefits",
+        "gua sha for puffy face"
+      ],
+      "id": "864"
     }
   ]
 }
