@@ -4,20 +4,6 @@
   "note": "每3小时自动生产一篇内容。从队列头部取，完成后移到 published。",
   "queue": [
     {
-      "title": "Menopause Mood Swings: The TCM View of Irritability, Weepiness and the Emotional Rollercoaster",
-      "path": "/symptoms/womens-health/menopause-mood-swings-tcm/",
-      "type": "cluster",
-      "parent": "womens-health",
-      "estimated_read_time": 7,
-      "keywords": [
-        "menopause mood swings",
-        "menopause irritability TCM",
-        "hormone mood swings natural",
-        "perimenopause anger"
-      ],
-      "id": "861"
-    },
-    {
       "title": "Foot Reflexology for Stress Relief: A Home Guide from a TCM Perspective",
       "path": "/treatments/foot-reflexology-stress-tcm/",
       "type": "treatment",
@@ -11294,6 +11280,20 @@
         "aging cycles TCM"
       ],
       "id": "860"
+    },
+    {
+      "title": "Menopause Mood Swings: The TCM View of Irritability, Weepiness and the Emotional Rollercoaster",
+      "path": "/symptoms/womens-health/menopause-mood-swings-tcm/",
+      "type": "cluster",
+      "parent": "womens-health",
+      "estimated_read_time": 7,
+      "keywords": [
+        "menopause mood swings",
+        "menopause irritability TCM",
+        "hormone mood swings natural",
+        "perimenopause anger"
+      ],
+      "id": "861"
     }
   ]
 }
