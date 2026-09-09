@@ -4,20 +4,6 @@
   "note": "每3小时自动生产一篇内容。从队列头部取，完成后移到 published。",
   "queue": [
     {
-      "title": "Foot Reflexology for Stress Relief: A Home Guide from a TCM Perspective",
-      "path": "/treatments/foot-reflexology-stress-tcm/",
-      "type": "treatment",
-      "parent": "treatments",
-      "estimated_read_time": 7,
-      "keywords": [
-        "foot reflexology stress",
-        "reflexology for anxiety",
-        "foot massage stress relief",
-        "reflexology points stress"
-      ],
-      "id": "862"
-    },
-    {
       "title": "Relationship Anxiety: A TCM Perspective on Insecurity, Overthinking and Fear in Love",
       "path": "/symptoms/anxiety/relationship-anxiety-tcm/",
       "type": "cluster",
@@ -11294,6 +11280,20 @@
         "perimenopause anger"
       ],
       "id": "861"
+    },
+    {
+      "title": "Foot Reflexology for Stress Relief: A Home Guide from a TCM Perspective",
+      "path": "/treatments/foot-reflexology-stress-tcm/",
+      "type": "treatment",
+      "parent": "treatments",
+      "estimated_read_time": 7,
+      "keywords": [
+        "foot reflexology stress",
+        "reflexology for anxiety",
+        "foot massage stress relief",
+        "reflexology points stress"
+      ],
+      "id": "862"
     }
   ]
 }
