@@ -4,20 +4,6 @@
   "note": "每3小时自动生产一篇内容。从队列头部取，完成后移到 published。",
   "queue": [
     {
-      "title": "Herbal Baths for PMS: A Soothing Home Ritual for Cramps, Tension and Low Mood",
-      "path": "/treatments/herbal-baths-pms-tcm/",
-      "type": "treatment",
-      "parent": "treatments",
-      "estimated_read_time": 7,
-      "keywords": [
-        "herbal bath PMS",
-        "period bath soak",
-        "PMS self care bath",
-        "warm bath cramps"
-      ],
-      "id": "868"
-    },
-    {
       "title": "Steam Therapy for Sinus Congestion: A Home Guide from a TCM Perspective",
       "path": "/treatments/steam-therapy-sinus-tcm/",
       "type": "treatment",
@@ -11489,6 +11475,20 @@
         "neck injury recovery"
       ],
       "id": "867"
+    },
+    {
+      "title": "Herbal Baths for PMS: A Soothing Home Ritual for Cramps, Tension and Low Mood",
+      "path": "/treatments/herbal-baths-pms-tcm/",
+      "type": "treatment",
+      "parent": "treatments",
+      "estimated_read_time": 7,
+      "keywords": [
+        "herbal bath PMS",
+        "period bath soak",
+        "PMS self care bath",
+        "warm bath cramps"
+      ],
+      "id": "868"
     }
   ]
 }
