@@ -4,33 +4,6 @@
   "note": "每3小时自动生产一篇内容。从队列头部取，完成后移到 published。",
   "queue": [
     {
-      "title": "Self-Massage for TMJ: Releasing Jaw Tension at Home, a TCM Guide",
-      "path": "/treatments/self-massage-tmj-tcm/",
-      "type": "treatment",
-      "parent": "treatments",
-      "estimated_read_time": 7,
-      "keywords": [
-        "TMJ self massage",
-        "jaw tension release",
-        "TMJ massage at home",
-        "clenching jaw acupressure"
-      ],
-      "id": "871"
-    },
-    {
-      "title": "Ear Seed Acupressure for Stress: A Gentle Daily Reset You Can Wear",
-      "path": "/treatments/ear-seed-stress-tcm/",
-      "type": "treatment",
-      "parent": "treatments",
-      "estimated_read_time": 6,
-      "keywords": [
-        "ear seeds stress",
-        "auricular acupressure stress",
-        "ear seed anxiety tcm"
-      ],
-      "id": "872"
-    },
-    {
       "title": "Ear Seeds for Headaches: Working With Auricular Points Between Sessions",
       "path": "/treatments/ear-seed-headaches-tcm/",
       "type": "treatment",
@@ -11489,6 +11462,33 @@
         "astigmatism natural support"
       ],
       "id": "870"
+    },
+    {
+      "title": "Self-Massage for TMJ: Releasing Jaw Tension at Home, a TCM Guide",
+      "path": "/treatments/self-massage-tmj-tcm/",
+      "type": "treatment",
+      "parent": "treatments",
+      "estimated_read_time": 7,
+      "keywords": [
+        "TMJ self massage",
+        "jaw tension release",
+        "TMJ massage at home",
+        "clenching jaw acupressure"
+      ],
+      "id": "871"
+    },
+    {
+      "title": "Ear Seed Acupressure for Stress: A Gentle Daily Reset You Can Wear",
+      "path": "/treatments/ear-seed-stress-tcm/",
+      "type": "treatment",
+      "parent": "treatments",
+      "estimated_read_time": 6,
+      "keywords": [
+        "ear seeds stress",
+        "auricular acupressure stress",
+        "ear seed anxiety tcm"
+      ],
+      "id": "872"
     }
   ]
 }
