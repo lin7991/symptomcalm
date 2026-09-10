@@ -4,20 +4,6 @@
   "note": "每3小时自动生产一篇内容。从队列头部取，完成后移到 published。",
   "queue": [
     {
-      "title": "Steam Therapy for Sinus Congestion: A Home Guide from a TCM Perspective",
-      "path": "/treatments/steam-therapy-sinus-tcm/",
-      "type": "treatment",
-      "parent": "treatments",
-      "estimated_read_time": 6,
-      "keywords": [
-        "steam for sinus congestion",
-        "facial steam sinus",
-        "steam inhalation stuffy nose",
-        "TCM steam therapy"
-      ],
-      "id": "869"
-    },
-    {
       "title": "Astigmatism and Blurry Vision: A TCM Perspective on Eye Support",
       "path": "/symptoms/eye-health/astigmatism-tcm/",
       "type": "cluster",
@@ -11489,6 +11475,20 @@
         "warm bath cramps"
       ],
       "id": "868"
+    },
+    {
+      "title": "Steam Therapy for Sinus Congestion: A Home Guide from a TCM Perspective",
+      "path": "/treatments/steam-therapy-sinus-tcm/",
+      "type": "treatment",
+      "parent": "treatments",
+      "estimated_read_time": 6,
+      "keywords": [
+        "steam for sinus congestion",
+        "facial steam sinus",
+        "steam inhalation stuffy nose",
+        "TCM steam therapy"
+      ],
+      "id": "869"
     }
   ]
 }
