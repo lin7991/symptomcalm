@@ -3996,6 +3996,11 @@
     <ns0:priority>0.5</ns0:priority>
   </ns0:url>
   <ns0:url>
+    <ns0:loc>https://symptomcalm.com/zh/treatments/ear-seed-stress-tcm/</ns0:loc>
+    <ns0:changefreq>monthly</ns0:changefreq>
+    <ns0:priority>0.5</ns0:priority>
+  </ns0:url>
+  <ns0:url>
     <ns0:loc>https://symptomcalm.com/zh/treatments/foot-baths-sleep-tcm/</ns0:loc>
     <ns0:changefreq>monthly</ns0:changefreq>
     <ns0:priority>0.5</ns0:priority>
@@ -5235,6 +5240,11 @@
     <ns0:loc>https://symptomcalm.com/treatments/foot-baths-immunity-tcm/</ns0:loc>
     <ns0:changefreq>monthly</ns0:changefreq>
     <ns0:priority>0.7</ns0:priority>
+  </ns0:url>
+  <ns0:url>
+    <ns0:loc>https://symptomcalm.com/zh/treatments/self-massage-tmj-tcm/</ns0:loc>
+    <ns0:changefreq>monthly</ns0:changefreq>
+    <ns0:priority>0.5</ns0:priority>
   </ns0:url>
   <ns0:url>
     <ns0:loc>https://symptomcalm.com/zh/treatments/foot-baths-immunity-tcm/</ns0:loc>
