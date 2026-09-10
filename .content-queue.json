@@ -4,20 +4,6 @@
   "note": "每3小时自动生产一篇内容。从队列头部取，完成后移到 published。",
   "queue": [
     {
-      "title": "Astigmatism and Blurry Vision: A TCM Perspective on Eye Support",
-      "path": "/symptoms/eye-health/astigmatism-tcm/",
-      "type": "cluster",
-      "parent": "eye-health",
-      "estimated_read_time": 7,
-      "keywords": [
-        "astigmatism TCM",
-        "blurry vision Chinese medicine",
-        "Liver Blood eyes",
-        "astigmatism natural support"
-      ],
-      "id": "870"
-    },
-    {
       "title": "Self-Massage for TMJ: Releasing Jaw Tension at Home, a TCM Guide",
       "path": "/treatments/self-massage-tmj-tcm/",
       "type": "treatment",
@@ -11489,6 +11475,20 @@
         "TCM steam therapy"
       ],
       "id": "869"
+    },
+    {
+      "title": "Astigmatism and Blurry Vision: A TCM Perspective on Eye Support",
+      "path": "/symptoms/eye-health/astigmatism-tcm/",
+      "type": "cluster",
+      "parent": "eye-health",
+      "estimated_read_time": 7,
+      "keywords": [
+        "astigmatism TCM",
+        "blurry vision Chinese medicine",
+        "Liver Blood eyes",
+        "astigmatism natural support"
+      ],
+      "id": "870"
     }
   ]
 }
