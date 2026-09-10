@@ -4,20 +4,6 @@
   "note": "每3小时自动生产一篇内容。从队列头部取，完成后移到 published。",
   "queue": [
     {
-      "title": "Whiplash Recovery: A TCM Perspective on Stiffness, Soreness and Getting Back to Normal",
-      "path": "/symptoms/back-pain/whiplash-tcm/",
-      "type": "cluster",
-      "parent": "back-pain",
-      "estimated_read_time": 7,
-      "keywords": [
-        "whiplash recovery",
-        "whiplash neck stiffness TCM",
-        "whiplash natural support",
-        "neck injury recovery"
-      ],
-      "id": "867"
-    },
-    {
       "title": "Herbal Baths for PMS: A Soothing Home Ritual for Cramps, Tension and Low Mood",
       "path": "/treatments/herbal-baths-pms-tcm/",
       "type": "treatment",
@@ -11294,6 +11280,20 @@
         "TCM fertility support"
       ],
       "id": "866"
+    },
+    {
+      "title": "Whiplash Recovery: A TCM Perspective on Stiffness, Soreness and Getting Back to Normal",
+      "path": "/symptoms/back-pain/whiplash-tcm/",
+      "type": "cluster",
+      "parent": "back-pain",
+      "estimated_read_time": 7,
+      "keywords": [
+        "whiplash recovery",
+        "whiplash neck stiffness TCM",
+        "whiplash natural support",
+        "neck injury recovery"
+      ],
+      "id": "867"
     }
   ]
 }

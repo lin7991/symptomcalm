@@ -1,11 +1,8 @@
-tmp/
 .cron/.cf_token
-node_modules/
-.cron/outreach/
-.cron/reports/
-.cron/launchd*
-.cron/publish.log
-tmp/
-tmp/
-tmp/
 .cron/.smtp_config
+.cron/launchd*
+.cron/outreach/
+.cron/publish.log
+.cron/reports/
+node_modules/
+tmp/
