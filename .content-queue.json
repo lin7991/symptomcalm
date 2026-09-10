@@ -4,20 +4,6 @@
   "note": "每3小时自动生产一篇内容。从队列头部取，完成后移到 published。",
   "queue": [
     {
-      "title": "Meditation for Fertility: A Mind-Body Guide from a TCM Perspective",
-      "path": "/treatments/meditation-fertility-tcm/",
-      "type": "treatment",
-      "parent": "treatments",
-      "estimated_read_time": 7,
-      "keywords": [
-        "meditation fertility",
-        "mind body fertility",
-        "stress and conception meditation",
-        "TCM fertility support"
-      ],
-      "id": "866"
-    },
-    {
       "title": "Whiplash Recovery: A TCM Perspective on Stiffness, Soreness and Getting Back to Normal",
       "path": "/symptoms/back-pain/whiplash-tcm/",
       "type": "cluster",
@@ -11294,6 +11280,20 @@
         "menstrual digestive upset"
       ],
       "id": "865"
+    },
+    {
+      "title": "Meditation for Fertility: A Mind-Body Guide from a TCM Perspective",
+      "path": "/treatments/meditation-fertility-tcm/",
+      "type": "treatment",
+      "parent": "treatments",
+      "estimated_read_time": 7,
+      "keywords": [
+        "meditation fertility",
+        "mind body fertility",
+        "stress and conception meditation",
+        "TCM fertility support"
+      ],
+      "id": "866"
     }
   ]
 }
