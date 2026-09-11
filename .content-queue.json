@@ -4,19 +4,6 @@
   "note": "每3小时自动生产一篇内容。从队列头部取，完成后移到 published。",
   "queue": [
     {
-      "title": "Ear Seeds for Headaches: Working With Auricular Points Between Sessions",
-      "path": "/treatments/ear-seed-headaches-tcm/",
-      "type": "treatment",
-      "parent": "treatments",
-      "estimated_read_time": 6,
-      "keywords": [
-        "ear seeds headaches",
-        "auricular acupressure headache",
-        "ear seed migraine tcm"
-      ],
-      "id": "873"
-    },
-    {
       "title": "Ear Seeds for Fatigue: Supporting Energy Through Auricular Points",
       "path": "/treatments/ear-seed-fatigue-tcm/",
       "type": "treatment",
@@ -11489,6 +11476,19 @@
         "ear seed anxiety tcm"
       ],
       "id": "872"
+    },
+    {
+      "title": "Ear Seeds for Headaches: Working With Auricular Points Between Sessions",
+      "path": "/treatments/ear-seed-headaches-tcm/",
+      "type": "treatment",
+      "parent": "treatments",
+      "estimated_read_time": 6,
+      "keywords": [
+        "ear seeds headaches",
+        "auricular acupressure headache",
+        "ear seed migraine tcm"
+      ],
+      "id": "873"
     }
   ]
 }
