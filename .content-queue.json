@@ -4,32 +4,6 @@
   "note": "每3小时自动生产一篇内容。从队列头部取，完成后移到 published。",
   "queue": [
     {
-      "title": "Gua Sha for Joint Pain: A Gentle Home Guide for Stiff, Aching Joints",
-      "path": "/treatments/gua-sha-joint-pain-tcm/",
-      "type": "treatment",
-      "parent": "treatments",
-      "estimated_read_time": 7,
-      "keywords": [
-        "gua sha joint pain",
-        "gua sha arthritis home",
-        "gua sha stiff joints tcm"
-      ],
-      "id": "879"
-    },
-    {
-      "title": "Moxibustion for Stress: Using Warmth to Settle a Wound-Up Nervous System",
-      "path": "/treatments/moxibustion-stress-tcm/",
-      "type": "treatment",
-      "parent": "treatments",
-      "estimated_read_time": 7,
-      "keywords": [
-        "moxibustion stress",
-        "moxa relaxation tcm",
-        "warming therapy nervous system"
-      ],
-      "id": "880"
-    },
-    {
       "title": "Qigong for Stress: Moving Stuck Energy Out of Your Shoulders",
       "path": "/treatments/qigong-stress-tcm/",
       "type": "treatment",
@@ -11489,6 +11463,32 @@
         "cooling foot bath heat tcm"
       ],
       "id": "878"
+    },
+    {
+      "title": "Gua Sha for Joint Pain: A Gentle Home Guide for Stiff, Aching Joints",
+      "path": "/treatments/gua-sha-joint-pain-tcm/",
+      "type": "treatment",
+      "parent": "treatments",
+      "estimated_read_time": 7,
+      "keywords": [
+        "gua sha joint pain",
+        "gua sha arthritis home",
+        "gua sha stiff joints tcm"
+      ],
+      "id": "879"
+    },
+    {
+      "title": "Moxibustion for Stress: Using Warmth to Settle a Wound-Up Nervous System",
+      "path": "/treatments/moxibustion-stress-tcm/",
+      "type": "treatment",
+      "parent": "treatments",
+      "estimated_read_time": 7,
+      "keywords": [
+        "moxibustion stress",
+        "moxa relaxation tcm",
+        "warming therapy nervous system"
+      ],
+      "id": "880"
     }
   ]
 }
