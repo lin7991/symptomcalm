@@ -4,19 +4,6 @@
   "note": "每3小时自动生产一篇内容。从队列头部取，完成后移到 published。",
   "queue": [
     {
-      "title": "Ear Seeds for Immunity: A Hands-Off Approach to Seasonal Resilience",
-      "path": "/treatments/ear-seed-immunity-tcm/",
-      "type": "treatment",
-      "parent": "treatments",
-      "estimated_read_time": 6,
-      "keywords": [
-        "ear seeds immunity",
-        "auricular acupressure immune support",
-        "ear seed wei qi"
-      ],
-      "id": "875"
-    },
-    {
       "title": "Foot Baths for Stress: A Warm Evening Ritual for a Wound-Up Body",
       "path": "/treatments/foot-baths-stress-tcm/",
       "type": "treatment",
@@ -11489,6 +11476,19 @@
         "ear seed tiredness tcm"
       ],
       "id": "874"
+    },
+    {
+      "title": "Ear Seeds for Immunity: A Hands-Off Approach to Seasonal Resilience",
+      "path": "/treatments/ear-seed-immunity-tcm/",
+      "type": "treatment",
+      "parent": "treatments",
+      "estimated_read_time": 6,
+      "keywords": [
+        "ear seeds immunity",
+        "auricular acupressure immune support",
+        "ear seed wei qi"
+      ],
+      "id": "875"
     }
   ]
 }
