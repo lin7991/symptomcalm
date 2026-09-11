@@ -4,19 +4,6 @@
   "note": "每3小时自动生产一篇内容。从队列头部取，完成后移到 published。",
   "queue": [
     {
-      "title": "Ear Seeds for Fatigue: Supporting Energy Through Auricular Points",
-      "path": "/treatments/ear-seed-fatigue-tcm/",
-      "type": "treatment",
-      "parent": "treatments",
-      "estimated_read_time": 6,
-      "keywords": [
-        "ear seeds fatigue",
-        "auricular acupressure energy",
-        "ear seed tiredness tcm"
-      ],
-      "id": "874"
-    },
-    {
       "title": "Ear Seeds for Immunity: A Hands-Off Approach to Seasonal Resilience",
       "path": "/treatments/ear-seed-immunity-tcm/",
       "type": "treatment",
@@ -11489,6 +11476,19 @@
         "ear seed migraine tcm"
       ],
       "id": "873"
+    },
+    {
+      "title": "Ear Seeds for Fatigue: Supporting Energy Through Auricular Points",
+      "path": "/treatments/ear-seed-fatigue-tcm/",
+      "type": "treatment",
+      "parent": "treatments",
+      "estimated_read_time": 6,
+      "keywords": [
+        "ear seeds fatigue",
+        "auricular acupressure energy",
+        "ear seed tiredness tcm"
+      ],
+      "id": "874"
     }
   ]
 }
