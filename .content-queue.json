@@ -4,19 +4,6 @@
   "note": "每3小时自动生产一篇内容。从队列头部取，完成后移到 published。",
   "queue": [
     {
-      "title": "Foot Baths for Itchy Skin: Drawing Heat Down, a TCM Home Ritual",
-      "path": "/treatments/foot-baths-skin-tcm/",
-      "type": "treatment",
-      "parent": "treatments",
-      "estimated_read_time": 6,
-      "keywords": [
-        "foot bath itchy skin",
-        "foot soak eczema tcm",
-        "cooling foot bath heat tcm"
-      ],
-      "id": "878"
-    },
-    {
       "title": "Gua Sha for Joint Pain: A Gentle Home Guide for Stiff, Aching Joints",
       "path": "/treatments/gua-sha-joint-pain-tcm/",
       "type": "treatment",
@@ -11489,6 +11476,19 @@
         "warm foot bath period"
       ],
       "id": "877"
+    },
+    {
+      "title": "Foot Baths for Itchy Skin: Drawing Heat Down, a TCM Home Ritual",
+      "path": "/treatments/foot-baths-skin-tcm/",
+      "type": "treatment",
+      "parent": "treatments",
+      "estimated_read_time": 6,
+      "keywords": [
+        "foot bath itchy skin",
+        "foot soak eczema tcm",
+        "cooling foot bath heat tcm"
+      ],
+      "id": "878"
     }
   ]
 }
