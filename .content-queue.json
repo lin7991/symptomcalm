@@ -4,19 +4,6 @@
   "note": "每3小时自动生产一篇内容。从队列头部取，完成后移到 published。",
   "queue": [
     {
-      "title": "Qigong for Stress: Moving Stuck Energy Out of Your Shoulders",
-      "path": "/treatments/qigong-stress-tcm/",
-      "type": "treatment",
-      "parent": "treatments",
-      "estimated_read_time": 7,
-      "keywords": [
-        "qigong stress",
-        "qigong for tension",
-        "moving qigong liver qi tcm"
-      ],
-      "id": "881"
-    },
-    {
       "title": "Qigong for Posture: Rebuilding Your Body's Natural Alignment",
       "path": "/treatments/qigong-posture-tcm/",
       "type": "treatment",
@@ -11489,6 +11476,19 @@
         "warming therapy nervous system"
       ],
       "id": "880"
+    },
+    {
+      "title": "Qigong for Stress: Moving Stuck Energy Out of Your Shoulders",
+      "path": "/treatments/qigong-stress-tcm/",
+      "type": "treatment",
+      "parent": "treatments",
+      "estimated_read_time": 7,
+      "keywords": [
+        "qigong stress",
+        "qigong for tension",
+        "moving qigong liver qi tcm"
+      ],
+      "id": "881"
     }
   ]
 }
