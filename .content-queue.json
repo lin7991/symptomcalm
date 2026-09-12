@@ -4,19 +4,6 @@
   "note": "每3小时自动生产一篇内容。从队列头部取，完成后移到 published。",
   "queue": [
     {
-      "title": "Acupressure for Neck Pain: The Points That Reach the Deep Tension",
-      "path": "/treatments/acupressure-neck-pain-tcm/",
-      "type": "treatment",
-      "parent": "treatments",
-      "estimated_read_time": 6,
-      "keywords": [
-        "acupressure neck pain",
-        "neck pressure points tcm",
-        "acupressure stiff neck"
-      ],
-      "id": "886"
-    },
-    {
       "title": "Qigong for Eye Strain: Resting Your Eyes From the Inside Out",
       "path": "/treatments/qigong-eye-strain-tcm/",
       "type": "treatment",
@@ -11684,6 +11671,19 @@
         "tui na hot flashes"
       ],
       "id": "885"
+    },
+    {
+      "title": "Acupressure for Neck Pain: The Points That Reach the Deep Tension",
+      "path": "/treatments/acupressure-neck-pain-tcm/",
+      "type": "treatment",
+      "parent": "treatments",
+      "estimated_read_time": 6,
+      "keywords": [
+        "acupressure neck pain",
+        "neck pressure points tcm",
+        "acupressure stiff neck"
+      ],
+      "id": "886"
     }
   ]
 }
