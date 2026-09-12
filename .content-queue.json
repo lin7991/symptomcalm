@@ -54,6 +54,201 @@
         "acupressure stiff neck"
       ],
       "id": "886"
+    },
+    {
+      "title": "Qigong for Eye Strain: Resting Your Eyes From the Inside Out",
+      "path": "/treatments/qigong-eye-strain-tcm/",
+      "type": "treatment",
+      "parent": "treatments",
+      "estimated_read_time": 8,
+      "keywords": [
+        "qigong eye strain",
+        "eye exercises tcm",
+        "tired eyes qigong"
+      ],
+      "id": "887"
+    },
+    {
+      "title": "Qigong for Focus: Training Attention With Slow Movement",
+      "path": "/treatments/qigong-focus-tcm/",
+      "type": "treatment",
+      "parent": "treatments",
+      "estimated_read_time": 8,
+      "keywords": [
+        "qigong focus",
+        "concentration tcm",
+        "attention training"
+      ],
+      "id": "888"
+    },
+    {
+      "title": "Acupressure for Tinnitus: Points for Ringing Ears",
+      "path": "/treatments/acupressure-tinnitus-tcm/",
+      "type": "treatment",
+      "parent": "treatments",
+      "estimated_read_time": 8,
+      "keywords": [
+        "acupressure tinnitus",
+        "ringing ears tcm",
+        "ear pressure points"
+      ],
+      "id": "889"
+    },
+    {
+      "title": "Acupressure for Carpal Tunnel: Points for Wrists and Hands",
+      "path": "/treatments/acupressure-carpal-tunnel-tcm/",
+      "type": "treatment",
+      "parent": "treatments",
+      "estimated_read_time": 8,
+      "keywords": [
+        "acupressure carpal tunnel",
+        "wrist pain tcm",
+        "hand numbness points"
+      ],
+      "id": "890"
+    },
+    {
+      "title": "Tui Na for Shoulder Pain: A Self-Massage Protocol",
+      "path": "/treatments/tui-na-shoulder-pain-tcm/",
+      "type": "treatment",
+      "parent": "treatments",
+      "estimated_read_time": 8,
+      "keywords": [
+        "tui na shoulder pain",
+        "self massage shoulder",
+        "shoulder tension tcm"
+      ],
+      "id": "891"
+    },
+    {
+      "title": "Moxibustion for Knee Pain: Warming a Stiff Joint",
+      "path": "/treatments/moxibustion-knee-pain-tcm/",
+      "type": "treatment",
+      "parent": "treatments",
+      "estimated_read_time": 8,
+      "keywords": [
+        "moxibustion knee pain",
+        "moxa knee",
+        "knee stiffness tcm"
+      ],
+      "id": "892"
+    },
+    {
+      "title": "Foot Baths for Cold Feet: Warming the Body's Extremities",
+      "path": "/treatments/foot-baths-cold-feet-tcm/",
+      "type": "treatment",
+      "parent": "treatments",
+      "estimated_read_time": 7,
+      "keywords": [
+        "foot bath cold feet",
+        "cold hands feet tcm",
+        "warming foot soak"
+      ],
+      "id": "893"
+    },
+    {
+      "title": "Gua Sha for the Face: A Gentle Facial Practice",
+      "path": "/treatments/guasha-face-tcm/",
+      "type": "treatment",
+      "parent": "treatments",
+      "estimated_read_time": 8,
+      "keywords": [
+        "gua sha face",
+        "facial gua sha",
+        "face massage tcm"
+      ],
+      "id": "894"
+    },
+    {
+      "title": "Ear Seeds for Menopause: A Gentle Daily Protocol",
+      "path": "/treatments/ear-seed-menopause-tcm/",
+      "type": "treatment",
+      "parent": "treatments",
+      "estimated_read_time": 8,
+      "keywords": [
+        "ear seeds menopause",
+        "auricular menopause",
+        "ear acupressure hot flashes"
+      ],
+      "id": "895"
+    },
+    {
+      "title": "Damp-Heat in TCM: When Dampness Meets Heat",
+      "path": "/tcm-basics/damp-heat-tcm/",
+      "type": "tcm-basics",
+      "parent": "",
+      "estimated_read_time": 7,
+      "keywords": [
+        "damp heat tcm",
+        "damp heat symptoms",
+        "dampness heat pattern"
+      ],
+      "id": "896"
+    },
+    {
+      "title": "The Five Flavors in TCM: Reading Your Cravings",
+      "path": "/tcm-basics/five-flavors-tcm/",
+      "type": "tcm-basics",
+      "parent": "",
+      "estimated_read_time": 7,
+      "keywords": [
+        "five flavors tcm",
+        "sour bitter sweet pungent salty",
+        "food cravings tcm"
+      ],
+      "id": "897"
+    },
+    {
+      "title": "Liver Blood in TCM: Nourishing the Sinews and Eyes",
+      "path": "/tcm-basics/liver-blood-tcm/",
+      "type": "tcm-basics",
+      "parent": "",
+      "estimated_read_time": 7,
+      "keywords": [
+        "liver blood tcm",
+        "liver blood deficiency",
+        "sinews eyes tcm"
+      ],
+      "id": "898"
+    },
+    {
+      "title": "Pollen Food Syndrome: When Fruit Makes Your Mouth Itch",
+      "path": "/symptoms/allergies/pollen-food-syndrome-tcm/",
+      "type": "cluster",
+      "parent": "allergies",
+      "estimated_read_time": 9,
+      "keywords": [
+        "pollen food syndrome",
+        "oral allergy syndrome",
+        "fruit allergy itching mouth"
+      ],
+      "id": "899"
+    },
+    {
+      "title": "Dry Eye Diet: Foods and Patterns That May Support Moisture",
+      "path": "/symptoms/eye-health/dry-eye-diet-tcm/",
+      "type": "cluster",
+      "parent": "eye-health",
+      "estimated_read_time": 9,
+      "keywords": [
+        "dry eye diet",
+        "foods for dry eyes",
+        "eye moisture tcm"
+      ],
+      "id": "900"
+    },
+    {
+      "title": "Ear Fullness and Clogged Ears: A TCM Perspective",
+      "path": "/symptoms/ear-health-tinnitus/ear-fullness-tcm/",
+      "type": "cluster",
+      "parent": "ear-health-tinnitus",
+      "estimated_read_time": 9,
+      "keywords": [
+        "ear fullness",
+        "clogged ears tcm",
+        "ear pressure relief"
+      ],
+      "id": "901"
     }
   ],
   "published": [
