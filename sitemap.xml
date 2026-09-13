@@ -6498,4 +6498,24 @@
     <ns0:changefreq>monthly</ns0:changefreq>
     <ns0:priority>0.7</ns0:priority>
   </ns0:url>
+  <ns0:url>
+    <ns0:loc>https://symptomcalm.com/tcm-basics/damp-heat-tcm/</ns0:loc>
+    <ns0:changefreq>monthly</ns0:changefreq>
+    <ns0:priority>0.7</ns0:priority>
+  </ns0:url>
+  <ns0:url>
+    <ns0:loc>https://symptomcalm.com/zh/tcm-basics/damp-heat-tcm/</ns0:loc>
+    <ns0:changefreq>monthly</ns0:changefreq>
+    <ns0:priority>0.5</ns0:priority>
+  </ns0:url>
+  <ns0:url>
+    <ns0:loc>https://symptomcalm.com/tcm-basics/five-flavors-tcm/</ns0:loc>
+    <ns0:changefreq>monthly</ns0:changefreq>
+    <ns0:priority>0.7</ns0:priority>
+  </ns0:url>
+  <ns0:url>
+    <ns0:loc>https://symptomcalm.com/zh/tcm-basics/five-flavors-tcm/</ns0:loc>
+    <ns0:changefreq>monthly</ns0:changefreq>
+    <ns0:priority>0.5</ns0:priority>
+  </ns0:url>
 </ns0:urlset>
