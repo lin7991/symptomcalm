@@ -4,19 +4,6 @@
   "note": "每3小时自动生产一篇内容。从队列头部取，完成后移到 published。",
   "queue": [
     {
-      "title": "Acupressure for Tinnitus: Points for Ringing Ears",
-      "path": "/treatments/acupressure-tinnitus-tcm/",
-      "type": "treatment",
-      "parent": "treatments",
-      "estimated_read_time": 8,
-      "keywords": [
-        "acupressure tinnitus",
-        "ringing ears tcm",
-        "ear pressure points"
-      ],
-      "id": "889"
-    },
-    {
       "title": "Acupressure for Carpal Tunnel: Points for Wrists and Hands",
       "path": "/treatments/acupressure-carpal-tunnel-tcm/",
       "type": "treatment",
@@ -11684,6 +11671,19 @@
         "attention training"
       ],
       "id": "888"
+    },
+    {
+      "title": "Acupressure for Tinnitus: Points for Ringing Ears",
+      "path": "/treatments/acupressure-tinnitus-tcm/",
+      "type": "treatment",
+      "parent": "treatments",
+      "estimated_read_time": 8,
+      "keywords": [
+        "acupressure tinnitus",
+        "ringing ears tcm",
+        "ear pressure points"
+      ],
+      "id": "889"
     }
   ]
 }
