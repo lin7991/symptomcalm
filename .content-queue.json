@@ -4,19 +4,6 @@
   "note": "每3小时自动生产一篇内容。从队列头部取，完成后移到 published。",
   "queue": [
     {
-      "title": "Tui Na for Shoulder Pain: A Self-Massage Protocol",
-      "path": "/treatments/tui-na-shoulder-pain-tcm/",
-      "type": "treatment",
-      "parent": "treatments",
-      "estimated_read_time": 8,
-      "keywords": [
-        "tui na shoulder pain",
-        "self massage shoulder",
-        "shoulder tension tcm"
-      ],
-      "id": "891"
-    },
-    {
       "title": "Moxibustion for Knee Pain: Warming a Stiff Joint",
       "path": "/treatments/moxibustion-knee-pain-tcm/",
       "type": "treatment",
@@ -11684,6 +11671,19 @@
         "hand numbness points"
       ],
       "id": "890"
+    },
+    {
+      "title": "Tui Na for Shoulder Pain: A Self-Massage Protocol",
+      "path": "/treatments/tui-na-shoulder-pain-tcm/",
+      "type": "treatment",
+      "parent": "treatments",
+      "estimated_read_time": 8,
+      "keywords": [
+        "tui na shoulder pain",
+        "self massage shoulder",
+        "shoulder tension tcm"
+      ],
+      "id": "891"
     }
   ]
 }
