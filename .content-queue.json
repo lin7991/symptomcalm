@@ -4,32 +4,6 @@
   "note": "每3小时自动生产一篇内容。从队列头部取，完成后移到 published。",
   "queue": [
     {
-      "title": "Gua Sha for the Face: A Gentle Facial Practice",
-      "path": "/treatments/guasha-face-tcm/",
-      "type": "treatment",
-      "parent": "treatments",
-      "estimated_read_time": 8,
-      "keywords": [
-        "gua sha face",
-        "facial gua sha",
-        "face massage tcm"
-      ],
-      "id": "894"
-    },
-    {
-      "title": "Ear Seeds for Menopause: A Gentle Daily Protocol",
-      "path": "/treatments/ear-seed-menopause-tcm/",
-      "type": "treatment",
-      "parent": "treatments",
-      "estimated_read_time": 8,
-      "keywords": [
-        "ear seeds menopause",
-        "auricular menopause",
-        "ear acupressure hot flashes"
-      ],
-      "id": "895"
-    },
-    {
       "title": "Damp-Heat in TCM: When Dampness Meets Heat",
       "path": "/tcm-basics/damp-heat-tcm/",
       "type": "tcm-basics",
@@ -11684,6 +11658,19 @@
         "warming foot soak"
       ],
       "id": "893"
+    },
+    {
+      "title": "Ear Seeds for Menopause: A Gentle Daily Protocol",
+      "path": "/treatments/ear-seed-menopause-tcm/",
+      "type": "treatment",
+      "parent": "treatments",
+      "estimated_read_time": 8,
+      "keywords": [
+        "ear seeds menopause",
+        "auricular menopause",
+        "ear acupressure hot flashes"
+      ],
+      "id": "895"
     }
   ]
 }
