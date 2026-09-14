@@ -4,19 +4,6 @@
   "note": "每3小时自动生产一篇内容。从队列头部取，完成后移到 published。",
   "queue": [
     {
-      "title": "Skin in TCM: Why the Lungs Govern Your Complexion",
-      "path": "/tcm-basics/skin-in-tcm/",
-      "type": "tcm-basics",
-      "parent": "",
-      "estimated_read_time": 7,
-      "keywords": [
-        "skin in tcm",
-        "lung governs skin",
-        "tcm skin health"
-      ],
-      "id": "902"
-    },
-    {
       "title": "Sleep in TCM: What Happens When You Close Your Eyes",
       "path": "/tcm-basics/sleep-in-tcm/",
       "type": "tcm-basics",
@@ -11853,6 +11840,19 @@
         "eye moisture tcm"
       ],
       "id": "900"
+    },
+    {
+      "title": "Skin in TCM: Why the Lungs Govern Your Complexion",
+      "path": "/tcm-basics/skin-in-tcm/",
+      "type": "tcm-basics",
+      "parent": "",
+      "estimated_read_time": 7,
+      "keywords": [
+        "skin in tcm",
+        "lung governs skin",
+        "tcm skin health"
+      ],
+      "id": "902"
     }
   ]
 }
