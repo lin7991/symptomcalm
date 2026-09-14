@@ -51,7 +51,12 @@ for url in \
   "https://symptomcalm.com/symptoms/anxiety/liver-qi-stagnation/" \
   "https://symptomcalm.com/about/" \
   "https://symptomcalm.com/sitemap.xml"; do
-  STATUS_CODE=$(curl -sI -o /dev/null -w '%{http_code}' "$url" --connect-timeout 10 2>/dev/null)
+  # NOTE: Cloudflare returns 000/403 to UA-less probes -- always send a browser UA
+  STATUS_CODE=$(curl -sI -o /dev/null -w '%{http_code}' "$url" --connect-timeout 10 --max-time 25 -A 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36' 2>/dev/null)
+  if [ "$STATUS_CODE" != "200" ]; then
+    sleep 3
+    STATUS_CODE=$(curl -sI -o /dev/null -w '%{http_code}' "$url" --connect-timeout 10 --max-time 30 -A 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36' 2>/dev/null)
+  fi
   if [ "$STATUS_CODE" = "200" ]; then
     echo "  ✅ $url"
   else
