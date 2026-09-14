@@ -4,19 +4,6 @@
   "note": "每3小时自动生产一篇内容。从队列头部取，完成后移到 published。",
   "queue": [
     {
-      "title": "Yang Sheng: The TCM Art of Nourishing Life",
-      "path": "/tcm-basics/yang-sheng-tcm/",
-      "type": "tcm-basics",
-      "parent": "",
-      "estimated_read_time": 7,
-      "keywords": [
-        "yang sheng",
-        "nourishing life tcm",
-        "tcm longevity habits"
-      ],
-      "id": "904"
-    },
-    {
       "title": "A TCM View of Exercise: Movement as Medicine",
       "path": "/tcm-basics/tcm-view-of-exercise/",
       "type": "tcm-basics",
@@ -11853,6 +11840,19 @@
         "shen sleep"
       ],
       "id": "903"
+    },
+    {
+      "title": "Yang Sheng: The TCM Art of Nourishing Life",
+      "path": "/tcm-basics/yang-sheng-tcm/",
+      "type": "tcm-basics",
+      "parent": "",
+      "estimated_read_time": 7,
+      "keywords": [
+        "yang sheng",
+        "nourishing life tcm",
+        "tcm longevity habits"
+      ],
+      "id": "904"
     }
   ]
 }
