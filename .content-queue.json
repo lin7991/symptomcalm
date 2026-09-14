@@ -4,32 +4,6 @@
   "note": "每3小时自动生产一篇内容。从队列头部取，完成后移到 published。",
   "queue": [
     {
-      "title": "Dry Eye Diet: Foods and Patterns That May Support Moisture",
-      "path": "/symptoms/eye-health/dry-eye-diet-tcm/",
-      "type": "cluster",
-      "parent": "eye-health",
-      "estimated_read_time": 9,
-      "keywords": [
-        "dry eye diet",
-        "foods for dry eyes",
-        "eye moisture tcm"
-      ],
-      "id": "900"
-    },
-    {
-      "title": "Ear Fullness and Clogged Ears: A TCM Perspective",
-      "path": "/symptoms/ear-health-tinnitus/ear-fullness-tcm/",
-      "type": "cluster",
-      "parent": "ear-health-tinnitus",
-      "estimated_read_time": 9,
-      "keywords": [
-        "ear fullness",
-        "clogged ears tcm",
-        "ear pressure relief"
-      ],
-      "id": "901"
-    },
-    {
       "title": "Skin in TCM: Why the Lungs Govern Your Complexion",
       "path": "/tcm-basics/skin-in-tcm/",
       "type": "tcm-basics",
@@ -11866,6 +11840,19 @@
         "fruit allergy itching mouth"
       ],
       "id": "899"
+    },
+    {
+      "title": "Dry Eye Diet: Foods and Patterns That May Support Moisture",
+      "path": "/symptoms/eye-health/dry-eye-diet-tcm/",
+      "type": "cluster",
+      "parent": "eye-health",
+      "estimated_read_time": 9,
+      "keywords": [
+        "dry eye diet",
+        "foods for dry eyes",
+        "eye moisture tcm"
+      ],
+      "id": "900"
     }
   ]
 }
