@@ -4,19 +4,6 @@
   "note": "每3小时自动生产一篇内容。从队列头部取，完成后移到 published。",
   "queue": [
     {
-      "title": "Sleep in TCM: What Happens When You Close Your Eyes",
-      "path": "/tcm-basics/sleep-in-tcm/",
-      "type": "tcm-basics",
-      "parent": "",
-      "estimated_read_time": 7,
-      "keywords": [
-        "sleep in tcm",
-        "tcm sleep theory",
-        "shen sleep"
-      ],
-      "id": "903"
-    },
-    {
       "title": "Yang Sheng: The TCM Art of Nourishing Life",
       "path": "/tcm-basics/yang-sheng-tcm/",
       "type": "tcm-basics",
@@ -11853,6 +11840,19 @@
         "tcm skin health"
       ],
       "id": "902"
+    },
+    {
+      "title": "Sleep in TCM: What Happens When You Close Your Eyes",
+      "path": "/tcm-basics/sleep-in-tcm/",
+      "type": "tcm-basics",
+      "parent": "",
+      "estimated_read_time": 7,
+      "keywords": [
+        "sleep in tcm",
+        "tcm sleep theory",
+        "shen sleep"
+      ],
+      "id": "903"
     }
   ]
 }
