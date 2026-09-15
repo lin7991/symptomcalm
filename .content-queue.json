@@ -4,19 +4,6 @@
   "note": "每3小时自动生产一篇内容。从队列头部取，完成后移到 published。",
   "queue": [
     {
-      "title": "Altitude Headache: A TCM Perspective on Mountain Sickness",
-      "path": "/symptoms/headaches/altitude-headache-tcm/",
-      "type": "cluster",
-      "parent": "headaches",
-      "estimated_read_time": 8,
-      "keywords": [
-        "altitude headache",
-        "mountain sickness",
-        "high altitude tcm"
-      ],
-      "id": "908"
-    },
-    {
       "title": "Headache Behind the Eye: Reading the Location of Your Pain",
       "path": "/symptoms/headaches/headache-behind-eye-tcm/",
       "type": "cluster",
@@ -11853,6 +11840,19 @@
         "tcm digestive headache"
       ],
       "id": "907"
+    },
+    {
+      "title": "Altitude Headache: A TCM Perspective on Mountain Sickness",
+      "path": "/symptoms/headaches/altitude-headache-tcm/",
+      "type": "cluster",
+      "parent": "headaches",
+      "estimated_read_time": 8,
+      "keywords": [
+        "altitude headache",
+        "mountain sickness",
+        "high altitude tcm"
+      ],
+      "id": "908"
     }
   ]
 }
