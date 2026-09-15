@@ -4,19 +4,6 @@
   "note": "每3小时自动生产一篇内容。从队列头部取，完成后移到 published。",
   "queue": [
     {
-      "title": "Abdominal Migraine: When the Pain Shows Up in Your Stomach",
-      "path": "/symptoms/headaches/abdominal-migraine-tcm/",
-      "type": "cluster",
-      "parent": "headaches",
-      "estimated_read_time": 8,
-      "keywords": [
-        "abdominal migraine",
-        "stomach migraine",
-        "tcm digestive headache"
-      ],
-      "id": "907"
-    },
-    {
       "title": "Altitude Headache: A TCM Perspective on Mountain Sickness",
       "path": "/symptoms/headaches/altitude-headache-tcm/",
       "type": "cluster",
@@ -11853,6 +11840,19 @@
         "tcm vertigo migraine"
       ],
       "id": "906"
+    },
+    {
+      "title": "Abdominal Migraine: When the Pain Shows Up in Your Stomach",
+      "path": "/symptoms/headaches/abdominal-migraine-tcm/",
+      "type": "cluster",
+      "parent": "headaches",
+      "estimated_read_time": 8,
+      "keywords": [
+        "abdominal migraine",
+        "stomach migraine",
+        "tcm digestive headache"
+      ],
+      "id": "907"
     }
   ]
 }
