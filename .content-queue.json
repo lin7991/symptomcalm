@@ -4,19 +4,6 @@
   "note": "每3小时自动生产一篇内容。从队列头部取，完成后移到 published。",
   "queue": [
     {
-      "title": "A TCM View of Exercise: Movement as Medicine",
-      "path": "/tcm-basics/tcm-view-of-exercise/",
-      "type": "tcm-basics",
-      "parent": "",
-      "estimated_read_time": 7,
-      "keywords": [
-        "tcm exercise",
-        "movement tcm",
-        "qi and exercise"
-      ],
-      "id": "905"
-    },
-    {
       "title": "Vestibular Migraine: A TCM Perspective on Dizziness and Head Pain",
       "path": "/symptoms/headaches/vestibular-migraine-tcm/",
       "type": "cluster",
@@ -11853,6 +11840,19 @@
         "tcm longevity habits"
       ],
       "id": "904"
+    },
+    {
+      "title": "A TCM View of Exercise: Movement as Medicine",
+      "path": "/tcm-basics/tcm-view-of-exercise/",
+      "type": "tcm-basics",
+      "parent": "",
+      "estimated_read_time": 7,
+      "keywords": [
+        "tcm exercise",
+        "movement tcm",
+        "qi and exercise"
+      ],
+      "id": "905"
     }
   ]
 }
