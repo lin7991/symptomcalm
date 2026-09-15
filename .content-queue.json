@@ -4,19 +4,6 @@
   "note": "每3小时自动生产一篇内容。从队列头部取，完成后移到 published。",
   "queue": [
     {
-      "title": "Vestibular Migraine: A TCM Perspective on Dizziness and Head Pain",
-      "path": "/symptoms/headaches/vestibular-migraine-tcm/",
-      "type": "cluster",
-      "parent": "headaches",
-      "estimated_read_time": 9,
-      "keywords": [
-        "vestibular migraine",
-        "dizziness headache",
-        "tcm vertigo migraine"
-      ],
-      "id": "906"
-    },
-    {
       "title": "Abdominal Migraine: When the Pain Shows Up in Your Stomach",
       "path": "/symptoms/headaches/abdominal-migraine-tcm/",
       "type": "cluster",
@@ -11853,6 +11840,19 @@
         "qi and exercise"
       ],
       "id": "905"
+    },
+    {
+      "title": "Vestibular Migraine: A TCM Perspective on Dizziness and Head Pain",
+      "path": "/symptoms/headaches/vestibular-migraine-tcm/",
+      "type": "cluster",
+      "parent": "headaches",
+      "estimated_read_time": 9,
+      "keywords": [
+        "vestibular migraine",
+        "dizziness headache",
+        "tcm vertigo migraine"
+      ],
+      "id": "906"
     }
   ]
 }
