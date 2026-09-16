@@ -4,19 +4,6 @@
   "note": "每3小时自动生产一篇内容。从队列头部取，完成后移到 published。",
   "queue": [
     {
-      "title": "Exam Stress: A TCM Guide for Students Under Pressure",
-      "path": "/symptoms/stress/exam-stress-tcm/",
-      "type": "cluster",
-      "parent": "stress",
-      "estimated_read_time": 8,
-      "keywords": [
-        "exam stress",
-        "study stress tcm",
-        "student anxiety tcm"
-      ],
-      "id": "910"
-    },
-    {
       "title": "Night Shift Health: A TCM Guide to Living on Inverted Days",
       "path": "/symptoms/stress/night-shift-health-tcm/",
       "type": "cluster",
@@ -11853,6 +11840,19 @@
         "tcm headache location"
       ],
       "id": "909"
+    },
+    {
+      "title": "Exam Stress: A TCM Guide for Students Under Pressure",
+      "path": "/symptoms/stress/exam-stress-tcm/",
+      "type": "cluster",
+      "parent": "stress",
+      "estimated_read_time": 8,
+      "keywords": [
+        "exam stress",
+        "study stress tcm",
+        "student anxiety tcm"
+      ],
+      "id": "910"
     }
   ]
 }
