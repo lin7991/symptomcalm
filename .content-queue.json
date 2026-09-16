@@ -4,19 +4,6 @@
   "note": "每3小时自动生产一篇内容。从队列头部取，完成后移到 published。",
   "queue": [
     {
-      "title": "Night Shift Health: A TCM Guide to Living on Inverted Days",
-      "path": "/symptoms/stress/night-shift-health-tcm/",
-      "type": "cluster",
-      "parent": "stress",
-      "estimated_read_time": 9,
-      "keywords": [
-        "night shift health",
-        "shift work tcm",
-        "circadian tcm"
-      ],
-      "id": "911"
-    },
-    {
       "title": "Moving Stress: A TCM Perspective on Uprooting Your Life",
       "path": "/symptoms/stress/moving-stress-tcm/",
       "type": "cluster",
@@ -11853,6 +11840,19 @@
         "student anxiety tcm"
       ],
       "id": "910"
+    },
+    {
+      "title": "Night Shift Health: A TCM Guide to Living on Inverted Days",
+      "path": "/symptoms/stress/night-shift-health-tcm/",
+      "type": "cluster",
+      "parent": "stress",
+      "estimated_read_time": 9,
+      "keywords": [
+        "night shift health",
+        "shift work tcm",
+        "circadian tcm"
+      ],
+      "id": "911"
     }
   ]
 }
