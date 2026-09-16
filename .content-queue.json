@@ -4,19 +4,6 @@
   "note": "每3小时自动生产一篇内容。从队列头部取，完成后移到 published。",
   "queue": [
     {
-      "title": "Headache Behind the Eye: Reading the Location of Your Pain",
-      "path": "/symptoms/headaches/headache-behind-eye-tcm/",
-      "type": "cluster",
-      "parent": "headaches",
-      "estimated_read_time": 8,
-      "keywords": [
-        "headache behind eye",
-        "eye pain headache",
-        "tcm headache location"
-      ],
-      "id": "909"
-    },
-    {
       "title": "Exam Stress: A TCM Guide for Students Under Pressure",
       "path": "/symptoms/stress/exam-stress-tcm/",
       "type": "cluster",
@@ -11853,6 +11840,19 @@
         "high altitude tcm"
       ],
       "id": "908"
+    },
+    {
+      "title": "Headache Behind the Eye: Reading the Location of Your Pain",
+      "path": "/symptoms/headaches/headache-behind-eye-tcm/",
+      "type": "cluster",
+      "parent": "headaches",
+      "estimated_read_time": 8,
+      "keywords": [
+        "headache behind eye",
+        "eye pain headache",
+        "tcm headache location"
+      ],
+      "id": "909"
     }
   ]
 }
