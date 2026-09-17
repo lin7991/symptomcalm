@@ -54,6 +54,215 @@
         "tcm eye health"
       ],
       "id": "916"
+    },
+    {
+      "title": "Osteoporosis and Bone Density: A TCM View of the Body's Reserve",
+      "path": "/symptoms/joint-pain/osteoporosis-tcm/",
+      "type": "cluster",
+      "parent": "joint-pain",
+      "estimated_read_time": 8,
+      "keywords": [
+        "osteoporosis tcm",
+        "bone density",
+        "kidney jing bones",
+        "bone health"
+      ],
+      "id": "917"
+    },
+    {
+      "title": "Dehydration Fatigue: When Low Fluids Read as Exhaustion",
+      "path": "/symptoms/fatigue/dehydration-fatigue-tcm/",
+      "type": "cluster",
+      "parent": "fatigue",
+      "estimated_read_time": 7,
+      "keywords": [
+        "dehydration fatigue",
+        "body fluids tcm",
+        "jin ye",
+        "low water intake tired"
+      ],
+      "id": "918"
+    },
+    {
+      "title": "Needle Phobia: A TCM View of the Fear of Needles and Blood Draws",
+      "path": "/symptoms/anxiety/needle-phobia-tcm/",
+      "type": "cluster",
+      "parent": "anxiety",
+      "estimated_read_time": 7,
+      "keywords": [
+        "needle phobia",
+        "trypanophobia",
+        "fear of injections",
+        "blood draw anxiety"
+      ],
+      "id": "919"
+    },
+    {
+      "title": "Phone Call Anxiety: Why Calling Feels Harder Than Talking",
+      "path": "/symptoms/anxiety/phone-call-anxiety-tcm/",
+      "type": "cluster",
+      "parent": "anxiety",
+      "estimated_read_time": 7,
+      "keywords": [
+        "phone call anxiety",
+        "telephobia",
+        "calling anxiety",
+        "social anxiety phone"
+      ],
+      "id": "920"
+    },
+    {
+      "title": "Sleep Debt: How TCM Views Borrowing Against Tomorrow",
+      "path": "/symptoms/insomnia/sleep-debt-tcm/",
+      "type": "cluster",
+      "parent": "insomnia",
+      "estimated_read_time": 8,
+      "keywords": [
+        "sleep debt",
+        "catch up on sleep",
+        "sleep deprivation recovery",
+        "kidney jing sleep"
+      ],
+      "id": "921"
+    },
+    {
+      "title": "Rebuilding Your Gut After Antibiotics: A TCM Perspective",
+      "path": "/symptoms/digestion/gut-after-antibiotics-tcm/",
+      "type": "cluster",
+      "parent": "digestion",
+      "estimated_read_time": 8,
+      "keywords": [
+        "gut after antibiotics",
+        "gut flora recovery",
+        "spleen qi microbiome",
+        "post antibiotic bloating"
+      ],
+      "id": "922"
+    },
+    {
+      "title": "Spicy Food and Digestion: A TCM Look at Heat in the Gut",
+      "path": "/symptoms/digestion/spicy-food-digestion-tcm/",
+      "type": "cluster",
+      "parent": "digestion",
+      "estimated_read_time": 7,
+      "keywords": [
+        "spicy food digestion",
+        "chili stomach",
+        "stomach heat",
+        "capsaicin reflux"
+      ],
+      "id": "923"
+    },
+    {
+      "title": "Morning Nausea: A TCM View Beyond Pregnancy",
+      "path": "/symptoms/digestion/morning-nausea-tcm/",
+      "type": "cluster",
+      "parent": "digestion",
+      "estimated_read_time": 7,
+      "keywords": [
+        "morning nausea",
+        "nauseous in the morning",
+        "stomach qi",
+        "empty stomach nausea"
+      ],
+      "id": "924"
+    },
+    {
+      "title": "Cold Urticaria: When Cold Air Raises Hives",
+      "path": "/symptoms/allergies/cold-urticaria-tcm/",
+      "type": "cluster",
+      "parent": "allergies",
+      "estimated_read_time": 7,
+      "keywords": [
+        "cold urticaria",
+        "cold induced hives",
+        "wind cold skin",
+        "winter hives"
+      ],
+      "id": "925"
+    },
+    {
+      "title": "Humid Weather and Your Breathing: A TCM View of Heavy Air",
+      "path": "/symptoms/respiratory-health/humid-weather-breathing-tcm/",
+      "type": "cluster",
+      "parent": "respiratory-health",
+      "estimated_read_time": 7,
+      "keywords": [
+        "humidity breathing",
+        "humid weather lungs",
+        "dampness phlegm",
+        "muggy air breathless"
+      ],
+      "id": "926"
+    },
+    {
+      "title": "Children, Screens, and Tired Eyes: A TCM Perspective",
+      "path": "/symptoms/eye-health/screen-time-children-tcm/",
+      "type": "cluster",
+      "parent": "eye-health",
+      "estimated_read_time": 8,
+      "keywords": [
+        "screen time children",
+        "kids tired eyes",
+        "children eye strain",
+        "liver blood eyes"
+      ],
+      "id": "927"
+    },
+    {
+      "title": "Empty Nest: A TCM Guide to the Quiet House",
+      "path": "/symptoms/mental-emotional-health/empty-nest-tcm/",
+      "type": "cluster",
+      "parent": "mental-emotional-health",
+      "estimated_read_time": 7,
+      "keywords": [
+        "empty nest syndrome",
+        "children leaving home",
+        "grief and lungs",
+        "purpose after parenting"
+      ],
+      "id": "928"
+    },
+    {
+      "title": "Coming Off Hormonal Birth Control: A TCM View of the Rebound",
+      "path": "/symptoms/womens-health/post-pill-syndrome-tcm/",
+      "type": "cluster",
+      "parent": "womens-health",
+      "estimated_read_time": 8,
+      "keywords": [
+        "post pill syndrome",
+        "coming off the pill",
+        "hormonal rebound",
+        "liver blood cycle"
+      ],
+      "id": "929"
+    },
+    {
+      "title": "Postpartum Anxiety: A TCM View of the Racing Early Months",
+      "path": "/symptoms/womens-health/postpartum-anxiety-tcm/",
+      "type": "cluster",
+      "parent": "womens-health",
+      "estimated_read_time": 8,
+      "keywords": [
+        "postpartum anxiety",
+        "postnatal anxiety",
+        "new mother worry",
+        "heart blood shen"
+      ],
+      "id": "930"
+    },
+    {
+      "title": "Autumn Health in TCM: Dryness, the Lungs, and Letting Go",
+      "path": "/tcm-basics/autumn-health-tcm/",
+      "type": "tcm-basics",
+      "estimated_read_time": 7,
+      "keywords": [
+        "autumn health tcm",
+        "fall seasonal living",
+        "autumn dryness",
+        "lung season"
+      ],
+      "id": "931"
     }
   ],
   "published": [
