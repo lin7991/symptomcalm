@@ -4,19 +4,6 @@
   "note": "每3小时自动生产一篇内容。从队列头部取，完成后移到 published。",
   "queue": [
     {
-      "title": "Nickel Allergy: A TCM Perspective on Skin Reactions",
-      "path": "/symptoms/allergies/nickel-allergy-tcm/",
-      "type": "cluster",
-      "parent": "allergies",
-      "estimated_read_time": 8,
-      "keywords": [
-        "nickel allergy",
-        "contact dermatitis tcm",
-        "metal allergy tcm"
-      ],
-      "id": "913"
-    },
-    {
       "title": "Salicylate Sensitivity: A TCM Perspective on Food Reactions",
       "path": "/symptoms/allergies/salicylate-sensitivity-tcm/",
       "type": "cluster",
@@ -12062,6 +12049,19 @@
         "tcm life change"
       ],
       "id": "912"
+    },
+    {
+      "title": "Nickel Allergy: A TCM Perspective on Skin Reactions",
+      "path": "/symptoms/allergies/nickel-allergy-tcm/",
+      "type": "cluster",
+      "parent": "allergies",
+      "estimated_read_time": 8,
+      "keywords": [
+        "nickel allergy",
+        "contact dermatitis tcm",
+        "metal allergy tcm"
+      ],
+      "id": "913"
     }
   ]
 }
