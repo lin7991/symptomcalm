@@ -4,19 +4,6 @@
   "note": "每3小时自动生产一篇内容。从队列头部取，完成后移到 published。",
   "queue": [
     {
-      "title": "Moving Stress: A TCM Perspective on Uprooting Your Life",
-      "path": "/symptoms/stress/moving-stress-tcm/",
-      "type": "cluster",
-      "parent": "stress",
-      "estimated_read_time": 8,
-      "keywords": [
-        "moving stress",
-        "relocation stress",
-        "tcm life change"
-      ],
-      "id": "912"
-    },
-    {
       "title": "Nickel Allergy: A TCM Perspective on Skin Reactions",
       "path": "/symptoms/allergies/nickel-allergy-tcm/",
       "type": "cluster",
@@ -11853,6 +11840,19 @@
         "circadian tcm"
       ],
       "id": "911"
+    },
+    {
+      "title": "Moving Stress: A TCM Perspective on Uprooting Your Life",
+      "path": "/symptoms/stress/moving-stress-tcm/",
+      "type": "cluster",
+      "parent": "stress",
+      "estimated_read_time": 8,
+      "keywords": [
+        "moving stress",
+        "relocation stress",
+        "tcm life change"
+      ],
+      "id": "912"
     }
   ]
 }
