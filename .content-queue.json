@@ -4,19 +4,6 @@
   "note": "每3小时自动生产一篇内容。从队列头部取，完成后移到 published。",
   "queue": [
     {
-      "title": "Allergies and Sleep: Breaking the Nighttime Cycle",
-      "path": "/symptoms/allergies/allergy-sleep-tcm/",
-      "type": "cluster",
-      "parent": "allergies",
-      "estimated_read_time": 8,
-      "keywords": [
-        "allergy sleep",
-        "nighttime allergies",
-        "allergy insomnia tcm"
-      ],
-      "id": "915"
-    },
-    {
       "title": "Contact Lens Comfort: A TCM Perspective on Tired Eyes",
       "path": "/symptoms/eye-health/contact-lens-eye-health-tcm/",
       "type": "cluster",
@@ -12062,6 +12049,19 @@
         "histamine foods tcm"
       ],
       "id": "914"
+    },
+    {
+      "title": "Allergies and Sleep: Breaking the Nighttime Cycle",
+      "path": "/symptoms/allergies/allergy-sleep-tcm/",
+      "type": "cluster",
+      "parent": "allergies",
+      "estimated_read_time": 8,
+      "keywords": [
+        "allergy sleep",
+        "nighttime allergies",
+        "allergy insomnia tcm"
+      ],
+      "id": "915"
     }
   ]
 }
