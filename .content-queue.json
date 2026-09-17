@@ -4,19 +4,6 @@
   "note": "每3小时自动生产一篇内容。从队列头部取，完成后移到 published。",
   "queue": [
     {
-      "title": "Salicylate Sensitivity: A TCM Perspective on Food Reactions",
-      "path": "/symptoms/allergies/salicylate-sensitivity-tcm/",
-      "type": "cluster",
-      "parent": "allergies",
-      "estimated_read_time": 9,
-      "keywords": [
-        "salicylate sensitivity",
-        "food sensitivity tcm",
-        "histamine foods tcm"
-      ],
-      "id": "914"
-    },
-    {
       "title": "Allergies and Sleep: Breaking the Nighttime Cycle",
       "path": "/symptoms/allergies/allergy-sleep-tcm/",
       "type": "cluster",
@@ -12062,6 +12049,19 @@
         "metal allergy tcm"
       ],
       "id": "913"
+    },
+    {
+      "title": "Salicylate Sensitivity: A TCM Perspective on Food Reactions",
+      "path": "/symptoms/allergies/salicylate-sensitivity-tcm/",
+      "type": "cluster",
+      "parent": "allergies",
+      "estimated_read_time": 9,
+      "keywords": [
+        "salicylate sensitivity",
+        "food sensitivity tcm",
+        "histamine foods tcm"
+      ],
+      "id": "914"
     }
   ]
 }
