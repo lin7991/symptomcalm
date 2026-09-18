@@ -4,20 +4,6 @@
   "note": "每3小时自动生产一篇内容。从队列头部取，完成后移到 published。",
   "queue": [
     {
-      "title": "Dehydration Fatigue: When Low Fluids Read as Exhaustion",
-      "path": "/symptoms/fatigue/dehydration-fatigue-tcm/",
-      "type": "cluster",
-      "parent": "fatigue",
-      "estimated_read_time": 7,
-      "keywords": [
-        "dehydration fatigue",
-        "body fluids tcm",
-        "jin ye",
-        "low water intake tired"
-      ],
-      "id": "918"
-    },
-    {
       "title": "Needle Phobia: A TCM View of the Fear of Needles and Blood Draws",
       "path": "/symptoms/anxiety/needle-phobia-tcm/",
       "type": "cluster",
@@ -12062,6 +12048,20 @@
         "bone health"
       ],
       "id": "917"
+    },
+    {
+      "title": "Dehydration Fatigue: When Low Fluids Read as Exhaustion",
+      "path": "/symptoms/fatigue/dehydration-fatigue-tcm/",
+      "type": "cluster",
+      "parent": "fatigue",
+      "estimated_read_time": 7,
+      "keywords": [
+        "dehydration fatigue",
+        "body fluids tcm",
+        "jin ye",
+        "low water intake tired"
+      ],
+      "id": "918"
     }
   ]
 }
