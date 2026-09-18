@@ -4,20 +4,6 @@
   "note": "每3小时自动生产一篇内容。从队列头部取，完成后移到 published。",
   "queue": [
     {
-      "title": "Osteoporosis and Bone Density: A TCM View of the Body's Reserve",
-      "path": "/symptoms/joint-pain/osteoporosis-tcm/",
-      "type": "cluster",
-      "parent": "joint-pain",
-      "estimated_read_time": 8,
-      "keywords": [
-        "osteoporosis tcm",
-        "bone density",
-        "kidney jing bones",
-        "bone health"
-      ],
-      "id": "917"
-    },
-    {
       "title": "Dehydration Fatigue: When Low Fluids Read as Exhaustion",
       "path": "/symptoms/fatigue/dehydration-fatigue-tcm/",
       "type": "cluster",
@@ -12062,6 +12048,20 @@
         "tcm eye health"
       ],
       "id": "916"
+    },
+    {
+      "title": "Osteoporosis and Bone Density: A TCM View of the Body's Reserve",
+      "path": "/symptoms/joint-pain/osteoporosis-tcm/",
+      "type": "cluster",
+      "parent": "joint-pain",
+      "estimated_read_time": 8,
+      "keywords": [
+        "osteoporosis tcm",
+        "bone density",
+        "kidney jing bones",
+        "bone health"
+      ],
+      "id": "917"
     }
   ]
 }
