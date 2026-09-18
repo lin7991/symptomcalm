@@ -1489,21 +1489,6 @@
       "id": "93"
     },
     {
-      "title": "Menopause and TCM: A Natural Perspective on the Transition",
-      "path": "/symptoms/womens-health/menopause-tcm/",
-      "type": "cluster",
-      "parent": "womens-health",
-      "estimated_read_time": 7,
-      "keywords": [
-        "menopause tcm",
-        "hot flashes",
-        "yin deficiency",
-        "hormonal changes",
-        "perimenopause tcm"
-      ],
-      "id": "94"
-    },
-    {
       "title": "Eczema and TCM: Understanding Damp-Heat Patterns in Skin",
       "path": "/symptoms/skin-conditions/eczema-tcm/",
       "type": "cluster",
@@ -1517,21 +1502,6 @@
         "tcm eczema treatment"
       ],
       "id": "95"
-    },
-    {
-      "title": "Psoriasis from a TCM View: Blood Heat and Blood Stasis Patterns",
-      "path": "/symptoms/skin-conditions/psoriasis-tcm/",
-      "type": "cluster",
-      "parent": "skin-conditions",
-      "estimated_read_time": 7,
-      "keywords": [
-        "psoriasis tcm",
-        "blood heat",
-        "skin plaques",
-        "autoimmune skin tcm",
-        "tcm psoriasis"
-      ],
-      "id": "96"
     },
     {
       "title": "Histamine Intolerance: A TCM Perspective on Food Sensitivities",
@@ -1607,21 +1577,6 @@
         "tcm headache patterns"
       ],
       "id": "101"
-    },
-    {
-      "title": "The Spleen in TCM: Your Body's Digestion and Energy Center",
-      "path": "/tcm-basics/spleen-in-tcm/",
-      "type": "tcm-basics",
-      "parent": "",
-      "estimated_read_time": 7,
-      "keywords": [
-        "spleen tcm",
-        "spleen qi",
-        "digestion chinese medicine",
-        "spleen function tcm",
-        "tcm organs"
-      ],
-      "id": "102"
     },
     {
       "title": "The Liver in TCM: Stress, Emotions, and Smooth Flow",
@@ -2899,21 +2854,6 @@
         "kidney back posture"
       ],
       "id": "193"
-    },
-    {
-      "title": "Breast Health in TCM: Understanding Lumps, Pain & Hormonal Balance",
-      "path": "/symptoms/womens-health/breast-health-tcm/",
-      "type": "cluster",
-      "parent": "womens-health",
-      "estimated_read_time": 8,
-      "keywords": [
-        "breast health TCM",
-        "breast pain Chinese medicine",
-        "liver qi stagnation breast",
-        "TCM breast cysts",
-        "breast health naturally"
-      ],
-      "id": "194"
     },
     {
       "title": "Urinary Health in TCM: Recurrent UTIs, Bladder Weakness & Kidney Support",
