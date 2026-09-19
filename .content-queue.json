@@ -4,20 +4,6 @@
   "note": "每3小时自动生产一篇内容。从队列头部取，完成后移到 published。",
   "queue": [
     {
-      "title": "Phone Call Anxiety: Why Calling Feels Harder Than Talking",
-      "path": "/symptoms/anxiety/phone-call-anxiety-tcm/",
-      "type": "cluster",
-      "parent": "anxiety",
-      "estimated_read_time": 7,
-      "keywords": [
-        "phone call anxiety",
-        "telephobia",
-        "calling anxiety",
-        "social anxiety phone"
-      ],
-      "id": "920"
-    },
-    {
       "title": "Sleep Debt: How TCM Views Borrowing Against Tomorrow",
       "path": "/symptoms/insomnia/sleep-debt-tcm/",
       "type": "cluster",
@@ -12002,6 +11988,20 @@
         "blood draw anxiety"
       ],
       "id": "919"
+    },
+    {
+      "title": "Phone Call Anxiety: Why Calling Feels Harder Than Talking",
+      "path": "/symptoms/anxiety/phone-call-anxiety-tcm/",
+      "type": "cluster",
+      "parent": "anxiety",
+      "estimated_read_time": 7,
+      "keywords": [
+        "phone call anxiety",
+        "telephobia",
+        "calling anxiety",
+        "social anxiety phone"
+      ],
+      "id": "920"
     }
   ]
 }
