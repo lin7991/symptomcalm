@@ -4,20 +4,6 @@
   "note": "每3小时自动生产一篇内容。从队列头部取，完成后移到 published。",
   "queue": [
     {
-      "title": "Spicy Food and Digestion: A TCM Look at Heat in the Gut",
-      "path": "/symptoms/digestion/spicy-food-digestion-tcm/",
-      "type": "cluster",
-      "parent": "digestion",
-      "estimated_read_time": 7,
-      "keywords": [
-        "spicy food digestion",
-        "chili stomach",
-        "stomach heat",
-        "capsaicin reflux"
-      ],
-      "id": "923"
-    },
-    {
       "title": "Morning Nausea: A TCM View Beyond Pregnancy",
       "path": "/symptoms/digestion/morning-nausea-tcm/",
       "type": "cluster",
@@ -12002,6 +11988,20 @@
         "post antibiotic bloating"
       ],
       "id": "922"
+    },
+    {
+      "title": "Spicy Food and Digestion: A TCM Look at Heat in the Gut",
+      "path": "/symptoms/digestion/spicy-food-digestion-tcm/",
+      "type": "cluster",
+      "parent": "digestion",
+      "estimated_read_time": 7,
+      "keywords": [
+        "spicy food digestion",
+        "chili stomach",
+        "stomach heat",
+        "capsaicin reflux"
+      ],
+      "id": "923"
     }
   ]
 }
