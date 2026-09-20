@@ -1,20 +1,6 @@
 {
   "queue": [
     {
-      "title": "Humid Weather and Your Breathing: A TCM View of Heavy Air",
-      "path": "/symptoms/respiratory-health/humid-weather-breathing-tcm/",
-      "type": "cluster",
-      "parent": "respiratory-health",
-      "estimated_read_time": 7,
-      "keywords": [
-        "humidity breathing",
-        "humid weather lungs",
-        "dampness phlegm",
-        "muggy air breathless"
-      ],
-      "id": "926"
-    },
-    {
       "title": "Children, Screens, and Tired Eyes: A TCM Perspective",
       "path": "/symptoms/eye-health/screen-time-children-tcm/",
       "type": "cluster",
@@ -12013,6 +11999,20 @@
         "winter hives"
       ],
       "id": "925"
+    },
+    {
+      "title": "Humid Weather and Your Breathing: A TCM View of Heavy Air",
+      "path": "/symptoms/respiratory-health/humid-weather-breathing-tcm/",
+      "type": "cluster",
+      "parent": "respiratory-health",
+      "estimated_read_time": 7,
+      "keywords": [
+        "humidity breathing",
+        "humid weather lungs",
+        "dampness phlegm",
+        "muggy air breathless"
+      ],
+      "id": "926"
     }
   ]
 }
