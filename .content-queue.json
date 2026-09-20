@@ -4,20 +4,6 @@
   "note": "每3小时自动生产一篇内容。从队列头部取，完成后移到 published。",
   "queue": [
     {
-      "title": "Morning Nausea: A TCM View Beyond Pregnancy",
-      "path": "/symptoms/digestion/morning-nausea-tcm/",
-      "type": "cluster",
-      "parent": "digestion",
-      "estimated_read_time": 7,
-      "keywords": [
-        "morning nausea",
-        "nauseous in the morning",
-        "stomach qi",
-        "empty stomach nausea"
-      ],
-      "id": "924"
-    },
-    {
       "title": "Cold Urticaria: When Cold Air Raises Hives",
       "path": "/symptoms/allergies/cold-urticaria-tcm/",
       "type": "cluster",
@@ -12002,6 +11988,20 @@
         "capsaicin reflux"
       ],
       "id": "923"
+    },
+    {
+      "title": "Morning Nausea: A TCM View Beyond Pregnancy",
+      "path": "/symptoms/digestion/morning-nausea-tcm/",
+      "type": "cluster",
+      "parent": "digestion",
+      "estimated_read_time": 7,
+      "keywords": [
+        "morning nausea",
+        "nauseous in the morning",
+        "stomach qi",
+        "empty stomach nausea"
+      ],
+      "id": "924"
     }
   ]
 }
