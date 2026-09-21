@@ -1,20 +1,6 @@
 {
   "queue": [
     {
-      "title": "Coming Off Hormonal Birth Control: A TCM View of the Rebound",
-      "path": "/symptoms/womens-health/post-pill-syndrome-tcm/",
-      "type": "cluster",
-      "parent": "womens-health",
-      "estimated_read_time": 8,
-      "keywords": [
-        "post pill syndrome",
-        "coming off the pill",
-        "hormonal rebound",
-        "liver blood cycle"
-      ],
-      "id": "929"
-    },
-    {
       "title": "Postpartum Anxiety: A TCM View of the Racing Early Months",
       "path": "/symptoms/womens-health/postpartum-anxiety-tcm/",
       "type": "cluster",
@@ -12209,6 +12195,20 @@
         "purpose after parenting"
       ],
       "id": "928"
+    },
+    {
+      "title": "Coming Off Hormonal Birth Control: A TCM View of the Rebound",
+      "path": "/symptoms/womens-health/post-pill-syndrome-tcm/",
+      "type": "cluster",
+      "parent": "womens-health",
+      "estimated_read_time": 8,
+      "keywords": [
+        "post pill syndrome",
+        "coming off the pill",
+        "hormonal rebound",
+        "liver blood cycle"
+      ],
+      "id": "929"
     }
   ]
 }
