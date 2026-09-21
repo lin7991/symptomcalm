@@ -1,20 +1,6 @@
 {
   "queue": [
     {
-      "title": "Children, Screens, and Tired Eyes: A TCM Perspective",
-      "path": "/symptoms/eye-health/screen-time-children-tcm/",
-      "type": "cluster",
-      "parent": "eye-health",
-      "estimated_read_time": 8,
-      "keywords": [
-        "screen time children",
-        "kids tired eyes",
-        "children eye strain",
-        "liver blood eyes"
-      ],
-      "id": "927"
-    },
-    {
       "title": "Empty Nest: A TCM Guide to the Quiet House",
       "path": "/symptoms/mental-emotional-health/empty-nest-tcm/",
       "type": "cluster",
@@ -11999,6 +11985,20 @@
         "muggy air breathless"
       ],
       "id": "926"
+    },
+    {
+      "title": "Children, Screens, and Tired Eyes: A TCM Perspective",
+      "path": "/symptoms/eye-health/screen-time-children-tcm/",
+      "type": "cluster",
+      "parent": "eye-health",
+      "estimated_read_time": 8,
+      "keywords": [
+        "screen time children",
+        "kids tired eyes",
+        "children eye strain",
+        "liver blood eyes"
+      ],
+      "id": "927"
     }
   ]
 }
