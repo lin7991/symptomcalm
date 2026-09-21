@@ -1,20 +1,6 @@
 {
   "queue": [
     {
-      "title": "Loss of Smell (Anosmia) and TCM: When Scent Disappears",
-      "path": "/symptoms/respiratory-health/loss-of-smell-tcm/",
-      "type": "cluster",
-      "parent": "respiratory-health",
-      "estimated_read_time": 7,
-      "keywords": [
-        "loss of smell",
-        "anosmia tcm",
-        "nose congestion smell",
-        "lung qi nose"
-      ],
-      "id": "936"
-    },
-    {
       "title": "Fear of Heights: Acrophobia Through a TCM Lens",
       "path": "/symptoms/anxiety/acrophobia-tcm/",
       "type": "cluster",
@@ -12209,6 +12195,20 @@
         "summer heat"
       ],
       "id": "935"
+    },
+    {
+      "title": "Loss of Smell (Anosmia) and TCM: When Scent Disappears",
+      "path": "/symptoms/respiratory-health/loss-of-smell-tcm/",
+      "type": "cluster",
+      "parent": "respiratory-health",
+      "estimated_read_time": 7,
+      "keywords": [
+        "loss of smell",
+        "anosmia tcm",
+        "nose congestion smell",
+        "lung qi nose"
+      ],
+      "id": "936"
     }
   ]
 }
