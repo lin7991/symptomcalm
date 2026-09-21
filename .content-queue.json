@@ -40,6 +40,216 @@
         "lung season"
       ],
       "id": "931"
+    },
+    {
+      "title": "Ringing After the Concert: Noise-Induced Tinnitus and TCM",
+      "path": "/symptoms/ear-health-tinnitus/noise-induced-tinnitus-tcm/",
+      "type": "cluster",
+      "parent": "ear-health-tinnitus",
+      "estimated_read_time": 7,
+      "keywords": [
+        "noise induced tinnitus",
+        "ringing after concert",
+        "ear ringing loud noise",
+        "kidney essence ears"
+      ],
+      "id": "932"
+    },
+    {
+      "title": "Diabetic Retinopathy and TCM: Protecting the Retina",
+      "path": "/symptoms/eye-health/diabetic-retinopathy-tcm/",
+      "type": "cluster",
+      "parent": "eye-health",
+      "estimated_read_time": 8,
+      "keywords": [
+        "diabetic retinopathy tcm",
+        "blood sugar eyes",
+        "retina health",
+        "yin deficiency eyes"
+      ],
+      "id": "933"
+    },
+    {
+      "title": "Brain Freeze: Ice Cream Headache from a TCM View",
+      "path": "/symptoms/headaches/ice-cream-headache-tcm/",
+      "type": "cluster",
+      "parent": "headaches",
+      "estimated_read_time": 6,
+      "keywords": [
+        "ice cream headache",
+        "brain freeze",
+        "cold stimulus headache",
+        "cold invasion"
+      ],
+      "id": "934"
+    },
+    {
+      "title": "Heat Exhaustion and TCM: Summer Collapse and Recovery",
+      "path": "/symptoms/fatigue/heat-exhaustion-tcm/",
+      "type": "cluster",
+      "parent": "fatigue",
+      "estimated_read_time": 8,
+      "keywords": [
+        "heat exhaustion tcm",
+        "summer fatigue",
+        "heat stroke recovery",
+        "summer heat"
+      ],
+      "id": "935"
+    },
+    {
+      "title": "Loss of Smell (Anosmia) and TCM: When Scent Disappears",
+      "path": "/symptoms/respiratory-health/loss-of-smell-tcm/",
+      "type": "cluster",
+      "parent": "respiratory-health",
+      "estimated_read_time": 7,
+      "keywords": [
+        "loss of smell",
+        "anosmia tcm",
+        "nose congestion smell",
+        "lung qi nose"
+      ],
+      "id": "936"
+    },
+    {
+      "title": "Fear of Heights: Acrophobia Through a TCM Lens",
+      "path": "/symptoms/anxiety/acrophobia-tcm/",
+      "type": "cluster",
+      "parent": "anxiety",
+      "estimated_read_time": 7,
+      "keywords": [
+        "fear of heights",
+        "acrophobia tcm",
+        "vertigo fear",
+        "kidney fear"
+      ],
+      "id": "937"
+    },
+    {
+      "title": "Driving Anxiety in TCM: When the Road Feels Too Much",
+      "path": "/symptoms/anxiety/driving-anxiety-tcm/",
+      "type": "cluster",
+      "parent": "anxiety",
+      "estimated_read_time": 7,
+      "keywords": [
+        "driving anxiety",
+        "fear of driving",
+        "highway anxiety",
+        "heart shen"
+      ],
+      "id": "938"
+    },
+    {
+      "title": "Separation Anxiety in TCM: Children and Adults",
+      "path": "/symptoms/anxiety/separation-anxiety-tcm/",
+      "type": "cluster",
+      "parent": "anxiety",
+      "estimated_read_time": 8,
+      "keywords": [
+        "separation anxiety tcm",
+        "child separation anxiety",
+        "adult separation anxiety",
+        "heart blood shen"
+      ],
+      "id": "939"
+    },
+    {
+      "title": "Skin Picking and TCM: The Compulsion to Smooth",
+      "path": "/symptoms/skin-conditions/skin-picking-tcm/",
+      "type": "cluster",
+      "parent": "skin-conditions",
+      "estimated_read_time": 7,
+      "keywords": [
+        "skin picking",
+        "dermatillomania tcm",
+        "excoriation disorder",
+        "liver wind"
+      ],
+      "id": "940"
+    },
+    {
+      "title": "Eczema in Children: A TCM Guide for Parents",
+      "path": "/symptoms/skin-conditions/eczema-children-tcm/",
+      "type": "cluster",
+      "parent": "skin-conditions",
+      "estimated_read_time": 8,
+      "keywords": [
+        "childhood eczema",
+        "baby eczema tcm",
+        "damp heat skin children",
+        "spleen deficiency eczema"
+      ],
+      "id": "941"
+    },
+    {
+      "title": "Retirement Stress and TCM: The Unexpected Adjustment",
+      "path": "/symptoms/stress/retirement-stress-tcm/",
+      "type": "cluster",
+      "parent": "stress",
+      "estimated_read_time": 7,
+      "keywords": [
+        "retirement stress",
+        "retirement adjustment",
+        "purpose after work",
+        "kidney zhi"
+      ],
+      "id": "942"
+    },
+    {
+      "title": "Midlife Through a TCM Lens: The Reassessment Years",
+      "path": "/symptoms/mental-emotional-health/midlife-crisis-tcm/",
+      "type": "cluster",
+      "parent": "mental-emotional-health",
+      "estimated_read_time": 8,
+      "keywords": [
+        "midlife crisis tcm",
+        "midlife transition",
+        "midlife anxiety",
+        "kidney essence midlife"
+      ],
+      "id": "943"
+    },
+    {
+      "title": "Achilles Tendon Pain and TCM: Heel Cord Support",
+      "path": "/symptoms/joint-pain/achilles-pain-tcm/",
+      "type": "cluster",
+      "parent": "joint-pain",
+      "estimated_read_time": 7,
+      "keywords": [
+        "achilles tendon pain",
+        "heel cord injury",
+        "liver blood tendons",
+        "sinew support"
+      ],
+      "id": "944"
+    },
+    {
+      "title": "Menstrual Insomnia: Why Sleep Breaks Down Before Your Period",
+      "path": "/symptoms/insomnia/menstrual-insomnia-tcm/",
+      "type": "cluster",
+      "parent": "insomnia",
+      "estimated_read_time": 7,
+      "keywords": [
+        "menstrual insomnia",
+        "sleep before period",
+        "luteal phase insomnia",
+        "liver blood sleep"
+      ],
+      "id": "945"
+    },
+    {
+      "title": "Toenail Fungus and TCM: The Damp Below",
+      "path": "/symptoms/skin-conditions/toenail-fungus-tcm/",
+      "type": "cluster",
+      "parent": "skin-conditions",
+      "estimated_read_time": 6,
+      "keywords": [
+        "toenail fungus",
+        "nail fungus tcm",
+        "damp heat nails",
+        "fungal infection nails"
+      ],
+      "id": "946"
     }
   ],
   "published": [
