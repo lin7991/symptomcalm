@@ -5,6 +5,16 @@
 export HERMES_HOME="$HOME/.hermes"
 export PATH="/usr/local/bin:/opt/homebrew/bin:$HOME/.local/bin:$PATH"
 
+# --- git auth hardening (launchd has no GUI/keychain session) ---
+# Without these, `git push` blocks forever waiting for a username prompt.
+# (This hung the pipeline for 6 days, Sep 15-21 2026.)
+ASKPASS="$HOME/.hermes/profiles/symptomcalm/.git-askpass.sh"
+[ -x "$ASKPASS" ] && export GIT_ASKPASS="$ASKPASS"
+export GIT_TERMINAL_PROMPT=0
+export GIT_SSH_COMMAND="ssh -o BatchMode=yes -o ConnectTimeout=10"
+# --- end git auth hardening ---
+
+
 cd "$HOME/symptomcalm" || exit 1
 
 REMAINING=$(python3 .cron/publish-article.py remaining 2>/dev/null)
@@ -69,7 +79,19 @@ python3 .cron/batch-zh.py >> "$HOME/symptomcalm/.cron/publish.log" 2>&1
 
 # Commit all changes
 cd "$HOME/symptomcalm"
+LOG="$HOME/symptomcalm/.cron/publish.log"
 git add -A 2>/dev/null
-git diff --cached --quiet || git commit -m "Auto publish EN+ZH + FAQ" && git push origin main 2>/dev/null
+if ! git diff --cached --quiet 2>/dev/null; then
+  git commit -m "Auto publish EN+ZH + FAQ" >> "$LOG" 2>&1
+  # Bounded push: no credential prompt (GIT_ASKPASS above), abort on slow/stalled link.
+  PUSH_ARGS="-c credential.helper= -c http.lowSpeedLimit=1000 -c http.lowSpeedTime=20"
+  if git $PUSH_ARGS push origin main >> "$LOG" 2>&1; then
+    echo "$(date): push OK" >> "$LOG"
+  else
+    echo "$(date): git push failed — trying GitHub API fallback" >> "$LOG"
+    python3 "$HOME/symptomcalm/scripts/api_push.py" --apply >> "$LOG" 2>&1 || \
+      echo "$(date): API push fallback also failed" >> "$LOG"
+  fi
+fi
 
-echo "$(date): Auto-publish cycle finished" >> "$HOME/symptomcalm/.cron/publish.log"
+echo "$(date): Auto-publish cycle finished" >> "$LOG"
