@@ -1,19 +1,6 @@
 {
   "queue": [
     {
-      "title": "Autumn Health in TCM: Dryness, the Lungs, and Letting Go",
-      "path": "/tcm-basics/autumn-health-tcm/",
-      "type": "tcm-basics",
-      "estimated_read_time": 7,
-      "keywords": [
-        "autumn health tcm",
-        "fall seasonal living",
-        "autumn dryness",
-        "lung season"
-      ],
-      "id": "931"
-    },
-    {
       "title": "Ringing After the Concert: Noise-Induced Tinnitus and TCM",
       "path": "/symptoms/ear-health-tinnitus/noise-induced-tinnitus-tcm/",
       "type": "cluster",
@@ -12209,6 +12196,19 @@
         "heart blood shen"
       ],
       "id": "930"
+    },
+    {
+      "title": "Autumn Health in TCM: Dryness, the Lungs, and Letting Go",
+      "path": "/tcm-basics/autumn-health-tcm/",
+      "type": "tcm-basics",
+      "estimated_read_time": 7,
+      "keywords": [
+        "autumn health tcm",
+        "fall seasonal living",
+        "autumn dryness",
+        "lung season"
+      ],
+      "id": "931"
     }
   ]
 }
