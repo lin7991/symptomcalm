@@ -57,35 +57,64 @@ def add_to_queue(new_items):
     print(f"Added {len(new_items)} items to queue. Total remaining: {len(data['queue'])}")
 
 
+def _gitenv():
+    """Env for git: never prompt (launchd/cron has no keychain session)."""
+    env = dict(os.environ)
+    env["GIT_TERMINAL_PROMPT"] = "0"
+    ask = os.path.expanduser("~/.hermes/profiles/symptomcalm/.git-askpass.sh")
+    if os.path.exists(ask):
+        env["GIT_ASKPASS"] = ask
+    return env
+
+
+_GIT = ["git", "-c", "credential.helper=",
+        "-c", "http.lowSpeedLimit=1000", "-c", "http.lowSpeedTime=20"]
+
+
+def _git(args, timeout=90):
+    """Run git with a hard timeout so a stalled link can never wedge the cron."""
+    try:
+        return subprocess.run(_GIT + args, capture_output=True, text=True,
+                              cwd=str(WORKDIR), env=_gitenv(), timeout=timeout)
+    except subprocess.TimeoutExpired:
+        print(f"WARNING: git {' '.join(args)} timed out after {timeout}s", file=sys.stderr)
+        return subprocess.CompletedProcess(_GIT + args, 124, "", "timeout")
+
+
 def commit_and_push(article_path):
-    """Git commit and push the new article."""
-    os.chdir(WORKDIR)
-    result = subprocess.run(
-        ["git", "add", str(article_path), str(SITEMAP_FILE), str(QUEUE_FILE)],
-        capture_output=True, text=True
-    )
+    """Git commit and push the new article (bounded, non-interactive, API fallback)."""
     article_id = article_path.relative_to(WORKDIR)
     commit_msg = f"Auto-publish: {article_id}"
-    result = subprocess.run(
-        ["git", "commit", "-m", commit_msg],
-        capture_output=True, text=True
-    )
-    if result.returncode != 0 and "nothing to commit" not in result.stderr:
+
+    _git(["add", str(article_path), str(SITEMAP_FILE), str(QUEUE_FILE)])
+    result = _git(["commit", "-m", commit_msg])
+    if result.returncode != 0 and "nothing to commit" not in (result.stderr or ""):
         print(f"Commit warning: {result.stderr}", file=sys.stderr)
 
-    result = subprocess.run(
-        ["git", "push", "origin", "main"],
-        capture_output=True, text=True, timeout=30
-    )
+    result = _git(["push", "origin", "main"])
     if result.returncode != 0:
-        # Try pull+push if rejected
-        subprocess.run(["git", "pull", "--rebase", "origin", "main"],
-                       capture_output=True, text=True, timeout=30)
-        result = subprocess.run(
-            ["git", "push", "origin", "main"],
-            capture_output=True, text=True, timeout=30
-        )
-    return result.returncode == 0
+        # Remote moved (or link unavailable): integrate then retry once.
+        # merge (not rebase) — safer with several unpushed commits, one conflict pass.
+        _git(["fetch", "origin", "main"], timeout=90)
+        _git(["rebase", "--abort"], timeout=30)      # clear any leftover rebase state
+        merged = _git(["merge", "--no-commit", "--no-edit", "origin/main"])
+        if merged.returncode != 0:
+            _git(["merge", "--abort"], timeout=30)
+        result = _git(["push", "origin", "main"])
+    if result.returncode != 0:
+        # github.com:443 is frequently unreachable here; push via the Git Data API.
+        try:
+            api = subprocess.run(
+                [sys.executable, str(WORKDIR / "scripts" / "api_push.py"), "--apply"],
+                capture_output=True, text=True, timeout=1500)
+            tail = (api.stdout or "")[-300:]
+            print("API push fallback:", tail)
+            return "ALL MATCH: True" in (api.stdout or "")
+        except Exception as exc:                     # noqa: BLE001
+            print(f"API push fallback failed: {exc}", file=sys.stderr)
+            return False
+    return True
+
 
 
 def update_sitemap(article_path):
