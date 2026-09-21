@@ -1,20 +1,6 @@
 {
   "queue": [
     {
-      "title": "Ringing After the Concert: Noise-Induced Tinnitus and TCM",
-      "path": "/symptoms/ear-health-tinnitus/noise-induced-tinnitus-tcm/",
-      "type": "cluster",
-      "parent": "ear-health-tinnitus",
-      "estimated_read_time": 7,
-      "keywords": [
-        "noise induced tinnitus",
-        "ringing after concert",
-        "ear ringing loud noise",
-        "kidney essence ears"
-      ],
-      "id": "932"
-    },
-    {
       "title": "Diabetic Retinopathy and TCM: Protecting the Retina",
       "path": "/symptoms/eye-health/diabetic-retinopathy-tcm/",
       "type": "cluster",
@@ -12209,6 +12195,20 @@
         "lung season"
       ],
       "id": "931"
+    },
+    {
+      "title": "Ringing After the Concert: Noise-Induced Tinnitus and TCM",
+      "path": "/symptoms/ear-health-tinnitus/noise-induced-tinnitus-tcm/",
+      "type": "cluster",
+      "parent": "ear-health-tinnitus",
+      "estimated_read_time": 7,
+      "keywords": [
+        "noise induced tinnitus",
+        "ringing after concert",
+        "ear ringing loud noise",
+        "kidney essence ears"
+      ],
+      "id": "932"
     }
   ]
 }
