@@ -104,12 +104,19 @@ def commit_and_push(article_path):
     if result.returncode != 0:
         # github.com:443 is frequently unreachable here; push via the Git Data API.
         try:
-            api = subprocess.run(
-                [sys.executable, str(WORKDIR / "scripts" / "api_push.py"), "--apply"],
-                capture_output=True, text=True, timeout=1500)
+            # api_push.py posts ONE tree with every candidate -> GitHub 422s once the
+            # backlog passes ~500 files. Prefer the chunked variant (chained base_tree
+            # batches) when present.
+            chunked = WORKDIR / "scripts" / "api_push_chunked.py"
+            if chunked.exists():
+                cmd = [sys.executable, str(chunked), "--apply", "--batch", "100"]
+            else:
+                cmd = [sys.executable, str(WORKDIR / "scripts" / "api_push.py"), "--apply"]
+            api = subprocess.run(cmd, capture_output=True, text=True, timeout=1500)
             tail = (api.stdout or "")[-300:]
             print("API push fallback:", tail)
-            return "ALL MATCH: True" in (api.stdout or "")
+            out = api.stdout or ""
+            return "ALL MATCH: True" in out or "PUSHED ITEMS MATCH: True" in out
         except Exception as exc:                     # noqa: BLE001
             print(f"API push fallback failed: {exc}", file=sys.stderr)
             return False
