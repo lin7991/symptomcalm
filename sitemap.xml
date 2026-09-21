@@ -7208,4 +7208,19 @@
     <ns0:changefreq>monthly</ns0:changefreq>
     <ns0:priority>0.7</ns0:priority>
   </ns0:url>
+  <ns0:url>
+    <ns0:loc>https://symptomcalm.com/symptoms/eye-health/diabetic-retinopathy-tcm/</ns0:loc>
+    <ns0:changefreq>monthly</ns0:changefreq>
+    <ns0:priority>0.7</ns0:priority>
+  </ns0:url>
+  <ns0:url>
+    <ns0:loc>https://symptomcalm.com/zh/symptoms/ear-health-tinnitus/noise-induced-tinnitus-tcm/</ns0:loc>
+    <ns0:changefreq>monthly</ns0:changefreq>
+    <ns0:priority>0.7</ns0:priority>
+  </ns0:url>
+  <ns0:url>
+    <ns0:loc>https://symptomcalm.com/zh/symptoms/eye-health/diabetic-retinopathy-tcm/</ns0:loc>
+    <ns0:changefreq>monthly</ns0:changefreq>
+    <ns0:priority>0.7</ns0:priority>
+  </ns0:url>
 </ns0:urlset>
