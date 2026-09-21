@@ -1,20 +1,6 @@
 {
   "queue": [
     {
-      "title": "Heat Exhaustion and TCM: Summer Collapse and Recovery",
-      "path": "/symptoms/fatigue/heat-exhaustion-tcm/",
-      "type": "cluster",
-      "parent": "fatigue",
-      "estimated_read_time": 8,
-      "keywords": [
-        "heat exhaustion tcm",
-        "summer fatigue",
-        "heat stroke recovery",
-        "summer heat"
-      ],
-      "id": "935"
-    },
-    {
       "title": "Loss of Smell (Anosmia) and TCM: When Scent Disappears",
       "path": "/symptoms/respiratory-health/loss-of-smell-tcm/",
       "type": "cluster",
@@ -12209,6 +12195,20 @@
         "cold invasion"
       ],
       "id": "934"
+    },
+    {
+      "title": "Heat Exhaustion and TCM: Summer Collapse and Recovery",
+      "path": "/symptoms/fatigue/heat-exhaustion-tcm/",
+      "type": "cluster",
+      "parent": "fatigue",
+      "estimated_read_time": 8,
+      "keywords": [
+        "heat exhaustion tcm",
+        "summer fatigue",
+        "heat stroke recovery",
+        "summer heat"
+      ],
+      "id": "935"
     }
   ]
 }
