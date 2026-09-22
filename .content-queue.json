@@ -1,20 +1,6 @@
 {
   "queue": [
     {
-      "title": "Separation Anxiety in TCM: Children and Adults",
-      "path": "/symptoms/anxiety/separation-anxiety-tcm/",
-      "type": "cluster",
-      "parent": "anxiety",
-      "estimated_read_time": 8,
-      "keywords": [
-        "separation anxiety tcm",
-        "child separation anxiety",
-        "adult separation anxiety",
-        "heart blood shen"
-      ],
-      "id": "939"
-    },
-    {
       "title": "Skin Picking and TCM: The Compulsion to Smooth",
       "path": "/symptoms/skin-conditions/skin-picking-tcm/",
       "type": "cluster",
@@ -12209,6 +12195,20 @@
         "heart shen"
       ],
       "id": "938"
+    },
+    {
+      "title": "Separation Anxiety in TCM: Children and Adults",
+      "path": "/symptoms/anxiety/separation-anxiety-tcm/",
+      "type": "cluster",
+      "parent": "anxiety",
+      "estimated_read_time": 8,
+      "keywords": [
+        "separation anxiety tcm",
+        "child separation anxiety",
+        "adult separation anxiety",
+        "heart blood shen"
+      ],
+      "id": "939"
     }
   ]
 }
