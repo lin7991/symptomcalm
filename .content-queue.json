@@ -41,6 +41,216 @@
         "fungal infection nails"
       ],
       "id": "946"
+    },
+    {
+      "title": "Eustachian Tube Dysfunction and TCM: When Your Ears Won't Equalize",
+      "path": "/symptoms/ear-health-tinnitus/eustachian-tube-dysfunction-tcm/",
+      "type": "cluster",
+      "parent": "ear-health-tinnitus",
+      "estimated_read_time": 7,
+      "keywords": [
+        "eustachian tube dysfunction",
+        "ear fullness",
+        "ear popping",
+        "sinus ear pressure"
+      ],
+      "id": "947"
+    },
+    {
+      "title": "Sudden Hearing Loss: When to Act Fast and What TCM Adds",
+      "path": "/symptoms/ear-health-tinnitus/sudden-hearing-loss-tcm/",
+      "type": "cluster",
+      "parent": "ear-health-tinnitus",
+      "estimated_read_time": 7,
+      "keywords": [
+        "sudden hearing loss",
+        "hearing drops",
+        "kidney and ears",
+        "emergency hearing"
+      ],
+      "id": "948"
+    },
+    {
+      "title": "TMJ and Ear Symptoms: Why Your Jaw Makes Your Ear Feel Full",
+      "path": "/symptoms/ear-health-tinnitus/tmj-ear-symptoms-tcm/",
+      "type": "cluster",
+      "parent": "ear-health-tinnitus",
+      "estimated_read_time": 7,
+      "keywords": [
+        "tmj ear fullness",
+        "jaw ear pain",
+        "tinnitus tmj",
+        "jaw tension ears"
+      ],
+      "id": "949"
+    },
+    {
+      "title": "Ear Candling: What the Evidence Says and Safer Alternatives",
+      "path": "/symptoms/ear-health-tinnitus/ear-candling-safety-tcm/",
+      "type": "cluster",
+      "parent": "ear-health-tinnitus",
+      "estimated_read_time": 7,
+      "keywords": [
+        "ear candling",
+        "earwax removal",
+        "ear safety",
+        "ear care tcm"
+      ],
+      "id": "950"
+    },
+    {
+      "title": "Eye Health After 60: A TCM Guide to Aging Vision",
+      "path": "/symptoms/eye-health/eye-health-seniors-tcm/",
+      "type": "cluster",
+      "parent": "eye-health",
+      "estimated_read_time": 8,
+      "keywords": [
+        "eye health seniors",
+        "aging vision",
+        "liver blood eyes",
+        "senior eye care"
+      ],
+      "id": "951"
+    },
+    {
+      "title": "Dry Eyes in Winter: When Indoor Heating Drains Your Eyes",
+      "path": "/symptoms/eye-health/dry-eye-winter-heating-tcm/",
+      "type": "cluster",
+      "parent": "eye-health",
+      "estimated_read_time": 7,
+      "keywords": [
+        "dry eyes winter",
+        "indoor heating dry eye",
+        "eye moisture",
+        "yin deficiency eyes"
+      ],
+      "id": "952"
+    },
+    {
+      "title": "Red Eyes in TCM: Heat, Wind, and What Your Eyes Are Reporting",
+      "path": "/symptoms/eye-health/red-eye-tcm/",
+      "type": "cluster",
+      "parent": "eye-health",
+      "estimated_read_time": 7,
+      "keywords": [
+        "red eyes",
+        "bloodshot eyes",
+        "liver fire eyes",
+        "eye redness tcm"
+      ],
+      "id": "953"
+    },
+    {
+      "title": "Sunlight and Your Eyes: UV Exposure Through a TCM Lens",
+      "path": "/symptoms/eye-health/uv-sunlight-eye-tcm/",
+      "type": "cluster",
+      "parent": "eye-health",
+      "estimated_read_time": 7,
+      "keywords": [
+        "uv eye damage",
+        "sunlight eyes",
+        "eye protection",
+        "liver eyes tcm"
+      ],
+      "id": "954"
+    },
+    {
+      "title": "Ragweed Allergy Season: A TCM Guide to Late-Summer Sneezing",
+      "path": "/symptoms/allergies/ragweed-allergy-tcm/",
+      "type": "cluster",
+      "parent": "allergies",
+      "estimated_read_time": 7,
+      "keywords": [
+        "ragweed allergy",
+        "late summer allergies",
+        "allergic rhinitis",
+        "lung qi allergies"
+      ],
+      "id": "955"
+    },
+    {
+      "title": "Birch Pollen Allergy: Why Spring Hits Some People So Hard",
+      "path": "/symptoms/allergies/birch-pollen-allergy-tcm/",
+      "type": "cluster",
+      "parent": "allergies",
+      "estimated_read_time": 7,
+      "keywords": [
+        "birch pollen allergy",
+        "spring tree pollen",
+        "pollen allergy tcm",
+        "wei qi allergies"
+      ],
+      "id": "956"
+    },
+    {
+      "title": "Childhood Allergies Through a TCM Lens: Building Resilience Early",
+      "path": "/symptoms/allergies/childhood-allergies-tcm/",
+      "type": "cluster",
+      "parent": "allergies",
+      "estimated_read_time": 8,
+      "keywords": [
+        "childhood allergies",
+        "kids allergies tcm",
+        "spleen lung children",
+        "allergy prevention children"
+      ],
+      "id": "957"
+    },
+    {
+      "title": "Cockroach Allergy and Indoor Allergens: The TCM View",
+      "path": "/symptoms/allergies/cockroach-allergy-tcm/",
+      "type": "cluster",
+      "parent": "allergies",
+      "estimated_read_time": 7,
+      "keywords": [
+        "cockroach allergy",
+        "indoor allergens",
+        "dust and dander",
+        "lung qi allergens"
+      ],
+      "id": "958"
+    },
+    {
+      "title": "Job Loss Stress and TCM: When Your Footing Disappears",
+      "path": "/symptoms/stress/job-loss-stress-tcm/",
+      "type": "cluster",
+      "parent": "stress",
+      "estimated_read_time": 8,
+      "keywords": [
+        "job loss stress",
+        "unemployment stress",
+        "liver qi stagnation",
+        "identity loss stress"
+      ],
+      "id": "959"
+    },
+    {
+      "title": "Airplane Headaches: Why Flying Can Trigger Head Pain",
+      "path": "/symptoms/headaches/airplane-headache-tcm/",
+      "type": "cluster",
+      "parent": "headaches",
+      "estimated_read_time": 7,
+      "keywords": [
+        "airplane headache",
+        "flight headache",
+        "cabin pressure headache",
+        "altitude headache"
+      ],
+      "id": "960"
+    },
+    {
+      "title": "Sleeping in Hot Weather: A TCM Guide to Summer Nights",
+      "path": "/symptoms/insomnia/hot-weather-sleep-tcm/",
+      "type": "cluster",
+      "parent": "insomnia",
+      "estimated_read_time": 7,
+      "keywords": [
+        "hot weather sleep",
+        "summer insomnia",
+        "heart fire sleep",
+        "cooling sleep tcm"
+      ],
+      "id": "961"
     }
   ],
   "published": [
