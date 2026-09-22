@@ -1,20 +1,6 @@
 {
   "queue": [
     {
-      "title": "Driving Anxiety in TCM: When the Road Feels Too Much",
-      "path": "/symptoms/anxiety/driving-anxiety-tcm/",
-      "type": "cluster",
-      "parent": "anxiety",
-      "estimated_read_time": 7,
-      "keywords": [
-        "driving anxiety",
-        "fear of driving",
-        "highway anxiety",
-        "heart shen"
-      ],
-      "id": "938"
-    },
-    {
       "title": "Separation Anxiety in TCM: Children and Adults",
       "path": "/symptoms/anxiety/separation-anxiety-tcm/",
       "type": "cluster",
@@ -12209,6 +12195,20 @@
         "kidney fear"
       ],
       "id": "937"
+    },
+    {
+      "title": "Driving Anxiety in TCM: When the Road Feels Too Much",
+      "path": "/symptoms/anxiety/driving-anxiety-tcm/",
+      "type": "cluster",
+      "parent": "anxiety",
+      "estimated_read_time": 7,
+      "keywords": [
+        "driving anxiety",
+        "fear of driving",
+        "highway anxiety",
+        "heart shen"
+      ],
+      "id": "938"
     }
   ]
 }
