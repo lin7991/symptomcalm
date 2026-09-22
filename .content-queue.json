@@ -1,20 +1,6 @@
 {
   "queue": [
     {
-      "title": "Retirement Stress and TCM: The Unexpected Adjustment",
-      "path": "/symptoms/stress/retirement-stress-tcm/",
-      "type": "cluster",
-      "parent": "stress",
-      "estimated_read_time": 7,
-      "keywords": [
-        "retirement stress",
-        "retirement adjustment",
-        "purpose after work",
-        "kidney zhi"
-      ],
-      "id": "942"
-    },
-    {
       "title": "Midlife Through a TCM Lens: The Reassessment Years",
       "path": "/symptoms/mental-emotional-health/midlife-crisis-tcm/",
       "type": "cluster",
@@ -12209,6 +12195,20 @@
         "spleen deficiency eczema"
       ],
       "id": "941"
+    },
+    {
+      "title": "Retirement Stress and TCM: The Unexpected Adjustment",
+      "path": "/symptoms/stress/retirement-stress-tcm/",
+      "type": "cluster",
+      "parent": "stress",
+      "estimated_read_time": 7,
+      "keywords": [
+        "retirement stress",
+        "retirement adjustment",
+        "purpose after work",
+        "kidney zhi"
+      ],
+      "id": "942"
     }
   ]
 }
