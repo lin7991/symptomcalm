@@ -1,20 +1,6 @@
 {
   "queue": [
     {
-      "title": "Sudden Hearing Loss: When to Act Fast and What TCM Adds",
-      "path": "/symptoms/ear-health-tinnitus/sudden-hearing-loss-tcm/",
-      "type": "cluster",
-      "parent": "ear-health-tinnitus",
-      "estimated_read_time": 7,
-      "keywords": [
-        "sudden hearing loss",
-        "hearing drops",
-        "kidney and ears",
-        "emergency hearing"
-      ],
-      "id": "948"
-    },
-    {
       "title": "TMJ and Ear Symptoms: Why Your Jaw Makes Your Ear Feel Full",
       "path": "/symptoms/ear-health-tinnitus/tmj-ear-symptoms-tcm/",
       "type": "cluster",
@@ -12419,6 +12405,20 @@
         "sinus ear pressure"
       ],
       "id": "947"
+    },
+    {
+      "title": "Sudden Hearing Loss: When to Act Fast and What TCM Adds",
+      "path": "/symptoms/ear-health-tinnitus/sudden-hearing-loss-tcm/",
+      "type": "cluster",
+      "parent": "ear-health-tinnitus",
+      "estimated_read_time": 7,
+      "keywords": [
+        "sudden hearing loss",
+        "hearing drops",
+        "kidney and ears",
+        "emergency hearing"
+      ],
+      "id": "948"
     }
   ]
 }
