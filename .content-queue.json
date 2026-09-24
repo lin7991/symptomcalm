@@ -55,6 +55,201 @@
         "cooling sleep tcm"
       ],
       "id": "961"
+    },
+    {
+      "title": "Caffeine in TCM: What Your Morning Cup Does to Your Qi",
+      "path": "/tcm-basics/caffeine-tcm/",
+      "type": "tcm-basics",
+      "parent": "tcm-basics",
+      "estimated_read_time": 8,
+      "keywords": [
+        "caffeine tcm",
+        "coffee and qi",
+        "caffeine energy"
+      ],
+      "id": "962"
+    },
+    {
+      "title": "Intermittent Fasting and TCM: What Happens to Qi When You Skip Meals",
+      "path": "/tcm-basics/intermittent-fasting-tcm/",
+      "type": "tcm-basics",
+      "parent": "tcm-basics",
+      "estimated_read_time": 9,
+      "keywords": [
+        "intermittent fasting tcm",
+        "skipping meals qi",
+        "fasting spleen"
+      ],
+      "id": "963"
+    },
+    {
+      "title": "Hydration in TCM: How Much Water Your Body Actually Wants",
+      "path": "/tcm-basics/hydration-tcm/",
+      "type": "tcm-basics",
+      "parent": "tcm-basics",
+      "estimated_read_time": 8,
+      "keywords": [
+        "hydration tcm",
+        "water intake",
+        "body fluids tcm"
+      ],
+      "id": "964"
+    },
+    {
+      "title": "Hair Health in TCM: Blood, Kidney and Why Hair Thins",
+      "path": "/tcm-basics/hair-health-tcm/",
+      "type": "tcm-basics",
+      "parent": "tcm-basics",
+      "estimated_read_time": 8,
+      "keywords": [
+        "hair health tcm",
+        "hair thinning",
+        "kidney hair tcm"
+      ],
+      "id": "965"
+    },
+    {
+      "title": "Revenge Bedtime Procrastination: A TCM View of Not Wanting the Day to End",
+      "path": "/symptoms/insomnia/revenge-bedtime-procrastination-tcm/",
+      "type": "cluster",
+      "parent": "insomnia",
+      "estimated_read_time": 8,
+      "keywords": [
+        "revenge bedtime procrastination",
+        "delayed sleep tcm",
+        "late night scrolling"
+      ],
+      "id": "966"
+    },
+    {
+      "title": "Jet Lag and Sleep: A TCM View of a Body Out of Time",
+      "path": "/symptoms/insomnia/jet-lag-sleep-tcm/",
+      "type": "cluster",
+      "parent": "insomnia",
+      "estimated_read_time": 8,
+      "keywords": [
+        "jet lag tcm",
+        "travel sleep",
+        "time zone sleep"
+      ],
+      "id": "967"
+    },
+    {
+      "title": "Sour Stomach and Reflux: A TCM View of Qi Going Upward",
+      "path": "/symptoms/digestion/sour-stomach-tcm/",
+      "type": "cluster",
+      "parent": "digestion",
+      "estimated_read_time": 8,
+      "keywords": [
+        "sour stomach",
+        "reflux tcm",
+        "stomach qi rising"
+      ],
+      "id": "968"
+    },
+    {
+      "title": "Belching and Gas: A TCM View of Stuck Qi in the Middle",
+      "path": "/symptoms/digestion/belching-tcm/",
+      "type": "cluster",
+      "parent": "digestion",
+      "estimated_read_time": 8,
+      "keywords": [
+        "belching tcm",
+        "gas and bloating",
+        "stomach qi stagnation"
+      ],
+      "id": "969"
+    },
+    {
+      "title": "Weather-Sensitive Back Pain: A TCM View of Aching Before the Storm",
+      "path": "/symptoms/back-pain/back-pain-weather-tcm/",
+      "type": "cluster",
+      "parent": "back-pain",
+      "estimated_read_time": 8,
+      "keywords": [
+        "weather back pain",
+        "barometric pressure back pain",
+        "cold damp back pain"
+      ],
+      "id": "970"
+    },
+    {
+      "title": "Desk Posture and Back Pain: A TCM Guide for Office Bodies",
+      "path": "/symptoms/back-pain/sitting-posture-back-pain-tcm/",
+      "type": "cluster",
+      "parent": "back-pain",
+      "estimated_read_time": 8,
+      "keywords": [
+        "sitting back pain",
+        "posture tcm",
+        "office back pain"
+      ],
+      "id": "971"
+    },
+    {
+      "title": "Lung-Clearing Exercises: A TCM Breath Practice for a Congested Chest",
+      "path": "/symptoms/respiratory-health/lung-clearing-exercises-tcm/",
+      "type": "cluster",
+      "parent": "respiratory-health",
+      "estimated_read_time": 8,
+      "keywords": [
+        "lung clearing exercises",
+        "breathing practice tcm",
+        "chest congestion breathing"
+      ],
+      "id": "972"
+    },
+    {
+      "title": "Teacher Stress and Burnout: A TCM View of a Room That Never Empties",
+      "path": "/symptoms/stress/teacher-stress-tcm/",
+      "type": "cluster",
+      "parent": "stress",
+      "estimated_read_time": 8,
+      "keywords": [
+        "teacher stress",
+        "school burnout",
+        "role fatigue tcm"
+      ],
+      "id": "973"
+    },
+    {
+      "title": "Grief Anniversaries: A TCM View of Loss That Returns on Schedule",
+      "path": "/symptoms/mental-emotional-health/grief-anniversaries-tcm/",
+      "type": "cluster",
+      "parent": "mental-emotional-health",
+      "estimated_read_time": 8,
+      "keywords": [
+        "grief anniversary",
+        "loss tcm",
+        "lung grief"
+      ],
+      "id": "974"
+    },
+    {
+      "title": "Screen-Fatigued Dry Eyes: A TCM View of Depleted Moisture",
+      "path": "/symptoms/eye-health/dry-eye-screens-tcm/",
+      "type": "cluster",
+      "parent": "eye-health",
+      "estimated_read_time": 8,
+      "keywords": [
+        "dry eye screens",
+        "eye moisture tcm",
+        "screen fatigue eyes"
+      ],
+      "id": "975"
+    },
+    {
+      "title": "Cupping for a Lingering Cough: A Traditional Chest Protocol",
+      "path": "/treatments/cupping-cough-tcm/",
+      "type": "treatment",
+      "parent": "treatments",
+      "estimated_read_time": 8,
+      "keywords": [
+        "cupping cough",
+        "chest cupping",
+        "lingering cough tcm"
+      ],
+      "id": "976"
     }
   ],
   "published": [
