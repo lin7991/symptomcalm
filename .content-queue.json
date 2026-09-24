@@ -1,20 +1,6 @@
 {
   "queue": [
     {
-      "title": "Childhood Allergies Through a TCM Lens: Building Resilience Early",
-      "path": "/symptoms/allergies/childhood-allergies-tcm/",
-      "type": "cluster",
-      "parent": "allergies",
-      "estimated_read_time": 8,
-      "keywords": [
-        "childhood allergies",
-        "kids allergies tcm",
-        "spleen lung children",
-        "allergy prevention children"
-      ],
-      "id": "957"
-    },
-    {
       "title": "Cockroach Allergy and Indoor Allergens: The TCM View",
       "path": "/symptoms/allergies/cockroach-allergy-tcm/",
       "type": "cluster",
@@ -12419,6 +12405,20 @@
         "wei qi allergies"
       ],
       "id": "956"
+    },
+    {
+      "title": "Childhood Allergies Through a TCM Lens: Building Resilience Early",
+      "path": "/symptoms/allergies/childhood-allergies-tcm/",
+      "type": "cluster",
+      "parent": "allergies",
+      "estimated_read_time": 8,
+      "keywords": [
+        "childhood allergies",
+        "kids allergies tcm",
+        "spleen lung children",
+        "allergy prevention children"
+      ],
+      "id": "957"
     }
   ]
 }
