@@ -1,20 +1,6 @@
 {
   "queue": [
     {
-      "title": "Cockroach Allergy and Indoor Allergens: The TCM View",
-      "path": "/symptoms/allergies/cockroach-allergy-tcm/",
-      "type": "cluster",
-      "parent": "allergies",
-      "estimated_read_time": 7,
-      "keywords": [
-        "cockroach allergy",
-        "indoor allergens",
-        "dust and dander",
-        "lung qi allergens"
-      ],
-      "id": "958"
-    },
-    {
       "title": "Job Loss Stress and TCM: When Your Footing Disappears",
       "path": "/symptoms/stress/job-loss-stress-tcm/",
       "type": "cluster",
@@ -12614,6 +12600,20 @@
         "allergy prevention children"
       ],
       "id": "957"
+    },
+    {
+      "title": "Cockroach Allergy and Indoor Allergens: The TCM View",
+      "path": "/symptoms/allergies/cockroach-allergy-tcm/",
+      "type": "cluster",
+      "parent": "allergies",
+      "estimated_read_time": 7,
+      "keywords": [
+        "cockroach allergy",
+        "indoor allergens",
+        "dust and dander",
+        "lung qi allergens"
+      ],
+      "id": "958"
     }
   ]
 }
