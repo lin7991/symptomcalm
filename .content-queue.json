@@ -1,48 +1,6 @@
 {
   "queue": [
     {
-      "title": "Sunlight and Your Eyes: UV Exposure Through a TCM Lens",
-      "path": "/symptoms/eye-health/uv-sunlight-eye-tcm/",
-      "type": "cluster",
-      "parent": "eye-health",
-      "estimated_read_time": 7,
-      "keywords": [
-        "uv eye damage",
-        "sunlight eyes",
-        "eye protection",
-        "liver eyes tcm"
-      ],
-      "id": "954"
-    },
-    {
-      "title": "Ragweed Allergy Season: A TCM Guide to Late-Summer Sneezing",
-      "path": "/symptoms/allergies/ragweed-allergy-tcm/",
-      "type": "cluster",
-      "parent": "allergies",
-      "estimated_read_time": 7,
-      "keywords": [
-        "ragweed allergy",
-        "late summer allergies",
-        "allergic rhinitis",
-        "lung qi allergies"
-      ],
-      "id": "955"
-    },
-    {
-      "title": "Birch Pollen Allergy: Why Spring Hits Some People So Hard",
-      "path": "/symptoms/allergies/birch-pollen-allergy-tcm/",
-      "type": "cluster",
-      "parent": "allergies",
-      "estimated_read_time": 7,
-      "keywords": [
-        "birch pollen allergy",
-        "spring tree pollen",
-        "pollen allergy tcm",
-        "wei qi allergies"
-      ],
-      "id": "956"
-    },
-    {
       "title": "Childhood Allergies Through a TCM Lens: Building Resilience Early",
       "path": "/symptoms/allergies/childhood-allergies-tcm/",
       "type": "cluster",
@@ -12419,6 +12377,48 @@
         "eye redness tcm"
       ],
       "id": "953"
+    },
+    {
+      "title": "Sunlight and Your Eyes: UV Exposure Through a TCM Lens",
+      "path": "/symptoms/eye-health/uv-sunlight-eye-tcm/",
+      "type": "cluster",
+      "parent": "eye-health",
+      "estimated_read_time": 7,
+      "keywords": [
+        "uv eye damage",
+        "sunlight eyes",
+        "eye protection",
+        "liver eyes tcm"
+      ],
+      "id": "954"
+    },
+    {
+      "title": "Ragweed Allergy Season: A TCM Guide to Late-Summer Sneezing",
+      "path": "/symptoms/allergies/ragweed-allergy-tcm/",
+      "type": "cluster",
+      "parent": "allergies",
+      "estimated_read_time": 7,
+      "keywords": [
+        "ragweed allergy",
+        "late summer allergies",
+        "allergic rhinitis",
+        "lung qi allergies"
+      ],
+      "id": "955"
+    },
+    {
+      "title": "Birch Pollen Allergy: Why Spring Hits Some People So Hard",
+      "path": "/symptoms/allergies/birch-pollen-allergy-tcm/",
+      "type": "cluster",
+      "parent": "allergies",
+      "estimated_read_time": 7,
+      "keywords": [
+        "birch pollen allergy",
+        "spring tree pollen",
+        "pollen allergy tcm",
+        "wei qi allergies"
+      ],
+      "id": "956"
     }
   ]
 }

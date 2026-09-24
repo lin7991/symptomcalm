@@ -2541,6 +2541,16 @@
     <ns0:priority>0.5</ns0:priority>
   </ns0:url>
   <ns0:url>
+    <ns0:loc>https://symptomcalm.com/zh/symptoms/allergies/ragweed-allergy-tcm/</ns0:loc>
+    <ns0:changefreq>monthly</ns0:changefreq>
+    <ns0:priority>0.5</ns0:priority>
+  </ns0:url>
+  <ns0:url>
+    <ns0:loc>https://symptomcalm.com/zh/symptoms/allergies/birch-pollen-allergy-tcm/</ns0:loc>
+    <ns0:changefreq>monthly</ns0:changefreq>
+    <ns0:priority>0.5</ns0:priority>
+  </ns0:url>
+  <ns0:url>
     <ns0:loc>https://symptomcalm.com/zh/symptoms/allergies/histamine-intolerance-tcm/</ns0:loc>
     <ns0:changefreq>monthly</ns0:changefreq>
     <ns0:priority>0.5</ns0:priority>
@@ -7370,6 +7380,21 @@
   </ns0:url>
   <ns0:url>
     <ns0:loc>https://symptomcalm.com/symptoms/eye-health/red-eye-tcm/</ns0:loc>
+    <ns0:changefreq>monthly</ns0:changefreq>
+    <ns0:priority>0.7</ns0:priority>
+  </ns0:url>
+  <ns0:url>
+    <ns0:loc>https://symptomcalm.com/symptoms/eye-health/uv-sunlight-eye-tcm/</ns0:loc>
+    <ns0:changefreq>monthly</ns0:changefreq>
+    <ns0:priority>0.7</ns0:priority>
+  </ns0:url>
+  <ns0:url>
+    <ns0:loc>https://symptomcalm.com/symptoms/allergies/ragweed-allergy-tcm/</ns0:loc>
+    <ns0:changefreq>monthly</ns0:changefreq>
+    <ns0:priority>0.7</ns0:priority>
+  </ns0:url>
+  <ns0:url>
+    <ns0:loc>https://symptomcalm.com/symptoms/allergies/birch-pollen-allergy-tcm/</ns0:loc>
     <ns0:changefreq>monthly</ns0:changefreq>
     <ns0:priority>0.7</ns0:priority>
   </ns0:url>
