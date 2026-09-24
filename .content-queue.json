@@ -1,20 +1,6 @@
 {
   "queue": [
     {
-      "title": "Job Loss Stress and TCM: When Your Footing Disappears",
-      "path": "/symptoms/stress/job-loss-stress-tcm/",
-      "type": "cluster",
-      "parent": "stress",
-      "estimated_read_time": 8,
-      "keywords": [
-        "job loss stress",
-        "unemployment stress",
-        "liver qi stagnation",
-        "identity loss stress"
-      ],
-      "id": "959"
-    },
-    {
       "title": "Airplane Headaches: Why Flying Can Trigger Head Pain",
       "path": "/symptoms/headaches/airplane-headache-tcm/",
       "type": "cluster",
@@ -12614,6 +12600,20 @@
         "lung qi allergens"
       ],
       "id": "958"
+    },
+    {
+      "title": "Job Loss Stress and TCM: When Your Footing Disappears",
+      "path": "/symptoms/stress/job-loss-stress-tcm/",
+      "type": "cluster",
+      "parent": "stress",
+      "estimated_read_time": 8,
+      "keywords": [
+        "job loss stress",
+        "unemployment stress",
+        "liver qi stagnation",
+        "identity loss stress"
+      ],
+      "id": "959"
     }
   ]
 }
