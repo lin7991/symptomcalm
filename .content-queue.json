@@ -1,20 +1,6 @@
 {
   "queue": [
     {
-      "title": "Airplane Headaches: Why Flying Can Trigger Head Pain",
-      "path": "/symptoms/headaches/airplane-headache-tcm/",
-      "type": "cluster",
-      "parent": "headaches",
-      "estimated_read_time": 7,
-      "keywords": [
-        "airplane headache",
-        "flight headache",
-        "cabin pressure headache",
-        "altitude headache"
-      ],
-      "id": "960"
-    },
-    {
       "title": "Sleeping in Hot Weather: A TCM Guide to Summer Nights",
       "path": "/symptoms/insomnia/hot-weather-sleep-tcm/",
       "type": "cluster",
@@ -12614,6 +12600,20 @@
         "identity loss stress"
       ],
       "id": "959"
+    },
+    {
+      "title": "Airplane Headaches: Why Flying Can Trigger Head Pain",
+      "path": "/symptoms/headaches/airplane-headache-tcm/",
+      "type": "cluster",
+      "parent": "headaches",
+      "estimated_read_time": 7,
+      "keywords": [
+        "airplane headache",
+        "flight headache",
+        "cabin pressure headache",
+        "altitude headache"
+      ],
+      "id": "960"
     }
   ]
 }
