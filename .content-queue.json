@@ -1,20 +1,6 @@
 {
   "queue": [
     {
-      "title": "Sleeping in Hot Weather: A TCM Guide to Summer Nights",
-      "path": "/symptoms/insomnia/hot-weather-sleep-tcm/",
-      "type": "cluster",
-      "parent": "insomnia",
-      "estimated_read_time": 7,
-      "keywords": [
-        "hot weather sleep",
-        "summer insomnia",
-        "heart fire sleep",
-        "cooling sleep tcm"
-      ],
-      "id": "961"
-    },
-    {
       "title": "Caffeine in TCM: What Your Morning Cup Does to Your Qi",
       "path": "/tcm-basics/caffeine-tcm/",
       "type": "tcm-basics",
@@ -12614,6 +12600,20 @@
         "altitude headache"
       ],
       "id": "960"
+    },
+    {
+      "title": "Sleeping in Hot Weather: A TCM Guide to Summer Nights",
+      "path": "/symptoms/insomnia/hot-weather-sleep-tcm/",
+      "type": "cluster",
+      "parent": "insomnia",
+      "estimated_read_time": 7,
+      "keywords": [
+        "hot weather sleep",
+        "summer insomnia",
+        "heart fire sleep",
+        "cooling sleep tcm"
+      ],
+      "id": "961"
     }
   ]
 }
