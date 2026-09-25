@@ -1,123 +1,6 @@
 {
   "queue": [
     {
-      "title": "Hair Health in TCM: Blood, Kidney and Why Hair Thins",
-      "path": "/tcm-basics/hair-health-tcm/",
-      "type": "tcm-basics",
-      "parent": "tcm-basics",
-      "estimated_read_time": 8,
-      "keywords": [
-        "hair health tcm",
-        "hair thinning",
-        "kidney hair tcm"
-      ],
-      "id": "965"
-    },
-    {
-      "title": "Revenge Bedtime Procrastination: A TCM View of Not Wanting the Day to End",
-      "path": "/symptoms/insomnia/revenge-bedtime-procrastination-tcm/",
-      "type": "cluster",
-      "parent": "insomnia",
-      "estimated_read_time": 8,
-      "keywords": [
-        "revenge bedtime procrastination",
-        "delayed sleep tcm",
-        "late night scrolling"
-      ],
-      "id": "966"
-    },
-    {
-      "title": "Jet Lag and Sleep: A TCM View of a Body Out of Time",
-      "path": "/symptoms/insomnia/jet-lag-sleep-tcm/",
-      "type": "cluster",
-      "parent": "insomnia",
-      "estimated_read_time": 8,
-      "keywords": [
-        "jet lag tcm",
-        "travel sleep",
-        "time zone sleep"
-      ],
-      "id": "967"
-    },
-    {
-      "title": "Sour Stomach and Reflux: A TCM View of Qi Going Upward",
-      "path": "/symptoms/digestion/sour-stomach-tcm/",
-      "type": "cluster",
-      "parent": "digestion",
-      "estimated_read_time": 8,
-      "keywords": [
-        "sour stomach",
-        "reflux tcm",
-        "stomach qi rising"
-      ],
-      "id": "968"
-    },
-    {
-      "title": "Belching and Gas: A TCM View of Stuck Qi in the Middle",
-      "path": "/symptoms/digestion/belching-tcm/",
-      "type": "cluster",
-      "parent": "digestion",
-      "estimated_read_time": 8,
-      "keywords": [
-        "belching tcm",
-        "gas and bloating",
-        "stomach qi stagnation"
-      ],
-      "id": "969"
-    },
-    {
-      "title": "Weather-Sensitive Back Pain: A TCM View of Aching Before the Storm",
-      "path": "/symptoms/back-pain/back-pain-weather-tcm/",
-      "type": "cluster",
-      "parent": "back-pain",
-      "estimated_read_time": 8,
-      "keywords": [
-        "weather back pain",
-        "barometric pressure back pain",
-        "cold damp back pain"
-      ],
-      "id": "970"
-    },
-    {
-      "title": "Desk Posture and Back Pain: A TCM Guide for Office Bodies",
-      "path": "/symptoms/back-pain/sitting-posture-back-pain-tcm/",
-      "type": "cluster",
-      "parent": "back-pain",
-      "estimated_read_time": 8,
-      "keywords": [
-        "sitting back pain",
-        "posture tcm",
-        "office back pain"
-      ],
-      "id": "971"
-    },
-    {
-      "title": "Lung-Clearing Exercises: A TCM Breath Practice for a Congested Chest",
-      "path": "/symptoms/respiratory-health/lung-clearing-exercises-tcm/",
-      "type": "cluster",
-      "parent": "respiratory-health",
-      "estimated_read_time": 8,
-      "keywords": [
-        "lung clearing exercises",
-        "breathing practice tcm",
-        "chest congestion breathing"
-      ],
-      "id": "972"
-    },
-    {
-      "title": "Teacher Stress and Burnout: A TCM View of a Room That Never Empties",
-      "path": "/symptoms/stress/teacher-stress-tcm/",
-      "type": "cluster",
-      "parent": "stress",
-      "estimated_read_time": 8,
-      "keywords": [
-        "teacher stress",
-        "school burnout",
-        "role fatigue tcm"
-      ],
-      "id": "973"
-    },
-    {
       "title": "Grief Anniversaries: A TCM View of Loss That Returns on Schedule",
       "path": "/symptoms/mental-emotional-health/grief-anniversaries-tcm/",
       "type": "cluster",
@@ -131,30 +14,199 @@
       "id": "974"
     },
     {
-      "title": "Screen-Fatigued Dry Eyes: A TCM View of Depleted Moisture",
-      "path": "/symptoms/eye-health/dry-eye-screens-tcm/",
-      "type": "cluster",
-      "parent": "eye-health",
-      "estimated_read_time": 8,
+      "title": "The Dantian Explained: TCM's Lower Energy Center",
+      "path": "/tcm-basics/dantian-tcm/",
+      "type": "tcm-basics",
+      "parent": "tcm-basics",
+      "estimated_read_time": 9,
       "keywords": [
-        "dry eye screens",
-        "eye moisture tcm",
-        "screen fatigue eyes"
+        "dantian tcm",
+        "lower dantian",
+        "tcm energy center"
       ],
       "id": "975"
     },
     {
-      "title": "Cupping for a Lingering Cough: A Traditional Chest Protocol",
-      "path": "/treatments/cupping-cough-tcm/",
-      "type": "treatment",
+      "title": "Why Does It Hurt? TCM's View of Pain",
+      "path": "/tcm-basics/tcm-view-of-pain/",
+      "type": "tcm-basics",
+      "parent": "tcm-basics",
+      "estimated_read_time": 9,
+      "keywords": [
+        "tcm view of pain",
+        "why does it hurt tcm",
+        "qi blockage pain"
+      ],
+      "id": "976"
+    },
+    {
+      "title": "Fever in TCM: Why Your Body Turns Up the Heat",
+      "path": "/tcm-basics/tcm-view-of-fever/",
+      "type": "tcm-basics",
+      "parent": "tcm-basics",
+      "estimated_read_time": 8,
+      "keywords": [
+        "fever tcm",
+        "fever chinese medicine",
+        "wei qi fever"
+      ],
+      "id": "977"
+    },
+    {
+      "title": "Dreams in TCM: What Your Night Mind Reveals About Your Organs",
+      "path": "/tcm-basics/dreams-tcm/",
+      "type": "tcm-basics",
+      "parent": "tcm-basics",
+      "estimated_read_time": 8,
+      "keywords": [
+        "dreams tcm",
+        "dream meaning chinese medicine",
+        "shen dreams"
+      ],
+      "id": "978"
+    },
+    {
+      "title": "Difficulty Swallowing: A TCM View of a Food Pipe That Won't Cooperate",
+      "path": "/symptoms/digestion/dysphagia-tcm/",
+      "type": "symptom-guide",
+      "parent": "digestion",
+      "estimated_read_time": 9,
+      "keywords": [
+        "dysphagia tcm",
+        "difficulty swallowing",
+        "trouble swallowing tcm"
+      ],
+      "id": "979"
+    },
+    {
+      "title": "Drinking Water With Meals: A TCM View of Digestion and Dilution",
+      "path": "/symptoms/digestion/water-with-meals-tcm/",
+      "type": "symptom-guide",
+      "parent": "digestion",
+      "estimated_read_time": 8,
+      "keywords": [
+        "drinking water with meals",
+        "water and digestion tcm",
+        "stomach fire tcm"
+      ],
+      "id": "980"
+    },
+    {
+      "title": "Wedding Stress: A TCM View of the Countdown Body",
+      "path": "/symptoms/stress/wedding-stress-tcm/",
+      "type": "symptom-guide",
+      "parent": "stress",
+      "estimated_read_time": 9,
+      "keywords": [
+        "wedding stress tcm",
+        "wedding anxiety",
+        "planning stress tcm"
+      ],
+      "id": "981"
+    },
+    {
+      "title": "Water in the Ear: A TCM View of Trapped Moisture",
+      "path": "/symptoms/ear-health-tinnitus/water-in-ear-tcm/",
+      "type": "symptom-guide",
+      "parent": "ear-health-tinnitus",
+      "estimated_read_time": 7,
+      "keywords": [
+        "water in ear tcm",
+        "trapped water ear",
+        "ear fullness moisture tcm"
+      ],
+      "id": "982"
+    },
+    {
+      "title": "C-Section Recovery: A TCM View of Post-Surgical Rebuilding",
+      "path": "/symptoms/womens-health/c-section-recovery-tcm/",
+      "type": "symptom-guide",
+      "parent": "womens-health",
+      "estimated_read_time": 10,
+      "keywords": [
+        "c-section recovery tcm",
+        "cesarean recovery",
+        "postpartum surgery tcm"
+      ],
+      "id": "983"
+    },
+    {
+      "title": "Skin Chafing: A TCM View of Friction, Heat and Broken Skin",
+      "path": "/symptoms/skin-conditions/chafing-tcm/",
+      "type": "symptom-guide",
+      "parent": "skin-conditions",
+      "estimated_read_time": 8,
+      "keywords": [
+        "chafing tcm",
+        "skin chafing",
+        "friction rash tcm"
+      ],
+      "id": "984"
+    },
+    {
+      "title": "Jock Itch: A TCM View of Damp-Heat in the Groin",
+      "path": "/symptoms/skin-conditions/jock-itch-tcm/",
+      "type": "symptom-guide",
+      "parent": "skin-conditions",
+      "estimated_read_time": 8,
+      "keywords": [
+        "jock itch tcm",
+        "tinea cruris",
+        "damp heat skin tcm"
+      ],
+      "id": "985"
+    },
+    {
+      "title": "Rotator Cuff Pain: A TCM View of a Shoulder Under Load",
+      "path": "/symptoms/joint-pain/rotator-cuff-tcm/",
+      "type": "symptom-guide",
+      "parent": "joint-pain",
+      "estimated_read_time": 9,
+      "keywords": [
+        "rotator cuff tcm",
+        "shoulder injury tcm",
+        "rotator cuff pain"
+      ],
+      "id": "986"
+    },
+    {
+      "title": "Baker's Cyst: A TCM View of Fluid Behind the Knee",
+      "path": "/symptoms/joint-pain/bakers-cyst-tcm/",
+      "type": "symptom-guide",
+      "parent": "joint-pain",
+      "estimated_read_time": 8,
+      "keywords": [
+        "bakers cyst tcm",
+        "fluid behind knee",
+        "knee swelling tcm"
+      ],
+      "id": "987"
+    },
+    {
+      "title": "Foot Reflexology for Sleep: A Traditional Evening Practice",
+      "path": "/treatments/foot-reflexology-sleep-tcm/",
+      "type": "treatment-guide",
       "parent": "treatments",
       "estimated_read_time": 8,
       "keywords": [
-        "cupping cough",
-        "chest cupping",
-        "lingering cough tcm"
+        "foot reflexology sleep",
+        "reflexology tcm",
+        "sleep reflexology points"
       ],
-      "id": "976"
+      "id": "988"
+    },
+    {
+      "title": "The Mental Load: A TCM View of Invisible Labor",
+      "path": "/symptoms/mental-emotional-health/mental-load-tcm/",
+      "type": "symptom-guide",
+      "parent": "mental-emotional-health",
+      "estimated_read_time": 8,
+      "keywords": [
+        "mental load tcm",
+        "invisible labor",
+        "cognitive load tcm"
+      ],
+      "id": "989"
     }
   ],
   "published": [
@@ -12614,6 +12666,19 @@
         "body fluids tcm"
       ],
       "id": "964"
+    },
+    {
+      "title": "Teacher Stress and Burnout: A TCM View of a Room That Never Empties",
+      "path": "/symptoms/stress/teacher-stress-tcm/",
+      "type": "cluster",
+      "parent": "stress",
+      "estimated_read_time": 8,
+      "keywords": [
+        "teacher stress",
+        "school burnout",
+        "role fatigue tcm"
+      ],
+      "id": "973"
     }
   ]
 }
