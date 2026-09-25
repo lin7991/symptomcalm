@@ -1,19 +1,6 @@
 {
   "queue": [
     {
-      "title": "Grief Anniversaries: A TCM View of Loss That Returns on Schedule",
-      "path": "/symptoms/mental-emotional-health/grief-anniversaries-tcm/",
-      "type": "cluster",
-      "parent": "mental-emotional-health",
-      "estimated_read_time": 8,
-      "keywords": [
-        "grief anniversary",
-        "loss tcm",
-        "lung grief"
-      ],
-      "id": "974"
-    },
-    {
       "title": "The Dantian Explained: TCM's Lower Energy Center",
       "path": "/tcm-basics/dantian-tcm/",
       "type": "tcm-basics",
@@ -12679,6 +12666,19 @@
         "role fatigue tcm"
       ],
       "id": "973"
+    },
+    {
+      "title": "Grief Anniversaries: A TCM View of Loss That Returns on Schedule",
+      "path": "/symptoms/mental-emotional-health/grief-anniversaries-tcm/",
+      "type": "cluster",
+      "parent": "mental-emotional-health",
+      "estimated_read_time": 8,
+      "keywords": [
+        "grief anniversary",
+        "loss tcm",
+        "lung grief"
+      ],
+      "id": "974"
     }
   ]
 }
