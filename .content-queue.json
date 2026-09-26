@@ -1,19 +1,6 @@
 {
   "queue": [
     {
-      "title": "Water in the Ear: A TCM View of Trapped Moisture",
-      "path": "/symptoms/ear-health-tinnitus/water-in-ear-tcm/",
-      "type": "symptom-guide",
-      "parent": "ear-health-tinnitus",
-      "estimated_read_time": 7,
-      "keywords": [
-        "water in ear tcm",
-        "trapped water ear",
-        "ear fullness moisture tcm"
-      ],
-      "id": "982"
-    },
-    {
       "title": "C-Section Recovery: A TCM View of Post-Surgical Rebuilding",
       "path": "/symptoms/womens-health/c-section-recovery-tcm/",
       "type": "symptom-guide",
@@ -12679,6 +12666,19 @@
         "planning stress tcm"
       ],
       "id": "981"
+    },
+    {
+      "title": "Water in the Ear: A TCM View of Trapped Moisture",
+      "path": "/symptoms/ear-health-tinnitus/water-in-ear-tcm/",
+      "type": "symptom-guide",
+      "parent": "ear-health-tinnitus",
+      "estimated_read_time": 7,
+      "keywords": [
+        "water in ear tcm",
+        "trapped water ear",
+        "ear fullness moisture tcm"
+      ],
+      "id": "982"
     }
   ]
 }
