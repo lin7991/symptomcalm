@@ -1,19 +1,6 @@
 {
   "queue": [
     {
-      "title": "Dreams in TCM: What Your Night Mind Reveals About Your Organs",
-      "path": "/tcm-basics/dreams-tcm/",
-      "type": "tcm-basics",
-      "parent": "tcm-basics",
-      "estimated_read_time": 8,
-      "keywords": [
-        "dreams tcm",
-        "dream meaning chinese medicine",
-        "shen dreams"
-      ],
-      "id": "978"
-    },
-    {
       "title": "Difficulty Swallowing: A TCM View of a Food Pipe That Won't Cooperate",
       "path": "/symptoms/digestion/dysphagia-tcm/",
       "type": "symptom-guide",
@@ -12679,6 +12666,19 @@
         "wei qi fever"
       ],
       "id": "977"
+    },
+    {
+      "title": "Dreams in TCM: What Your Night Mind Reveals About Your Organs",
+      "path": "/tcm-basics/dreams-tcm/",
+      "type": "tcm-basics",
+      "parent": "tcm-basics",
+      "estimated_read_time": 8,
+      "keywords": [
+        "dreams tcm",
+        "dream meaning chinese medicine",
+        "shen dreams"
+      ],
+      "id": "978"
     }
   ]
 }
