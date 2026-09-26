@@ -1,19 +1,6 @@
 {
   "queue": [
     {
-      "title": "Drinking Water With Meals: A TCM View of Digestion and Dilution",
-      "path": "/symptoms/digestion/water-with-meals-tcm/",
-      "type": "symptom-guide",
-      "parent": "digestion",
-      "estimated_read_time": 8,
-      "keywords": [
-        "drinking water with meals",
-        "water and digestion tcm",
-        "stomach fire tcm"
-      ],
-      "id": "980"
-    },
-    {
       "title": "Wedding Stress: A TCM View of the Countdown Body",
       "path": "/symptoms/stress/wedding-stress-tcm/",
       "type": "symptom-guide",
@@ -12679,6 +12666,19 @@
         "trouble swallowing tcm"
       ],
       "id": "979"
+    },
+    {
+      "title": "Drinking Water With Meals: A TCM View of Digestion and Dilution",
+      "path": "/symptoms/digestion/water-with-meals-tcm/",
+      "type": "symptom-guide",
+      "parent": "digestion",
+      "estimated_read_time": 8,
+      "keywords": [
+        "drinking water with meals",
+        "water and digestion tcm",
+        "stomach fire tcm"
+      ],
+      "id": "980"
     }
   ]
 }
