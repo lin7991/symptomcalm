@@ -1,19 +1,6 @@
 {
   "queue": [
     {
-      "title": "Wedding Stress: A TCM View of the Countdown Body",
-      "path": "/symptoms/stress/wedding-stress-tcm/",
-      "type": "symptom-guide",
-      "parent": "stress",
-      "estimated_read_time": 9,
-      "keywords": [
-        "wedding stress tcm",
-        "wedding anxiety",
-        "planning stress tcm"
-      ],
-      "id": "981"
-    },
-    {
       "title": "Water in the Ear: A TCM View of Trapped Moisture",
       "path": "/symptoms/ear-health-tinnitus/water-in-ear-tcm/",
       "type": "symptom-guide",
@@ -12679,6 +12666,19 @@
         "stomach fire tcm"
       ],
       "id": "980"
+    },
+    {
+      "title": "Wedding Stress: A TCM View of the Countdown Body",
+      "path": "/symptoms/stress/wedding-stress-tcm/",
+      "type": "symptom-guide",
+      "parent": "stress",
+      "estimated_read_time": 9,
+      "keywords": [
+        "wedding stress tcm",
+        "wedding anxiety",
+        "planning stress tcm"
+      ],
+      "id": "981"
     }
   ]
 }
