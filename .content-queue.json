@@ -1,19 +1,6 @@
 {
   "queue": [
     {
-      "title": "Rotator Cuff Pain: A TCM View of a Shoulder Under Load",
-      "path": "/symptoms/joint-pain/rotator-cuff-tcm/",
-      "type": "symptom-guide",
-      "parent": "joint-pain",
-      "estimated_read_time": 9,
-      "keywords": [
-        "rotator cuff tcm",
-        "shoulder injury tcm",
-        "rotator cuff pain"
-      ],
-      "id": "986"
-    },
-    {
       "title": "Baker's Cyst: A TCM View of Fluid Behind the Knee",
       "path": "/symptoms/joint-pain/bakers-cyst-tcm/",
       "type": "symptom-guide",
@@ -12679,6 +12666,19 @@
         "damp heat skin tcm"
       ],
       "id": "985"
+    },
+    {
+      "title": "Rotator Cuff Pain: A TCM View of a Shoulder Under Load",
+      "path": "/symptoms/joint-pain/rotator-cuff-tcm/",
+      "type": "symptom-guide",
+      "parent": "joint-pain",
+      "estimated_read_time": 9,
+      "keywords": [
+        "rotator cuff tcm",
+        "shoulder injury tcm",
+        "rotator cuff pain"
+      ],
+      "id": "986"
     }
   ]
 }
