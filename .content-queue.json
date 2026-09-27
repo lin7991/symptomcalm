@@ -1,19 +1,6 @@
 {
   "queue": [
     {
-      "title": "Baker's Cyst: A TCM View of Fluid Behind the Knee",
-      "path": "/symptoms/joint-pain/bakers-cyst-tcm/",
-      "type": "symptom-guide",
-      "parent": "joint-pain",
-      "estimated_read_time": 8,
-      "keywords": [
-        "bakers cyst tcm",
-        "fluid behind knee",
-        "knee swelling tcm"
-      ],
-      "id": "987"
-    },
-    {
       "title": "Foot Reflexology for Sleep: A Traditional Evening Practice",
       "path": "/treatments/foot-reflexology-sleep-tcm/",
       "type": "treatment-guide",
@@ -12874,6 +12861,19 @@
         "rotator cuff pain"
       ],
       "id": "986"
+    },
+    {
+      "title": "Baker's Cyst: A TCM View of Fluid Behind the Knee",
+      "path": "/symptoms/joint-pain/bakers-cyst-tcm/",
+      "type": "symptom-guide",
+      "parent": "joint-pain",
+      "estimated_read_time": 8,
+      "keywords": [
+        "bakers cyst tcm",
+        "fluid behind knee",
+        "knee swelling tcm"
+      ],
+      "id": "987"
     }
   ]
 }
