@@ -1,32 +1,6 @@
 {
   "queue": [
     {
-      "title": "Foot Reflexology for Sleep: A Traditional Evening Practice",
-      "path": "/treatments/foot-reflexology-sleep-tcm/",
-      "type": "treatment-guide",
-      "parent": "treatments",
-      "estimated_read_time": 8,
-      "keywords": [
-        "foot reflexology sleep",
-        "reflexology tcm",
-        "sleep reflexology points"
-      ],
-      "id": "988"
-    },
-    {
-      "title": "The Mental Load: A TCM View of Invisible Labor",
-      "path": "/symptoms/mental-emotional-health/mental-load-tcm/",
-      "type": "symptom-guide",
-      "parent": "mental-emotional-health",
-      "estimated_read_time": 8,
-      "keywords": [
-        "mental load tcm",
-        "invisible labor",
-        "cognitive load tcm"
-      ],
-      "id": "989"
-    },
-    {
       "title": "Otosclerosis and Hearing Loss: A TCM View of a Stiffening Ear",
       "path": "/symptoms/ear-health-tinnitus/otosclerosis-tcm/",
       "type": "symptom-guide",
@@ -12874,6 +12848,32 @@
         "knee swelling tcm"
       ],
       "id": "987"
+    },
+    {
+      "title": "Foot Reflexology for Sleep: A Traditional Evening Practice",
+      "path": "/treatments/foot-reflexology-sleep-tcm/",
+      "type": "treatment-guide",
+      "parent": "treatments",
+      "estimated_read_time": 8,
+      "keywords": [
+        "foot reflexology sleep",
+        "reflexology tcm",
+        "sleep reflexology points"
+      ],
+      "id": "988"
+    },
+    {
+      "title": "The Mental Load: A TCM View of Invisible Labor",
+      "path": "/symptoms/mental-emotional-health/mental-load-tcm/",
+      "type": "symptom-guide",
+      "parent": "mental-emotional-health",
+      "estimated_read_time": 8,
+      "keywords": [
+        "mental load tcm",
+        "invisible labor",
+        "cognitive load tcm"
+      ],
+      "id": "989"
     }
   ]
 }
