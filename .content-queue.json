@@ -1,19 +1,6 @@
 {
   "queue": [
     {
-      "title": "Jock Itch: A TCM View of Damp-Heat in the Groin",
-      "path": "/symptoms/skin-conditions/jock-itch-tcm/",
-      "type": "symptom-guide",
-      "parent": "skin-conditions",
-      "estimated_read_time": 8,
-      "keywords": [
-        "jock itch tcm",
-        "tinea cruris",
-        "damp heat skin tcm"
-      ],
-      "id": "985"
-    },
-    {
       "title": "Rotator Cuff Pain: A TCM View of a Shoulder Under Load",
       "path": "/symptoms/joint-pain/rotator-cuff-tcm/",
       "type": "symptom-guide",
@@ -12679,6 +12666,19 @@
         "friction rash tcm"
       ],
       "id": "984"
+    },
+    {
+      "title": "Jock Itch: A TCM View of Damp-Heat in the Groin",
+      "path": "/symptoms/skin-conditions/jock-itch-tcm/",
+      "type": "symptom-guide",
+      "parent": "skin-conditions",
+      "estimated_read_time": 8,
+      "keywords": [
+        "jock itch tcm",
+        "tinea cruris",
+        "damp heat skin tcm"
+      ],
+      "id": "985"
     }
   ]
 }
