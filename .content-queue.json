@@ -1,19 +1,6 @@
 {
   "queue": [
     {
-      "title": "Skin Chafing: A TCM View of Friction, Heat and Broken Skin",
-      "path": "/symptoms/skin-conditions/chafing-tcm/",
-      "type": "symptom-guide",
-      "parent": "skin-conditions",
-      "estimated_read_time": 8,
-      "keywords": [
-        "chafing tcm",
-        "skin chafing",
-        "friction rash tcm"
-      ],
-      "id": "984"
-    },
-    {
       "title": "Jock Itch: A TCM View of Damp-Heat in the Groin",
       "path": "/symptoms/skin-conditions/jock-itch-tcm/",
       "type": "symptom-guide",
@@ -12679,6 +12666,19 @@
         "postpartum surgery tcm"
       ],
       "id": "983"
+    },
+    {
+      "title": "Skin Chafing: A TCM View of Friction, Heat and Broken Skin",
+      "path": "/symptoms/skin-conditions/chafing-tcm/",
+      "type": "symptom-guide",
+      "parent": "skin-conditions",
+      "estimated_read_time": 8,
+      "keywords": [
+        "chafing tcm",
+        "skin chafing",
+        "friction rash tcm"
+      ],
+      "id": "984"
     }
   ]
 }
