@@ -38,6 +38,201 @@
         "cognitive load tcm"
       ],
       "id": "989"
+    },
+    {
+      "title": "Otosclerosis and Hearing Loss: A TCM View of a Stiffening Ear",
+      "path": "/symptoms/ear-health-tinnitus/otosclerosis-tcm/",
+      "type": "symptom-guide",
+      "parent": "ear-health-tinnitus",
+      "estimated_read_time": 9,
+      "keywords": [
+        "otosclerosis tcm",
+        "progressive hearing loss",
+        "stiff ear bone tcm"
+      ],
+      "id": "990"
+    },
+    {
+      "title": "Vestibular Neuritis in TCM: Recovering From a Sudden Spin",
+      "path": "/symptoms/ear-health-tinnitus/vestibular-neuritis-tcm/",
+      "type": "symptom-guide",
+      "parent": "ear-health-tinnitus",
+      "estimated_read_time": 9,
+      "keywords": [
+        "vestibular neuritis tcm",
+        "sudden vertigo",
+        "dizziness recovery tcm"
+      ],
+      "id": "991"
+    },
+    {
+      "title": "Chalazion: A TCM View of the Stubborn Eyelid Lump",
+      "path": "/symptoms/eye-health/chalazion-tcm/",
+      "type": "symptom-guide",
+      "parent": "eye-health",
+      "estimated_read_time": 8,
+      "keywords": [
+        "chalazion tcm",
+        "eyelid lump",
+        "meibomian cyst tcm"
+      ],
+      "id": "992"
+    },
+    {
+      "title": "Keratoconus in TCM: When the Cornea Loses Its Shape",
+      "path": "/symptoms/eye-health/keratoconus-tcm/",
+      "type": "symptom-guide",
+      "parent": "eye-health",
+      "estimated_read_time": 9,
+      "keywords": [
+        "keratoconus tcm",
+        "cornea thinning",
+        "blurry vision tcm"
+      ],
+      "id": "993"
+    },
+    {
+      "title": "Pterygium and Pinguecula: A TCM View of Growths on the Eye",
+      "path": "/symptoms/eye-health/pterygium-tcm/",
+      "type": "symptom-guide",
+      "parent": "eye-health",
+      "estimated_read_time": 8,
+      "keywords": [
+        "pterygium tcm",
+        "pinguecula",
+        "eye growth tcm"
+      ],
+      "id": "994"
+    },
+    {
+      "title": "Sulfite Sensitivity: A TCM View of Wine Flares and Reactions",
+      "path": "/symptoms/allergies/sulfite-sensitivity-tcm/",
+      "type": "symptom-guide",
+      "parent": "allergies",
+      "estimated_read_time": 9,
+      "keywords": [
+        "sulfite sensitivity tcm",
+        "wine reaction",
+        "food sensitivity tcm"
+      ],
+      "id": "995"
+    },
+    {
+      "title": "Cholinergic Urticaria: When Heat and Exercise Break Out the Hives",
+      "path": "/symptoms/allergies/cholinergic-urticaria-tcm/",
+      "type": "symptom-guide",
+      "parent": "allergies",
+      "estimated_read_time": 9,
+      "keywords": [
+        "cholinergic urticaria tcm",
+        "heat hives",
+        "exercise hives tcm"
+      ],
+      "id": "996"
+    },
+    {
+      "title": "Migraine With Aura: A TCM View of the Warning Before the Storm",
+      "path": "/symptoms/headaches/migraine-with-aura-tcm/",
+      "type": "symptom-guide",
+      "parent": "headaches",
+      "estimated_read_time": 10,
+      "keywords": [
+        "migraine with aura tcm",
+        "visual aura",
+        "migraine warning signs"
+      ],
+      "id": "997"
+    },
+    {
+      "title": "Weekend Headache: A TCM View of the Let-Down Pattern",
+      "path": "/symptoms/headaches/weekend-headache-tcm/",
+      "type": "symptom-guide",
+      "parent": "headaches",
+      "estimated_read_time": 8,
+      "keywords": [
+        "weekend headache tcm",
+        "let down headache",
+        "saturday headache"
+      ],
+      "id": "998"
+    },
+    {
+      "title": "Maskne: A TCM View of Breakouts Under the Mask",
+      "path": "/symptoms/skin-conditions/maskne-tcm/",
+      "type": "symptom-guide",
+      "parent": "skin-conditions",
+      "estimated_read_time": 8,
+      "keywords": [
+        "maskne tcm",
+        "mask acne",
+        "chin breakouts tcm"
+      ],
+      "id": "999"
+    },
+    {
+      "title": "Lichen Planus: A TCM View of the Itchy Purple Rash",
+      "path": "/symptoms/skin-conditions/lichen-planus-tcm/",
+      "type": "symptom-guide",
+      "parent": "skin-conditions",
+      "estimated_read_time": 9,
+      "keywords": [
+        "lichen planus tcm",
+        "purple itchy rash",
+        "skin inflammation tcm"
+      ],
+      "id": "1000"
+    },
+    {
+      "title": "Molluscum Contagiosum: A TCM View of the Pearly Bumps",
+      "path": "/symptoms/skin-conditions/molluscum-tcm/",
+      "type": "symptom-guide",
+      "parent": "skin-conditions",
+      "estimated_read_time": 8,
+      "keywords": [
+        "molluscum contagiosum tcm",
+        "pearly bumps skin",
+        "viral skin bumps tcm"
+      ],
+      "id": "1001"
+    },
+    {
+      "title": "Low Stomach Acid: A TCM View of the Other Stomach Problem",
+      "path": "/symptoms/digestion/low-stomach-acid-tcm/",
+      "type": "symptom-guide",
+      "parent": "digestion",
+      "estimated_read_time": 9,
+      "keywords": [
+        "low stomach acid tcm",
+        "hypochlorhydria",
+        "bloating after eating tcm"
+      ],
+      "id": "1002"
+    },
+    {
+      "title": "Uterine Prolapse: A TCM View of Sinking Pelvic Support",
+      "path": "/symptoms/womens-health/uterine-prolapse-tcm/",
+      "type": "symptom-guide",
+      "parent": "womens-health",
+      "estimated_read_time": 9,
+      "keywords": [
+        "uterine prolapse tcm",
+        "pelvic floor tcm",
+        "sinking qi"
+      ],
+      "id": "1003"
+    },
+    {
+      "title": "Bronchiectasis: A TCM View of a Lung That Cannot Clear Itself",
+      "path": "/symptoms/respiratory-health/bronchiectasis-tcm/",
+      "type": "symptom-guide",
+      "parent": "respiratory-health",
+      "estimated_read_time": 9,
+      "keywords": [
+        "bronchiectasis tcm",
+        "excess mucus lungs",
+        "phlegm clearance tcm"
+      ],
+      "id": "1004"
     }
   ],
   "published": [
