@@ -1,19 +1,6 @@
 {
   "queue": [
     {
-      "title": "Otosclerosis and Hearing Loss: A TCM View of a Stiffening Ear",
-      "path": "/symptoms/ear-health-tinnitus/otosclerosis-tcm/",
-      "type": "symptom-guide",
-      "parent": "ear-health-tinnitus",
-      "estimated_read_time": 9,
-      "keywords": [
-        "otosclerosis tcm",
-        "progressive hearing loss",
-        "stiff ear bone tcm"
-      ],
-      "id": "990"
-    },
-    {
       "title": "Vestibular Neuritis in TCM: Recovering From a Sudden Spin",
       "path": "/symptoms/ear-health-tinnitus/vestibular-neuritis-tcm/",
       "type": "symptom-guide",
@@ -12874,6 +12861,19 @@
         "cognitive load tcm"
       ],
       "id": "989"
+    },
+    {
+      "title": "Otosclerosis and Hearing Loss: A TCM View of a Stiffening Ear",
+      "path": "/symptoms/ear-health-tinnitus/otosclerosis-tcm/",
+      "type": "symptom-guide",
+      "parent": "ear-health-tinnitus",
+      "estimated_read_time": 9,
+      "keywords": [
+        "otosclerosis tcm",
+        "progressive hearing loss",
+        "stiff ear bone tcm"
+      ],
+      "id": "990"
     }
   ]
 }
