@@ -1,19 +1,6 @@
 {
   "queue": [
     {
-      "title": "Cholinergic Urticaria: When Heat and Exercise Break Out the Hives",
-      "path": "/symptoms/allergies/cholinergic-urticaria-tcm/",
-      "type": "symptom-guide",
-      "parent": "allergies",
-      "estimated_read_time": 9,
-      "keywords": [
-        "cholinergic urticaria tcm",
-        "heat hives",
-        "exercise hives tcm"
-      ],
-      "id": "996"
-    },
-    {
       "title": "Migraine With Aura: A TCM View of the Warning Before the Storm",
       "path": "/symptoms/headaches/migraine-with-aura-tcm/",
       "type": "symptom-guide",
@@ -12874,6 +12861,19 @@
         "food sensitivity tcm"
       ],
       "id": "995"
+    },
+    {
+      "title": "Cholinergic Urticaria: When Heat and Exercise Break Out the Hives",
+      "path": "/symptoms/allergies/cholinergic-urticaria-tcm/",
+      "type": "symptom-guide",
+      "parent": "allergies",
+      "estimated_read_time": 9,
+      "keywords": [
+        "cholinergic urticaria tcm",
+        "heat hives",
+        "exercise hives tcm"
+      ],
+      "id": "996"
     }
   ]
 }
