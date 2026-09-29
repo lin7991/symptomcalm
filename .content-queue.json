@@ -1,19 +1,6 @@
 {
   "queue": [
     {
-      "title": "Weekend Headache: A TCM View of the Let-Down Pattern",
-      "path": "/symptoms/headaches/weekend-headache-tcm/",
-      "type": "symptom-guide",
-      "parent": "headaches",
-      "estimated_read_time": 8,
-      "keywords": [
-        "weekend headache tcm",
-        "let down headache",
-        "saturday headache"
-      ],
-      "id": "998"
-    },
-    {
       "title": "Maskne: A TCM View of Breakouts Under the Mask",
       "path": "/symptoms/skin-conditions/maskne-tcm/",
       "type": "symptom-guide",
@@ -12874,6 +12861,19 @@
         "migraine warning signs"
       ],
       "id": "997"
+    },
+    {
+      "title": "Weekend Headache: A TCM View of the Let-Down Pattern",
+      "path": "/symptoms/headaches/weekend-headache-tcm/",
+      "type": "symptom-guide",
+      "parent": "headaches",
+      "estimated_read_time": 8,
+      "keywords": [
+        "weekend headache tcm",
+        "let down headache",
+        "saturday headache"
+      ],
+      "id": "998"
     }
   ]
 }
