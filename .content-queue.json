@@ -1,19 +1,6 @@
 {
   "queue": [
     {
-      "title": "Anal Fissure: A TCM View of the Tear That Won't Close",
-      "path": "/symptoms/digestion/anal-fissure-tcm/",
-      "type": "symptom-guide",
-      "parent": "digestion",
-      "estimated_read_time": 8,
-      "keywords": [
-        "anal fissure tcm",
-        "painful bowel movement",
-        "rectal pain tcm"
-      ],
-      "id": "1005"
-    },
-    {
       "title": "Fructose Intolerance: A TCM View of the Sweetener That Backfires",
       "path": "/symptoms/digestion/fructose-intolerance-tcm/",
       "type": "symptom-guide",
@@ -13069,6 +13056,19 @@
         "phlegm clearance tcm"
       ],
       "id": "1004"
+    },
+    {
+      "title": "Anal Fissure: A TCM View of the Tear That Won't Close",
+      "path": "/symptoms/digestion/anal-fissure-tcm/",
+      "type": "symptom-guide",
+      "parent": "digestion",
+      "estimated_read_time": 8,
+      "keywords": [
+        "anal fissure tcm",
+        "painful bowel movement",
+        "rectal pain tcm"
+      ],
+      "id": "1005"
     }
   ]
 }
