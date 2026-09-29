@@ -1,19 +1,6 @@
 {
   "queue": [
     {
-      "title": "Lichen Planus: A TCM View of the Itchy Purple Rash",
-      "path": "/symptoms/skin-conditions/lichen-planus-tcm/",
-      "type": "symptom-guide",
-      "parent": "skin-conditions",
-      "estimated_read_time": 9,
-      "keywords": [
-        "lichen planus tcm",
-        "purple itchy rash",
-        "skin inflammation tcm"
-      ],
-      "id": "1000"
-    },
-    {
       "title": "Molluscum Contagiosum: A TCM View of the Pearly Bumps",
       "path": "/symptoms/skin-conditions/molluscum-tcm/",
       "type": "symptom-guide",
@@ -12874,6 +12861,19 @@
         "chin breakouts tcm"
       ],
       "id": "999"
+    },
+    {
+      "title": "Lichen Planus: A TCM View of the Itchy Purple Rash",
+      "path": "/symptoms/skin-conditions/lichen-planus-tcm/",
+      "type": "symptom-guide",
+      "parent": "skin-conditions",
+      "estimated_read_time": 9,
+      "keywords": [
+        "lichen planus tcm",
+        "purple itchy rash",
+        "skin inflammation tcm"
+      ],
+      "id": "1000"
     }
   ]
 }
