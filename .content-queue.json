@@ -1,19 +1,6 @@
 {
   "queue": [
     {
-      "title": "Bronchiectasis: A TCM View of a Lung That Cannot Clear Itself",
-      "path": "/symptoms/respiratory-health/bronchiectasis-tcm/",
-      "type": "symptom-guide",
-      "parent": "respiratory-health",
-      "estimated_read_time": 9,
-      "keywords": [
-        "bronchiectasis tcm",
-        "excess mucus lungs",
-        "phlegm clearance tcm"
-      ],
-      "id": "1004"
-    },
-    {
       "title": "Anal Fissure: A TCM View of the Tear That Won't Close",
       "path": "/symptoms/digestion/anal-fissure-tcm/",
       "type": "symptom-guide",
@@ -13069,6 +13056,19 @@
         "sinking qi"
       ],
       "id": "1003"
+    },
+    {
+      "title": "Bronchiectasis: A TCM View of a Lung That Cannot Clear Itself",
+      "path": "/symptoms/respiratory-health/bronchiectasis-tcm/",
+      "type": "symptom-guide",
+      "parent": "respiratory-health",
+      "estimated_read_time": 9,
+      "keywords": [
+        "bronchiectasis tcm",
+        "excess mucus lungs",
+        "phlegm clearance tcm"
+      ],
+      "id": "1004"
     }
   ]
 }
