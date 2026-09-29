@@ -1,19 +1,6 @@
 {
   "queue": [
     {
-      "title": "Molluscum Contagiosum: A TCM View of the Pearly Bumps",
-      "path": "/symptoms/skin-conditions/molluscum-tcm/",
-      "type": "symptom-guide",
-      "parent": "skin-conditions",
-      "estimated_read_time": 8,
-      "keywords": [
-        "molluscum contagiosum tcm",
-        "pearly bumps skin",
-        "viral skin bumps tcm"
-      ],
-      "id": "1001"
-    },
-    {
       "title": "Low Stomach Acid: A TCM View of the Other Stomach Problem",
       "path": "/symptoms/digestion/low-stomach-acid-tcm/",
       "type": "symptom-guide",
@@ -51,6 +38,201 @@
         "phlegm clearance tcm"
       ],
       "id": "1004"
+    },
+    {
+      "title": "Anal Fissure: A TCM View of the Tear That Won't Close",
+      "path": "/symptoms/digestion/anal-fissure-tcm/",
+      "type": "symptom-guide",
+      "parent": "digestion",
+      "estimated_read_time": 8,
+      "keywords": [
+        "anal fissure tcm",
+        "painful bowel movement",
+        "rectal pain tcm"
+      ],
+      "id": "1005"
+    },
+    {
+      "title": "Fructose Intolerance: A TCM View of the Sweetener That Backfires",
+      "path": "/symptoms/digestion/fructose-intolerance-tcm/",
+      "type": "symptom-guide",
+      "parent": "digestion",
+      "estimated_read_time": 8,
+      "keywords": [
+        "fructose intolerance tcm",
+        "fruit bloating",
+        "sugar malabsorption tcm"
+      ],
+      "id": "1006"
+    },
+    {
+      "title": "Mucus in Stool: A TCM View of Dampness in the Gut",
+      "path": "/symptoms/digestion/mucus-in-stool-tcm/",
+      "type": "symptom-guide",
+      "parent": "digestion",
+      "estimated_read_time": 8,
+      "keywords": [
+        "mucus in stool tcm",
+        "dampness gut",
+        "stool changes tcm"
+      ],
+      "id": "1007"
+    },
+    {
+      "title": "Night Panic Attacks: A TCM View of Waking in Terror",
+      "path": "/symptoms/anxiety/panic-attacks-at-night-tcm/",
+      "type": "symptom-guide",
+      "parent": "anxiety",
+      "estimated_read_time": 9,
+      "keywords": [
+        "night panic attacks tcm",
+        "nocturnal panic",
+        "waking up panicking tcm"
+      ],
+      "id": "1008"
+    },
+    {
+      "title": "Catastrophizing: A TCM View of a Mind That Expects Disaster",
+      "path": "/symptoms/anxiety/catastrophizing-tcm/",
+      "type": "symptom-guide",
+      "parent": "anxiety",
+      "estimated_read_time": 9,
+      "keywords": [
+        "catastrophizing tcm",
+        "worst case thinking",
+        "anxious thinking tcm"
+      ],
+      "id": "1009"
+    },
+    {
+      "title": "Teenage Anxiety: A TCM View for Parents and Teens",
+      "path": "/symptoms/anxiety/teenage-anxiety-tcm/",
+      "type": "symptom-guide",
+      "parent": "anxiety",
+      "estimated_read_time": 9,
+      "keywords": [
+        "teenage anxiety tcm",
+        "adolescent anxiety",
+        "teen stress tcm"
+      ],
+      "id": "1010"
+    },
+    {
+      "title": "Mononucleosis: A TCM View of Lingering Post-Viral Exhaustion",
+      "path": "/symptoms/fatigue/mononucleosis-tcm/",
+      "type": "symptom-guide",
+      "parent": "fatigue",
+      "estimated_read_time": 9,
+      "keywords": [
+        "mononucleosis tcm",
+        "ebv fatigue tcm",
+        "post viral exhaustion"
+      ],
+      "id": "1011"
+    },
+    {
+      "title": "Low Motivation: A TCM View of a Stalled Engine",
+      "path": "/symptoms/fatigue/low-motivation-tcm/",
+      "type": "symptom-guide",
+      "parent": "fatigue",
+      "estimated_read_time": 8,
+      "keywords": [
+        "low motivation tcm",
+        "no drive fatigue",
+        "apathy tcm view"
+      ],
+      "id": "1012"
+    },
+    {
+      "title": "Scabies: A TCM View of the Itch That Spreads at Night",
+      "path": "/symptoms/skin-conditions/scabies-tcm/",
+      "type": "symptom-guide",
+      "parent": "skin-conditions",
+      "estimated_read_time": 8,
+      "keywords": [
+        "scabies tcm",
+        "night itching rash",
+        "contagious itch tcm"
+      ],
+      "id": "1013"
+    },
+    {
+      "title": "Pityriasis Rosea: A TCM View of the Christmas Tree Rash",
+      "path": "/symptoms/skin-conditions/pityriasis-rosea-tcm/",
+      "type": "symptom-guide",
+      "parent": "skin-conditions",
+      "estimated_read_time": 8,
+      "keywords": [
+        "pityriasis rosea tcm",
+        "herald patch rash",
+        "scaly rash tcm"
+      ],
+      "id": "1014"
+    },
+    {
+      "title": "Ringworm: A TCM View of the Circular Rash",
+      "path": "/symptoms/skin-conditions/ringworm-tcm/",
+      "type": "symptom-guide",
+      "parent": "skin-conditions",
+      "estimated_read_time": 8,
+      "keywords": [
+        "ringworm tcm",
+        "tinea corporis",
+        "circular rash tcm"
+      ],
+      "id": "1015"
+    },
+    {
+      "title": "Pleurisy: A TCM View of Pain on Every Breath",
+      "path": "/symptoms/respiratory-health/pleurisy-tcm/",
+      "type": "symptom-guide",
+      "parent": "respiratory-health",
+      "estimated_read_time": 9,
+      "keywords": [
+        "pleurisy tcm",
+        "pain when breathing",
+        "chest wall pain tcm"
+      ],
+      "id": "1016"
+    },
+    {
+      "title": "Whooping Cough: A TCM View of the Cough That Comes in Waves",
+      "path": "/symptoms/respiratory-health/whooping-cough-tcm/",
+      "type": "symptom-guide",
+      "parent": "respiratory-health",
+      "estimated_read_time": 9,
+      "keywords": [
+        "whooping cough tcm",
+        "pertussis tcm",
+        "paroxysmal cough"
+      ],
+      "id": "1017"
+    },
+    {
+      "title": "The Inner Critic: A TCM View of the Voice That Won't Let Up",
+      "path": "/symptoms/mental-emotional-health/inner-critic-tcm/",
+      "type": "symptom-guide",
+      "parent": "mental-emotional-health",
+      "estimated_read_time": 9,
+      "keywords": [
+        "inner critic tcm",
+        "self criticism tcm",
+        "harsh inner voice"
+      ],
+      "id": "1018"
+    },
+    {
+      "title": "Frequent Crying: A TCM View of Tears That Come Too Easily",
+      "path": "/symptoms/mental-emotional-health/crying-tcm/",
+      "type": "symptom-guide",
+      "parent": "mental-emotional-health",
+      "estimated_read_time": 9,
+      "keywords": [
+        "frequent crying tcm",
+        "emotional tears tcm",
+        "easily moved to tears"
+      ],
+      "id": "1019"
     }
   ],
   "published": [
@@ -12874,6 +13056,19 @@
         "skin inflammation tcm"
       ],
       "id": "1000"
+    },
+    {
+      "title": "Molluscum Contagiosum: A TCM View of the Pearly Bumps",
+      "path": "/symptoms/skin-conditions/molluscum-tcm/",
+      "type": "symptom-guide",
+      "parent": "skin-conditions",
+      "estimated_read_time": 8,
+      "keywords": [
+        "molluscum contagiosum tcm",
+        "pearly bumps skin",
+        "viral skin bumps tcm"
+      ],
+      "id": "1001"
     }
   ]
 }
