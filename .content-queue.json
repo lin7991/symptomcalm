@@ -1,19 +1,6 @@
 {
   "queue": [
     {
-      "title": "Maskne: A TCM View of Breakouts Under the Mask",
-      "path": "/symptoms/skin-conditions/maskne-tcm/",
-      "type": "symptom-guide",
-      "parent": "skin-conditions",
-      "estimated_read_time": 8,
-      "keywords": [
-        "maskne tcm",
-        "mask acne",
-        "chin breakouts tcm"
-      ],
-      "id": "999"
-    },
-    {
       "title": "Lichen Planus: A TCM View of the Itchy Purple Rash",
       "path": "/symptoms/skin-conditions/lichen-planus-tcm/",
       "type": "symptom-guide",
@@ -12874,6 +12861,19 @@
         "saturday headache"
       ],
       "id": "998"
+    },
+    {
+      "title": "Maskne: A TCM View of Breakouts Under the Mask",
+      "path": "/symptoms/skin-conditions/maskne-tcm/",
+      "type": "symptom-guide",
+      "parent": "skin-conditions",
+      "estimated_read_time": 8,
+      "keywords": [
+        "maskne tcm",
+        "mask acne",
+        "chin breakouts tcm"
+      ],
+      "id": "999"
     }
   ]
 }
