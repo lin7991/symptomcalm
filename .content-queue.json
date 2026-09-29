@@ -1,19 +1,6 @@
 {
   "queue": [
     {
-      "title": "Low Stomach Acid: A TCM View of the Other Stomach Problem",
-      "path": "/symptoms/digestion/low-stomach-acid-tcm/",
-      "type": "symptom-guide",
-      "parent": "digestion",
-      "estimated_read_time": 9,
-      "keywords": [
-        "low stomach acid tcm",
-        "hypochlorhydria",
-        "bloating after eating tcm"
-      ],
-      "id": "1002"
-    },
-    {
       "title": "Uterine Prolapse: A TCM View of Sinking Pelvic Support",
       "path": "/symptoms/womens-health/uterine-prolapse-tcm/",
       "type": "symptom-guide",
@@ -13069,6 +13056,19 @@
         "viral skin bumps tcm"
       ],
       "id": "1001"
+    },
+    {
+      "title": "Low Stomach Acid: A TCM View of the Other Stomach Problem",
+      "path": "/symptoms/digestion/low-stomach-acid-tcm/",
+      "type": "symptom-guide",
+      "parent": "digestion",
+      "estimated_read_time": 9,
+      "keywords": [
+        "low stomach acid tcm",
+        "hypochlorhydria",
+        "bloating after eating tcm"
+      ],
+      "id": "1002"
     }
   ]
 }
