@@ -1,19 +1,6 @@
 {
   "queue": [
     {
-      "title": "Scabies: A TCM View of the Itch That Spreads at Night",
-      "path": "/symptoms/skin-conditions/scabies-tcm/",
-      "type": "symptom-guide",
-      "parent": "skin-conditions",
-      "estimated_read_time": 8,
-      "keywords": [
-        "scabies tcm",
-        "night itching rash",
-        "contagious itch tcm"
-      ],
-      "id": "1013"
-    },
-    {
       "title": "Pityriasis Rosea: A TCM View of the Christmas Tree Rash",
       "path": "/symptoms/skin-conditions/pityriasis-rosea-tcm/",
       "type": "symptom-guide",
@@ -13069,6 +13056,19 @@
         "apathy tcm view"
       ],
       "id": "1012"
+    },
+    {
+      "title": "Scabies: A TCM View of the Itch That Spreads at Night",
+      "path": "/symptoms/skin-conditions/scabies-tcm/",
+      "type": "symptom-guide",
+      "parent": "skin-conditions",
+      "estimated_read_time": 8,
+      "keywords": [
+        "scabies tcm",
+        "night itching rash",
+        "contagious itch tcm"
+      ],
+      "id": "1013"
     }
   ]
 }
