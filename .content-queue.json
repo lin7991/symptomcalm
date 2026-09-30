@@ -1,19 +1,6 @@
 {
   "queue": [
     {
-      "title": "Mucus in Stool: A TCM View of Dampness in the Gut",
-      "path": "/symptoms/digestion/mucus-in-stool-tcm/",
-      "type": "symptom-guide",
-      "parent": "digestion",
-      "estimated_read_time": 8,
-      "keywords": [
-        "mucus in stool tcm",
-        "dampness gut",
-        "stool changes tcm"
-      ],
-      "id": "1007"
-    },
-    {
       "title": "Night Panic Attacks: A TCM View of Waking in Terror",
       "path": "/symptoms/anxiety/panic-attacks-at-night-tcm/",
       "type": "symptom-guide",
@@ -13069,6 +13056,19 @@
         "sugar malabsorption tcm"
       ],
       "id": "1006"
+    },
+    {
+      "title": "Mucus in Stool: A TCM View of Dampness in the Gut",
+      "path": "/symptoms/digestion/mucus-in-stool-tcm/",
+      "type": "symptom-guide",
+      "parent": "digestion",
+      "estimated_read_time": 8,
+      "keywords": [
+        "mucus in stool tcm",
+        "dampness gut",
+        "stool changes tcm"
+      ],
+      "id": "1007"
     }
   ]
 }
