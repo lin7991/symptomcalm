@@ -1,19 +1,6 @@
 {
   "queue": [
     {
-      "title": "Teenage Anxiety: A TCM View for Parents and Teens",
-      "path": "/symptoms/anxiety/teenage-anxiety-tcm/",
-      "type": "symptom-guide",
-      "parent": "anxiety",
-      "estimated_read_time": 9,
-      "keywords": [
-        "teenage anxiety tcm",
-        "adolescent anxiety",
-        "teen stress tcm"
-      ],
-      "id": "1010"
-    },
-    {
       "title": "Mononucleosis: A TCM View of Lingering Post-Viral Exhaustion",
       "path": "/symptoms/fatigue/mononucleosis-tcm/",
       "type": "symptom-guide",
@@ -13069,6 +13056,19 @@
         "anxious thinking tcm"
       ],
       "id": "1009"
+    },
+    {
+      "title": "Teenage Anxiety: A TCM View for Parents and Teens",
+      "path": "/symptoms/anxiety/teenage-anxiety-tcm/",
+      "type": "symptom-guide",
+      "parent": "anxiety",
+      "estimated_read_time": 9,
+      "keywords": [
+        "teenage anxiety tcm",
+        "adolescent anxiety",
+        "teen stress tcm"
+      ],
+      "id": "1010"
     }
   ]
 }
