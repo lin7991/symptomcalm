@@ -1,19 +1,6 @@
 {
   "queue": [
     {
-      "title": "Low Motivation: A TCM View of a Stalled Engine",
-      "path": "/symptoms/fatigue/low-motivation-tcm/",
-      "type": "symptom-guide",
-      "parent": "fatigue",
-      "estimated_read_time": 8,
-      "keywords": [
-        "low motivation tcm",
-        "no drive fatigue",
-        "apathy tcm view"
-      ],
-      "id": "1012"
-    },
-    {
       "title": "Scabies: A TCM View of the Itch That Spreads at Night",
       "path": "/symptoms/skin-conditions/scabies-tcm/",
       "type": "symptom-guide",
@@ -13069,6 +13056,19 @@
         "post viral exhaustion"
       ],
       "id": "1011"
+    },
+    {
+      "title": "Low Motivation: A TCM View of a Stalled Engine",
+      "path": "/symptoms/fatigue/low-motivation-tcm/",
+      "type": "symptom-guide",
+      "parent": "fatigue",
+      "estimated_read_time": 8,
+      "keywords": [
+        "low motivation tcm",
+        "no drive fatigue",
+        "apathy tcm view"
+      ],
+      "id": "1012"
     }
   ]
 }
