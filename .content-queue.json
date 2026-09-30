@@ -1,19 +1,6 @@
 {
   "queue": [
     {
-      "title": "Mononucleosis: A TCM View of Lingering Post-Viral Exhaustion",
-      "path": "/symptoms/fatigue/mononucleosis-tcm/",
-      "type": "symptom-guide",
-      "parent": "fatigue",
-      "estimated_read_time": 9,
-      "keywords": [
-        "mononucleosis tcm",
-        "ebv fatigue tcm",
-        "post viral exhaustion"
-      ],
-      "id": "1011"
-    },
-    {
       "title": "Low Motivation: A TCM View of a Stalled Engine",
       "path": "/symptoms/fatigue/low-motivation-tcm/",
       "type": "symptom-guide",
@@ -13069,6 +13056,19 @@
         "teen stress tcm"
       ],
       "id": "1010"
+    },
+    {
+      "title": "Mononucleosis: A TCM View of Lingering Post-Viral Exhaustion",
+      "path": "/symptoms/fatigue/mononucleosis-tcm/",
+      "type": "symptom-guide",
+      "parent": "fatigue",
+      "estimated_read_time": 9,
+      "keywords": [
+        "mononucleosis tcm",
+        "ebv fatigue tcm",
+        "post viral exhaustion"
+      ],
+      "id": "1011"
     }
   ]
 }
