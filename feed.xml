@@ -5,8 +5,15 @@
     <link>https://symptomcalm.com/</link>
     <description>Understand your symptoms through the lens of Traditional Chinese Medicine. No jargon, no miracle claims — clear, grounded wisdom.</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 30 Sep 2026 22:30:49 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 01 Oct 2026 05:25:17 +0000</lastBuildDate>
     <atom:link href="https://symptomcalm.com/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title><![CDATA[Pityriasis Rosea: A TCM View of the Christmas Tree Rash]]></title>
+      <link>https://symptomcalm.com/symptoms/skin-conditions/pityriasis-rosea-tcm/</link>
+      <guid>https://symptomcalm.com/symptoms/skin-conditions/pityriasis-rosea-tcm/</guid>
+      <pubDate>Thu, 01 Oct 2026 05:25:17 +0000</pubDate>
+      <description><![CDATA[Explore Pityriasis Rosea: A TCM View of the Christmas Tree Rash through the lens of Traditional Chinese Medicine at SymptomCalm.]]></description>
+    </item>
     <item>
       <title><![CDATA[Scabies: A TCM View of the Itch That Spreads at Night]]></title>
       <link>https://symptomcalm.com/symptoms/skin-conditions/scabies-tcm/</link>
@@ -88,7 +95,7 @@
       <title><![CDATA[Low Stomach Acid: A TCM View of the Other Stomach Problem]]></title>
       <link>https://symptomcalm.com/symptoms/digestion/low-stomach-acid-tcm/</link>
       <guid>https://symptomcalm.com/symptoms/digestion/low-stomach-acid-tcm/</guid>
-      <pubDate>Thu, 01 Oct 2026 05:22:14 +0000</pubDate>
+      <pubDate>Thu, 01 Oct 2026 16:10:34 +0000</pubDate>
       <description><![CDATA[Explore Low Stomach Acid: A TCM View of the Other Stomach Problem through the lens of Traditional Chinese Medicine at SymptomCalm.]]></description>
     </item>
     <item>
@@ -139,13 +146,6 @@
       <guid>https://symptomcalm.com/symptoms/allergies/sulfite-sensitivity-tcm/</guid>
       <pubDate>Mon, 28 Sep 2026 20:08:55 +0000</pubDate>
       <description><![CDATA[Explore Sulfite Sensitivity: A TCM View of Wine Flares and Reactions through the lens of Traditional Chinese Medicine at SymptomCalm.]]></description>
-    </item>
-    <item>
-      <title><![CDATA[Pterygium and Pinguecula: A TCM View of Growths on the Eye]]></title>
-      <link>https://symptomcalm.com/symptoms/eye-health/pterygium-tcm/</link>
-      <guid>https://symptomcalm.com/symptoms/eye-health/pterygium-tcm/</guid>
-      <pubDate>Mon, 28 Sep 2026 16:19:58 +0000</pubDate>
-      <description><![CDATA[Explore Pterygium and Pinguecula: A TCM View of Growths on the Eye through the lens of Traditional Chinese Medicine at SymptomCalm.]]></description>
     </item>
   </channel>
 </rss>
