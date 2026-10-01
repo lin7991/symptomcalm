@@ -1,19 +1,6 @@
 {
   "queue": [
     {
-      "title": "Ringworm: A TCM View of the Circular Rash",
-      "path": "/symptoms/skin-conditions/ringworm-tcm/",
-      "type": "symptom-guide",
-      "parent": "skin-conditions",
-      "estimated_read_time": 8,
-      "keywords": [
-        "ringworm tcm",
-        "tinea corporis",
-        "circular rash tcm"
-      ],
-      "id": "1015"
-    },
-    {
       "title": "Pleurisy: A TCM View of Pain on Every Breath",
       "path": "/symptoms/respiratory-health/pleurisy-tcm/",
       "type": "symptom-guide",
@@ -13069,6 +13056,19 @@
         "scaly rash tcm"
       ],
       "id": "1014"
+    },
+    {
+      "title": "Ringworm: A TCM View of the Circular Rash",
+      "path": "/symptoms/skin-conditions/ringworm-tcm/",
+      "type": "symptom-guide",
+      "parent": "skin-conditions",
+      "estimated_read_time": 8,
+      "keywords": [
+        "ringworm tcm",
+        "tinea corporis",
+        "circular rash tcm"
+      ],
+      "id": "1015"
     }
   ]
 }
