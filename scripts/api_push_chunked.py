@@ -6,9 +6,27 @@ Usage: python3 api_push_chunked.py [--apply] [--batch 100] [--msg "..."]
 Phase C references existing blob SHAs (content-addressed, already uploaded by
 earlier runs); if the tree call complains, the batch's blobs are uploaded then retried.
 """
-import json, base64, subprocess, os, sys, uuid, hashlib
+import json, base64, subprocess, os, sys, uuid, hashlib, re
 
-TOKEN = open('/tmp/gh_token.txt').read().strip()
+
+def load_token():
+    """Resolve a PAT. /tmp is wiped on reboot, which silently broke cron pushes,
+    so fall back to the persisted askpass file."""
+    for p in ('/tmp/gh_token.txt',
+              os.path.expanduser('~/.hermes/profiles/symptomcalm/.gh_token')):
+        if os.path.exists(p):
+            t = open(p).read().strip()
+            if t.startswith('gh'):
+                return t
+    ask = os.path.expanduser('~/.hermes/profiles/symptomcalm/.git-askpass.sh')
+    if os.path.exists(ask):
+        m = re.findall(r'gh[pousr]_[A-Za-z0-9]{20,}', open(ask).read())
+        if m:
+            return m[0]
+    sys.exit('no GitHub token found (/tmp/gh_token.txt, .gh_token, .git-askpass.sh)')
+
+
+TOKEN = load_token()
 API = "https://api.github.com/repos/lin7991/symptomcalm"
 ROOT = "/Users/xj/symptomcalm"
 

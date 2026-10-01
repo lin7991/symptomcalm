@@ -19,6 +19,7 @@ cd "$HOME/symptomcalm" || exit 1
 
 REMAINING=$(python3 .cron/publish-article.py remaining 2>/dev/null)
 echo "$(date): Queue has $REMAINING items" >> "$HOME/symptomcalm/.cron/publish.log"
+QUEUE_BEFORE="$REMAINING"
 
 # Run Hermes to publish 2 articles (EN + ZH each)
 hermes chat --profile symptomcalm -Q -q "
@@ -52,6 +53,17 @@ STEP 3: Verify both EN and ZH pages with curl.
 " --skills tcm-content-production 2>&1 >> "$HOME/symptomcalm/.cron/publish.log"
 
 echo "$(date): Auto-publish 2x EN+ZH complete" >> "$HOME/symptomcalm/.cron/publish.log"
+
+# Guard: a failed model/API call makes the generator exit without publishing,
+# yet the cycle used to keep going and commit metadata-only noise. Worse, a
+# broken key looked like a healthy run. Refuse to continue unless the queue
+# actually shrank.
+QUEUE_AFTER=$(python3 .cron/publish-article.py remaining 2>/dev/null)
+if [ -n "$QUEUE_BEFORE" ] && [ -n "$QUEUE_AFTER" ] && [ "$QUEUE_AFTER" -ge "$QUEUE_BEFORE" ]; then
+  echo "$(date): CONTENT GENERATION FAILED — queue $QUEUE_BEFORE -> $QUEUE_AFTER, no article produced. Aborting cycle." >> "$HOME/symptomcalm/.cron/publish.log"
+  exit 1
+fi
+echo "$(date): Queue $QUEUE_BEFORE -> $QUEUE_AFTER (published)" >> "$HOME/symptomcalm/.cron/publish.log"
 
 # Generate RSS feed
 echo "$(date): Regenerating RSS feed..." >> "$HOME/symptomcalm/.cron/publish.log"
@@ -100,8 +112,11 @@ if ! git diff --cached --quiet 2>/dev/null; then
   if git $PUSH_ARGS push origin main >> "$LOG" 2>&1; then
     echo "$(date): push OK" >> "$LOG"
   else
-    echo "$(date): git push failed — trying GitHub API fallback" >> "$LOG"
-    python3 "$HOME/symptomcalm/scripts/api_push.py" --apply >> "$LOG" 2>&1 || \
+    echo "$(date): git push failed — trying chunked GitHub API fallback" >> "$LOG"
+    # Chunked tree build: a single /git/trees POST with 1000+ entries returns
+    # "Server Error" (verified twice: 1995-file GEO push, 1987-file auto-publish run).
+    python3 "$HOME/symptomcalm/scripts/api_push_chunked.py" --apply --batch 100 \
+      --msg "auto-publish $(date +%F)" >> "$LOG" 2>&1 || \
       echo "$(date): API push fallback also failed" >> "$LOG"
   fi
 fi
