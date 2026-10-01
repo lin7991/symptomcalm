@@ -1,19 +1,6 @@
 {
   "queue": [
     {
-      "title": "Pleurisy: A TCM View of Pain on Every Breath",
-      "path": "/symptoms/respiratory-health/pleurisy-tcm/",
-      "type": "symptom-guide",
-      "parent": "respiratory-health",
-      "estimated_read_time": 9,
-      "keywords": [
-        "pleurisy tcm",
-        "pain when breathing",
-        "chest wall pain tcm"
-      ],
-      "id": "1016"
-    },
-    {
       "title": "Whooping Cough: A TCM View of the Cough That Comes in Waves",
       "path": "/symptoms/respiratory-health/whooping-cough-tcm/",
       "type": "symptom-guide",
@@ -13069,6 +13056,19 @@
         "circular rash tcm"
       ],
       "id": "1015"
+    },
+    {
+      "title": "Pleurisy: A TCM View of Pain on Every Breath",
+      "path": "/symptoms/respiratory-health/pleurisy-tcm/",
+      "type": "symptom-guide",
+      "parent": "respiratory-health",
+      "estimated_read_time": 9,
+      "keywords": [
+        "pleurisy tcm",
+        "pain when breathing",
+        "chest wall pain tcm"
+      ],
+      "id": "1016"
     }
   ]
 }
