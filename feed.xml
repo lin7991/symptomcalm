@@ -5,8 +5,15 @@
     <link>https://symptomcalm.com/</link>
     <description>Understand your symptoms through the lens of Traditional Chinese Medicine. No jargon, no miracle claims — clear, grounded wisdom.</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 30 Sep 2026 22:08:57 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 30 Sep 2026 22:30:49 +0000</lastBuildDate>
     <atom:link href="https://symptomcalm.com/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title><![CDATA[Scabies: A TCM View of the Itch That Spreads at Night]]></title>
+      <link>https://symptomcalm.com/symptoms/skin-conditions/scabies-tcm/</link>
+      <guid>https://symptomcalm.com/symptoms/skin-conditions/scabies-tcm/</guid>
+      <pubDate>Wed, 30 Sep 2026 22:30:49 +0000</pubDate>
+      <description><![CDATA[Explore Scabies: A TCM View of the Itch That Spreads at Night through the lens of Traditional Chinese Medicine at SymptomCalm.]]></description>
+    </item>
     <item>
       <title><![CDATA[Low Motivation: A TCM View of a Stalled Engine]]></title>
       <link>https://symptomcalm.com/symptoms/fatigue/low-motivation-tcm/</link>
@@ -81,7 +88,7 @@
       <title><![CDATA[Low Stomach Acid: A TCM View of the Other Stomach Problem]]></title>
       <link>https://symptomcalm.com/symptoms/digestion/low-stomach-acid-tcm/</link>
       <guid>https://symptomcalm.com/symptoms/digestion/low-stomach-acid-tcm/</guid>
-      <pubDate>Wed, 30 Sep 2026 22:20:16 +0000</pubDate>
+      <pubDate>Thu, 01 Oct 2026 05:22:14 +0000</pubDate>
       <description><![CDATA[Explore Low Stomach Acid: A TCM View of the Other Stomach Problem through the lens of Traditional Chinese Medicine at SymptomCalm.]]></description>
     </item>
     <item>
@@ -139,13 +146,6 @@
       <guid>https://symptomcalm.com/symptoms/eye-health/pterygium-tcm/</guid>
       <pubDate>Mon, 28 Sep 2026 16:19:58 +0000</pubDate>
       <description><![CDATA[Explore Pterygium and Pinguecula: A TCM View of Growths on the Eye through the lens of Traditional Chinese Medicine at SymptomCalm.]]></description>
-    </item>
-    <item>
-      <title><![CDATA[Keratoconus in TCM: When the Cornea Loses Its Shape]]></title>
-      <link>https://symptomcalm.com/symptoms/eye-health/keratoconus-tcm/</link>
-      <guid>https://symptomcalm.com/symptoms/eye-health/keratoconus-tcm/</guid>
-      <pubDate>Mon, 28 Sep 2026 16:08:09 +0000</pubDate>
-      <description><![CDATA[Explore Keratoconus in TCM: When the Cornea Loses Its Shape through the lens of Traditional Chinese Medicine at SymptomCalm.]]></description>
     </item>
   </channel>
 </rss>

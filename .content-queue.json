@@ -1,19 +1,6 @@
 {
   "queue": [
     {
-      "title": "Pityriasis Rosea: A TCM View of the Christmas Tree Rash",
-      "path": "/symptoms/skin-conditions/pityriasis-rosea-tcm/",
-      "type": "symptom-guide",
-      "parent": "skin-conditions",
-      "estimated_read_time": 8,
-      "keywords": [
-        "pityriasis rosea tcm",
-        "herald patch rash",
-        "scaly rash tcm"
-      ],
-      "id": "1014"
-    },
-    {
       "title": "Ringworm: A TCM View of the Circular Rash",
       "path": "/symptoms/skin-conditions/ringworm-tcm/",
       "type": "symptom-guide",
@@ -13069,6 +13056,19 @@
         "contagious itch tcm"
       ],
       "id": "1013"
+    },
+    {
+      "title": "Pityriasis Rosea: A TCM View of the Christmas Tree Rash",
+      "path": "/symptoms/skin-conditions/pityriasis-rosea-tcm/",
+      "type": "symptom-guide",
+      "parent": "skin-conditions",
+      "estimated_read_time": 8,
+      "keywords": [
+        "pityriasis rosea tcm",
+        "herald patch rash",
+        "scaly rash tcm"
+      ],
+      "id": "1014"
     }
   ]
 }

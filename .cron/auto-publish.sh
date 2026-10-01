@@ -1,6 +1,6 @@
 #!/bin/bash
-# SymptomCalm auto-publisher — fired by launchd every 3 hours
-# Generates EN + ZH article, publishes, then FAQ schema
+# SymptomCalm auto-publisher — fired twice daily at 00:05 and 06:05
+# Generates EN + ZH articles, publishes, then runs deterministic SEO post-processing.
 
 export HERMES_HOME="$HOME/.hermes"
 export PATH="/usr/local/bin:/opt/homebrew/bin:$HOME/.local/bin:$PATH"
@@ -30,7 +30,7 @@ STEP 2: Publish TWO articles in this run. For EACH of the next 2 queue items, do
 A) ENGLISH article:
 - Read next item from queue
 - Use .cron/article-template.html
-- Replace <!--NEWSLETTER_SECTION--> with actual newsletter form HTML
+- Replace <!--NEWSLETTER_SECTION--> with empty string
 - Replace <!--FAQ_SCHEMA--> with empty string
 - Write to /tmp/sc-en.html
 - Run: python3 .cron/publish-article.py publish /tmp/sc-en.html
@@ -39,7 +39,7 @@ A) ENGLISH article:
 B) CHINESE version:
 - Read same English article from /tmp/sc-en.html to get title/info
 - Use .cron/article-template-zh.html
-- Replace <!--NEWSLETTER_SECTION--> with Chinese version form HTML
+- Replace <!--NEWSLETTER_SECTION--> with empty string
 - Replace <!--FAQ_SCHEMA_ZH--> with empty string
 - Write to /tmp/sc-zh.html
 - Determine path from queue item, create directory: mkdir -p zh/CURRENT_PATH
@@ -53,13 +53,12 @@ STEP 3: Verify both EN and ZH pages with curl.
 
 echo "$(date): Auto-publish 2x EN+ZH complete" >> "$HOME/symptomcalm/.cron/publish.log"
 
-# Generate FAQ schema
-echo "$(date): Generating FAQ schema..." >> "$HOME/symptomcalm/.cron/publish.log"
-python3 .cron/add-faq-schema.py >> "$HOME/symptomcalm/.cron/publish.log" 2>&1
-
-# Regenerate RSS feed
+# Generate RSS feed
 echo "$(date): Regenerating RSS feed..." >> "$HOME/symptomcalm/.cron/publish.log"
 python3 .cron/gen-rss.py >> "$HOME/symptomcalm/.cron/publish.log" 2>&1
+
+# Refresh canonical, hreflang, entity schema, and GEO metadata for all pages
+python3 .cron/refresh-seo-geo.py >> "$HOME/symptomcalm/.cron/publish.log" 2>&1
 
 # Update share buttons + og:image for new pages
 echo "$(date): Updating share/images..." >> "$HOME/symptomcalm/.cron/publish.log"
@@ -73,9 +72,22 @@ python3 .cron/add-schemas.py >> "$HOME/symptomcalm/.cron/publish.log" 2>&1
 echo "$(date): Adding hreflang..." >> "$HOME/symptomcalm/.cron/publish.log"
 python3 .cron/add-hreflang.py >> "$HOME/symptomcalm/.cron/publish.log" 2>&1
 
+# Generate FAQ schema last: add-schemas.py can overwrite head JSON-LD blocks
+echo "$(date): Generating FAQ schema last..." >> "$HOME/symptomcalm/.cron/publish.log"
+python3 .cron/add-faq-schema.py >> "$HOME/symptomcalm/.cron/publish.log" 2>&1
+
 # Ensure ZH mirror exists for new articles (batch fallback)
 echo "$(date): Ensuring ZH mirrors..." >> "$HOME/symptomcalm/.cron/publish.log"
 python3 .cron/batch-zh.py >> "$HOME/symptomcalm/.cron/publish.log" 2>&1
+
+# Rebuild sitemap from the actual filesystem after all page writes
+python3 .cron/rebuild-sitemap.py >> "$HOME/symptomcalm/.cron/publish.log" 2>&1
+
+# Release gate: block the commit if required content/SEO fields are missing
+if ! python3 .cron/content-quality-gate.py >> "$HOME/symptomcalm/.cron/publish.log" 2>&1; then
+  echo "$(date): QUALITY GATE FAILED — refusing to commit" >> "$HOME/symptomcalm/.cron/publish.log"
+  exit 1
+fi
 
 # Commit all changes
 cd "$HOME/symptomcalm"
