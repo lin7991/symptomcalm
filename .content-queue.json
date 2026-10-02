@@ -1,20 +1,6 @@
 {
   "queue": [
     {
-      "title": "Croup and Barking Cough in Children: A TCM Perspective for Caregivers",
-      "path": "/symptoms/respiratory-health/croup-tcm/",
-      "type": "cluster",
-      "parent": "respiratory-health",
-      "estimated_read_time": 8,
-      "keywords": [
-        "croup tcm",
-        "barking cough children",
-        "croup night cough",
-        "children respiratory tcm"
-      ],
-      "id": "1020"
-    },
-    {
       "title": "Nausea and Vomiting: Reading the Message Your Stomach Is Sending",
       "path": "/symptoms/digestion/vomiting-tcm/",
       "type": "cluster",
@@ -13279,6 +13265,20 @@
         "easily moved to tears"
       ],
       "id": "1019"
+    },
+    {
+      "title": "Croup and Barking Cough in Children: A TCM Perspective for Caregivers",
+      "path": "/symptoms/respiratory-health/croup-tcm/",
+      "type": "cluster",
+      "parent": "respiratory-health",
+      "estimated_read_time": 8,
+      "keywords": [
+        "croup tcm",
+        "barking cough children",
+        "croup night cough",
+        "children respiratory tcm"
+      ],
+      "id": "1020"
     }
   ]
 }
