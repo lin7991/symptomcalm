@@ -1,19 +1,6 @@
 {
   "queue": [
     {
-      "title": "Frequent Crying: A TCM View of Tears That Come Too Easily",
-      "path": "/symptoms/mental-emotional-health/crying-tcm/",
-      "type": "symptom-guide",
-      "parent": "mental-emotional-health",
-      "estimated_read_time": 9,
-      "keywords": [
-        "frequent crying tcm",
-        "emotional tears tcm",
-        "easily moved to tears"
-      ],
-      "id": "1019"
-    },
-    {
       "title": "Croup and Barking Cough in Children: A TCM Perspective for Caregivers",
       "path": "/symptoms/respiratory-health/croup-tcm/",
       "type": "cluster",
@@ -13279,6 +13266,19 @@
         "harsh inner voice"
       ],
       "id": "1018"
+    },
+    {
+      "title": "Frequent Crying: A TCM View of Tears That Come Too Easily",
+      "path": "/symptoms/mental-emotional-health/crying-tcm/",
+      "type": "symptom-guide",
+      "parent": "mental-emotional-health",
+      "estimated_read_time": 9,
+      "keywords": [
+        "frequent crying tcm",
+        "emotional tears tcm",
+        "easily moved to tears"
+      ],
+      "id": "1019"
     }
   ]
 }
