@@ -65,12 +65,9 @@ if [ -n "$QUEUE_BEFORE" ] && [ -n "$QUEUE_AFTER" ] && [ "$QUEUE_AFTER" -ge "$QUE
 fi
 echo "$(date): Queue $QUEUE_BEFORE -> $QUEUE_AFTER (published)" >> "$HOME/symptomcalm/.cron/publish.log"
 
-# Generate RSS feed
+# Regenerate RSS feed
 echo "$(date): Regenerating RSS feed..." >> "$HOME/symptomcalm/.cron/publish.log"
 python3 .cron/gen-rss.py >> "$HOME/symptomcalm/.cron/publish.log" 2>&1
-
-# Refresh canonical, hreflang, entity schema, and GEO metadata for all pages
-python3 .cron/refresh-seo-geo.py >> "$HOME/symptomcalm/.cron/publish.log" 2>&1
 
 # Update share buttons + og:image for new pages
 echo "$(date): Updating share/images..." >> "$HOME/symptomcalm/.cron/publish.log"
@@ -84,7 +81,12 @@ python3 .cron/add-schemas.py >> "$HOME/symptomcalm/.cron/publish.log" 2>&1
 echo "$(date): Adding hreflang..." >> "$HOME/symptomcalm/.cron/publish.log"
 python3 .cron/add-hreflang.py >> "$HOME/symptomcalm/.cron/publish.log" 2>&1
 
-# Generate FAQ schema last: add-schemas.py can overwrite head JSON-LD blocks
+# Refresh canonical, hreflang, entity schema and GEO metadata LAST among metadata
+# writers: it rewrites the whole ld+json graph, so anything that adds its own
+# block (add-schemas.py) must already have run or its output gets dropped.
+python3 .cron/refresh-seo-geo.py >> "$HOME/symptomcalm/.cron/publish.log" 2>&1
+
+# Generate FAQ schema last of all: refresh-seo-geo.py strips every ld+json block.
 echo "$(date): Generating FAQ schema last..." >> "$HOME/symptomcalm/.cron/publish.log"
 python3 .cron/add-faq-schema.py >> "$HOME/symptomcalm/.cron/publish.log" 2>&1
 

@@ -6,6 +6,18 @@ from html import unescape
 
 ROOT = Path(__file__).resolve().parents[1]
 BANNED = re.compile(r'\b(?:cure|heals?|healing|treats?|treatment for|prevents?|prevent)\b', re.I)
+# Standard medical English about the body's own repair process is not a claim
+# about TCM, so strip these before scanning (they caused false positives on
+# acne-scars / shoulder-pain / herbal-remedies pages).
+SAFE_PHRASES = re.compile(
+    r'wound[- ]healing|slow(?:er|ly)? healing|heals? slowly|slow to heal|'
+    r'healing (?:process|time|phases?|capacity|studies)|normally heal|'
+    r'not a cure|would normally heal|slows? (?:wound )?repair|skin that heals',
+    re.I)
+
+
+def strip_safe(text):
+    return SAFE_PHRASES.sub(' ', text)
 REQUIRED_EN = ('Disclaimer', 'When to See a Doctor', 'Research', 'Practical Takeaways')
 
 def strip_html(s): return re.sub(r'<script.*?</script>|<style.*?</style>|<[^>]+>', ' ', s, flags=re.I|re.S)
@@ -33,7 +45,7 @@ def main():
             }
             for label, variants in section_variants.items():
                 if not any(re.search(v, body, re.I) for v in variants): warnings.append(f'{rel}: missing {label} section')
-            claims=[x.group(0) for x in BANNED.finditer(body) if 'not' not in body[max(0,x.start()-35):x.start()].lower()]
+            claims=[x.group(0) for x in BANNED.finditer(strip_safe(body)) if 'not' not in body[max(0,x.start()-35):x.start()].lower()]
             if len(claims)>8: warnings.append(f'{rel}: review medical claim wording ({len(claims)} hits)')
         if rel.startswith('zh/') and '/symptoms/' in rel:
             if '免责声明' not in text: errors.append(f'{rel}: missing Chinese disclaimer')
