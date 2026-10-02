@@ -1,20 +1,6 @@
 {
   "queue": [
     {
-      "title": "Nausea and Vomiting: Reading the Message Your Stomach Is Sending",
-      "path": "/symptoms/digestion/vomiting-tcm/",
-      "type": "cluster",
-      "parent": "digestion",
-      "estimated_read_time": 7,
-      "keywords": [
-        "vomiting tcm",
-        "nausea tcm",
-        "stomach qi rebellion",
-        "rebellious stomach qi"
-      ],
-      "id": "1021"
-    },
-    {
       "title": "Attachment Styles Through a TCM Lens: Why Closeness Feels Easy or Alarming",
       "path": "/symptoms/mental-emotional-health/attachment-styles-tcm/",
       "type": "cluster",
@@ -13279,6 +13265,20 @@
         "children respiratory tcm"
       ],
       "id": "1020"
+    },
+    {
+      "title": "Nausea and Vomiting: Reading the Message Your Stomach Is Sending",
+      "path": "/symptoms/digestion/vomiting-tcm/",
+      "type": "cluster",
+      "parent": "digestion",
+      "estimated_read_time": 7,
+      "keywords": [
+        "vomiting tcm",
+        "nausea tcm",
+        "stomach qi rebellion",
+        "rebellious stomach qi"
+      ],
+      "id": "1021"
     }
   ]
 }
