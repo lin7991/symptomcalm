@@ -1,19 +1,6 @@
 {
   "queue": [
     {
-      "title": "The Inner Critic: A TCM View of the Voice That Won't Let Up",
-      "path": "/symptoms/mental-emotional-health/inner-critic-tcm/",
-      "type": "symptom-guide",
-      "parent": "mental-emotional-health",
-      "estimated_read_time": 9,
-      "keywords": [
-        "inner critic tcm",
-        "self criticism tcm",
-        "harsh inner voice"
-      ],
-      "id": "1018"
-    },
-    {
       "title": "Frequent Crying: A TCM View of Tears That Come Too Easily",
       "path": "/symptoms/mental-emotional-health/crying-tcm/",
       "type": "symptom-guide",
@@ -13279,6 +13266,19 @@
         "paroxysmal cough"
       ],
       "id": "1017"
+    },
+    {
+      "title": "The Inner Critic: A TCM View of the Voice That Won't Let Up",
+      "path": "/symptoms/mental-emotional-health/inner-critic-tcm/",
+      "type": "symptom-guide",
+      "parent": "mental-emotional-health",
+      "estimated_read_time": 9,
+      "keywords": [
+        "inner critic tcm",
+        "self criticism tcm",
+        "harsh inner voice"
+      ],
+      "id": "1018"
     }
   ]
 }
