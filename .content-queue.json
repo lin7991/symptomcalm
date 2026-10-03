@@ -1,20 +1,6 @@
 {
   "queue": [
     {
-      "title": "Morton's Neuroma: Why Walking Feels Like a Pebble in Your Shoe",
-      "path": "/symptoms/joint-pain/mortons-neuroma-tcm/",
-      "type": "cluster",
-      "parent": "joint-pain",
-      "estimated_read_time": 7,
-      "keywords": [
-        "mortons neuroma tcm",
-        "forefoot pain tcm",
-        "toe pain tcm",
-        "nerve pain foot"
-      ],
-      "id": "1025"
-    },
-    {
       "title": "Ganglion Cyst: A TCM Perspective on These Fluid-Filled Lumps",
       "path": "/symptoms/joint-pain/ganglion-cyst-tcm/",
       "type": "cluster",
@@ -13279,6 +13265,20 @@
         "Kidney Jing fertility"
       ],
       "id": "1024"
+    },
+    {
+      "title": "Morton's Neuroma: Why Walking Feels Like a Pebble in Your Shoe",
+      "path": "/symptoms/joint-pain/mortons-neuroma-tcm/",
+      "type": "cluster",
+      "parent": "joint-pain",
+      "estimated_read_time": 7,
+      "keywords": [
+        "mortons neuroma tcm",
+        "forefoot pain tcm",
+        "toe pain tcm",
+        "nerve pain foot"
+      ],
+      "id": "1025"
     }
   ]
 }
