@@ -1,20 +1,6 @@
 {
   "queue": [
     {
-      "title": "Premature Ovarian Insufficiency: A TCM Perspective on Early Ovarian Decline",
-      "path": "/symptoms/womens-health/premature-ovarian-insufficiency-tcm/",
-      "type": "cluster",
-      "parent": "womens-health",
-      "estimated_read_time": 8,
-      "keywords": [
-        "premature ovarian insufficiency tcm",
-        "POI tcm",
-        "early menopause tcm",
-        "Kidney Jing fertility"
-      ],
-      "id": "1024"
-    },
-    {
       "title": "Morton's Neuroma: Why Walking Feels Like a Pebble in Your Shoe",
       "path": "/symptoms/joint-pain/mortons-neuroma-tcm/",
       "type": "cluster",
@@ -13279,6 +13265,20 @@
         "Shen self-worth"
       ],
       "id": "1023"
+    },
+    {
+      "title": "Premature Ovarian Insufficiency: A TCM Perspective on Early Ovarian Decline",
+      "path": "/symptoms/womens-health/premature-ovarian-insufficiency-tcm/",
+      "type": "cluster",
+      "parent": "womens-health",
+      "estimated_read_time": 8,
+      "keywords": [
+        "premature ovarian insufficiency tcm",
+        "POI tcm",
+        "early menopause tcm",
+        "Kidney Jing fertility"
+      ],
+      "id": "1024"
     }
   ]
 }
