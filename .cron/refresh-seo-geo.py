@@ -27,13 +27,18 @@ ZH_NAMES = {
 
 def attr(html_text, name, value):
     pat = re.compile(r'(<meta\s+name="' + re.escape(name) + r'"\s+content=")[^"]*("\s*/?>)', re.I)
-    if pat.search(html_text): return pat.sub(r'\1' + html.escape(value, quote=True) + r'\2', html_text, count=1)
-    return html_text.replace('</head>', f'  <meta name="{name}" content="{html.escape(value, quote=True)}" />\n</head>', 1)
+    safe_value = html.escape(value, quote=True)
+    if pat.search(html_text):
+        return pat.sub(lambda m: m.group(1) + safe_value + m.group(2), html_text, count=1)
+    return html_text.replace('</head>', f'  <meta name="{name}" content="{safe_value}" />\n</head>', 1)
 
 def prop(html_text, name, value):
     pat = re.compile(r'(<meta\s+property="' + re.escape(name) + r'"\s+content=")[^"]*("\s*/?>)', re.I)
-    if pat.search(html_text): return pat.sub(r'\1' + html.escape(value, quote=True) + r'\2', html_text, count=1)
-    return html_text.replace('</head>', f'  <meta property="{name}" content="{html.escape(value, quote=True)}" />\n</head>', 1)
+    safe_value = html.escape(value, quote=True)
+    if pat.search(html_text):
+        # Callable replacement prevents a leading date/year digit from merging with \1.
+        return pat.sub(lambda m: m.group(1) + safe_value + m.group(2), html_text, count=1)
+    return html_text.replace('</head>', f'  <meta property="{name}" content="{safe_value}" />\n</head>', 1)
 
 def link_alternates(text, links):
     text = re.sub(r'\s*<link\s+rel="alternate"\s+hreflang="[^"]+"[^>]*>', '', text, flags=re.I)
@@ -48,6 +53,8 @@ def canonical_path(rel):
     return '/' + s
 
 def rebuild(rel, text):
+    # Remove date-only remnants left by the historical bad replacement-string bug.
+    text = re.sub(r'\s*P\d{2}-\d{2}-\d{2}T\d{2}:\d{2}:\d{2}\+\d{2}:\d{2}"\s*/>', '', text)
     is_zh = rel.as_posix().startswith('zh/')
     path = canonical_path(rel)
     url = BASE + path

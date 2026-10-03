@@ -32,6 +32,11 @@ def main():
         rel=f.relative_to(ROOT).as_posix()
         for marker,label in [(r'<link[^>]+rel="canonical"', 'canonical'),(r'property="og:title"','og:title'),(r'property="og:description"','og:description'),(r'property="og:image"','og:image'),(r'hreflang="x-default"','x-default'),(r'"@type": "Organization"','Organization'),(r'"@type": "MedicalWebPage"','MedicalWebPage'),(r'dateModified','dateModified')]:
             if not re.search(marker,text,re.I): errors.append(f'{rel}: missing {label}')
+        # Catch malformed replacement-string escapes or orphaned metadata fragments.
+        if re.search(r'\bP\d{2}-\d{2}-\d{2}T\d{2}:\d{2}:\d{2}', text):
+            errors.append(f'{rel}: malformed date metadata fragment (PYY-MM-DD...)')
+        if re.search(r'(?m)^\s*P\d{2}-\d{2}-\d{2}T', text):
+            errors.append(f'{rel}: orphaned date text outside an HTML tag')
         is_en_article = (not rel.startswith('zh/') and rel.startswith(('symptoms/','treatments/','tcm-basics/')) and len(f.relative_to(ROOT).parts) >= 4)
         if is_en_article:
             articles += 1
