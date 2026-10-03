@@ -1,20 +1,6 @@
 {
   "queue": [
     {
-      "title": "Corns and Calluses: A TCM Perspective on Pressure, Friction, and Dryness",
-      "path": "/symptoms/skin-conditions/corns-calluses-tcm/",
-      "type": "cluster",
-      "parent": "skin-conditions",
-      "estimated_read_time": 7,
-      "keywords": [
-        "corns tcm",
-        "calluses tcm",
-        "foot skin tcm",
-        "Blood dryness skin"
-      ],
-      "id": "1028"
-    },
-    {
       "title": "Cervical Spondylosis: A TCM Perspective on Age-Related Neck Wear",
       "path": "/symptoms/back-pain/cervical-spondylosis-tcm/",
       "type": "cluster",
@@ -13279,6 +13265,20 @@
         "fungal skin tcm"
       ],
       "id": "1027"
+    },
+    {
+      "title": "Corns and Calluses: A TCM Perspective on Pressure, Friction, and Dryness",
+      "path": "/symptoms/skin-conditions/corns-calluses-tcm/",
+      "type": "cluster",
+      "parent": "skin-conditions",
+      "estimated_read_time": 7,
+      "keywords": [
+        "corns tcm",
+        "calluses tcm",
+        "foot skin tcm",
+        "Blood dryness skin"
+      ],
+      "id": "1028"
     }
   ]
 }
