@@ -1,20 +1,6 @@
 {
   "queue": [
     {
-      "title": "Tinea Versicolor: A TCM Perspective on Patchy Skin Discoloration",
-      "path": "/symptoms/skin-conditions/tinea-versicolor-tcm/",
-      "type": "cluster",
-      "parent": "skin-conditions",
-      "estimated_read_time": 7,
-      "keywords": [
-        "tinea versicolor tcm",
-        "skin discoloration tcm",
-        "Damp Heat skin",
-        "fungal skin tcm"
-      ],
-      "id": "1027"
-    },
-    {
       "title": "Corns and Calluses: A TCM Perspective on Pressure, Friction, and Dryness",
       "path": "/symptoms/skin-conditions/corns-calluses-tcm/",
       "type": "cluster",
@@ -13279,6 +13265,20 @@
         "joint swelling tcm"
       ],
       "id": "1026"
+    },
+    {
+      "title": "Tinea Versicolor: A TCM Perspective on Patchy Skin Discoloration",
+      "path": "/symptoms/skin-conditions/tinea-versicolor-tcm/",
+      "type": "cluster",
+      "parent": "skin-conditions",
+      "estimated_read_time": 7,
+      "keywords": [
+        "tinea versicolor tcm",
+        "skin discoloration tcm",
+        "Damp Heat skin",
+        "fungal skin tcm"
+      ],
+      "id": "1027"
     }
   ]
 }
