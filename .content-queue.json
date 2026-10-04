@@ -1,20 +1,6 @@
 {
   "queue": [
     {
-      "title": "Clutter and Mental Clutter: What Your Space Says About Your Qi",
-      "path": "/symptoms/stress/clutter-stress-tcm/",
-      "type": "cluster",
-      "parent": "stress",
-      "estimated_read_time": 7,
-      "keywords": [
-        "clutter stress tcm",
-        "decluttering mental health",
-        "Liver Qi stagnation clutter",
-        "home environment stress"
-      ],
-      "id": "1030"
-    },
-    {
       "title": "Solar Urticaria: A TCM Perspective on Sun-Triggered Hives",
       "path": "/symptoms/allergies/solar-urticaria-tcm/",
       "type": "cluster",
@@ -13279,6 +13265,20 @@
         "degenerative neck"
       ],
       "id": "1029"
+    },
+    {
+      "title": "Clutter and Mental Clutter: What Your Space Says About Your Qi",
+      "path": "/symptoms/stress/clutter-stress-tcm/",
+      "type": "cluster",
+      "parent": "stress",
+      "estimated_read_time": 7,
+      "keywords": [
+        "clutter stress tcm",
+        "decluttering mental health",
+        "Liver Qi stagnation clutter",
+        "home environment stress"
+      ],
+      "id": "1030"
     }
   ]
 }
