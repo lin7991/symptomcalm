@@ -1,20 +1,6 @@
 {
   "queue": [
     {
-      "title": "Cervical Spondylosis: A TCM Perspective on Age-Related Neck Wear",
-      "path": "/symptoms/back-pain/cervical-spondylosis-tcm/",
-      "type": "cluster",
-      "parent": "back-pain",
-      "estimated_read_time": 8,
-      "keywords": [
-        "cervical spondylosis tcm",
-        "neck arthritis tcm",
-        "stiff neck tcm",
-        "degenerative neck"
-      ],
-      "id": "1029"
-    },
-    {
       "title": "Clutter and Mental Clutter: What Your Space Says About Your Qi",
       "path": "/symptoms/stress/clutter-stress-tcm/",
       "type": "cluster",
@@ -13279,6 +13265,20 @@
         "Blood dryness skin"
       ],
       "id": "1028"
+    },
+    {
+      "title": "Cervical Spondylosis: A TCM Perspective on Age-Related Neck Wear",
+      "path": "/symptoms/back-pain/cervical-spondylosis-tcm/",
+      "type": "cluster",
+      "parent": "back-pain",
+      "estimated_read_time": 8,
+      "keywords": [
+        "cervical spondylosis tcm",
+        "neck arthritis tcm",
+        "stiff neck tcm",
+        "degenerative neck"
+      ],
+      "id": "1029"
     }
   ]
 }
