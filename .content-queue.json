@@ -1,20 +1,6 @@
 {
   "queue": [
     {
-      "title": "Orthosomnia: When Tracking Your Sleep Makes It Worse",
-      "path": "/symptoms/insomnia/orthosomnia-tcm/",
-      "type": "cluster",
-      "parent": "insomnia",
-      "estimated_read_time": 7,
-      "keywords": [
-        "orthosomnia tcm",
-        "sleep tracker anxiety",
-        "sleep data stress",
-        "Heart Shen sleep"
-      ],
-      "id": "1034"
-    },
-    {
       "title": "Remote Work Anxiety: A TCM Perspective on Always-On Stress",
       "path": "/symptoms/anxiety/remote-work-anxiety-tcm/",
       "type": "cluster",
@@ -13461,6 +13447,20 @@
         "Liver Qi stagnation emotions"
       ],
       "id": "1033"
+    },
+    {
+      "title": "Orthosomnia: When Tracking Your Sleep Makes It Worse",
+      "path": "/symptoms/insomnia/orthosomnia-tcm/",
+      "type": "cluster",
+      "parent": "insomnia",
+      "estimated_read_time": 7,
+      "keywords": [
+        "orthosomnia tcm",
+        "sleep tracker anxiety",
+        "sleep data stress",
+        "Heart Shen sleep"
+      ],
+      "id": "1034"
     }
   ]
 }
