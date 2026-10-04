@@ -1,20 +1,6 @@
 {
   "queue": [
     {
-      "title": "Toxic Positivity: When 'Good Vibes Only' Backfires",
-      "path": "/symptoms/mental-emotional-health/toxic-positivity-tcm/",
-      "type": "cluster",
-      "parent": "mental-emotional-health",
-      "estimated_read_time": 7,
-      "keywords": [
-        "toxic positivity tcm",
-        "suppressed emotions tcm",
-        "emotional suppression",
-        "Liver Qi stagnation emotions"
-      ],
-      "id": "1033"
-    },
-    {
       "title": "Orthosomnia: When Tracking Your Sleep Makes It Worse",
       "path": "/symptoms/insomnia/orthosomnia-tcm/",
       "type": "cluster",
@@ -13461,6 +13447,20 @@
         "tooth health tcm"
       ],
       "id": "1032"
+    },
+    {
+      "title": "Toxic Positivity: When 'Good Vibes Only' Backfires",
+      "path": "/symptoms/mental-emotional-health/toxic-positivity-tcm/",
+      "type": "cluster",
+      "parent": "mental-emotional-health",
+      "estimated_read_time": 7,
+      "keywords": [
+        "toxic positivity tcm",
+        "suppressed emotions tcm",
+        "emotional suppression",
+        "Liver Qi stagnation emotions"
+      ],
+      "id": "1033"
     }
   ]
 }
