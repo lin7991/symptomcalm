@@ -1,20 +1,6 @@
 {
   "queue": [
     {
-      "title": "Teeth in TCM: Why the Kidneys Are Said to Govern Your Teeth",
-      "path": "/tcm-basics/teeth-in-tcm/",
-      "type": "cluster",
-      "parent": "tcm-basics",
-      "estimated_read_time": 7,
-      "keywords": [
-        "teeth in tcm",
-        "Kidney governs bones teeth",
-        "gum health tcm",
-        "tooth health tcm"
-      ],
-      "id": "1032"
-    },
-    {
       "title": "Toxic Positivity: When 'Good Vibes Only' Backfires",
       "path": "/symptoms/mental-emotional-health/toxic-positivity-tcm/",
       "type": "cluster",
@@ -13461,6 +13447,20 @@
         "Wind Heat skin"
       ],
       "id": "1031"
+    },
+    {
+      "title": "Teeth in TCM: Why the Kidneys Are Said to Govern Your Teeth",
+      "path": "/tcm-basics/teeth-in-tcm/",
+      "type": "cluster",
+      "parent": "tcm-basics",
+      "estimated_read_time": 7,
+      "keywords": [
+        "teeth in tcm",
+        "Kidney governs bones teeth",
+        "gum health tcm",
+        "tooth health tcm"
+      ],
+      "id": "1032"
     }
   ]
 }
