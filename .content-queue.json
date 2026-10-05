@@ -1,32 +1,6 @@
 {
   "queue": [
     {
-      "title": "Postnasal Drip: A TCM Perspective on the Throat-Clearing Loop",
-      "path": "/symptoms/respiratory-health/postnasal-drip-tcm/",
-      "type": "cluster",
-      "parent": "respiratory-health",
-      "estimated_read_time": 7,
-      "keywords": [
-        "postnasal drip",
-        "throat clearing",
-        "TCM respiratory health"
-      ],
-      "id": "1043"
-    },
-    {
-      "title": "Sinus Pressure: A TCM Map of Congestion and Head Pressure",
-      "path": "/symptoms/respiratory-health/sinus-pressure-tcm/",
-      "type": "cluster",
-      "parent": "respiratory-health",
-      "estimated_read_time": 7,
-      "keywords": [
-        "sinus pressure",
-        "congestion",
-        "TCM sinus"
-      ],
-      "id": "1044"
-    },
-    {
       "title": "What Is Yang in TCM? The Body’s Active Battery",
       "path": "/tcm-basics/what-is-yang-tcm/",
       "type": "tcm-basics",
@@ -13461,6 +13435,19 @@
         "TCM dermatology"
       ],
       "id": "1042"
+    },
+    {
+      "title": "Sinus Pressure: A TCM Map of Congestion and Head Pressure",
+      "path": "/symptoms/respiratory-health/sinus-pressure-tcm/",
+      "type": "cluster",
+      "parent": "respiratory-health",
+      "estimated_read_time": 7,
+      "keywords": [
+        "sinus pressure",
+        "congestion",
+        "TCM sinus"
+      ],
+      "id": "1044"
     }
   ]
 }

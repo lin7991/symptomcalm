@@ -3571,6 +3571,12 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://symptomcalm.com/symptoms/skin-conditions/skin-barrier-tcm/</loc>
+    <lastmod>2026-10-06</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://symptomcalm.com/symptoms/skin-conditions/skin-picking-tcm/</loc>
     <lastmod>2026-10-06</lastmod>
     <changefreq>monthly</changefreq>
@@ -3590,6 +3596,12 @@
   </url>
   <url>
     <loc>https://symptomcalm.com/symptoms/skin-conditions/summer-skin-care-tcm/</loc>
+    <lastmod>2026-10-06</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://symptomcalm.com/symptoms/skin-conditions/sun-sensitive-skin-tcm/</loc>
     <lastmod>2026-10-06</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
@@ -9601,6 +9613,12 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://symptomcalm.com/zh/symptoms/skin-conditions/skin-barrier-tcm/</loc>
+    <lastmod>2026-10-06</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://symptomcalm.com/zh/symptoms/skin-conditions/skin-picking-tcm/</loc>
     <lastmod>2026-10-06</lastmod>
     <changefreq>monthly</changefreq>
@@ -9620,6 +9638,12 @@
   </url>
   <url>
     <loc>https://symptomcalm.com/zh/symptoms/skin-conditions/summer-skin-care-tcm/</loc>
+    <lastmod>2026-10-06</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://symptomcalm.com/zh/symptoms/skin-conditions/sun-sensitive-skin-tcm/</loc>
     <lastmod>2026-10-06</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
@@ -12127,12 +12151,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://symptomcalm.com/symptoms/skin-conditions/sun-sensitive-skin-tcm/</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://symptomcalm.com/symptoms/skin-conditions/skin-barrier-tcm/</loc>
+    <loc>https://symptomcalm.com/symptoms/respiratory-health/sinus-pressure-tcm/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
