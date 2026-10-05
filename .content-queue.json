@@ -1,19 +1,6 @@
 {
   "queue": [
     {
-      "title": "The Skin Barrier and TCM: A Grounded Perspective",
-      "path": "/symptoms/skin-conditions/skin-barrier-tcm/",
-      "type": "cluster",
-      "parent": "skin-conditions",
-      "estimated_read_time": 7,
-      "keywords": [
-        "itchy skin",
-        "skin patterns",
-        "TCM dermatology"
-      ],
-      "id": "1042"
-    },
-    {
       "title": "Postnasal Drip: A TCM Perspective on the Throat-Clearing Loop",
       "path": "/symptoms/respiratory-health/postnasal-drip-tcm/",
       "type": "cluster",
@@ -13461,6 +13448,19 @@
         "TCM skin"
       ],
       "id": "1041"
+    },
+    {
+      "title": "The Skin Barrier and TCM: A Grounded Perspective",
+      "path": "/symptoms/skin-conditions/skin-barrier-tcm/",
+      "type": "cluster",
+      "parent": "skin-conditions",
+      "estimated_read_time": 7,
+      "keywords": [
+        "itchy skin",
+        "skin patterns",
+        "TCM dermatology"
+      ],
+      "id": "1042"
     }
   ]
 }
