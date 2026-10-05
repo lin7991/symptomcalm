@@ -1,19 +1,6 @@
 {
   "queue": [
     {
-      "title": "PMS Cravings: A TCM Perspective on Appetite and Cycles",
-      "path": "/symptoms/womens-health/pms-cravings-tcm/",
-      "type": "cluster",
-      "parent": "womens-health",
-      "estimated_read_time": 7,
-      "keywords": [
-        "PMS cravings",
-        "cycle appetite",
-        "TCM PMS"
-      ],
-      "id": "1040"
-    },
-    {
       "title": "Sun-Sensitive Skin: A TCM Perspective on Heat and Reactivity",
       "path": "/symptoms/skin-conditions/sun-sensitive-skin-tcm/",
       "type": "cluster",
@@ -13461,6 +13448,19 @@
         "TCM bloating"
       ],
       "id": "1039"
+    },
+    {
+      "title": "PMS Cravings: A TCM Perspective on Appetite and Cycles",
+      "path": "/symptoms/womens-health/pms-cravings-tcm/",
+      "type": "cluster",
+      "parent": "womens-health",
+      "estimated_read_time": 7,
+      "keywords": [
+        "PMS cravings",
+        "cycle appetite",
+        "TCM PMS"
+      ],
+      "id": "1040"
     }
   ]
 }
