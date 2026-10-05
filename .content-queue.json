@@ -1,19 +1,6 @@
 {
   "queue": [
     {
-      "title": "Sitting-Related Back Tension: A TCM Perspective",
-      "path": "/symptoms/back-pain/sitting-back-pain-tcm/",
-      "type": "cluster",
-      "parent": "back-pain",
-      "estimated_read_time": 7,
-      "keywords": [
-        "sitting back pain",
-        "back tension",
-        "TCM posture"
-      ],
-      "id": "1037"
-    },
-    {
       "title": "Weekend Sleep Shifts: A TCM Guide to Rhythm and Recovery",
       "path": "/symptoms/insomnia/weekend-sleep-tcm/",
       "type": "cluster",
@@ -13461,6 +13448,19 @@
         "Liver Qi"
       ],
       "id": "1035"
+    },
+    {
+      "title": "Sitting-Related Back Tension: A TCM Perspective",
+      "path": "/symptoms/back-pain/sitting-back-pain-tcm/",
+      "type": "cluster",
+      "parent": "back-pain",
+      "estimated_read_time": 7,
+      "keywords": [
+        "sitting back pain",
+        "back tension",
+        "TCM posture"
+      ],
+      "id": "1037"
     }
   ]
 }
