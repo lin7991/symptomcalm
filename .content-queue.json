@@ -1,19 +1,6 @@
 {
   "queue": [
     {
-      "title": "Facial Gua Sha: A Beginner’s At-Home Ritual",
-      "path": "/treatments/gua-sha-face-tcm/",
-      "type": "treatment",
-      "parent": "treatments",
-      "estimated_read_time": 7,
-      "keywords": [
-        "facial gua sha",
-        "gua sha routine",
-        "TCM self-care"
-      ],
-      "id": "1047"
-    },
-    {
       "title": "Qigong Breathing for Beginners: A Gentle Starting Point",
       "path": "/treatments/qigong-breathing-tcm/",
       "type": "treatment",
@@ -13630,6 +13617,19 @@
         "TCM theory"
       ],
       "id": "1046"
+    },
+    {
+      "title": "Facial Gua Sha: A Beginner’s At-Home Ritual",
+      "path": "/treatments/gua-sha-face-tcm/",
+      "type": "treatment",
+      "parent": "treatments",
+      "estimated_read_time": 7,
+      "keywords": [
+        "facial gua sha",
+        "gua sha routine",
+        "TCM self-care"
+      ],
+      "id": "1047"
     }
   ]
 }
