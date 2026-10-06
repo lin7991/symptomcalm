@@ -1,19 +1,6 @@
 {
   "queue": [
     {
-      "title": "A TCM-Inspired Wind-Down Routine for Racing Thoughts at Bedtime",
-      "path": "/symptoms/insomnia/racing-thoughts-bedtime-routine-tcm/",
-      "type": "cluster",
-      "parent": "insomnia",
-      "estimated_read_time": 8,
-      "keywords": [
-        "racing thoughts bedtime",
-        "TCM sleep routine",
-        "wind down"
-      ],
-      "id": "1051"
-    },
-    {
       "title": "Gentle Movement for Desk-Related Neck Stiffness: A TCM Perspective",
       "path": "/symptoms/back-pain/desk-neck-mobility-tcm/",
       "type": "cluster",
@@ -13630,6 +13617,19 @@
         "TCM eye points"
       ],
       "id": "1050"
+    },
+    {
+      "title": "A TCM-Inspired Wind-Down Routine for Racing Thoughts at Bedtime",
+      "path": "/symptoms/insomnia/racing-thoughts-bedtime-routine-tcm/",
+      "type": "cluster",
+      "parent": "insomnia",
+      "estimated_read_time": 8,
+      "keywords": [
+        "racing thoughts bedtime",
+        "TCM sleep routine",
+        "wind down"
+      ],
+      "id": "1051"
     }
   ]
 }
