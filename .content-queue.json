@@ -1,19 +1,6 @@
 {
   "queue": [
     {
-      "title": "Acupressure for Screen-Related Eye Tension: A Gentle Desk Routine",
-      "path": "/symptoms/eye-health/screen-eye-tension-acupressure-tcm/",
-      "type": "cluster",
-      "parent": "eye-health",
-      "estimated_read_time": 7,
-      "keywords": [
-        "eye acupressure",
-        "screen eye tension",
-        "TCM eye points"
-      ],
-      "id": "1050"
-    },
-    {
       "title": "A TCM-Inspired Wind-Down Routine for Racing Thoughts at Bedtime",
       "path": "/symptoms/insomnia/racing-thoughts-bedtime-routine-tcm/",
       "type": "cluster",
@@ -13630,6 +13617,19 @@
         "TCM digestion"
       ],
       "id": "1049"
+    },
+    {
+      "title": "Acupressure for Screen-Related Eye Tension: A Gentle Desk Routine",
+      "path": "/symptoms/eye-health/screen-eye-tension-acupressure-tcm/",
+      "type": "cluster",
+      "parent": "eye-health",
+      "estimated_read_time": 7,
+      "keywords": [
+        "eye acupressure",
+        "screen eye tension",
+        "TCM eye points"
+      ],
+      "id": "1050"
     }
   ]
 }
