@@ -1,19 +1,6 @@
 {
   "queue": [
     {
-      "title": "Qigong Breathing for Beginners: A Gentle Starting Point",
-      "path": "/treatments/qigong-breathing-tcm/",
-      "type": "treatment",
-      "parent": "treatments",
-      "estimated_read_time": 7,
-      "keywords": [
-        "qigong breathing",
-        "breath practice",
-        "TCM exercise"
-      ],
-      "id": "1048"
-    },
-    {
       "title": "Meal Timing and Digestion: A TCM Perspective",
       "path": "/symptoms/digestion/meal-timing-digestion-tcm/",
       "type": "cluster",
@@ -13630,6 +13617,19 @@
         "TCM self-care"
       ],
       "id": "1047"
+    },
+    {
+      "title": "Qigong Breathing for Beginners: A Gentle Starting Point",
+      "path": "/treatments/qigong-breathing-tcm/",
+      "type": "treatment",
+      "parent": "treatments",
+      "estimated_read_time": 7,
+      "keywords": [
+        "qigong breathing",
+        "breath practice",
+        "TCM exercise"
+      ],
+      "id": "1048"
     }
   ]
 }
