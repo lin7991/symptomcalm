@@ -1,6 +1,7 @@
 #!/usr/bin/env python3
 """Release gate for SymptomCalm pages. Exits non-zero on blocking quality/SEO defects."""
 import re, sys
+import urllib.parse
 from pathlib import Path
 from html import unescape
 
@@ -30,6 +31,19 @@ def main():
         pages += 1
         text=f.read_text(encoding='utf-8',errors='replace')
         rel=f.relative_to(ROOT).as_posix()
+        # Fail on dead same-site links: they create crawl paths that surface as GSC 404s.
+        for href in re.findall(r'\bhref=["\']([^"\']+)["\']', text, re.I):
+            parsed=urllib.parse.urlsplit(href)
+            if parsed.scheme or (parsed.netloc and parsed.netloc.lower() not in ('symptomcalm.com','www.symptomcalm.com')) or href.startswith('#'):
+                continue
+            path=parsed.path
+            if not path: continue
+            target=(ROOT / path.lstrip('/')) if path.startswith('/') else (f.parent / path)
+            candidates=[target]
+            if not target.suffix: candidates=[target/'index.html', Path(str(target)+'.html')]
+            elif target.is_dir(): candidates=[target/'index.html']
+            if not any(x.exists() and x.is_file() for x in candidates):
+                errors.append(f'{rel}: broken internal href {href}')
         for marker,label in [(r'<link[^>]+rel="canonical"', 'canonical'),(r'property="og:title"','og:title'),(r'property="og:description"','og:description'),(r'property="og:image"','og:image'),(r'hreflang="x-default"','x-default'),(r'"@type": "Organization"','Organization'),(r'"@type": "MedicalWebPage"','MedicalWebPage'),(r'dateModified','dateModified')]:
             if not re.search(marker,text,re.I): errors.append(f'{rel}: missing {label}')
         # Catch malformed replacement-string escapes or orphaned metadata fragments.
