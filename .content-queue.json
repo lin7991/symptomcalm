@@ -1,19 +1,6 @@
 {
   "queue": [
     {
-      "title": "Cupping Marks: What Color Can—and Cannot—Tell You",
-      "path": "/treatments/cupping-marks-explained-tcm/",
-      "type": "treatment",
-      "parent": "treatments",
-      "estimated_read_time": 7,
-      "keywords": [
-        "cupping marks meaning",
-        "cupping discoloration",
-        "cupping safety"
-      ],
-      "id": "1056"
-    },
-    {
       "title": "The TCM View of Stress-Related Jaw Clenching",
       "path": "/symptoms/stress/jaw-clenching-stress-tcm/",
       "type": "cluster",
@@ -13630,6 +13617,19 @@
         "Spleen system"
       ],
       "id": "1055"
+    },
+    {
+      "title": "Cupping Marks: What Color Can—and Cannot—Tell You",
+      "path": "/treatments/cupping-marks-explained-tcm/",
+      "type": "treatment",
+      "parent": "treatments",
+      "estimated_read_time": 7,
+      "keywords": [
+        "cupping marks meaning",
+        "cupping discoloration",
+        "cupping safety"
+      ],
+      "id": "1056"
     }
   ]
 }
