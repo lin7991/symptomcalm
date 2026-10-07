@@ -1,3 +1,14 @@
+// Normalize GitHub Pages' duplicate /index.html URL variant to the directory URL.
+// GitHub Pages serves both with HTTP 200; canonical tags alone may not consolidate
+// every historical URL, so send browsers and Google-rendered sessions to the one URL.
+(function() {
+  const path = window.location.pathname;
+  if (/\/index\.html$/i.test(path)) {
+    const canonicalPath = path.slice(0, -'index.html'.length) || '/';
+    window.location.replace(canonicalPath + window.location.search + window.location.hash);
+  }
+})();
+
 // SymptomCalm — Language Toggle
 // Works both EN→ZH and ZH→EN
 
