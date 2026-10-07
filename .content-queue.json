@@ -51,6 +51,201 @@
         "energy tracking"
       ],
       "id": "1064"
+    },
+    {
+      "title": "Why Stress Can Change Your Digestion: A TCM Perspective",
+      "path": "/symptoms/stress/stress-digestion-tcm/",
+      "type": "cluster",
+      "parent": "stress",
+      "estimated_read_time": 8,
+      "keywords": [
+        "stress digestion",
+        "TCM stress gut",
+        "stress bloating"
+      ],
+      "id": "1065"
+    },
+    {
+      "title": "Waking Too Early: The 3 to 5 AM TCM View",
+      "path": "/symptoms/insomnia/early-morning-waking-tcm/",
+      "type": "cluster",
+      "parent": "insomnia",
+      "estimated_read_time": 8,
+      "keywords": [
+        "waking too early",
+        "3 am waking",
+        "TCM sleep"
+      ],
+      "id": "1066"
+    },
+    {
+      "title": "A TCM-Inspired Guide to Screen-Related Eye Strain",
+      "path": "/symptoms/eye-health/screen-eye-strain-tcm/",
+      "type": "cluster",
+      "parent": "eye-health",
+      "estimated_read_time": 7,
+      "keywords": [
+        "screen eye strain",
+        "digital eye fatigue",
+        "TCM eye health"
+      ],
+      "id": "1067"
+    },
+    {
+      "title": "Neck Tension and Desk Posture Through a TCM Lens",
+      "path": "/symptoms/joint-pain/desk-neck-tension-tcm/",
+      "type": "cluster",
+      "parent": "joint-pain",
+      "estimated_read_time": 8,
+      "keywords": [
+        "desk neck tension",
+        "neck posture",
+        "TCM neck pain"
+      ],
+      "id": "1068"
+    },
+    {
+      "title": "Understanding Morning Anxiety Through TCM Pattern Language",
+      "path": "/symptoms/anxiety/morning-anxiety-tcm/",
+      "type": "cluster",
+      "parent": "anxiety",
+      "estimated_read_time": 8,
+      "keywords": [
+        "morning anxiety",
+        "TCM anxiety patterns",
+        "waking anxious"
+      ],
+      "id": "1069"
+    },
+    {
+      "title": "A Gentle TCM Approach to Travel Sleep Disruption",
+      "path": "/symptoms/insomnia/travel-sleep-tcm/",
+      "type": "cluster",
+      "parent": "insomnia",
+      "estimated_read_time": 7,
+      "keywords": [
+        "travel sleep",
+        "jet lag sleep habits",
+        "TCM travel"
+      ],
+      "id": "1070"
+    },
+    {
+      "title": "Cold Hands and Feet: A TCM-Informed Explanation",
+      "path": "/symptoms/fatigue/cold-hands-feet-tcm/",
+      "type": "cluster",
+      "parent": "fatigue",
+      "estimated_read_time": 8,
+      "keywords": [
+        "cold hands feet",
+        "TCM circulation",
+        "cold sensitivity"
+      ],
+      "id": "1071"
+    },
+    {
+      "title": "What TCM Says About Jaw Tension and Clenching",
+      "path": "/symptoms/stress/jaw-tension-tcm/",
+      "type": "cluster",
+      "parent": "stress",
+      "estimated_read_time": 8,
+      "keywords": [
+        "jaw tension",
+        "teeth clenching",
+        "TCM stress"
+      ],
+      "id": "1072"
+    },
+    {
+      "title": "Acupressure Basics: How Pressure and Sensation Work",
+      "path": "/treatments/acupressure-pressure-sensation-guide/",
+      "type": "treatment",
+      "parent": "treatments",
+      "estimated_read_time": 8,
+      "keywords": [
+        "acupressure basics",
+        "pressure points safety",
+        "acupressure guide"
+      ],
+      "id": "1073"
+    },
+    {
+      "title": "Gua Sha for Shoulder Mobility: A Safety-First Overview",
+      "path": "/treatments/gua-sha-shoulder-mobility-tcm/",
+      "type": "treatment",
+      "parent": "treatments",
+      "estimated_read_time": 8,
+      "keywords": [
+        "gua sha shoulder",
+        "shoulder mobility",
+        "gua sha safety"
+      ],
+      "id": "1074"
+    },
+    {
+      "title": "Qigong Breathing for a Calmer Evening Transition",
+      "path": "/treatments/qigong-evening-breathing/",
+      "type": "treatment",
+      "parent": "treatments",
+      "estimated_read_time": 7,
+      "keywords": [
+        "qigong breathing",
+        "evening breathing",
+        "gentle qigong"
+      ],
+      "id": "1075"
+    },
+    {
+      "title": "What Is Dampness in TCM? A Clear Western Analogy",
+      "path": "/tcm-basics/dampness-tcm/",
+      "type": "basics",
+      "parent": "tcm-basics",
+      "estimated_read_time": 9,
+      "keywords": [
+        "what is dampness TCM",
+        "dampness explained",
+        "TCM basics"
+      ],
+      "id": "1076"
+    },
+    {
+      "title": "Qi and Blood in TCM: The Delivery Network Analogy",
+      "path": "/tcm-basics/qi-blood-relationship-tcm/",
+      "type": "basics",
+      "parent": "tcm-basics",
+      "estimated_read_time": 9,
+      "keywords": [
+        "qi and blood",
+        "TCM qi blood",
+        "TCM basics"
+      ],
+      "id": "1077"
+    },
+    {
+      "title": "The TCM View of Seasonal Transitions and Daily Energy",
+      "path": "/tcm-basics/seasonal-transitions-tcm/",
+      "type": "basics",
+      "parent": "tcm-basics",
+      "estimated_read_time": 8,
+      "keywords": [
+        "seasonal transitions TCM",
+        "daily energy",
+        "five elements seasons"
+      ],
+      "id": "1078"
+    },
+    {
+      "title": "A Beginner's Guide to TCM Food Temperature",
+      "path": "/tcm-basics/food-temperature-tcm/",
+      "type": "basics",
+      "parent": "tcm-basics",
+      "estimated_read_time": 8,
+      "keywords": [
+        "TCM food temperature",
+        "hot cold foods",
+        "TCM diet basics"
+      ],
+      "id": "1079"
     }
   ],
   "published": [
