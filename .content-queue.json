@@ -1,19 +1,6 @@
 {
   "queue": [
     {
-      "title": "The TCM View of Stress-Related Jaw Clenching",
-      "path": "/symptoms/stress/jaw-clenching-stress-tcm/",
-      "type": "cluster",
-      "parent": "stress",
-      "estimated_read_time": 8,
-      "keywords": [
-        "jaw clenching stress",
-        "TCM jaw tension",
-        "bruxism stress"
-      ],
-      "id": "1057"
-    },
-    {
       "title": "Five Elements and the Seasons: A Calendar for Noticing Change",
       "path": "/tcm-basics/five-elements-seasonal-calendar/",
       "type": "tcm-basics",
@@ -13630,6 +13617,19 @@
         "cupping safety"
       ],
       "id": "1056"
+    },
+    {
+      "title": "The TCM View of Stress-Related Jaw Clenching",
+      "path": "/symptoms/stress/jaw-clenching-stress-tcm/",
+      "type": "cluster",
+      "parent": "stress",
+      "estimated_read_time": 8,
+      "keywords": [
+        "jaw clenching stress",
+        "TCM jaw tension",
+        "bruxism stress"
+      ],
+      "id": "1057"
     }
   ]
 }
