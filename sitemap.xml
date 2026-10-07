@@ -223,6 +223,12 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://symptomcalm.com/symptoms/allergies/seasonal-allergy-patterns-tcm/</loc>
+    <lastmod>2026-10-07</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://symptomcalm.com/symptoms/allergies/seasonal-allergy-prep-tcm/</loc>
     <lastmod>2026-10-07</lastmod>
     <changefreq>monthly</changefreq>
@@ -632,6 +638,12 @@
   </url>
   <url>
     <loc>https://symptomcalm.com/symptoms/back-pain/core-strength-tcm/</loc>
+    <lastmod>2026-10-07</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://symptomcalm.com/symptoms/back-pain/desk-neck-mobility-tcm/</loc>
     <lastmod>2026-10-07</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
@@ -12223,12 +12235,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://symptomcalm.com/symptoms/back-pain/desk-neck-mobility-tcm/</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://symptomcalm.com/symptoms/allergies/seasonal-allergy-patterns-tcm/</loc>
+    <loc>https://symptomcalm.com/tcm-basics/spleen-stomach-pair-tcm/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
