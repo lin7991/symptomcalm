@@ -1,19 +1,6 @@
 {
   "queue": [
     {
-      "title": "A Gentle TCM-Inspired Evening Routine for Digestive Comfort",
-      "path": "/symptoms/digestion/evening-digestive-routine-tcm/",
-      "type": "cluster",
-      "parent": "digestion",
-      "estimated_read_time": 7,
-      "keywords": [
-        "evening digestion routine",
-        "TCM digestion habits",
-        "after dinner routine"
-      ],
-      "id": "1059"
-    },
-    {
       "title": "Moxibustion Explained: Heat, Mugwort, and Essential Safety",
       "path": "/treatments/moxibustion-heat-safety-tcm/",
       "type": "treatment",
@@ -13630,6 +13617,19 @@
         "Wu Xing calendar"
       ],
       "id": "1058"
+    },
+    {
+      "title": "A Gentle TCM-Inspired Evening Routine for Digestive Comfort",
+      "path": "/symptoms/digestion/evening-digestive-routine-tcm/",
+      "type": "cluster",
+      "parent": "digestion",
+      "estimated_read_time": 7,
+      "keywords": [
+        "evening digestion routine",
+        "TCM digestion habits",
+        "after dinner routine"
+      ],
+      "id": "1059"
     }
   ]
 }
