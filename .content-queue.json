@@ -1,19 +1,6 @@
 {
   "queue": [
     {
-      "title": "TCM and Seasonal Allergies: How to Read Your Symptom Pattern",
-      "path": "/symptoms/allergies/seasonal-allergy-patterns-tcm/",
-      "type": "cluster",
-      "parent": "allergies",
-      "estimated_read_time": 8,
-      "keywords": [
-        "seasonal allergies TCM",
-        "allergy patterns",
-        "Wei Qi"
-      ],
-      "id": "1054"
-    },
-    {
       "title": "A Practical Guide to the TCM Spleen-Stomach Pair",
       "path": "/tcm-basics/spleen-stomach-pair-tcm/",
       "type": "tcm-basics",
@@ -13630,6 +13617,19 @@
         "TCM movement"
       ],
       "id": "1053"
+    },
+    {
+      "title": "TCM and Seasonal Allergies: How to Read Your Symptom Pattern",
+      "path": "/symptoms/allergies/seasonal-allergy-patterns-tcm/",
+      "type": "cluster",
+      "parent": "allergies",
+      "estimated_read_time": 8,
+      "keywords": [
+        "seasonal allergies TCM",
+        "allergy patterns",
+        "Wei Qi"
+      ],
+      "id": "1054"
     }
   ]
 }
