@@ -10,6 +10,8 @@ urls=[]
 for f in sorted(ROOT.rglob('index.html')):
     rel=f.relative_to(ROOT)
     if any(x in rel.parts for x in ('.git','node_modules','.cron')): continue
+    content=f.read_text(encoding='utf-8',errors='replace')
+    if re.search(r'<meta\s+http-equiv="refresh"',content,re.I): continue
     s=rel.as_posix()
     if s=='index.html': path='/'
     elif s.endswith('/index.html'): path='/' + s[:-10].strip('/') + '/'

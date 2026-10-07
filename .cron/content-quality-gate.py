@@ -28,9 +28,10 @@ def main():
     files=sorted(ROOT.rglob('index.html'))
     for f in files:
         if any(x in f.parts for x in ('.git','node_modules','.cron')): continue
-        pages += 1
         text=f.read_text(encoding='utf-8',errors='replace')
         rel=f.relative_to(ROOT).as_posix()
+        if re.search(r'<meta\s+http-equiv="refresh"',text,re.I): continue
+        pages += 1
         # Fail on dead same-site links: they create crawl paths that surface as GSC 404s.
         for href in re.findall(r'\bhref=["\']([^"\']+)["\']', text, re.I):
             parsed=urllib.parse.urlsplit(href)
