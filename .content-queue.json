@@ -1,19 +1,6 @@
 {
   "queue": [
     {
-      "title": "Moxibustion Explained: Heat, Mugwort, and Essential Safety",
-      "path": "/treatments/moxibustion-heat-safety-tcm/",
-      "type": "treatment",
-      "parent": "treatments",
-      "estimated_read_time": 8,
-      "keywords": [
-        "moxibustion safety",
-        "mugwort heat therapy",
-        "moxibustion basics"
-      ],
-      "id": "1060"
-    },
-    {
       "title": "TCM and Emotional Boundaries: The Pericardium as a Filter",
       "path": "/tcm-basics/pericardium-boundaries-tcm/",
       "type": "tcm-basics",
@@ -13630,6 +13617,19 @@
         "after dinner routine"
       ],
       "id": "1059"
+    },
+    {
+      "title": "Moxibustion Explained: Heat, Mugwort, and Essential Safety",
+      "path": "/treatments/moxibustion-heat-safety-tcm/",
+      "type": "treatment",
+      "parent": "treatments",
+      "estimated_read_time": 8,
+      "keywords": [
+        "moxibustion safety",
+        "mugwort heat therapy",
+        "moxibustion basics"
+      ],
+      "id": "1060"
     }
   ]
 }
