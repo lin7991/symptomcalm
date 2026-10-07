@@ -1,19 +1,6 @@
 {
   "queue": [
     {
-      "title": "TCM and Emotional Boundaries: The Pericardium as a Filter",
-      "path": "/tcm-basics/pericardium-boundaries-tcm/",
-      "type": "tcm-basics",
-      "parent": "tcm-basics",
-      "estimated_read_time": 8,
-      "keywords": [
-        "Pericardium TCM boundaries",
-        "emotional boundaries TCM",
-        "Heart protector"
-      ],
-      "id": "1061"
-    },
-    {
       "title": "Menstrual Cramps and TCM: A Cycle-Aware Self-Care Map",
       "path": "/symptoms/womens-health/menstrual-cramps-cycle-map-tcm/",
       "type": "cluster",
@@ -13825,6 +13812,19 @@
         "moxibustion basics"
       ],
       "id": "1060"
+    },
+    {
+      "title": "TCM and Emotional Boundaries: The Pericardium as a Filter",
+      "path": "/tcm-basics/pericardium-boundaries-tcm/",
+      "type": "tcm-basics",
+      "parent": "tcm-basics",
+      "estimated_read_time": 8,
+      "keywords": [
+        "Pericardium TCM boundaries",
+        "emotional boundaries TCM",
+        "Heart protector"
+      ],
+      "id": "1061"
     }
   ]
 }
