@@ -1,19 +1,6 @@
 {
   "queue": [
     {
-      "title": "Neck Tension and Desk Posture Through a TCM Lens",
-      "path": "/symptoms/joint-pain/desk-neck-tension-tcm/",
-      "type": "cluster",
-      "parent": "joint-pain",
-      "estimated_read_time": 8,
-      "keywords": [
-        "desk neck tension",
-        "neck posture",
-        "TCM neck pain"
-      ],
-      "id": "1068"
-    },
-    {
       "title": "A Gentle TCM Approach to Travel Sleep Disruption",
       "path": "/symptoms/insomnia/travel-sleep-tcm/",
       "type": "cluster",
@@ -13825,6 +13812,19 @@
         "TCM eye health"
       ],
       "id": "1067"
+    },
+    {
+      "title": "Neck Tension and Desk Posture Through a TCM Lens",
+      "path": "/symptoms/joint-pain/desk-neck-tension-tcm/",
+      "type": "cluster",
+      "parent": "joint-pain",
+      "estimated_read_time": 8,
+      "keywords": [
+        "desk neck tension",
+        "neck posture",
+        "TCM neck pain"
+      ],
+      "id": "1068"
     }
   ]
 }
