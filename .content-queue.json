@@ -1,19 +1,6 @@
 {
   "queue": [
     {
-      "title": "Qigong for Beginners: How to Make Slow Movement Feel Less Awkward",
-      "path": "/treatments/qigong-beginner-practice-tcm/",
-      "type": "treatment",
-      "parent": "treatments",
-      "estimated_read_time": 7,
-      "keywords": [
-        "qigong beginners",
-        "slow movement practice",
-        "qigong basics"
-      ],
-      "id": "1063"
-    },
-    {
       "title": "TCM and Morning Fatigue: A Simple Pattern-Tracking Journal",
       "path": "/symptoms/fatigue/morning-fatigue-pattern-journal-tcm/",
       "type": "cluster",
@@ -13825,6 +13812,19 @@
         "period pain patterns"
       ],
       "id": "1062"
+    },
+    {
+      "title": "Qigong for Beginners: How to Make Slow Movement Feel Less Awkward",
+      "path": "/treatments/qigong-beginner-practice-tcm/",
+      "type": "treatment",
+      "parent": "treatments",
+      "estimated_read_time": 7,
+      "keywords": [
+        "qigong beginners",
+        "slow movement practice",
+        "qigong basics"
+      ],
+      "id": "1063"
     }
   ]
 }
