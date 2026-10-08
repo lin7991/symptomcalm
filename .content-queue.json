@@ -1,19 +1,6 @@
 {
   "queue": [
     {
-      "title": "TCM and Morning Fatigue: A Simple Pattern-Tracking Journal",
-      "path": "/symptoms/fatigue/morning-fatigue-pattern-journal-tcm/",
-      "type": "cluster",
-      "parent": "fatigue",
-      "estimated_read_time": 7,
-      "keywords": [
-        "morning fatigue journal",
-        "TCM fatigue patterns",
-        "energy tracking"
-      ],
-      "id": "1064"
-    },
-    {
       "title": "A TCM-Inspired Guide to Screen-Related Eye Strain",
       "path": "/symptoms/eye-health/screen-eye-strain-tcm/",
       "type": "cluster",
@@ -13825,6 +13812,19 @@
         "qigong basics"
       ],
       "id": "1063"
+    },
+    {
+      "title": "TCM and Morning Fatigue: A Simple Pattern-Tracking Journal",
+      "path": "/symptoms/fatigue/morning-fatigue-pattern-journal-tcm/",
+      "type": "cluster",
+      "parent": "fatigue",
+      "estimated_read_time": 7,
+      "keywords": [
+        "morning fatigue journal",
+        "TCM fatigue patterns",
+        "energy tracking"
+      ],
+      "id": "1064"
     }
   ]
 }
