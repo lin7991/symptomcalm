@@ -1,19 +1,6 @@
 {
   "queue": [
     {
-      "title": "A Gentle TCM Approach to Travel Sleep Disruption",
-      "path": "/symptoms/insomnia/travel-sleep-tcm/",
-      "type": "cluster",
-      "parent": "insomnia",
-      "estimated_read_time": 7,
-      "keywords": [
-        "travel sleep",
-        "jet lag sleep habits",
-        "TCM travel"
-      ],
-      "id": "1070"
-    },
-    {
       "title": "What TCM Says About Jaw Tension and Clenching",
       "path": "/symptoms/stress/jaw-tension-tcm/",
       "type": "cluster",
@@ -13825,6 +13812,19 @@
         "TCM neck pain"
       ],
       "id": "1068"
+    },
+    {
+      "title": "A Gentle TCM Approach to Travel Sleep Disruption",
+      "path": "/symptoms/insomnia/travel-sleep-tcm/",
+      "type": "cluster",
+      "parent": "insomnia",
+      "estimated_read_time": 7,
+      "keywords": [
+        "travel sleep",
+        "jet lag sleep habits",
+        "TCM travel"
+      ],
+      "id": "1070"
     }
   ]
 }
