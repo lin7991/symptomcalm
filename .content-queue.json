@@ -1,19 +1,6 @@
 {
   "queue": [
     {
-      "title": "Menstrual Cramps and TCM: A Cycle-Aware Self-Care Map",
-      "path": "/symptoms/womens-health/menstrual-cramps-cycle-map-tcm/",
-      "type": "cluster",
-      "parent": "womens-health",
-      "estimated_read_time": 8,
-      "keywords": [
-        "menstrual cramps TCM",
-        "cycle-aware self care",
-        "period pain patterns"
-      ],
-      "id": "1062"
-    },
-    {
       "title": "Qigong for Beginners: How to Make Slow Movement Feel Less Awkward",
       "path": "/treatments/qigong-beginner-practice-tcm/",
       "type": "treatment",
@@ -13825,6 +13812,19 @@
         "Heart protector"
       ],
       "id": "1061"
+    },
+    {
+      "title": "Menstrual Cramps and TCM: A Cycle-Aware Self-Care Map",
+      "path": "/symptoms/womens-health/menstrual-cramps-cycle-map-tcm/",
+      "type": "cluster",
+      "parent": "womens-health",
+      "estimated_read_time": 8,
+      "keywords": [
+        "menstrual cramps TCM",
+        "cycle-aware self care",
+        "period pain patterns"
+      ],
+      "id": "1062"
     }
   ]
 }
