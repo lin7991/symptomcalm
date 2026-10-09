@@ -1,19 +1,6 @@
 {
   "queue": [
     {
-      "title": "A TCM-Inspired Reset for Long Commute Stiffness",
-      "path": "/symptoms/joint-pain/commute-stiffness-tcm/",
-      "type": "cluster",
-      "parent": "joint-pain",
-      "estimated_read_time": 7,
-      "keywords": [
-        "commute stiffness",
-        "sitting stiffness",
-        "TCM mobility"
-      ],
-      "id": "1083"
-    },
-    {
       "title": "Foot Soaks in TCM: Warmth, Routine, and Safety",
       "path": "/treatments/foot-soak-safety-tcm/",
       "type": "treatment",
@@ -13825,6 +13812,19 @@
         "TCM respiratory health"
       ],
       "id": "1081"
+    },
+    {
+      "title": "A TCM-Inspired Reset for Long Commute Stiffness",
+      "path": "/symptoms/joint-pain/commute-stiffness-tcm/",
+      "type": "cluster",
+      "parent": "joint-pain",
+      "estimated_read_time": 7,
+      "keywords": [
+        "commute stiffness",
+        "sitting stiffness",
+        "TCM mobility"
+      ],
+      "id": "1083"
     }
   ]
 }
