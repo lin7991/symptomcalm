@@ -1,19 +1,6 @@
 {
   "queue": [
     {
-      "title": "Gua Sha for Shoulder Mobility: A Safety-First Overview",
-      "path": "/treatments/gua-sha-shoulder-mobility-tcm/",
-      "type": "treatment",
-      "parent": "treatments",
-      "estimated_read_time": 8,
-      "keywords": [
-        "gua sha shoulder",
-        "shoulder mobility",
-        "gua sha safety"
-      ],
-      "id": "1074"
-    },
-    {
       "title": "Qigong Breathing for a Calmer Evening Transition",
       "path": "/treatments/qigong-evening-breathing/",
       "type": "treatment",
@@ -13825,6 +13812,19 @@
         "acupressure guide"
       ],
       "id": "1073"
+    },
+    {
+      "title": "Gua Sha for Shoulder Mobility: A Safety-First Overview",
+      "path": "/treatments/gua-sha-shoulder-mobility-tcm/",
+      "type": "treatment",
+      "parent": "treatments",
+      "estimated_read_time": 8,
+      "keywords": [
+        "gua sha shoulder",
+        "shoulder mobility",
+        "gua sha safety"
+      ],
+      "id": "1074"
     }
   ]
 }
