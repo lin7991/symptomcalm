@@ -1,19 +1,6 @@
 {
   "queue": [
     {
-      "title": "Why Air Conditioning Can Irritate the Airways: A TCM View",
-      "path": "/symptoms/respiratory-health/air-conditioning-cough-tcm/",
-      "type": "cluster",
-      "parent": "respiratory-health",
-      "estimated_read_time": 7,
-      "keywords": [
-        "air conditioning cough",
-        "dry air breathing",
-        "TCM respiratory health"
-      ],
-      "id": "1081"
-    },
-    {
       "title": "A TCM-Inspired Reset for Long Commute Stiffness",
       "path": "/symptoms/joint-pain/commute-stiffness-tcm/",
       "type": "cluster",
@@ -13825,6 +13812,19 @@
         "TCM headaches"
       ],
       "id": "1080"
+    },
+    {
+      "title": "Why Air Conditioning Can Irritate the Airways: A TCM View",
+      "path": "/symptoms/respiratory-health/air-conditioning-cough-tcm/",
+      "type": "cluster",
+      "parent": "respiratory-health",
+      "estimated_read_time": 7,
+      "keywords": [
+        "air conditioning cough",
+        "dry air breathing",
+        "TCM respiratory health"
+      ],
+      "id": "1081"
     }
   ]
 }
