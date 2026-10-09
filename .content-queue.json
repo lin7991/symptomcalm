@@ -1,19 +1,6 @@
 {
   "queue": [
     {
-      "title": "Acupressure Basics: How Pressure and Sensation Work",
-      "path": "/treatments/acupressure-pressure-sensation-guide/",
-      "type": "treatment",
-      "parent": "treatments",
-      "estimated_read_time": 8,
-      "keywords": [
-        "acupressure basics",
-        "pressure points safety",
-        "acupressure guide"
-      ],
-      "id": "1073"
-    },
-    {
       "title": "Gua Sha for Shoulder Mobility: A Safety-First Overview",
       "path": "/treatments/gua-sha-shoulder-mobility-tcm/",
       "type": "treatment",
@@ -13825,6 +13812,19 @@
         "TCM stress"
       ],
       "id": "1072"
+    },
+    {
+      "title": "Acupressure Basics: How Pressure and Sensation Work",
+      "path": "/treatments/acupressure-pressure-sensation-guide/",
+      "type": "treatment",
+      "parent": "treatments",
+      "estimated_read_time": 8,
+      "keywords": [
+        "acupressure basics",
+        "pressure points safety",
+        "acupressure guide"
+      ],
+      "id": "1073"
     }
   ]
 }
