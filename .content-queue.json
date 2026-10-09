@@ -1,19 +1,6 @@
 {
   "queue": [
     {
-      "title": "Weather Pressure and Headaches: A TCM-Informed Map",
-      "path": "/symptoms/headaches/weather-pressure-headache-tcm/",
-      "type": "cluster",
-      "parent": "headaches",
-      "estimated_read_time": 8,
-      "keywords": [
-        "weather pressure headache",
-        "barometric pressure",
-        "TCM headaches"
-      ],
-      "id": "1080"
-    },
-    {
       "title": "Why Air Conditioning Can Irritate the Airways: A TCM View",
       "path": "/symptoms/respiratory-health/air-conditioning-cough-tcm/",
       "type": "cluster",
@@ -13825,6 +13812,19 @@
         "TCM diet basics"
       ],
       "id": "1079"
+    },
+    {
+      "title": "Weather Pressure and Headaches: A TCM-Informed Map",
+      "path": "/symptoms/headaches/weather-pressure-headache-tcm/",
+      "type": "cluster",
+      "parent": "headaches",
+      "estimated_read_time": 8,
+      "keywords": [
+        "weather pressure headache",
+        "barometric pressure",
+        "TCM headaches"
+      ],
+      "id": "1080"
     }
   ]
 }
