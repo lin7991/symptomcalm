@@ -1,19 +1,6 @@
 {
   "queue": [
     {
-      "title": "Racing Thoughts at Bedtime: A TCM Perspective",
-      "path": "/symptoms/insomnia/racing-thoughts-bedtime-tcm/",
-      "type": "cluster",
-      "parent": "insomnia",
-      "estimated_read_time": 7,
-      "keywords": [
-        "racing thoughts sleep",
-        "bedtime anxiety",
-        "TCM insomnia"
-      ],
-      "id": "1089"
-    },
-    {
       "title": "Period Cramps in TCM: Patterns, Timing, and Gentle Support",
       "path": "/symptoms/womens-health/period-cramps-tcm/",
       "type": "cluster",
@@ -14020,6 +14007,19 @@
         "TCM back pain"
       ],
       "id": "1088"
+    },
+    {
+      "title": "Racing Thoughts at Bedtime: A TCM Perspective",
+      "path": "/symptoms/insomnia/racing-thoughts-bedtime-tcm/",
+      "type": "cluster",
+      "parent": "insomnia",
+      "estimated_read_time": 7,
+      "keywords": [
+        "racing thoughts sleep",
+        "bedtime anxiety",
+        "TCM insomnia"
+      ],
+      "id": "1089"
     }
   ]
 }
