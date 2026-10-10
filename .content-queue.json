@@ -1,19 +1,6 @@
 {
   "queue": [
     {
-      "title": "Pollen-Season Fatigue: A TCM-Informed Energy Map",
-      "path": "/symptoms/allergies/pollen-season-fatigue-tcm/",
-      "type": "cluster",
-      "parent": "allergies",
-      "estimated_read_time": 7,
-      "keywords": [
-        "pollen fatigue",
-        "seasonal allergies fatigue",
-        "Wei Qi"
-      ],
-      "id": "1092"
-    },
-    {
       "title": "Travel Constipation in TCM: Rhythm, Fluids, and Movement",
       "path": "/symptoms/digestion/travel-constipation-tcm/",
       "type": "cluster",
@@ -14020,6 +14007,19 @@
         "TCM skin patterns"
       ],
       "id": "1091"
+    },
+    {
+      "title": "Pollen-Season Fatigue: A TCM-Informed Energy Map",
+      "path": "/symptoms/allergies/pollen-season-fatigue-tcm/",
+      "type": "cluster",
+      "parent": "allergies",
+      "estimated_read_time": 7,
+      "keywords": [
+        "pollen fatigue",
+        "seasonal allergies fatigue",
+        "Wei Qi"
+      ],
+      "id": "1092"
     }
   ]
 }
