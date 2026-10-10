@@ -1,19 +1,6 @@
 {
   "queue": [
     {
-      "title": "Desk-Related Back Tension: A TCM-Informed Daily Reset",
-      "path": "/symptoms/back-pain/desk-back-tension-tcm/",
-      "type": "cluster",
-      "parent": "back-pain",
-      "estimated_read_time": 7,
-      "keywords": [
-        "desk back tension",
-        "back pain posture",
-        "TCM back pain"
-      ],
-      "id": "1088"
-    },
-    {
       "title": "Racing Thoughts at Bedtime: A TCM Perspective",
       "path": "/symptoms/insomnia/racing-thoughts-bedtime-tcm/",
       "type": "cluster",
@@ -14020,6 +14007,19 @@
         "TCM timing"
       ],
       "id": "1087"
+    },
+    {
+      "title": "Desk-Related Back Tension: A TCM-Informed Daily Reset",
+      "path": "/symptoms/back-pain/desk-back-tension-tcm/",
+      "type": "cluster",
+      "parent": "back-pain",
+      "estimated_read_time": 7,
+      "keywords": [
+        "desk back tension",
+        "back pain posture",
+        "TCM back pain"
+      ],
+      "id": "1088"
     }
   ]
 }
