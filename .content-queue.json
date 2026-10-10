@@ -1,19 +1,6 @@
 {
   "queue": [
     {
-      "title": "Foot Soaks in TCM: Warmth, Routine, and Safety",
-      "path": "/treatments/foot-soak-safety-tcm/",
-      "type": "treatment",
-      "parent": "treatments",
-      "estimated_read_time": 7,
-      "keywords": [
-        "TCM foot soak",
-        "foot bath safety",
-        "evening foot soak"
-      ],
-      "id": "1085"
-    },
-    {
       "title": "Winter Skin Tightness: A TCM-Informed Moisture Map",
       "path": "/symptoms/skin-conditions/winter-skin-tightness-tcm/",
       "type": "cluster",
@@ -38,6 +25,201 @@
         "TCM timing"
       ],
       "id": "1087"
+    },
+    {
+      "title": "Desk-Related Back Tension: A TCM-Informed Daily Reset",
+      "path": "/symptoms/back-pain/desk-back-tension-tcm/",
+      "type": "cluster",
+      "parent": "back-pain",
+      "estimated_read_time": 7,
+      "keywords": [
+        "desk back tension",
+        "back pain posture",
+        "TCM back pain"
+      ],
+      "id": "1088"
+    },
+    {
+      "title": "Racing Thoughts at Bedtime: A TCM Perspective",
+      "path": "/symptoms/insomnia/racing-thoughts-bedtime-tcm/",
+      "type": "cluster",
+      "parent": "insomnia",
+      "estimated_read_time": 7,
+      "keywords": [
+        "racing thoughts sleep",
+        "bedtime anxiety",
+        "TCM insomnia"
+      ],
+      "id": "1089"
+    },
+    {
+      "title": "Period Cramps in TCM: Patterns, Timing, and Gentle Support",
+      "path": "/symptoms/womens-health/period-cramps-tcm/",
+      "type": "cluster",
+      "parent": "womens-health",
+      "estimated_read_time": 8,
+      "keywords": [
+        "period cramps TCM",
+        "menstrual pain",
+        "acupressure cramps"
+      ],
+      "id": "1090"
+    },
+    {
+      "title": "Eczema Itch in TCM: Wind, Heat, and the Skin Barrier",
+      "path": "/symptoms/skin-conditions/eczema-itch-tcm/",
+      "type": "cluster",
+      "parent": "skin-conditions",
+      "estimated_read_time": 8,
+      "keywords": [
+        "eczema itch TCM",
+        "skin barrier",
+        "TCM skin patterns"
+      ],
+      "id": "1091"
+    },
+    {
+      "title": "Pollen-Season Fatigue: A TCM-Informed Energy Map",
+      "path": "/symptoms/allergies/pollen-season-fatigue-tcm/",
+      "type": "cluster",
+      "parent": "allergies",
+      "estimated_read_time": 7,
+      "keywords": [
+        "pollen fatigue",
+        "seasonal allergies fatigue",
+        "Wei Qi"
+      ],
+      "id": "1092"
+    },
+    {
+      "title": "Travel Constipation in TCM: Rhythm, Fluids, and Movement",
+      "path": "/symptoms/digestion/travel-constipation-tcm/",
+      "type": "cluster",
+      "parent": "digestion",
+      "estimated_read_time": 7,
+      "keywords": [
+        "travel constipation",
+        "constipation routine",
+        "TCM digestion"
+      ],
+      "id": "1093"
+    },
+    {
+      "title": "Screen-Related Headaches: A TCM Perspective on Visual Strain",
+      "path": "/symptoms/headaches/screen-related-headaches-tcm/",
+      "type": "cluster",
+      "parent": "headaches",
+      "estimated_read_time": 7,
+      "keywords": [
+        "screen headaches",
+        "digital eye strain headache",
+        "TCM headache"
+      ],
+      "id": "1094"
+    },
+    {
+      "title": "Yin and Yang Explained: The Body's Homeostasis System",
+      "path": "/tcm-basics/yin-yang-homeostasis/",
+      "type": "basics",
+      "parent": "tcm-basics",
+      "estimated_read_time": 7,
+      "keywords": [
+        "yin yang explained",
+        "homeostasis TCM",
+        "TCM basics"
+      ],
+      "id": "1095"
+    },
+    {
+      "title": "The TCM Five Elements in Everyday Decision-Making",
+      "path": "/tcm-basics/five-elements-decision-making/",
+      "type": "basics",
+      "parent": "tcm-basics",
+      "estimated_read_time": 7,
+      "keywords": [
+        "five elements TCM",
+        "decision making",
+        "Wu Xing"
+      ],
+      "id": "1096"
+    },
+    {
+      "title": "Moxibustion at Home: Heat, Timing, and Safety Basics",
+      "path": "/treatments/moxibustion-home-safety-tcm/",
+      "type": "treatment",
+      "parent": "treatments",
+      "estimated_read_time": 8,
+      "keywords": [
+        "moxibustion safety",
+        "moxa at home",
+        "TCM heat therapy"
+      ],
+      "id": "1097"
+    },
+    {
+      "title": "Gua Sha for Jaw Tension: A Gentle At-Home Guide",
+      "path": "/treatments/gua-sha-jaw-tension-tcm/",
+      "type": "treatment",
+      "parent": "treatments",
+      "estimated_read_time": 7,
+      "keywords": [
+        "gua sha jaw tension",
+        "jaw massage",
+        "TMJ self-care"
+      ],
+      "id": "1098"
+    },
+    {
+      "title": "Workday Anxiety in TCM: From Constant Alert to Better Rhythm",
+      "path": "/symptoms/anxiety/workday-anxiety-tcm/",
+      "type": "cluster",
+      "parent": "anxiety",
+      "estimated_read_time": 7,
+      "keywords": [
+        "workday anxiety",
+        "stress rhythm",
+        "TCM anxiety"
+      ],
+      "id": "1099"
+    },
+    {
+      "title": "Luteal-Phase Mood Changes: A TCM-Informed Cycle Map",
+      "path": "/symptoms/womens-health/luteal-phase-mood-tcm/",
+      "type": "cluster",
+      "parent": "womens-health",
+      "estimated_read_time": 8,
+      "keywords": [
+        "luteal phase mood",
+        "PMS mood changes",
+        "TCM cycle"
+      ],
+      "id": "1100"
+    },
+    {
+      "title": "Persistent Throat Clearing: A TCM Perspective on Lung and Phlegm",
+      "path": "/symptoms/respiratory-health/persistent-throat-clearing-tcm/",
+      "type": "cluster",
+      "parent": "respiratory-health",
+      "estimated_read_time": 7,
+      "keywords": [
+        "throat clearing",
+        "postnasal drip",
+        "TCM phlegm"
+      ],
+      "id": "1101"
+    },
+    {
+      "title": "Tui Na for Jaw Tension: A Gentle At-Home Routine",
+      "path": "/treatments/tui-na-jaw-tension-tcm/",
+      "type": "treatment",
+      "parent": "treatments",
+      "estimated_read_time": 7,
+      "keywords": [
+        "tui na jaw tension",
+        "jaw massage",
+        "facial tension"
+      ],
+      "id": "1102"
     }
   ],
   "published": [
@@ -13825,6 +14007,19 @@
         "TCM mobility"
       ],
       "id": "1083"
+    },
+    {
+      "title": "Foot Soaks in TCM: Warmth, Routine, and Safety",
+      "path": "/treatments/foot-soak-safety-tcm/",
+      "type": "treatment",
+      "parent": "treatments",
+      "estimated_read_time": 7,
+      "keywords": [
+        "TCM foot soak",
+        "foot bath safety",
+        "evening foot soak"
+      ],
+      "id": "1085"
     }
   ]
 }
