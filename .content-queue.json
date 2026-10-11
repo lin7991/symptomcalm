@@ -1,32 +1,6 @@
 {
   "queue": [
     {
-      "title": "Screen-Related Headaches: A TCM Perspective on Visual Strain",
-      "path": "/symptoms/headaches/screen-related-headaches-tcm/",
-      "type": "cluster",
-      "parent": "headaches",
-      "estimated_read_time": 7,
-      "keywords": [
-        "screen headaches",
-        "digital eye strain headache",
-        "TCM headache"
-      ],
-      "id": "1094"
-    },
-    {
-      "title": "Yin and Yang Explained: The Body's Homeostasis System",
-      "path": "/tcm-basics/yin-yang-homeostasis/",
-      "type": "basics",
-      "parent": "tcm-basics",
-      "estimated_read_time": 7,
-      "keywords": [
-        "yin yang explained",
-        "homeostasis TCM",
-        "TCM basics"
-      ],
-      "id": "1095"
-    },
-    {
       "title": "The TCM Five Elements in Everyday Decision-Making",
       "path": "/tcm-basics/five-elements-decision-making/",
       "type": "basics",
@@ -14020,6 +13994,32 @@
         "TCM digestion"
       ],
       "id": "1093"
+    },
+    {
+      "title": "Screen-Related Headaches: A TCM Perspective on Visual Strain",
+      "path": "/symptoms/headaches/screen-related-headaches-tcm/",
+      "type": "cluster",
+      "parent": "headaches",
+      "estimated_read_time": 7,
+      "keywords": [
+        "screen headaches",
+        "digital eye strain headache",
+        "TCM headache"
+      ],
+      "id": "1094"
+    },
+    {
+      "title": "Yin and Yang Explained: The Body's Homeostasis System",
+      "path": "/tcm-basics/yin-yang-homeostasis/",
+      "type": "basics",
+      "parent": "tcm-basics",
+      "estimated_read_time": 7,
+      "keywords": [
+        "yin yang explained",
+        "homeostasis TCM",
+        "TCM basics"
+      ],
+      "id": "1095"
     }
   ]
 }
