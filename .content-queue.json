@@ -1,19 +1,6 @@
 {
   "queue": [
     {
-      "title": "Travel Constipation in TCM: Rhythm, Fluids, and Movement",
-      "path": "/symptoms/digestion/travel-constipation-tcm/",
-      "type": "cluster",
-      "parent": "digestion",
-      "estimated_read_time": 7,
-      "keywords": [
-        "travel constipation",
-        "constipation routine",
-        "TCM digestion"
-      ],
-      "id": "1093"
-    },
-    {
       "title": "Screen-Related Headaches: A TCM Perspective on Visual Strain",
       "path": "/symptoms/headaches/screen-related-headaches-tcm/",
       "type": "cluster",
@@ -14020,6 +14007,19 @@
         "Wei Qi"
       ],
       "id": "1092"
+    },
+    {
+      "title": "Travel Constipation in TCM: Rhythm, Fluids, and Movement",
+      "path": "/symptoms/digestion/travel-constipation-tcm/",
+      "type": "cluster",
+      "parent": "digestion",
+      "estimated_read_time": 7,
+      "keywords": [
+        "travel constipation",
+        "constipation routine",
+        "TCM digestion"
+      ],
+      "id": "1093"
     }
   ]
 }
