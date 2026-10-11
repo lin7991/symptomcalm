@@ -1,19 +1,6 @@
 {
   "queue": [
     {
-      "title": "Gua Sha for Jaw Tension: A Gentle At-Home Guide",
-      "path": "/treatments/gua-sha-jaw-tension-tcm/",
-      "type": "treatment",
-      "parent": "treatments",
-      "estimated_read_time": 7,
-      "keywords": [
-        "gua sha jaw tension",
-        "jaw massage",
-        "TMJ self-care"
-      ],
-      "id": "1098"
-    },
-    {
       "title": "Workday Anxiety in TCM: From Constant Alert to Better Rhythm",
       "path": "/symptoms/anxiety/workday-anxiety-tcm/",
       "type": "cluster",
@@ -14020,6 +14007,19 @@
         "TCM heat therapy"
       ],
       "id": "1097"
+    },
+    {
+      "title": "Gua Sha for Jaw Tension: A Gentle At-Home Guide",
+      "path": "/treatments/gua-sha-jaw-tension-tcm/",
+      "type": "treatment",
+      "parent": "treatments",
+      "estimated_read_time": 7,
+      "keywords": [
+        "gua sha jaw tension",
+        "jaw massage",
+        "TMJ self-care"
+      ],
+      "id": "1098"
     }
   ]
 }
