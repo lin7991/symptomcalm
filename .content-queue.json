@@ -1,19 +1,6 @@
 {
   "queue": [
     {
-      "title": "Moxibustion at Home: Heat, Timing, and Safety Basics",
-      "path": "/treatments/moxibustion-home-safety-tcm/",
-      "type": "treatment",
-      "parent": "treatments",
-      "estimated_read_time": 8,
-      "keywords": [
-        "moxibustion safety",
-        "moxa at home",
-        "TCM heat therapy"
-      ],
-      "id": "1097"
-    },
-    {
       "title": "Gua Sha for Jaw Tension: A Gentle At-Home Guide",
       "path": "/treatments/gua-sha-jaw-tension-tcm/",
       "type": "treatment",
@@ -14020,6 +14007,19 @@
         "Wu Xing"
       ],
       "id": "1096"
+    },
+    {
+      "title": "Moxibustion at Home: Heat, Timing, and Safety Basics",
+      "path": "/treatments/moxibustion-home-safety-tcm/",
+      "type": "treatment",
+      "parent": "treatments",
+      "estimated_read_time": 8,
+      "keywords": [
+        "moxibustion safety",
+        "moxa at home",
+        "TCM heat therapy"
+      ],
+      "id": "1097"
     }
   ]
 }
