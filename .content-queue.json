@@ -1,19 +1,6 @@
 {
   "queue": [
     {
-      "title": "Back Tension After Sitting: A TCM-Informed Movement Reset",
-      "path": "/symptoms/back-pain/sitting-back-tension-tcm/",
-      "type": "cluster",
-      "parent": "back-pain",
-      "estimated_read_time": 7,
-      "keywords": [
-        "back tension sitting",
-        "TCM back stiffness",
-        "desk movement reset"
-      ],
-      "id": "1105"
-    },
-    {
       "title": "Cold Feet at Night: A TCM Perspective on Warmth and Circulation",
       "path": "/symptoms/back-pain/cold-feet-night-tcm/",
       "type": "cluster",
@@ -14215,6 +14202,19 @@
         "post-social overwhelm"
       ],
       "id": "1104"
+    },
+    {
+      "title": "Back Tension After Sitting: A TCM-Informed Movement Reset",
+      "path": "/symptoms/back-pain/sitting-back-tension-tcm/",
+      "type": "cluster",
+      "parent": "back-pain",
+      "estimated_read_time": 7,
+      "keywords": [
+        "back tension sitting",
+        "TCM back stiffness",
+        "desk movement reset"
+      ],
+      "id": "1105"
     }
   ]
 }
