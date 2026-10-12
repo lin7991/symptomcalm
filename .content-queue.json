@@ -1,19 +1,6 @@
 {
   "queue": [
     {
-      "title": "Evening Anxiety and TCM: A Transition Map for the Nervous System",
-      "path": "/symptoms/anxiety/evening-anxiety-transition-tcm/",
-      "type": "cluster",
-      "parent": "anxiety",
-      "estimated_read_time": 7,
-      "keywords": [
-        "evening anxiety TCM",
-        "TCM stress routine",
-        "calm evening transition"
-      ],
-      "id": "1103"
-    },
-    {
       "title": "Anxiety After Social Situations: A TCM-Informed Recovery Map",
       "path": "/symptoms/anxiety/post-social-anxiety-tcm/",
       "type": "cluster",
@@ -14215,6 +14202,19 @@
         "facial tension"
       ],
       "id": "1102"
+    },
+    {
+      "title": "Evening Anxiety and TCM: A Transition Map for the Nervous System",
+      "path": "/symptoms/anxiety/evening-anxiety-transition-tcm/",
+      "type": "cluster",
+      "parent": "anxiety",
+      "estimated_read_time": 7,
+      "keywords": [
+        "evening anxiety TCM",
+        "TCM stress routine",
+        "calm evening transition"
+      ],
+      "id": "1103"
     }
   ]
 }
