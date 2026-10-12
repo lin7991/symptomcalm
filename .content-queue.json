@@ -1,19 +1,6 @@
 {
   "queue": [
     {
-      "title": "Anxiety After Social Situations: A TCM-Informed Recovery Map",
-      "path": "/symptoms/anxiety/post-social-anxiety-tcm/",
-      "type": "cluster",
-      "parent": "anxiety",
-      "estimated_read_time": 7,
-      "keywords": [
-        "social anxiety recovery",
-        "TCM anxiety perspective",
-        "post-social overwhelm"
-      ],
-      "id": "1104"
-    },
-    {
       "title": "Back Tension After Sitting: A TCM-Informed Movement Reset",
       "path": "/symptoms/back-pain/sitting-back-tension-tcm/",
       "type": "cluster",
@@ -14215,6 +14202,19 @@
         "calm evening transition"
       ],
       "id": "1103"
+    },
+    {
+      "title": "Anxiety After Social Situations: A TCM-Informed Recovery Map",
+      "path": "/symptoms/anxiety/post-social-anxiety-tcm/",
+      "type": "cluster",
+      "parent": "anxiety",
+      "estimated_read_time": 7,
+      "keywords": [
+        "social anxiety recovery",
+        "TCM anxiety perspective",
+        "post-social overwhelm"
+      ],
+      "id": "1104"
     }
   ]
 }
