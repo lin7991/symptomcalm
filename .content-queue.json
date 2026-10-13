@@ -1,19 +1,6 @@
 {
   "queue": [
     {
-      "title": "Night Sweats and Sleep Transitions: A TCM-Informed Menopause Map",
-      "path": "/symptoms/womens-health/menopause-night-sweats-sleep-tcm/",
-      "type": "cluster",
-      "parent": "womens-health",
-      "estimated_read_time": 7,
-      "keywords": [
-        "menopause night sweats sleep",
-        "TCM menopause sleep",
-        "night sweats perspective"
-      ],
-      "id": "1110"
-    },
-    {
       "title": "Seasonal Sinus Pressure: A TCM-Informed Pattern Guide",
       "path": "/symptoms/allergies/seasonal-sinus-pressure-tcm/",
       "type": "cluster",
@@ -14215,6 +14202,19 @@
         "luteal phase appetite"
       ],
       "id": "1109"
+    },
+    {
+      "title": "Night Sweats and Sleep Transitions: A TCM-Informed Menopause Map",
+      "path": "/symptoms/womens-health/menopause-night-sweats-sleep-tcm/",
+      "type": "cluster",
+      "parent": "womens-health",
+      "estimated_read_time": 7,
+      "keywords": [
+        "menopause night sweats sleep",
+        "TCM menopause sleep",
+        "night sweats perspective"
+      ],
+      "id": "1110"
     }
   ]
 }
