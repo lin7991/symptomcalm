@@ -1,19 +1,6 @@
 {
   "queue": [
     {
-      "title": "Post-Viral Low Energy: A TCM-Informed Recovery Framework",
-      "path": "/symptoms/respiratory-health/post-viral-low-energy-tcm/",
-      "type": "cluster",
-      "parent": "respiratory-health",
-      "estimated_read_time": 7,
-      "keywords": [
-        "post-viral fatigue",
-        "TCM recovery framework",
-        "low energy after illness"
-      ],
-      "id": "1113"
-    },
-    {
       "title": "Dry Air and Nasal Irritation: A TCM Perspective",
       "path": "/symptoms/respiratory-health/dry-air-nasal-irritation-tcm/",
       "type": "cluster",
@@ -14215,6 +14202,19 @@
         "indoor air quality"
       ],
       "id": "1112"
+    },
+    {
+      "title": "Post-Viral Low Energy: A TCM-Informed Recovery Framework",
+      "path": "/symptoms/respiratory-health/post-viral-low-energy-tcm/",
+      "type": "cluster",
+      "parent": "respiratory-health",
+      "estimated_read_time": 7,
+      "keywords": [
+        "post-viral fatigue",
+        "TCM recovery framework",
+        "low energy after illness"
+      ],
+      "id": "1113"
     }
   ]
 }
