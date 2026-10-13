@@ -1,19 +1,6 @@
 {
   "queue": [
     {
-      "title": "Food Cravings Before Your Period: A TCM Cycle Perspective",
-      "path": "/symptoms/womens-health/premenstrual-food-cravings-tcm/",
-      "type": "cluster",
-      "parent": "womens-health",
-      "estimated_read_time": 7,
-      "keywords": [
-        "premenstrual food cravings",
-        "TCM menstrual cycle",
-        "luteal phase appetite"
-      ],
-      "id": "1109"
-    },
-    {
       "title": "Night Sweats and Sleep Transitions: A TCM-Informed Menopause Map",
       "path": "/symptoms/womens-health/menopause-night-sweats-sleep-tcm/",
       "type": "cluster",
@@ -14215,6 +14202,19 @@
         "nighttime thirst"
       ],
       "id": "1108"
+    },
+    {
+      "title": "Food Cravings Before Your Period: A TCM Cycle Perspective",
+      "path": "/symptoms/womens-health/premenstrual-food-cravings-tcm/",
+      "type": "cluster",
+      "parent": "womens-health",
+      "estimated_read_time": 7,
+      "keywords": [
+        "premenstrual food cravings",
+        "TCM menstrual cycle",
+        "luteal phase appetite"
+      ],
+      "id": "1109"
     }
   ]
 }
