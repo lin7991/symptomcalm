@@ -1,19 +1,6 @@
 {
   "queue": [
     {
-      "title": "Sunday Scaries and Sleep: A TCM-Informed Wind-Down Map",
-      "path": "/symptoms/insomnia/sunday-scaries-sleep-tcm/",
-      "type": "cluster",
-      "parent": "insomnia",
-      "estimated_read_time": 7,
-      "keywords": [
-        "Sunday scaries sleep",
-        "TCM sleep routine",
-        "anticipatory stress bedtime"
-      ],
-      "id": "1107"
-    },
-    {
       "title": "Waking with a Dry Mouth: A TCM-Informed Sleep Clue",
       "path": "/symptoms/insomnia/dry-mouth-sleep-tcm/",
       "type": "cluster",
@@ -14215,6 +14202,19 @@
         "warm feet routine"
       ],
       "id": "1106"
+    },
+    {
+      "title": "Sunday Scaries and Sleep: A TCM-Informed Wind-Down Map",
+      "path": "/symptoms/insomnia/sunday-scaries-sleep-tcm/",
+      "type": "cluster",
+      "parent": "insomnia",
+      "estimated_read_time": 7,
+      "keywords": [
+        "Sunday scaries sleep",
+        "TCM sleep routine",
+        "anticipatory stress bedtime"
+      ],
+      "id": "1107"
     }
   ]
 }
