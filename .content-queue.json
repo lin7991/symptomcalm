@@ -1,19 +1,6 @@
 {
   "queue": [
     {
-      "title": "Post-Meal Sleepiness in TCM: Digestion, Timing, and Energy",
-      "path": "/symptoms/digestion/post-meal-sleepiness-tcm/",
-      "type": "cluster",
-      "parent": "digestion",
-      "estimated_read_time": 7,
-      "keywords": [
-        "post-meal sleepiness",
-        "food coma",
-        "TCM digestion"
-      ],
-      "id": "1120"
-    },
-    {
       "title": "Itchy Scalp in TCM: A Skin-and-Scalp Pattern Guide",
       "path": "/symptoms/skin-conditions/itchy-scalp-tcm/",
       "type": "cluster",
@@ -14410,6 +14397,19 @@
         "TCM mobility"
       ],
       "id": "1119"
+    },
+    {
+      "title": "Post-Meal Sleepiness in TCM: Digestion, Timing, and Energy",
+      "path": "/symptoms/digestion/post-meal-sleepiness-tcm/",
+      "type": "cluster",
+      "parent": "digestion",
+      "estimated_read_time": 7,
+      "keywords": [
+        "post-meal sleepiness",
+        "food coma",
+        "TCM digestion"
+      ],
+      "id": "1120"
     }
   ]
 }
