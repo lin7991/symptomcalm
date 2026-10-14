@@ -1,19 +1,6 @@
 {
   "queue": [
     {
-      "title": "Decision Fatigue in TCM: A Fuel-Gauge Map for Mental Overload",
-      "path": "/symptoms/anxiety/decision-fatigue-tcm/",
-      "type": "cluster",
-      "parent": "anxiety",
-      "estimated_read_time": 7,
-      "keywords": [
-        "decision fatigue TCM",
-        "mental overload",
-        "Spleen Qi"
-      ],
-      "id": "1118"
-    },
-    {
       "title": "Hip Flexor Tension and Sitting: A TCM-Informed Mobility Map",
       "path": "/symptoms/back-pain/hip-flexor-tension-tcm/",
       "type": "cluster",
@@ -14410,6 +14397,19 @@
         "desk wrist routine"
       ],
       "id": "1117"
+    },
+    {
+      "title": "Decision Fatigue in TCM: A Fuel-Gauge Map for Mental Overload",
+      "path": "/symptoms/anxiety/decision-fatigue-tcm/",
+      "type": "cluster",
+      "parent": "anxiety",
+      "estimated_read_time": 7,
+      "keywords": [
+        "decision fatigue TCM",
+        "mental overload",
+        "Spleen Qi"
+      ],
+      "id": "1118"
     }
   ]
 }
