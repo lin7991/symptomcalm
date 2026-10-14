@@ -1,19 +1,6 @@
 {
   "queue": [
     {
-      "title": "Tongue Coating in TCM: What Beginners Notice and What It Cannot Tell You",
-      "path": "/tcm-basics/tongue-coating-tcm/",
-      "type": "cluster",
-      "parent": "tcm-basics",
-      "estimated_read_time": 7,
-      "keywords": [
-        "TCM tongue coating",
-        "tongue diagnosis basics",
-        "white tongue coating"
-      ],
-      "id": "1115"
-    },
-    {
       "title": "What Is Pattern Differentiation? TCM's Context-First Health Map",
       "path": "/tcm-basics/pattern-differentiation-explained/",
       "type": "cluster",
@@ -14410,6 +14397,19 @@
         "winter nose comfort"
       ],
       "id": "1114"
+    },
+    {
+      "title": "Tongue Coating in TCM: What Beginners Notice and What It Cannot Tell You",
+      "path": "/tcm-basics/tongue-coating-tcm/",
+      "type": "cluster",
+      "parent": "tcm-basics",
+      "estimated_read_time": 7,
+      "keywords": [
+        "TCM tongue coating",
+        "tongue diagnosis basics",
+        "white tongue coating"
+      ],
+      "id": "1115"
     }
   ]
 }
