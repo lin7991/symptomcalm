@@ -1,19 +1,6 @@
 {
   "queue": [
     {
-      "title": "Tui Na for Hip and Glute Tension: A Gentle Home Routine",
-      "path": "/treatments/tui-na-hip-tension-tcm/",
-      "type": "cluster",
-      "parent": "treatments",
-      "estimated_read_time": 6,
-      "keywords": [
-        "Tui Na hip tension",
-        "glute massage",
-        "home bodywork"
-      ],
-      "id": "1127"
-    },
-    {
       "title": "Qigong for Lower-Back Mobility: A Slow, Breath-Led Practice",
       "path": "/treatments/qigong-lower-back-tcm/",
       "type": "cluster",
@@ -14410,6 +14397,19 @@
         "Liver Qi"
       ],
       "id": "1126"
+    },
+    {
+      "title": "Tui Na for Hip and Glute Tension: A Gentle Home Routine",
+      "path": "/treatments/tui-na-hip-tension-tcm/",
+      "type": "cluster",
+      "parent": "treatments",
+      "estimated_read_time": 6,
+      "keywords": [
+        "Tui Na hip tension",
+        "glute massage",
+        "home bodywork"
+      ],
+      "id": "1127"
     }
   ]
 }
