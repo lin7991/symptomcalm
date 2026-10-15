@@ -1,19 +1,6 @@
 {
   "queue": [
     {
-      "title": "Morning Nasal Congestion: A TCM Perspective on Timing and Patterns",
-      "path": "/symptoms/respiratory-health/morning-nasal-congestion-tcm/",
-      "type": "cluster",
-      "parent": "respiratory-health",
-      "estimated_read_time": 6,
-      "keywords": [
-        "morning nasal congestion",
-        "nasal congestion timing",
-        "TCM respiratory health"
-      ],
-      "id": "1123"
-    },
-    {
       "title": "What Is Shen in TCM? The Mind-Spirit Interface Explained",
       "path": "/tcm-basics/shen-mind-spirit-tcm/",
       "type": "cluster",
@@ -14410,6 +14397,19 @@
         "TCM allergies"
       ],
       "id": "1122"
+    },
+    {
+      "title": "Morning Nasal Congestion: A TCM Perspective on Timing and Patterns",
+      "path": "/symptoms/respiratory-health/morning-nasal-congestion-tcm/",
+      "type": "cluster",
+      "parent": "respiratory-health",
+      "estimated_read_time": 6,
+      "keywords": [
+        "morning nasal congestion",
+        "nasal congestion timing",
+        "TCM respiratory health"
+      ],
+      "id": "1123"
     }
   ]
 }
