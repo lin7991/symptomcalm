@@ -1,19 +1,6 @@
 {
   "queue": [
     {
-      "title": "Qigong for Lower-Back Mobility: A Slow, Breath-Led Practice",
-      "path": "/treatments/qigong-lower-back-tcm/",
-      "type": "cluster",
-      "parent": "treatments",
-      "estimated_read_time": 6,
-      "keywords": [
-        "qigong lower back",
-        "breath-led movement",
-        "TCM mobility"
-      ],
-      "id": "1128"
-    },
-    {
       "title": "Foot Baths for Cold Hands and Feet: Warmth, Routine, and Safety",
       "path": "/treatments/foot-baths-cold-hands-tcm/",
       "type": "cluster",
@@ -14410,6 +14397,19 @@
         "home bodywork"
       ],
       "id": "1127"
+    },
+    {
+      "title": "Qigong for Lower-Back Mobility: A Slow, Breath-Led Practice",
+      "path": "/treatments/qigong-lower-back-tcm/",
+      "type": "cluster",
+      "parent": "treatments",
+      "estimated_read_time": 6,
+      "keywords": [
+        "qigong lower back",
+        "breath-led movement",
+        "TCM mobility"
+      ],
+      "id": "1128"
     }
   ]
 }
