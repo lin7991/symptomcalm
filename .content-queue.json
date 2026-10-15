@@ -1,19 +1,6 @@
 {
   "queue": [
     {
-      "title": "Meridians and Nerves: Where the TCM Map Meets Modern Anatomy",
-      "path": "/tcm-basics/meridians-and-nerves-tcm/",
-      "type": "cluster",
-      "parent": "tcm-basics",
-      "estimated_read_time": 7,
-      "keywords": [
-        "meridians and nerves",
-        "TCM anatomy",
-        "acupuncture pathways"
-      ],
-      "id": "1125"
-    },
-    {
       "title": "TCM and the Stress Response: A Beginner's Systems Map",
       "path": "/tcm-basics/stress-response-tcm/",
       "type": "cluster",
@@ -14410,6 +14397,19 @@
         "Heart Shen"
       ],
       "id": "1124"
+    },
+    {
+      "title": "Meridians and Nerves: Where the TCM Map Meets Modern Anatomy",
+      "path": "/tcm-basics/meridians-and-nerves-tcm/",
+      "type": "cluster",
+      "parent": "tcm-basics",
+      "estimated_read_time": 7,
+      "keywords": [
+        "meridians and nerves",
+        "TCM anatomy",
+        "acupuncture pathways"
+      ],
+      "id": "1125"
     }
   ]
 }
