@@ -1,19 +1,6 @@
 {
   "queue": [
     {
-      "title": "Gua Sha for Jaw and Temple Tension: A Careful Home Guide",
-      "path": "/treatments/guasha-jaw-temple-tension-tcm/",
-      "type": "cluster",
-      "parent": "treatments",
-      "estimated_read_time": 7,
-      "keywords": [
-        "gua sha jaw tension",
-        "temple tension",
-        "facial gua sha"
-      ],
-      "id": "1135"
-    },
-    {
       "title": "Moxibustion in TCM: What the Warming Method Is and How to Think About Safety",
       "path": "/treatments/moxibustion-warming-method-tcm/",
       "type": "cluster",
@@ -14605,6 +14592,19 @@
         "eye tension"
       ],
       "id": "1134"
+    },
+    {
+      "title": "Gua Sha for Jaw and Temple Tension: A Careful Home Guide",
+      "path": "/treatments/guasha-jaw-temple-tension-tcm/",
+      "type": "cluster",
+      "parent": "treatments",
+      "estimated_read_time": 7,
+      "keywords": [
+        "gua sha jaw tension",
+        "temple tension",
+        "facial gua sha"
+      ],
+      "id": "1135"
     }
   ]
 }
