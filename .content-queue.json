@@ -1,19 +1,6 @@
 {
   "queue": [
     {
-      "title": "Moxibustion in TCM: What the Warming Method Is and How to Think About Safety",
-      "path": "/treatments/moxibustion-warming-method-tcm/",
-      "type": "cluster",
-      "parent": "treatments",
-      "estimated_read_time": 8,
-      "keywords": [
-        "moxibustion explained",
-        "warming therapy",
-        "TCM safety"
-      ],
-      "id": "1136"
-    },
-    {
       "title": "Why Stress Can Feel Heavy in the Chest: A TCM and Nervous-System Map",
       "path": "/symptoms/stress/stress-heavy-chest-tcm/",
       "type": "cluster",
@@ -14605,6 +14592,19 @@
         "facial gua sha"
       ],
       "id": "1135"
+    },
+    {
+      "title": "Moxibustion in TCM: What the Warming Method Is and How to Think About Safety",
+      "path": "/treatments/moxibustion-warming-method-tcm/",
+      "type": "cluster",
+      "parent": "treatments",
+      "estimated_read_time": 8,
+      "keywords": [
+        "moxibustion explained",
+        "warming therapy",
+        "TCM safety"
+      ],
+      "id": "1136"
     }
   ]
 }
