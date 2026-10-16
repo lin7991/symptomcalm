@@ -5029,6 +5029,12 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://symptomcalm.com/tcm-basics/stress-response-tcm/</loc>
+    <lastmod>2026-10-16</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://symptomcalm.com/tcm-basics/summer-health-tcm/</loc>
     <lastmod>2026-10-16</lastmod>
     <changefreq>monthly</changefreq>
@@ -6349,6 +6355,12 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://symptomcalm.com/treatments/qigong-lower-back-tcm/</loc>
+    <lastmod>2026-10-16</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://symptomcalm.com/treatments/qigong-menopause-tcm/</loc>
     <lastmod>2026-10-16</lastmod>
     <changefreq>monthly</changefreq>
@@ -6494,6 +6506,12 @@
   </url>
   <url>
     <loc>https://symptomcalm.com/treatments/tui-na-headaches-tcm/</loc>
+    <lastmod>2026-10-16</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://symptomcalm.com/treatments/tui-na-hip-tension-tcm/</loc>
     <lastmod>2026-10-16</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
@@ -12607,6 +12625,12 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://symptomcalm.com/zh/treatments/qigong-lower-back-tcm/</loc>
+    <lastmod>2026-10-16</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://symptomcalm.com/zh/treatments/qigong-menopause-tcm/</loc>
     <lastmod>2026-10-16</lastmod>
     <changefreq>monthly</changefreq>
@@ -12757,6 +12781,12 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://symptomcalm.com/zh/treatments/tui-na-hip-tension-tcm/</loc>
+    <lastmod>2026-10-16</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://symptomcalm.com/zh/treatments/tui-na-home-guide/</loc>
     <lastmod>2026-10-16</lastmod>
     <changefreq>monthly</changefreq>
@@ -12817,17 +12847,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://symptomcalm.com/tcm-basics/stress-response-tcm/</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://symptomcalm.com/treatments/tui-na-hip-tension-tcm/</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://symptomcalm.com/treatments/qigong-lower-back-tcm/</loc>
+    <loc>https://symptomcalm.com/treatments/foot-baths-cold-hands-tcm/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
