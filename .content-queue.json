@@ -1,19 +1,6 @@
 {
   "queue": [
     {
-      "title": "Herbal Tea for a Dry Throat: A TCM-Informed Comfort Guide",
-      "path": "/treatments/herbal-tea-dry-throat-tcm/",
-      "type": "cluster",
-      "parent": "treatments",
-      "estimated_read_time": 6,
-      "keywords": [
-        "dry throat herbal tea",
-        "TCM throat comfort",
-        "herbal tea safety"
-      ],
-      "id": "1130"
-    },
-    {
       "title": "Acupressure for Commuter Neck Tension: A Desk-to-Train Reset",
       "path": "/treatments/acupressure-commuter-neck-tension-tcm/",
       "type": "cluster",
@@ -14605,6 +14592,19 @@
         "TCM warmth"
       ],
       "id": "1129"
+    },
+    {
+      "title": "Herbal Tea for a Dry Throat: A TCM-Informed Comfort Guide",
+      "path": "/treatments/herbal-tea-dry-throat-tcm/",
+      "type": "cluster",
+      "parent": "treatments",
+      "estimated_read_time": 6,
+      "keywords": [
+        "dry throat herbal tea",
+        "TCM throat comfort",
+        "herbal tea safety"
+      ],
+      "id": "1130"
     }
   ]
 }
