@@ -1,19 +1,6 @@
 {
   "queue": [
     {
-      "title": "Acupressure for Commuter Neck Tension: A Desk-to-Train Reset",
-      "path": "/treatments/acupressure-commuter-neck-tension-tcm/",
-      "type": "cluster",
-      "parent": "treatments",
-      "estimated_read_time": 6,
-      "keywords": [
-        "acupressure neck tension",
-        "commuter neck pain",
-        "desk reset"
-      ],
-      "id": "1131"
-    },
-    {
       "title": "Seasonal Appetite Changes in TCM: A Rhythm-First Food Guide",
       "path": "/tcm-basics/seasonal-appetite-tcm/",
       "type": "cluster",
@@ -14605,6 +14592,19 @@
         "herbal tea safety"
       ],
       "id": "1130"
+    },
+    {
+      "title": "Acupressure for Commuter Neck Tension: A Desk-to-Train Reset",
+      "path": "/treatments/acupressure-commuter-neck-tension-tcm/",
+      "type": "cluster",
+      "parent": "treatments",
+      "estimated_read_time": 6,
+      "keywords": [
+        "acupressure neck tension",
+        "commuter neck pain",
+        "desk reset"
+      ],
+      "id": "1131"
     }
   ]
 }
