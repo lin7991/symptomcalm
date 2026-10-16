@@ -1,19 +1,6 @@
 {
   "queue": [
     {
-      "title": "Warm Foot Soaks in TCM: A Nighttime Wind-Down Ritual",
-      "path": "/treatments/foot-soak-night-routine-tcm/",
-      "type": "cluster",
-      "parent": "treatments",
-      "estimated_read_time": 7,
-      "keywords": [
-        "foot soak bedtime",
-        "TCM foot bath",
-        "night routine"
-      ],
-      "id": "1133"
-    },
-    {
       "title": "Acupressure for Screen-Related Eye Tension: A Gentle Reset",
       "path": "/treatments/acupressure-screen-eye-tension-tcm/",
       "type": "cluster",
@@ -14605,6 +14592,19 @@
         "Spleen digestion"
       ],
       "id": "1132"
+    },
+    {
+      "title": "Warm Foot Soaks in TCM: A Nighttime Wind-Down Ritual",
+      "path": "/treatments/foot-soak-night-routine-tcm/",
+      "type": "cluster",
+      "parent": "treatments",
+      "estimated_read_time": 7,
+      "keywords": [
+        "foot soak bedtime",
+        "TCM foot bath",
+        "night routine"
+      ],
+      "id": "1133"
     }
   ]
 }
