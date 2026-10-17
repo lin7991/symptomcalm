@@ -1,19 +1,6 @@
 {
   "queue": [
     {
-      "title": "Cold Feet at Bedtime: A TCM-Informed Pattern Guide",
-      "path": "/symptoms/cold-hands-feet/cold-feet-bedtime-tcm/",
-      "type": "cluster",
-      "parent": "cold-hands-feet",
-      "estimated_read_time": 7,
-      "keywords": [
-        "cold feet at night",
-        "TCM cold feet",
-        "bedtime circulation"
-      ],
-      "id": "1139"
-    },
-    {
       "title": "Bloating After Vegetables: A TCM Lens on Fiber, Timing, and Digestion",
       "path": "/symptoms/digestion/bloating-after-vegetables-tcm/",
       "type": "cluster",
@@ -14605,6 +14592,19 @@
         "hydration headache"
       ],
       "id": "1138"
+    },
+    {
+      "title": "Cold Feet at Bedtime: A TCM-Informed Pattern Guide",
+      "path": "/symptoms/cold-hands-feet/cold-feet-bedtime-tcm/",
+      "type": "cluster",
+      "parent": "cold-hands-feet",
+      "estimated_read_time": 7,
+      "keywords": [
+        "cold feet at night",
+        "TCM cold feet",
+        "bedtime circulation"
+      ],
+      "id": "1139"
     }
   ]
 }
