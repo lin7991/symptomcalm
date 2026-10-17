@@ -1,19 +1,6 @@
 {
   "queue": [
     {
-      "title": "Afternoon Headaches and TCM: Timing, Hydration, and Pattern Clues",
-      "path": "/symptoms/headaches/afternoon-headaches-tcm/",
-      "type": "cluster",
-      "parent": "headaches",
-      "estimated_read_time": 8,
-      "keywords": [
-        "afternoon headache",
-        "TCM headache timing",
-        "hydration headache"
-      ],
-      "id": "1138"
-    },
-    {
       "title": "Cold Feet at Bedtime: A TCM-Informed Pattern Guide",
       "path": "/symptoms/cold-hands-feet/cold-feet-bedtime-tcm/",
       "type": "cluster",
@@ -14605,6 +14592,19 @@
         "nervous system"
       ],
       "id": "1137"
+    },
+    {
+      "title": "Afternoon Headaches and TCM: Timing, Hydration, and Pattern Clues",
+      "path": "/symptoms/headaches/afternoon-headaches-tcm/",
+      "type": "cluster",
+      "parent": "headaches",
+      "estimated_read_time": 8,
+      "keywords": [
+        "afternoon headache",
+        "TCM headache timing",
+        "hydration headache"
+      ],
+      "id": "1138"
     }
   ]
 }
