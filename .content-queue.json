@@ -1,19 +1,6 @@
 {
   "queue": [
     {
-      "title": "Jaw Clenching During Sleep: A TCM-Informed Tension Map",
-      "path": "/symptoms/stress/jaw-clenching-sleep-tcm/",
-      "type": "cluster",
-      "parent": "stress",
-      "estimated_read_time": 8,
-      "keywords": [
-        "sleep jaw clenching",
-        "bruxism tension",
-        "TCM jaw tension"
-      ],
-      "id": "1141"
-    },
-    {
       "title": "Seasonal Skin Dryness: A TCM Guide to Wind, Moisture, and Routine",
       "path": "/symptoms/skin-conditions/seasonal-skin-dryness-tcm/",
       "type": "cluster",
@@ -14605,6 +14592,19 @@
         "TCM bloating"
       ],
       "id": "1140"
+    },
+    {
+      "title": "Jaw Clenching During Sleep: A TCM-Informed Tension Map",
+      "path": "/symptoms/stress/jaw-clenching-sleep-tcm/",
+      "type": "cluster",
+      "parent": "stress",
+      "estimated_read_time": 8,
+      "keywords": [
+        "sleep jaw clenching",
+        "bruxism tension",
+        "TCM jaw tension"
+      ],
+      "id": "1141"
     }
   ]
 }
