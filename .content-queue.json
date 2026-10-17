@@ -1,19 +1,6 @@
 {
   "queue": [
     {
-      "title": "Seasonal Skin Dryness: A TCM Guide to Wind, Moisture, and Routine",
-      "path": "/symptoms/skin-conditions/seasonal-skin-dryness-tcm/",
-      "type": "cluster",
-      "parent": "skin-conditions",
-      "estimated_read_time": 8,
-      "keywords": [
-        "seasonal dry skin",
-        "TCM skin dryness",
-        "skin routine"
-      ],
-      "id": "1142"
-    },
-    {
       "title": "What Is the Triple Burner in TCM? A Plumbing-System Analogy",
       "path": "/tcm-basics/triple-burner-san-jiao-tcm/",
       "type": "cluster",
@@ -14605,6 +14592,19 @@
         "TCM jaw tension"
       ],
       "id": "1141"
+    },
+    {
+      "title": "Seasonal Skin Dryness: A TCM Guide to Wind, Moisture, and Routine",
+      "path": "/symptoms/skin-conditions/seasonal-skin-dryness-tcm/",
+      "type": "cluster",
+      "parent": "skin-conditions",
+      "estimated_read_time": 8,
+      "keywords": [
+        "seasonal dry skin",
+        "TCM skin dryness",
+        "skin routine"
+      ],
+      "id": "1142"
     }
   ]
 }
