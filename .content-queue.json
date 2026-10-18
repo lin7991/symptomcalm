@@ -1,19 +1,6 @@
 {
   "queue": [
     {
-      "title": "The TCM Organ Clock: How to Use Timing Without Taking It Literally",
-      "path": "/tcm-basics/organ-clock-timing-tcm/",
-      "type": "cluster",
-      "parent": "tcm-basics",
-      "estimated_read_time": 8,
-      "keywords": [
-        "TCM organ clock",
-        "body clock TCM",
-        "meridian timing"
-      ],
-      "id": "1144"
-    },
-    {
       "title": "What Is a TCM Constitution? Your Body's Default Settings Explained",
       "path": "/tcm-basics/constitution-types-tcm/",
       "type": "cluster",
@@ -51,6 +38,201 @@
         "home comfort routine"
       ],
       "id": "1147"
+    },
+    {
+      "title": "Postnasal Drip Through a TCM Lens: The Throat's Back-Flow Problem",
+      "path": "/symptoms/respiratory-health/postnasal-drip-tcm/",
+      "type": "cluster",
+      "parent": "respiratory-health",
+      "estimated_read_time": 7,
+      "keywords": [
+        "postnasal drip TCM",
+        "throat mucus",
+        "Lung Qi"
+      ],
+      "id": "1148"
+    },
+    {
+      "title": "Skin Tightness in TCM: When the Surface Feels Pulled and Under-Supplied",
+      "path": "/symptoms/skin-conditions/skin-tightness-tcm/",
+      "type": "cluster",
+      "parent": "skin-conditions",
+      "estimated_read_time": 7,
+      "keywords": [
+        "skin tightness TCM",
+        "dry skin sensation",
+        "surface nourishment"
+      ],
+      "id": "1149"
+    },
+    {
+      "title": "Pelvic Pressure in TCM: A Support-and-Structure Perspective",
+      "path": "/symptoms/womens-health/pelvic-pressure-tcm/",
+      "type": "cluster",
+      "parent": "womens-health",
+      "estimated_read_time": 7,
+      "keywords": [
+        "pelvic pressure TCM",
+        "pelvic support",
+        "Qi sinking"
+      ],
+      "id": "1150"
+    },
+    {
+      "title": "Post-Exertional Fatigue Through a TCM Lens: The Energy-Cost Ledger",
+      "path": "/symptoms/fatigue/post-exertional-fatigue-tcm/",
+      "type": "cluster",
+      "parent": "fatigue",
+      "estimated_read_time": 7,
+      "keywords": [
+        "post-exertional fatigue TCM",
+        "energy crash",
+        "recovery pacing"
+      ],
+      "id": "1151"
+    },
+    {
+      "title": "Belching and TCM: When Stomach Qi Moves in the Wrong Direction",
+      "path": "/symptoms/digestion/belching-tcm/",
+      "type": "cluster",
+      "parent": "digestion",
+      "estimated_read_time": 7,
+      "keywords": [
+        "belching TCM",
+        "Stomach Qi rising",
+        "burping after meals"
+      ],
+      "id": "1152"
+    },
+    {
+      "title": "Pet Allergy Symptoms and TCM: A Two-Layer Defense Perspective",
+      "path": "/symptoms/allergies/pet-allergy-tcm/",
+      "type": "cluster",
+      "parent": "allergies",
+      "estimated_read_time": 7,
+      "keywords": [
+        "pet allergy TCM",
+        "animal dander",
+        "Wei Qi"
+      ],
+      "id": "1153"
+    },
+    {
+      "title": "The Five Shen in TCM: Five Ways the Mind Can Show Up in the Body",
+      "path": "/tcm-basics/five-shen-tcm/",
+      "type": "basics",
+      "parent": "tcm-basics",
+      "estimated_read_time": 8,
+      "keywords": [
+        "Five Shen TCM",
+        "mind and emotions",
+        "TCM psychology"
+      ],
+      "id": "1154"
+    },
+    {
+      "title": "Qi, Blood, and Essence: TCM's Three-Layer Resource Model",
+      "path": "/tcm-basics/qi-blood-essence-tcm/",
+      "type": "basics",
+      "parent": "tcm-basics",
+      "estimated_read_time": 8,
+      "keywords": [
+        "Qi Blood Essence TCM",
+        "Jing Qi Xue",
+        "TCM resources"
+      ],
+      "id": "1155"
+    },
+    {
+      "title": "Tui Na for Wrist and Forearm Tension: A Desk-Work Sequence",
+      "path": "/treatments/tui-na-wrist-tension-tcm/",
+      "type": "treatment",
+      "parent": "treatments",
+      "estimated_read_time": 7,
+      "keywords": [
+        "Tui Na wrist tension",
+        "forearm massage",
+        "desk work"
+      ],
+      "id": "1156"
+    },
+    {
+      "title": "Qigong for an Evening Wind-Down: A Gentle Transition Practice",
+      "path": "/treatments/qigong-evening-wind-down-tcm/",
+      "type": "treatment",
+      "parent": "treatments",
+      "estimated_read_time": 7,
+      "keywords": [
+        "evening qigong",
+        "wind down practice",
+        "sleep routine"
+      ],
+      "id": "1157"
+    },
+    {
+      "title": "Herbal Tea for Digestion: A TCM Pattern-Based Kitchen Guide",
+      "path": "/treatments/herbal-tea-digestion-tcm/",
+      "type": "treatment",
+      "parent": "treatments",
+      "estimated_read_time": 8,
+      "keywords": [
+        "herbal tea digestion TCM",
+        "digestive tea",
+        "food stagnation"
+      ],
+      "id": "1158"
+    },
+    {
+      "title": "Gua Sha for Upper-Back Tension: A Slow, Targeted Home Routine",
+      "path": "/treatments/guasha-upper-back-tension-tcm/",
+      "type": "treatment",
+      "parent": "treatments",
+      "estimated_read_time": 7,
+      "keywords": [
+        "gua sha upper back",
+        "back tension",
+        "self massage"
+      ],
+      "id": "1159"
+    },
+    {
+      "title": "Warm Foot Baths in TCM: The Logic of Warming From Below",
+      "path": "/treatments/warm-foot-bath-tcm/",
+      "type": "treatment",
+      "parent": "treatments",
+      "estimated_read_time": 7,
+      "keywords": [
+        "warm foot bath TCM",
+        "foot soak",
+        "warming from below"
+      ],
+      "id": "1160"
+    },
+    {
+      "title": "Acupressure for Study Focus: A TCM Desk Reset",
+      "path": "/treatments/acupressure-study-focus-tcm/",
+      "type": "treatment",
+      "parent": "treatments",
+      "estimated_read_time": 7,
+      "keywords": [
+        "acupressure study focus",
+        "mental focus",
+        "desk reset"
+      ],
+      "id": "1161"
+    },
+    {
+      "title": "Cupping for Upper-Back Tightness: A Gentle Home-Use Perspective",
+      "path": "/treatments/cupping-upper-back-tension-tcm/",
+      "type": "treatment",
+      "parent": "treatments",
+      "estimated_read_time": 7,
+      "keywords": [
+        "cupping upper back",
+        "back tightness",
+        "cupping safety"
+      ],
+      "id": "1162"
     }
   ],
   "published": [
@@ -14605,6 +14787,19 @@
         "TCM organ systems"
       ],
       "id": "1143"
+    },
+    {
+      "title": "The TCM Organ Clock: How to Use Timing Without Taking It Literally",
+      "path": "/tcm-basics/organ-clock-timing-tcm/",
+      "type": "cluster",
+      "parent": "tcm-basics",
+      "estimated_read_time": 8,
+      "keywords": [
+        "TCM organ clock",
+        "body clock TCM",
+        "meridian timing"
+      ],
+      "id": "1144"
     }
   ]
 }
