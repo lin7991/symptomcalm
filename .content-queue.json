@@ -1,45 +1,6 @@
 {
   "queue": [
     {
-      "title": "Qi, Blood, and Essence: TCM's Three-Layer Resource Model",
-      "path": "/tcm-basics/qi-blood-essence-tcm/",
-      "type": "basics",
-      "parent": "tcm-basics",
-      "estimated_read_time": 8,
-      "keywords": [
-        "Qi Blood Essence TCM",
-        "Jing Qi Xue",
-        "TCM resources"
-      ],
-      "id": "1155"
-    },
-    {
-      "title": "Tui Na for Wrist and Forearm Tension: A Desk-Work Sequence",
-      "path": "/treatments/tui-na-wrist-tension-tcm/",
-      "type": "treatment",
-      "parent": "treatments",
-      "estimated_read_time": 7,
-      "keywords": [
-        "Tui Na wrist tension",
-        "forearm massage",
-        "desk work"
-      ],
-      "id": "1156"
-    },
-    {
-      "title": "Qigong for an Evening Wind-Down: A Gentle Transition Practice",
-      "path": "/treatments/qigong-evening-wind-down-tcm/",
-      "type": "treatment",
-      "parent": "treatments",
-      "estimated_read_time": 7,
-      "keywords": [
-        "evening qigong",
-        "wind down practice",
-        "sleep routine"
-      ],
-      "id": "1157"
-    },
-    {
       "title": "Herbal Tea for Digestion: A TCM Pattern-Based Kitchen Guide",
       "path": "/treatments/herbal-tea-digestion-tcm/",
       "type": "treatment",
@@ -14800,6 +14761,45 @@
         "TCM psychology"
       ],
       "id": "1154"
+    },
+    {
+      "title": "Qi, Blood, and Essence: TCM's Three-Layer Resource Model",
+      "path": "/tcm-basics/qi-blood-essence-tcm/",
+      "type": "basics",
+      "parent": "tcm-basics",
+      "estimated_read_time": 8,
+      "keywords": [
+        "Qi Blood Essence TCM",
+        "Jing Qi Xue",
+        "TCM resources"
+      ],
+      "id": "1155"
+    },
+    {
+      "title": "Tui Na for Wrist and Forearm Tension: A Desk-Work Sequence",
+      "path": "/treatments/tui-na-wrist-tension-tcm/",
+      "type": "treatment",
+      "parent": "treatments",
+      "estimated_read_time": 7,
+      "keywords": [
+        "Tui Na wrist tension",
+        "forearm massage",
+        "desk work"
+      ],
+      "id": "1156"
+    },
+    {
+      "title": "Qigong for an Evening Wind-Down: A Gentle Transition Practice",
+      "path": "/treatments/qigong-evening-wind-down-tcm/",
+      "type": "treatment",
+      "parent": "treatments",
+      "estimated_read_time": 7,
+      "keywords": [
+        "evening qigong",
+        "wind down practice",
+        "sleep routine"
+      ],
+      "id": "1157"
     }
   ]
 }
