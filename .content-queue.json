@@ -1,19 +1,6 @@
 {
   "queue": [
     {
-      "title": "The Five Shen in TCM: Five Ways the Mind Can Show Up in the Body",
-      "path": "/tcm-basics/five-shen-tcm/",
-      "type": "basics",
-      "parent": "tcm-basics",
-      "estimated_read_time": 8,
-      "keywords": [
-        "Five Shen TCM",
-        "mind and emotions",
-        "TCM psychology"
-      ],
-      "id": "1154"
-    },
-    {
       "title": "Qi, Blood, and Essence: TCM's Three-Layer Resource Model",
       "path": "/tcm-basics/qi-blood-essence-tcm/",
       "type": "basics",
@@ -14800,6 +14787,19 @@
         "Wei Qi"
       ],
       "id": "1153"
+    },
+    {
+      "title": "The Five Shen in TCM: Five Ways the Mind Can Show Up in the Body",
+      "path": "/tcm-basics/five-shen-tcm/",
+      "type": "basics",
+      "parent": "tcm-basics",
+      "estimated_read_time": 8,
+      "keywords": [
+        "Five Shen TCM",
+        "mind and emotions",
+        "TCM psychology"
+      ],
+      "id": "1154"
     }
   ]
 }
