@@ -1,19 +1,6 @@
 {
   "queue": [
     {
-      "title": "Belching and TCM: When Stomach Qi Moves in the Wrong Direction",
-      "path": "/symptoms/digestion/belching-tcm/",
-      "type": "cluster",
-      "parent": "digestion",
-      "estimated_read_time": 7,
-      "keywords": [
-        "belching TCM",
-        "Stomach Qi rising",
-        "burping after meals"
-      ],
-      "id": "1152"
-    },
-    {
       "title": "Pet Allergy Symptoms and TCM: A Two-Layer Defense Perspective",
       "path": "/symptoms/allergies/pet-allergy-tcm/",
       "type": "cluster",
@@ -14800,6 +14787,19 @@
         "recovery pacing"
       ],
       "id": "1151"
+    },
+    {
+      "title": "Belching and TCM: When Stomach Qi Moves in the Wrong Direction",
+      "path": "/symptoms/digestion/belching-tcm/",
+      "type": "cluster",
+      "parent": "digestion",
+      "estimated_read_time": 7,
+      "keywords": [
+        "belching TCM",
+        "Stomach Qi rising",
+        "burping after meals"
+      ],
+      "id": "1152"
     }
   ]
 }
