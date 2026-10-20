@@ -1,19 +1,6 @@
 {
   "queue": [
     {
-      "title": "Acupressure for Study Focus: A TCM Desk Reset",
-      "path": "/treatments/acupressure-study-focus-tcm/",
-      "type": "treatment",
-      "parent": "treatments",
-      "estimated_read_time": 7,
-      "keywords": [
-        "acupressure study focus",
-        "mental focus",
-        "desk reset"
-      ],
-      "id": "1161"
-    },
-    {
       "title": "Cupping for Upper-Back Tightness: A Gentle Home-Use Perspective",
       "path": "/treatments/cupping-upper-back-tension-tcm/",
       "type": "treatment",
@@ -14988,6 +14975,19 @@
         "warming from below"
       ],
       "id": "1160"
+    },
+    {
+      "title": "Acupressure for Study Focus: A TCM Desk Reset",
+      "path": "/treatments/acupressure-study-focus-tcm/",
+      "type": "treatment",
+      "parent": "treatments",
+      "estimated_read_time": 7,
+      "keywords": [
+        "acupressure study focus",
+        "mental focus",
+        "desk reset"
+      ],
+      "id": "1161"
     }
   ]
 }
