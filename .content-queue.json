@@ -1,19 +1,6 @@
 {
   "queue": [
     {
-      "title": "Warm Foot Baths in TCM: The Logic of Warming From Below",
-      "path": "/treatments/warm-foot-bath-tcm/",
-      "type": "treatment",
-      "parent": "treatments",
-      "estimated_read_time": 7,
-      "keywords": [
-        "warm foot bath TCM",
-        "foot soak",
-        "warming from below"
-      ],
-      "id": "1160"
-    },
-    {
       "title": "Acupressure for Study Focus: A TCM Desk Reset",
       "path": "/treatments/acupressure-study-focus-tcm/",
       "type": "treatment",
@@ -38,6 +25,194 @@
         "cupping safety"
       ],
       "id": "1162"
+    },
+    {
+      "title": "People-Pleasing Through a TCM Lens: Boundaries, Shen, and Energy",
+      "path": "/symptoms/anxiety/people-pleasing-tcm/",
+      "type": "cluster",
+      "parent": "anxiety",
+      "estimated_read_time": 7,
+      "keywords": [
+        "people",
+        "pleasing"
+      ],
+      "id": "1163"
+    },
+    {
+      "title": "Driving-Related Back Tension Through a TCM Lens",
+      "path": "/symptoms/back-pain/driving-back-pain-tcm/",
+      "type": "cluster",
+      "parent": "back-pain",
+      "estimated_read_time": 7,
+      "keywords": [
+        "driving",
+        "back",
+        "pain"
+      ],
+      "id": "1164"
+    },
+    {
+      "title": "A TCM Sleep Transition Routine for Busy Evenings",
+      "path": "/symptoms/insomnia/sleep-transition-routine-tcm/",
+      "type": "cluster",
+      "parent": "insomnia",
+      "estimated_read_time": 7,
+      "keywords": [
+        "sleep",
+        "transition",
+        "routine"
+      ],
+      "id": "1165"
+    },
+    {
+      "title": "Waking Up Repeatedly at Night: A TCM Sleep Perspective",
+      "path": "/symptoms/insomnia/sleep-maintenance-tcm/",
+      "type": "cluster",
+      "parent": "insomnia",
+      "estimated_read_time": 7,
+      "keywords": [
+        "sleep",
+        "maintenance"
+      ],
+      "id": "1166"
+    },
+    {
+      "title": "Dust Allergy Symptoms Through a TCM Lens",
+      "path": "/symptoms/allergies/dust-allergy-tcm/",
+      "type": "cluster",
+      "parent": "allergies",
+      "estimated_read_time": 7,
+      "keywords": [
+        "dust",
+        "allergy"
+      ],
+      "id": "1167"
+    },
+    {
+      "title": "Cycle-Related Bloating Through a TCM Lens",
+      "path": "/symptoms/womens-health/cycle-related-bloating-tcm/",
+      "type": "cluster",
+      "parent": "womens-health",
+      "estimated_read_time": 7,
+      "keywords": [
+        "cycle",
+        "related",
+        "bloating"
+      ],
+      "id": "1168"
+    },
+    {
+      "title": "Itchy Skin at Night: A TCM Pattern Perspective",
+      "path": "/symptoms/skin-conditions/itchy-skin-at-night-tcm/",
+      "type": "cluster",
+      "parent": "skin-conditions",
+      "estimated_read_time": 7,
+      "keywords": [
+        "itchy",
+        "skin",
+        "at",
+        "night"
+      ],
+      "id": "1169"
+    },
+    {
+      "title": "Voice Fatigue Through a TCM Lens: The Reed-and-Bellows Model",
+      "path": "/symptoms/respiratory-health/voice-fatigue-tcm/",
+      "type": "cluster",
+      "parent": "respiratory-health",
+      "estimated_read_time": 7,
+      "keywords": [
+        "voice",
+        "fatigue"
+      ],
+      "id": "1170"
+    },
+    {
+      "title": "The Post-Meal Food Coma Through a TCM Lens",
+      "path": "/symptoms/digestion/food-coma-tcm/",
+      "type": "cluster",
+      "parent": "digestion",
+      "estimated_read_time": 7,
+      "keywords": [
+        "food",
+        "coma"
+      ],
+      "id": "1171"
+    },
+    {
+      "title": "Mental Fatigue Through a TCM Lens: The Focus Battery",
+      "path": "/symptoms/fatigue/mental-fatigue-tcm/",
+      "type": "cluster",
+      "parent": "fatigue",
+      "estimated_read_time": 7,
+      "keywords": [
+        "mental",
+        "fatigue"
+      ],
+      "id": "1172"
+    },
+    {
+      "title": "The Afternoon Slump Through a TCM Lens",
+      "path": "/symptoms/fatigue/afternoon-slump-tcm/",
+      "type": "cluster",
+      "parent": "fatigue",
+      "estimated_read_time": 7,
+      "keywords": [
+        "afternoon",
+        "slump"
+      ],
+      "id": "1173"
+    },
+    {
+      "title": "Yin-Yang Explained: TCM's Homeostasis Model",
+      "path": "/tcm-basics/yin-yang-homeostasis-tcm/",
+      "type": "explore",
+      "parent": "tcm-basics",
+      "estimated_read_time": 7,
+      "keywords": [
+        "yin",
+        "yang",
+        "homeostasis"
+      ],
+      "id": "1174"
+    },
+    {
+      "title": "Meridians Explained: TCM's Body-Wide Signaling Map",
+      "path": "/tcm-basics/meridian-pathways-tcm/",
+      "type": "explore",
+      "parent": "tcm-basics",
+      "estimated_read_time": 7,
+      "keywords": [
+        "meridian",
+        "pathways"
+      ],
+      "id": "1175"
+    },
+    {
+      "title": "The TCM Organ Clock: A Daily Rhythm Map",
+      "path": "/tcm-basics/organ-clock-explained-tcm/",
+      "type": "explore",
+      "parent": "tcm-basics",
+      "estimated_read_time": 7,
+      "keywords": [
+        "organ",
+        "clock",
+        "explained"
+      ],
+      "id": "1176"
+    },
+    {
+      "title": "Moxibustion for Cold Hands and Feet: A Traditional Heat Perspective",
+      "path": "/treatments/moxibustion-hands-feet-tcm/",
+      "type": "treatment",
+      "parent": "treatments",
+      "estimated_read_time": 7,
+      "keywords": [
+        "moxibustion",
+        "hands",
+        "feet"
+      ],
+      "id": "1177"
     }
   ],
   "published": [
@@ -14800,6 +14975,19 @@
         "self massage"
       ],
       "id": "1159"
+    },
+    {
+      "title": "Warm Foot Baths in TCM: The Logic of Warming From Below",
+      "path": "/treatments/warm-foot-bath-tcm/",
+      "type": "treatment",
+      "parent": "treatments",
+      "estimated_read_time": 7,
+      "keywords": [
+        "warm foot bath TCM",
+        "foot soak",
+        "warming from below"
+      ],
+      "id": "1160"
     }
   ]
 }
