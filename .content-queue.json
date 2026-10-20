@@ -1,18 +1,6 @@
 {
   "queue": [
     {
-      "title": "People-Pleasing Through a TCM Lens: Boundaries, Shen, and Energy",
-      "path": "/symptoms/anxiety/people-pleasing-tcm/",
-      "type": "cluster",
-      "parent": "anxiety",
-      "estimated_read_time": 7,
-      "keywords": [
-        "people",
-        "pleasing"
-      ],
-      "id": "1163"
-    },
-    {
       "title": "Driving-Related Back Tension Through a TCM Lens",
       "path": "/symptoms/back-pain/driving-back-pain-tcm/",
       "type": "cluster",
@@ -14988,6 +14976,18 @@
         "cupping safety"
       ],
       "id": "1162"
+    },
+    {
+      "title": "People-Pleasing Through a TCM Lens: Boundaries, Shen, and Energy",
+      "path": "/symptoms/anxiety/people-pleasing-tcm/",
+      "type": "cluster",
+      "parent": "anxiety",
+      "estimated_read_time": 7,
+      "keywords": [
+        "people",
+        "pleasing"
+      ],
+      "id": "1163"
     }
   ]
 }
