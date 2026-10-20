@@ -1,18 +1,6 @@
 {
   "queue": [
     {
-      "title": "Waking Up Repeatedly at Night: A TCM Sleep Perspective",
-      "path": "/symptoms/insomnia/sleep-maintenance-tcm/",
-      "type": "cluster",
-      "parent": "insomnia",
-      "estimated_read_time": 7,
-      "keywords": [
-        "sleep",
-        "maintenance"
-      ],
-      "id": "1166"
-    },
-    {
       "title": "Dust Allergy Symptoms Through a TCM Lens",
       "path": "/symptoms/allergies/dust-allergy-tcm/",
       "type": "cluster",
@@ -14988,6 +14976,18 @@
         "routine"
       ],
       "id": "1165"
+    },
+    {
+      "title": "Waking Up Repeatedly at Night: A TCM Sleep Perspective",
+      "path": "/symptoms/insomnia/sleep-maintenance-tcm/",
+      "type": "cluster",
+      "parent": "insomnia",
+      "estimated_read_time": 7,
+      "keywords": [
+        "sleep",
+        "maintenance"
+      ],
+      "id": "1166"
     }
   ]
 }
