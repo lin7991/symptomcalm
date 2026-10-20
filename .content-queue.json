@@ -1,19 +1,6 @@
 {
   "queue": [
     {
-      "title": "Cupping for Upper-Back Tightness: A Gentle Home-Use Perspective",
-      "path": "/treatments/cupping-upper-back-tension-tcm/",
-      "type": "treatment",
-      "parent": "treatments",
-      "estimated_read_time": 7,
-      "keywords": [
-        "cupping upper back",
-        "back tightness",
-        "cupping safety"
-      ],
-      "id": "1162"
-    },
-    {
       "title": "People-Pleasing Through a TCM Lens: Boundaries, Shen, and Energy",
       "path": "/symptoms/anxiety/people-pleasing-tcm/",
       "type": "cluster",
@@ -14988,6 +14975,19 @@
         "desk reset"
       ],
       "id": "1161"
+    },
+    {
+      "title": "Cupping for Upper-Back Tightness: A Gentle Home-Use Perspective",
+      "path": "/treatments/cupping-upper-back-tension-tcm/",
+      "type": "treatment",
+      "parent": "treatments",
+      "estimated_read_time": 7,
+      "keywords": [
+        "cupping upper back",
+        "back tightness",
+        "cupping safety"
+      ],
+      "id": "1162"
     }
   ]
 }
