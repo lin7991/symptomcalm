@@ -1,18 +1,6 @@
 {
   "queue": [
     {
-      "title": "The Afternoon Slump Through a TCM Lens",
-      "path": "/symptoms/fatigue/afternoon-slump-tcm/",
-      "type": "cluster",
-      "parent": "fatigue",
-      "estimated_read_time": 7,
-      "keywords": [
-        "afternoon",
-        "slump"
-      ],
-      "id": "1173"
-    },
-    {
       "title": "Yin-Yang Explained: TCM's Homeostasis Model",
       "path": "/tcm-basics/yin-yang-homeostasis-tcm/",
       "type": "explore",
@@ -14988,6 +14976,18 @@
         "fatigue"
       ],
       "id": "1172"
+    },
+    {
+      "title": "The Afternoon Slump Through a TCM Lens",
+      "path": "/symptoms/fatigue/afternoon-slump-tcm/",
+      "type": "cluster",
+      "parent": "fatigue",
+      "estimated_read_time": 7,
+      "keywords": [
+        "afternoon",
+        "slump"
+      ],
+      "id": "1173"
     }
   ]
 }
