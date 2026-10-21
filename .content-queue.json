@@ -1,20 +1,6 @@
 {
   "queue": [
     {
-      "title": "Itchy Skin at Night: A TCM Pattern Perspective",
-      "path": "/symptoms/skin-conditions/itchy-skin-at-night-tcm/",
-      "type": "cluster",
-      "parent": "skin-conditions",
-      "estimated_read_time": 7,
-      "keywords": [
-        "itchy",
-        "skin",
-        "at",
-        "night"
-      ],
-      "id": "1169"
-    },
-    {
       "title": "Voice Fatigue Through a TCM Lens: The Reed-and-Bellows Model",
       "path": "/symptoms/respiratory-health/voice-fatigue-tcm/",
       "type": "cluster",
@@ -14988,6 +14974,20 @@
         "bloating"
       ],
       "id": "1168"
+    },
+    {
+      "title": "Itchy Skin at Night: A TCM Pattern Perspective",
+      "path": "/symptoms/skin-conditions/itchy-skin-at-night-tcm/",
+      "type": "cluster",
+      "parent": "skin-conditions",
+      "estimated_read_time": 7,
+      "keywords": [
+        "itchy",
+        "skin",
+        "at",
+        "night"
+      ],
+      "id": "1169"
     }
   ]
 }
