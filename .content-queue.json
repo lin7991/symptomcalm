@@ -1,18 +1,6 @@
 {
   "queue": [
     {
-      "title": "The Post-Meal Food Coma Through a TCM Lens",
-      "path": "/symptoms/digestion/food-coma-tcm/",
-      "type": "cluster",
-      "parent": "digestion",
-      "estimated_read_time": 7,
-      "keywords": [
-        "food",
-        "coma"
-      ],
-      "id": "1171"
-    },
-    {
       "title": "Mental Fatigue Through a TCM Lens: The Focus Battery",
       "path": "/symptoms/fatigue/mental-fatigue-tcm/",
       "type": "cluster",
@@ -14988,6 +14976,18 @@
         "fatigue"
       ],
       "id": "1170"
+    },
+    {
+      "title": "The Post-Meal Food Coma Through a TCM Lens",
+      "path": "/symptoms/digestion/food-coma-tcm/",
+      "type": "cluster",
+      "parent": "digestion",
+      "estimated_read_time": 7,
+      "keywords": [
+        "food",
+        "coma"
+      ],
+      "id": "1171"
     }
   ]
 }
