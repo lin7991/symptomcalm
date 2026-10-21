@@ -1,19 +1,6 @@
 {
   "queue": [
     {
-      "title": "Yin-Yang Explained: TCM's Homeostasis Model",
-      "path": "/tcm-basics/yin-yang-homeostasis-tcm/",
-      "type": "explore",
-      "parent": "tcm-basics",
-      "estimated_read_time": 7,
-      "keywords": [
-        "yin",
-        "yang",
-        "homeostasis"
-      ],
-      "id": "1174"
-    },
-    {
       "title": "Meridians Explained: TCM's Body-Wide Signaling Map",
       "path": "/tcm-basics/meridian-pathways-tcm/",
       "type": "explore",
@@ -14988,6 +14975,19 @@
         "slump"
       ],
       "id": "1173"
+    },
+    {
+      "title": "Yin-Yang Explained: TCM's Homeostasis Model",
+      "path": "/tcm-basics/yin-yang-homeostasis-tcm/",
+      "type": "explore",
+      "parent": "tcm-basics",
+      "estimated_read_time": 7,
+      "keywords": [
+        "yin",
+        "yang",
+        "homeostasis"
+      ],
+      "id": "1174"
     }
   ]
 }
