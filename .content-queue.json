@@ -1,18 +1,6 @@
 {
   "queue": [
     {
-      "title": "Voice Fatigue Through a TCM Lens: The Reed-and-Bellows Model",
-      "path": "/symptoms/respiratory-health/voice-fatigue-tcm/",
-      "type": "cluster",
-      "parent": "respiratory-health",
-      "estimated_read_time": 7,
-      "keywords": [
-        "voice",
-        "fatigue"
-      ],
-      "id": "1170"
-    },
-    {
       "title": "The Post-Meal Food Coma Through a TCM Lens",
       "path": "/symptoms/digestion/food-coma-tcm/",
       "type": "cluster",
@@ -14988,6 +14976,18 @@
         "night"
       ],
       "id": "1169"
+    },
+    {
+      "title": "Voice Fatigue Through a TCM Lens: The Reed-and-Bellows Model",
+      "path": "/symptoms/respiratory-health/voice-fatigue-tcm/",
+      "type": "cluster",
+      "parent": "respiratory-health",
+      "estimated_read_time": 7,
+      "keywords": [
+        "voice",
+        "fatigue"
+      ],
+      "id": "1170"
     }
   ]
 }
