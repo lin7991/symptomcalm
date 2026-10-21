@@ -1,19 +1,6 @@
 {
   "queue": [
     {
-      "title": "Cycle-Related Bloating Through a TCM Lens",
-      "path": "/symptoms/womens-health/cycle-related-bloating-tcm/",
-      "type": "cluster",
-      "parent": "womens-health",
-      "estimated_read_time": 7,
-      "keywords": [
-        "cycle",
-        "related",
-        "bloating"
-      ],
-      "id": "1168"
-    },
-    {
       "title": "Itchy Skin at Night: A TCM Pattern Perspective",
       "path": "/symptoms/skin-conditions/itchy-skin-at-night-tcm/",
       "type": "cluster",
@@ -14988,6 +14975,19 @@
         "allergy"
       ],
       "id": "1167"
+    },
+    {
+      "title": "Cycle-Related Bloating Through a TCM Lens",
+      "path": "/symptoms/womens-health/cycle-related-bloating-tcm/",
+      "type": "cluster",
+      "parent": "womens-health",
+      "estimated_read_time": 7,
+      "keywords": [
+        "cycle",
+        "related",
+        "bloating"
+      ],
+      "id": "1168"
     }
   ]
 }
