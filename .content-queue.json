@@ -1,18 +1,6 @@
 {
   "queue": [
     {
-      "title": "Meridians Explained: TCM's Body-Wide Signaling Map",
-      "path": "/tcm-basics/meridian-pathways-tcm/",
-      "type": "explore",
-      "parent": "tcm-basics",
-      "estimated_read_time": 7,
-      "keywords": [
-        "meridian",
-        "pathways"
-      ],
-      "id": "1175"
-    },
-    {
       "title": "The TCM Organ Clock: A Daily Rhythm Map",
       "path": "/tcm-basics/organ-clock-explained-tcm/",
       "type": "explore",
@@ -37,6 +25,201 @@
         "feet"
       ],
       "id": "1177"
+    },
+    {
+      "title": "Breathing Exercises for Anxiety: A TCM Perspective",
+      "path": "/symptoms/anxiety/breathing-exercises-tcm/",
+      "type": "cluster",
+      "parent": "anxiety",
+      "estimated_read_time": 7,
+      "keywords": [
+        "TCM breathing exercises",
+        "anxiety breathing",
+        "qi regulation"
+      ],
+      "id": "1178"
+    },
+    {
+      "title": "Acupressure for Afternoon Anxiety: A Gentle Reset",
+      "path": "/symptoms/anxiety/afternoon-anxiety-acupressure-tcm/",
+      "type": "cluster",
+      "parent": "anxiety",
+      "estimated_read_time": 7,
+      "keywords": [
+        "afternoon anxiety",
+        "acupressure anxiety",
+        "TCM stress"
+      ],
+      "id": "1179"
+    },
+    {
+      "title": "A TCM-Inspired Evening Routine for Better Sleep",
+      "path": "/symptoms/insomnia/evening-routine-tcm/",
+      "type": "cluster",
+      "parent": "insomnia",
+      "estimated_read_time": 7,
+      "keywords": [
+        "evening routine sleep",
+        "TCM insomnia",
+        "sleep habits"
+      ],
+      "id": "1180"
+    },
+    {
+      "title": "Why Stress Can Tighten Your Back: A TCM Perspective",
+      "path": "/symptoms/back-pain/stress-related-back-tension-tcm/",
+      "type": "cluster",
+      "parent": "back-pain",
+      "estimated_read_time": 7,
+      "keywords": [
+        "stress back tension",
+        "TCM back pain",
+        "muscle tightness"
+      ],
+      "id": "1181"
+    },
+    {
+      "title": "Pollen Season and TCM: Reading Wind, Heat, and Dampness",
+      "path": "/symptoms/allergies/pollen-season-patterns-tcm/",
+      "type": "cluster",
+      "parent": "allergies",
+      "estimated_read_time": 8,
+      "keywords": [
+        "seasonal allergies TCM",
+        "wind heat TCM",
+        "allergy patterns"
+      ],
+      "id": "1182"
+    },
+    {
+      "title": "PMS Mood Changes Through a TCM Lens",
+      "path": "/symptoms/womens-health/pms-mood-tcm/",
+      "type": "cluster",
+      "parent": "womens-health",
+      "estimated_read_time": 7,
+      "keywords": [
+        "PMS mood changes",
+        "TCM PMS",
+        "Liver Qi"
+      ],
+      "id": "1183"
+    },
+    {
+      "title": "Eczema and the Skin Barrier: A TCM Perspective",
+      "path": "/symptoms/skin-conditions/eczema-skin-barrier-tcm/",
+      "type": "cluster",
+      "parent": "skin-conditions",
+      "estimated_read_time": 8,
+      "keywords": [
+        "eczema skin barrier",
+        "TCM eczema",
+        "skin health"
+      ],
+      "id": "1184"
+    },
+    {
+      "title": "Sinus Pressure and Facial Tension: A TCM Perspective",
+      "path": "/symptoms/sinus-health/sinus-pressure-facial-tension-tcm/",
+      "type": "cluster",
+      "parent": "sinus-health",
+      "estimated_read_time": 7,
+      "keywords": [
+        "sinus pressure",
+        "facial tension",
+        "TCM sinus"
+      ],
+      "id": "1185"
+    },
+    {
+      "title": "What Is Tongue Diagnosis in TCM? A Visual Guide",
+      "path": "/tcm-basics/tongue-diagnosis-explained-tcm/",
+      "type": "tcm-basics",
+      "parent": "tcm-basics",
+      "estimated_read_time": 8,
+      "keywords": [
+        "tongue diagnosis",
+        "TCM tongue reading",
+        "tongue signs"
+      ],
+      "id": "1186"
+    },
+    {
+      "title": "Pulse Diagnosis in TCM: What Practitioners Are Feeling",
+      "path": "/tcm-basics/pulse-diagnosis-explained-tcm/",
+      "type": "tcm-basics",
+      "parent": "tcm-basics",
+      "estimated_read_time": 8,
+      "keywords": [
+        "TCM pulse diagnosis",
+        "pulse reading",
+        "Chinese medicine pulse"
+      ],
+      "id": "1187"
+    },
+    {
+      "title": "Yin-Yang and Daily Energy: A TCM Homeostasis Map",
+      "path": "/tcm-basics/yin-yang-daily-energy-tcm/",
+      "type": "tcm-basics",
+      "parent": "tcm-basics",
+      "estimated_read_time": 7,
+      "keywords": [
+        "yin yang explained",
+        "TCM homeostasis",
+        "yin yang balance"
+      ],
+      "id": "1188"
+    },
+    {
+      "title": "Gua Sha for Temple Tension: A Gentle Home Routine",
+      "path": "/treatments/gua-sha-temple-tension-tcm/",
+      "type": "treatment",
+      "parent": "treatments",
+      "estimated_read_time": 7,
+      "keywords": [
+        "gua sha jaw tension",
+        "jaw massage",
+        "TMJ self-care"
+      ],
+      "id": "1189"
+    },
+    {
+      "title": "Qigong for Morning Mobility: A Beginner Sequence",
+      "path": "/treatments/qigong-morning-mobility-tcm/",
+      "type": "treatment",
+      "parent": "treatments",
+      "estimated_read_time": 7,
+      "keywords": [
+        "morning qigong",
+        "mobility exercises",
+        "TCM movement"
+      ],
+      "id": "1190"
+    },
+    {
+      "title": "Dietary Therapy Basics: Eating With the Seasons",
+      "path": "/treatments/seasonal-dietary-therapy-tcm/",
+      "type": "treatment",
+      "parent": "treatments",
+      "estimated_read_time": 8,
+      "keywords": [
+        "seasonal eating TCM",
+        "dietary therapy",
+        "Chinese medicine food"
+      ],
+      "id": "1191"
+    },
+    {
+      "title": "Tui Na for Desk-Work Shoulder Tension: A Practical Guide",
+      "path": "/treatments/tui-na-desk-shoulder-tension-tcm/",
+      "type": "treatment",
+      "parent": "treatments",
+      "estimated_read_time": 7,
+      "keywords": [
+        "tui na shoulder tension",
+        "desk work neck pain",
+        "self massage"
+      ],
+      "id": "1192"
     }
   ],
   "published": [
@@ -14988,6 +15171,18 @@
         "homeostasis"
       ],
       "id": "1174"
+    },
+    {
+      "title": "Meridians Explained: TCM's Body-Wide Signaling Map",
+      "path": "/tcm-basics/meridian-pathways-tcm/",
+      "type": "explore",
+      "parent": "tcm-basics",
+      "estimated_read_time": 7,
+      "keywords": [
+        "meridian",
+        "pathways"
+      ],
+      "id": "1175"
     }
   ]
 }
