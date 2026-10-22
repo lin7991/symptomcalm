@@ -1,19 +1,6 @@
 {
   "queue": [
     {
-      "title": "The TCM Organ Clock: A Daily Rhythm Map",
-      "path": "/tcm-basics/organ-clock-explained-tcm/",
-      "type": "explore",
-      "parent": "tcm-basics",
-      "estimated_read_time": 7,
-      "keywords": [
-        "organ",
-        "clock",
-        "explained"
-      ],
-      "id": "1176"
-    },
-    {
       "title": "Moxibustion for Cold Hands and Feet: A Traditional Heat Perspective",
       "path": "/treatments/moxibustion-hands-feet-tcm/",
       "type": "treatment",
@@ -15183,6 +15170,19 @@
         "pathways"
       ],
       "id": "1175"
+    },
+    {
+      "title": "The TCM Organ Clock: A Daily Rhythm Map",
+      "path": "/tcm-basics/organ-clock-explained-tcm/",
+      "type": "explore",
+      "parent": "tcm-basics",
+      "estimated_read_time": 7,
+      "keywords": [
+        "organ",
+        "clock",
+        "explained"
+      ],
+      "id": "1176"
     }
   ]
 }
