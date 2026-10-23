@@ -1,19 +1,6 @@
 {
   "queue": [
     {
-      "title": "Sinus Pressure and Facial Tension: A TCM Perspective",
-      "path": "/symptoms/sinus-health/sinus-pressure-facial-tension-tcm/",
-      "type": "cluster",
-      "parent": "sinus-health",
-      "estimated_read_time": 7,
-      "keywords": [
-        "sinus pressure",
-        "facial tension",
-        "TCM sinus"
-      ],
-      "id": "1185"
-    },
-    {
       "title": "What Is Tongue Diagnosis in TCM? A Visual Guide",
       "path": "/tcm-basics/tongue-diagnosis-explained-tcm/",
       "type": "tcm-basics",
@@ -15183,6 +15170,19 @@
         "skin health"
       ],
       "id": "1184"
+    },
+    {
+      "title": "Sinus Pressure and Facial Tension: A TCM Perspective",
+      "path": "/symptoms/sinus-health/sinus-pressure-facial-tension-tcm/",
+      "type": "cluster",
+      "parent": "sinus-health",
+      "estimated_read_time": 7,
+      "keywords": [
+        "sinus pressure",
+        "facial tension",
+        "TCM sinus"
+      ],
+      "id": "1185"
     }
   ]
 }
