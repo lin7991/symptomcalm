@@ -1,19 +1,6 @@
 {
   "queue": [
     {
-      "title": "Pulse Diagnosis in TCM: What Practitioners Are Feeling",
-      "path": "/tcm-basics/pulse-diagnosis-explained-tcm/",
-      "type": "tcm-basics",
-      "parent": "tcm-basics",
-      "estimated_read_time": 8,
-      "keywords": [
-        "TCM pulse diagnosis",
-        "pulse reading",
-        "Chinese medicine pulse"
-      ],
-      "id": "1187"
-    },
-    {
       "title": "Yin-Yang and Daily Energy: A TCM Homeostasis Map",
       "path": "/tcm-basics/yin-yang-daily-energy-tcm/",
       "type": "tcm-basics",
@@ -15183,6 +15170,19 @@
         "tongue signs"
       ],
       "id": "1186"
+    },
+    {
+      "title": "Pulse Diagnosis in TCM: What Practitioners Are Feeling",
+      "path": "/tcm-basics/pulse-diagnosis-explained-tcm/",
+      "type": "tcm-basics",
+      "parent": "tcm-basics",
+      "estimated_read_time": 8,
+      "keywords": [
+        "TCM pulse diagnosis",
+        "pulse reading",
+        "Chinese medicine pulse"
+      ],
+      "id": "1187"
     }
   ]
 }
