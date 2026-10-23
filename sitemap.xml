@@ -325,6 +325,12 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://symptomcalm.com/symptoms/anxiety/afternoon-anxiety-acupressure-tcm/</loc>
+    <lastmod>2026-10-23</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://symptomcalm.com/symptoms/anxiety/agoraphobia-tcm/</loc>
     <lastmod>2026-10-23</lastmod>
     <changefreq>monthly</changefreq>
@@ -914,6 +920,12 @@
   </url>
   <url>
     <loc>https://symptomcalm.com/symptoms/back-pain/standing-desk-posture-tcm/</loc>
+    <lastmod>2026-10-23</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://symptomcalm.com/symptoms/back-pain/stress-related-back-tension-tcm/</loc>
     <lastmod>2026-10-23</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
@@ -2390,6 +2402,12 @@
   </url>
   <url>
     <loc>https://symptomcalm.com/symptoms/insomnia/electronics-sleep-tcm/</loc>
+    <lastmod>2026-10-23</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://symptomcalm.com/symptoms/insomnia/evening-routine-tcm/</loc>
     <lastmod>2026-10-23</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
@@ -7693,6 +7711,12 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://symptomcalm.com/zh/symptoms/back-pain/stress-related-back-tension-tcm/</loc>
+    <lastmod>2026-10-23</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://symptomcalm.com/zh/symptoms/back-pain/tcm-stretches-back-pain/</loc>
     <lastmod>2026-10-23</lastmod>
     <changefreq>monthly</changefreq>
@@ -9122,6 +9146,12 @@
   </url>
   <url>
     <loc>https://symptomcalm.com/zh/symptoms/insomnia/electronics-sleep-tcm/</loc>
+    <lastmod>2026-10-23</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://symptomcalm.com/zh/symptoms/insomnia/evening-routine-tcm/</loc>
     <lastmod>2026-10-23</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
@@ -13291,17 +13321,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://symptomcalm.com/symptoms/anxiety/afternoon-anxiety-acupressure-tcm/</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://symptomcalm.com/symptoms/insomnia/evening-routine-tcm/</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://symptomcalm.com/symptoms/back-pain/stress-related-back-tension-tcm/</loc>
+    <loc>https://symptomcalm.com/symptoms/allergies/pollen-season-patterns-tcm/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>

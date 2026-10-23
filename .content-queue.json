@@ -1,19 +1,6 @@
 {
   "queue": [
     {
-      "title": "Pollen Season and TCM: Reading Wind, Heat, and Dampness",
-      "path": "/symptoms/allergies/pollen-season-patterns-tcm/",
-      "type": "cluster",
-      "parent": "allergies",
-      "estimated_read_time": 8,
-      "keywords": [
-        "seasonal allergies TCM",
-        "wind heat TCM",
-        "allergy patterns"
-      ],
-      "id": "1182"
-    },
-    {
       "title": "PMS Mood Changes Through a TCM Lens",
       "path": "/symptoms/womens-health/pms-mood-tcm/",
       "type": "cluster",
@@ -15183,6 +15170,19 @@
         "muscle tightness"
       ],
       "id": "1181"
+    },
+    {
+      "title": "Pollen Season and TCM: Reading Wind, Heat, and Dampness",
+      "path": "/symptoms/allergies/pollen-season-patterns-tcm/",
+      "type": "cluster",
+      "parent": "allergies",
+      "estimated_read_time": 8,
+      "keywords": [
+        "seasonal allergies TCM",
+        "wind heat TCM",
+        "allergy patterns"
+      ],
+      "id": "1182"
     }
   ]
 }
