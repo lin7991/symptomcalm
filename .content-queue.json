@@ -1,6 +1,19 @@
 {
   "queue": [
     {
+      "title": "Gua Sha for Temple Tension: A Gentle Home Routine",
+      "path": "/treatments/gua-sha-temple-tension-tcm/",
+      "type": "treatment",
+      "parent": "treatments",
+      "estimated_read_time": 7,
+      "keywords": [
+        "gua sha jaw tension",
+        "jaw massage",
+        "TMJ self-care"
+      ],
+      "id": "1189"
+    },
+    {
       "title": "Qigong for Morning Mobility: A Beginner Sequence",
       "path": "/treatments/qigong-morning-mobility-tcm/",
       "type": "treatment",
@@ -38,201 +51,6 @@
         "self massage"
       ],
       "id": "1192"
-    },
-    {
-      "title": "Decision Fatigue Through a TCM Lens: When Your Mental Battery Runs Low",
-      "path": "/symptoms/anxiety/decision-fatigue-tcm/",
-      "type": "cluster",
-      "parent": "anxiety",
-      "estimated_read_time": 7,
-      "keywords": [
-        "decision fatigue TCM",
-        "mental exhaustion",
-        "TCM anxiety"
-      ],
-      "id": "1193"
-    },
-    {
-      "title": "Why Stress Can Make Your Jaw Tight: A TCM Perspective",
-      "path": "/symptoms/anxiety/jaw-tension-stress-tcm/",
-      "type": "cluster",
-      "parent": "anxiety",
-      "estimated_read_time": 7,
-      "keywords": [
-        "jaw tension stress",
-        "TCM jaw tension",
-        "acupressure jaw"
-      ],
-      "id": "1194"
-    },
-    {
-      "title": "Weather-Triggered Joint Stiffness Through a TCM Lens",
-      "path": "/symptoms/back-pain/weather-joint-stiffness-tcm/",
-      "type": "cluster",
-      "parent": "back-pain",
-      "estimated_read_time": 7,
-      "keywords": [
-        "weather joint stiffness",
-        "TCM dampness pain",
-        "cold dampness"
-      ],
-      "id": "1195"
-    },
-    {
-      "title": "Why Your Back Feels Worse After Sitting: A TCM Movement Map",
-      "path": "/symptoms/back-pain/sitting-back-stiffness-tcm/",
-      "type": "cluster",
-      "parent": "back-pain",
-      "estimated_read_time": 7,
-      "keywords": [
-        "back stiffness sitting",
-        "TCM back tension",
-        "desk posture"
-      ],
-      "id": "1196"
-    },
-    {
-      "title": "Waking With a Racing Heart: A TCM Pattern Perspective",
-      "path": "/symptoms/insomnia/racing-heart-night-tcm/",
-      "type": "cluster",
-      "parent": "insomnia",
-      "estimated_read_time": 7,
-      "keywords": [
-        "racing heart at night",
-        "TCM insomnia",
-        "night waking"
-      ],
-      "id": "1197"
-    },
-    {
-      "title": "Why Screens Can Keep Your Mind Alert at Bedtime: A TCM Lens",
-      "path": "/symptoms/insomnia/screens-bedtime-restlessness-tcm/",
-      "type": "cluster",
-      "parent": "insomnia",
-      "estimated_read_time": 7,
-      "keywords": [
-        "screens bedtime restlessness",
-        "TCM sleep",
-        "evening overstimulation"
-      ],
-      "id": "1198"
-    },
-    {
-      "title": "Seasonal Allergies and Itchy Eyes: A TCM Perspective",
-      "path": "/symptoms/allergies/itchy-eyes-seasonal-tcm/",
-      "type": "cluster",
-      "parent": "allergies",
-      "estimated_read_time": 7,
-      "keywords": [
-        "itchy eyes allergies",
-        "seasonal allergies TCM",
-        "TCM wind"
-      ],
-      "id": "1199"
-    },
-    {
-      "title": "Menstrual Cramps and Cold Sensitivity Through a TCM Lens",
-      "path": "/symptoms/womens-health/menstrual-cramps-cold-tcm/",
-      "type": "cluster",
-      "parent": "womens-health",
-      "estimated_read_time": 8,
-      "keywords": [
-        "menstrual cramps cold",
-        "TCM menstrual pain",
-        "cold sensitivity"
-      ],
-      "id": "1200"
-    },
-    {
-      "title": "Facial Flushing and Sensitive Skin: A TCM Pattern Map",
-      "path": "/symptoms/skin-conditions/facial-flushing-sensitive-skin-tcm/",
-      "type": "cluster",
-      "parent": "skin-conditions",
-      "estimated_read_time": 7,
-      "keywords": [
-        "facial flushing sensitive skin",
-        "TCM skin patterns",
-        "skin barrier"
-      ],
-      "id": "1201"
-    },
-    {
-      "title": "Post-Nasal Drip and Throat Clearing Through a TCM Lens",
-      "path": "/symptoms/sinus-health/post-nasal-drip-tcm/",
-      "type": "cluster",
-      "parent": "sinus-health",
-      "estimated_read_time": 7,
-      "keywords": [
-        "post nasal drip",
-        "throat clearing TCM",
-        "sinus drainage"
-      ],
-      "id": "1202"
-    },
-    {
-      "title": "What Is Qi and Blood in TCM? A Delivery-Network Analogy",
-      "path": "/tcm-basics/qi-blood-relationship-explained-tcm/",
-      "type": "tcm-basics",
-      "parent": "",
-      "estimated_read_time": 8,
-      "keywords": [
-        "Qi and Blood TCM",
-        "TCM basics",
-        "Qi Blood relationship"
-      ],
-      "id": "1203"
-    },
-    {
-      "title": "The Five Elements in TCM: A Systems Map for Beginners",
-      "path": "/tcm-basics/five-elements-explained-tcm/",
-      "type": "tcm-basics",
-      "parent": "",
-      "estimated_read_time": 8,
-      "keywords": [
-        "five elements TCM",
-        "Wu Xing explained",
-        "TCM theory"
-      ],
-      "id": "1204"
-    },
-    {
-      "title": "Acupressure for Forehead Tension: A Gentle Desk Reset",
-      "path": "/treatments/acupressure-forehead-tension-tcm/",
-      "type": "treatment",
-      "parent": "treatments",
-      "estimated_read_time": 7,
-      "keywords": [
-        "acupressure forehead tension",
-        "desk reset",
-        "TCM acupressure"
-      ],
-      "id": "1205"
-    },
-    {
-      "title": "A Beginner's Qigong Routine for Evening Unwinding",
-      "path": "/treatments/qigong-evening-unwinding-tcm/",
-      "type": "treatment",
-      "parent": "treatments",
-      "estimated_read_time": 7,
-      "keywords": [
-        "evening qigong",
-        "qigong routine beginners",
-        "TCM relaxation"
-      ],
-      "id": "1206"
-    },
-    {
-      "title": "Herbal Compresses in TCM: What They Are and How Safety Works",
-      "path": "/treatments/herbal-compress-basics-tcm/",
-      "type": "treatment",
-      "parent": "treatments",
-      "estimated_read_time": 8,
-      "keywords": [
-        "herbal compress TCM",
-        "topical herbal therapy",
-        "TCM safety"
-      ],
-      "id": "1207"
     }
   ],
   "published": [
@@ -15365,19 +15183,6 @@
         "yin yang balance"
       ],
       "id": "1188"
-    },
-    {
-      "title": "Gua Sha for Temple Tension: A Gentle Home Routine",
-      "path": "/treatments/gua-sha-temple-tension-tcm/",
-      "type": "treatment",
-      "parent": "treatments",
-      "estimated_read_time": 7,
-      "keywords": [
-        "gua sha jaw tension",
-        "jaw massage",
-        "TMJ self-care"
-      ],
-      "id": "1189"
     }
   ]
 }
