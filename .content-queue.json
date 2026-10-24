@@ -1,19 +1,6 @@
 {
   "queue": [
     {
-      "title": "Qigong for Morning Mobility: A Beginner Sequence",
-      "path": "/treatments/qigong-morning-mobility-tcm/",
-      "type": "treatment",
-      "parent": "treatments",
-      "estimated_read_time": 7,
-      "keywords": [
-        "morning qigong",
-        "mobility exercises",
-        "TCM movement"
-      ],
-      "id": "1190"
-    },
-    {
       "title": "Dietary Therapy Basics: Eating With the Seasons",
       "path": "/treatments/seasonal-dietary-therapy-tcm/",
       "type": "treatment",
@@ -15365,6 +15352,19 @@
         "TMJ self-care"
       ],
       "id": "1189"
+    },
+    {
+      "title": "Qigong for Morning Mobility: A Beginner Sequence",
+      "path": "/treatments/qigong-morning-mobility-tcm/",
+      "type": "treatment",
+      "parent": "treatments",
+      "estimated_read_time": 7,
+      "keywords": [
+        "morning qigong",
+        "mobility exercises",
+        "TCM movement"
+      ],
+      "id": "1190"
     }
   ]
 }
