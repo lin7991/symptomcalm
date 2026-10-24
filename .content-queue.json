@@ -1,19 +1,6 @@
 {
   "queue": [
     {
-      "title": "Dietary Therapy Basics: Eating With the Seasons",
-      "path": "/treatments/seasonal-dietary-therapy-tcm/",
-      "type": "treatment",
-      "parent": "treatments",
-      "estimated_read_time": 8,
-      "keywords": [
-        "seasonal eating TCM",
-        "dietary therapy",
-        "Chinese medicine food"
-      ],
-      "id": "1191"
-    },
-    {
       "title": "Tui Na for Desk-Work Shoulder Tension: A Practical Guide",
       "path": "/treatments/tui-na-desk-shoulder-tension-tcm/",
       "type": "treatment",
@@ -15365,6 +15352,19 @@
         "TCM movement"
       ],
       "id": "1190"
+    },
+    {
+      "title": "Dietary Therapy Basics: Eating With the Seasons",
+      "path": "/treatments/seasonal-dietary-therapy-tcm/",
+      "type": "treatment",
+      "parent": "treatments",
+      "estimated_read_time": 8,
+      "keywords": [
+        "seasonal eating TCM",
+        "dietary therapy",
+        "Chinese medicine food"
+      ],
+      "id": "1191"
     }
   ]
 }
