@@ -913,6 +913,12 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://symptomcalm.com/symptoms/back-pain/sitting-back-stiffness-tcm/</loc>
+    <lastmod>2026-10-25</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://symptomcalm.com/symptoms/back-pain/sitting-back-tension-tcm/</loc>
     <lastmod>2026-10-25</lastmod>
     <changefreq>monthly</changefreq>
@@ -962,6 +968,12 @@
   </url>
   <url>
     <loc>https://symptomcalm.com/symptoms/back-pain/weather-back-pain-tcm/</loc>
+    <lastmod>2026-10-25</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://symptomcalm.com/symptoms/back-pain/weather-joint-stiffness-tcm/</loc>
     <lastmod>2026-10-25</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
@@ -2558,6 +2570,12 @@
   </url>
   <url>
     <loc>https://symptomcalm.com/symptoms/insomnia/pregnancy-insomnia-tcm/</loc>
+    <lastmod>2026-10-25</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://symptomcalm.com/symptoms/insomnia/racing-heart-night-tcm/</loc>
     <lastmod>2026-10-25</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
@@ -7765,6 +7783,12 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://symptomcalm.com/zh/symptoms/back-pain/sitting-back-stiffness-tcm/</loc>
+    <lastmod>2026-10-25</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://symptomcalm.com/zh/symptoms/back-pain/sitting-back-tension-tcm/</loc>
     <lastmod>2026-10-25</lastmod>
     <changefreq>monthly</changefreq>
@@ -9362,6 +9386,12 @@
   </url>
   <url>
     <loc>https://symptomcalm.com/zh/symptoms/insomnia/pregnancy-insomnia-tcm/</loc>
+    <lastmod>2026-10-25</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://symptomcalm.com/zh/symptoms/insomnia/racing-heart-night-tcm/</loc>
     <lastmod>2026-10-25</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
@@ -13429,17 +13459,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://symptomcalm.com/symptoms/back-pain/weather-joint-stiffness-tcm/</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://symptomcalm.com/symptoms/back-pain/sitting-back-stiffness-tcm/</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://symptomcalm.com/symptoms/insomnia/racing-heart-night-tcm/</loc>
+    <loc>https://symptomcalm.com/symptoms/insomnia/screens-bedtime-restlessness-tcm/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
