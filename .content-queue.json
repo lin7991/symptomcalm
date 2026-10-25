@@ -1,32 +1,6 @@
 {
   "queue": [
     {
-      "title": "Facial Flushing and Sensitive Skin: A TCM Pattern Map",
-      "path": "/symptoms/skin-conditions/facial-flushing-sensitive-skin-tcm/",
-      "type": "cluster",
-      "parent": "skin-conditions",
-      "estimated_read_time": 7,
-      "keywords": [
-        "facial flushing sensitive skin",
-        "TCM skin patterns",
-        "skin barrier"
-      ],
-      "id": "1201"
-    },
-    {
-      "title": "Post-Nasal Drip and Throat Clearing Through a TCM Lens",
-      "path": "/symptoms/sinus-health/post-nasal-drip-tcm/",
-      "type": "cluster",
-      "parent": "sinus-health",
-      "estimated_read_time": 7,
-      "keywords": [
-        "post nasal drip",
-        "throat clearing TCM",
-        "sinus drainage"
-      ],
-      "id": "1202"
-    },
-    {
       "title": "What Is Qi and Blood in TCM? A Delivery-Network Analogy",
       "path": "/tcm-basics/qi-blood-relationship-explained-tcm/",
       "type": "tcm-basics",
@@ -15365,6 +15339,32 @@
         "cold sensitivity"
       ],
       "id": "1200"
+    },
+    {
+      "title": "Facial Flushing and Sensitive Skin: A TCM Pattern Map",
+      "path": "/symptoms/skin-conditions/facial-flushing-sensitive-skin-tcm/",
+      "type": "cluster",
+      "parent": "skin-conditions",
+      "estimated_read_time": 7,
+      "keywords": [
+        "facial flushing sensitive skin",
+        "TCM skin patterns",
+        "skin barrier"
+      ],
+      "id": "1201"
+    },
+    {
+      "title": "Post-Nasal Drip and Throat Clearing Through a TCM Lens",
+      "path": "/symptoms/sinus-health/post-nasal-drip-tcm/",
+      "type": "cluster",
+      "parent": "sinus-health",
+      "estimated_read_time": 7,
+      "keywords": [
+        "post nasal drip",
+        "throat clearing TCM",
+        "sinus drainage"
+      ],
+      "id": "1202"
     }
   ]
 }
