@@ -1,19 +1,6 @@
 {
   "queue": [
     {
-      "title": "Menstrual Cramps and Cold Sensitivity Through a TCM Lens",
-      "path": "/symptoms/womens-health/menstrual-cramps-cold-tcm/",
-      "type": "cluster",
-      "parent": "womens-health",
-      "estimated_read_time": 8,
-      "keywords": [
-        "menstrual cramps cold",
-        "TCM menstrual pain",
-        "cold sensitivity"
-      ],
-      "id": "1200"
-    },
-    {
       "title": "Facial Flushing and Sensitive Skin: A TCM Pattern Map",
       "path": "/symptoms/skin-conditions/facial-flushing-sensitive-skin-tcm/",
       "type": "cluster",
@@ -15365,6 +15352,19 @@
         "TCM wind"
       ],
       "id": "1199"
+    },
+    {
+      "title": "Menstrual Cramps and Cold Sensitivity Through a TCM Lens",
+      "path": "/symptoms/womens-health/menstrual-cramps-cold-tcm/",
+      "type": "cluster",
+      "parent": "womens-health",
+      "estimated_read_time": 8,
+      "keywords": [
+        "menstrual cramps cold",
+        "TCM menstrual pain",
+        "cold sensitivity"
+      ],
+      "id": "1200"
     }
   ]
 }
