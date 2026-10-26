@@ -1,19 +1,6 @@
 {
   "queue": [
     {
-      "title": "Herbal Compresses in TCM: What They Are and How Safety Works",
-      "path": "/treatments/herbal-compress-basics-tcm/",
-      "type": "treatment",
-      "parent": "treatments",
-      "estimated_read_time": 8,
-      "keywords": [
-        "herbal compress TCM",
-        "topical herbal therapy",
-        "TCM safety"
-      ],
-      "id": "1207"
-    },
-    {
       "title": "TCM and the Nervous System: A Beginner's Bridge",
       "path": "/tcm-basics/nervous-system-tcm-explained/",
       "type": "tcm-basics",
@@ -15547,6 +15534,19 @@
         "TCM relaxation"
       ],
       "id": "1206"
+    },
+    {
+      "title": "Herbal Compresses in TCM: What They Are and How Safety Works",
+      "path": "/treatments/herbal-compress-basics-tcm/",
+      "type": "treatment",
+      "parent": "treatments",
+      "estimated_read_time": 8,
+      "keywords": [
+        "herbal compress TCM",
+        "topical herbal therapy",
+        "TCM safety"
+      ],
+      "id": "1207"
     }
   ]
 }
