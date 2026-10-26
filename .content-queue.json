@@ -1,19 +1,6 @@
 {
   "queue": [
     {
-      "title": "TCM and the Nervous System: A Beginner's Bridge",
-      "path": "/tcm-basics/nervous-system-tcm-explained/",
-      "type": "tcm-basics",
-      "parent": "",
-      "estimated_read_time": 8,
-      "keywords": [
-        "TCM nervous system",
-        "Shen TCM",
-        "mind body connection"
-      ],
-      "id": "1208"
-    },
-    {
       "title": "What Is Liver Qi Stagnation? A Practical Systems Map",
       "path": "/tcm-basics/liver-qi-stagnation-explained-tcm/",
       "type": "tcm-basics",
@@ -15547,6 +15534,19 @@
         "TCM safety"
       ],
       "id": "1207"
+    },
+    {
+      "title": "TCM and the Nervous System: A Beginner's Bridge",
+      "path": "/tcm-basics/nervous-system-tcm-explained/",
+      "type": "tcm-basics",
+      "parent": "",
+      "estimated_read_time": 8,
+      "keywords": [
+        "TCM nervous system",
+        "Shen TCM",
+        "mind body connection"
+      ],
+      "id": "1208"
     }
   ]
 }
