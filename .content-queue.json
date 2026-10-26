@@ -1,19 +1,6 @@
 {
   "queue": [
     {
-      "title": "A Five-Minute Qigong Breathing Reset for Busy Days",
-      "path": "/treatments/qigong-breathing-reset-tcm/",
-      "type": "treatment",
-      "parent": "treatments",
-      "estimated_read_time": 7,
-      "keywords": [
-        "qigong breathing",
-        "stress reset",
-        "beginner qigong"
-      ],
-      "id": "1212"
-    },
-    {
       "title": "Gua Sha for Forearm and Wrist Tightness: A Safety-First Guide",
       "path": "/treatments/gua-sha-forearm-wrist-tcm/",
       "type": "treatment",
@@ -15547,6 +15534,19 @@
         "TCM acupressure"
       ],
       "id": "1211"
+    },
+    {
+      "title": "A Five-Minute Qigong Breathing Reset for Busy Days",
+      "path": "/treatments/qigong-breathing-reset-tcm/",
+      "type": "treatment",
+      "parent": "treatments",
+      "estimated_read_time": 7,
+      "keywords": [
+        "qigong breathing",
+        "stress reset",
+        "beginner qigong"
+      ],
+      "id": "1212"
     }
   ]
 }
