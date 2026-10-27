@@ -56,7 +56,7 @@ echo "$(date): Queue has $REMAINING items" >> "$HOME/symptomcalm/.cron/publish.l
 QUEUE_BEFORE="$REMAINING"
 
 # Run Hermes to publish 2 articles (EN + ZH each)
-hermes chat --profile symptomcalm -Q -q "
+if ! hermes chat --profile symptomcalm -Q -q "
 You are in ~/symptomcalm.
 
 STEP 1: Check queue. If remaining < 5, generate 15 new ideas and pipe to add command.
@@ -84,7 +84,11 @@ B) CHINESE version:
 Repeat A+B for the second article.
 
 STEP 3: Verify both EN and ZH pages with curl.
-" --skills tcm-content-production 2>&1 >> "$HOME/symptomcalm/.cron/publish.log"
+" --skills tcm-content-production >> "$HOME/symptomcalm/.cron/publish.log" 2>&1; then
+  echo "$(date): HERMES GENERATION FAILED — rolling back cycle" >> "$HOME/symptomcalm/.cron/publish.log"
+  rollback_run
+  exit 1
+fi
 
 echo "$(date): Auto-publish 2x EN+ZH complete" >> "$HOME/symptomcalm/.cron/publish.log"
 
