@@ -224,7 +224,13 @@ def publish(html_content_file: str):
     save_queue(data)
     print(f"Queue updated: {item['path']} → published")
 
-    # Git commit and push
+    # The batch auto-publisher owns the transaction and Git operations. Keep
+    # single-article CLI compatibility, but never let a batch publish create
+    # partial commits or pushes before the full-site release gates run.
+    if os.environ.get("AUTO_PUBLISH_BATCH") == "1":
+        print("Git commit/push deferred to outer batch transaction")
+        return 0
+
     success = commit_and_push(article_file)
     if success:
         print("Git push succeeded")

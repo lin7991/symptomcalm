@@ -3,6 +3,8 @@
 .cron/launchd*
 .cron/outreach/
 .cron/publish.log
+.cron/weekly-seo-geo-audit.stdout.log
+.cron/weekly-seo-geo-audit.stderr.log
 .cron/reports/
 node_modules/
 tmp/

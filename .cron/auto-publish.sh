@@ -5,6 +5,8 @@
 export HERMES_HOME="$HOME/.hermes"
 export PATH="/usr/local/bin:/opt/homebrew/bin:$HOME/.local/bin:$PATH"
 
+export AUTO_PUBLISH_BATCH=1
+
 # --- git auth hardening (launchd has no GUI/keychain session) ---
 # Without these, `git push` blocks forever waiting for a username prompt.
 # (This hung the pipeline for 6 days, Sep 15-21 2026.)
@@ -37,7 +39,10 @@ RUN_DIR=$(mktemp -d "$HOME/symptomcalm/.cron/run.XXXXXX") || exit 1
 BASE_SHA=$(git rev-parse HEAD)
 rollback_run() {
   git reset --hard "$BASE_SHA" >/dev/null 2>&1 || true
-  git clean -fd >/dev/null 2>&1 || true
+  # Remove only publisher-owned untracked artifacts; preserve logs and any
+  # pre-existing user files even if a future guard is accidentally bypassed.
+  find .cron -maxdepth 1 -type d -name 'run.*' -exec rm -rf {} + 2>/dev/null || true
+  find .cron -maxdepth 1 -type f -name 'generate_*.py' -delete 2>/dev/null || true
 }
 trap 'rmdir "$LOCKDIR" 2>/dev/null || true; rm -rf "$RUN_DIR" 2>/dev/null || true' EXIT INT TERM
 if [ -n "$(git status --porcelain 2>/dev/null)" ]; then
@@ -146,7 +151,14 @@ fi
 # Commit all changes
 cd "$HOME/symptomcalm"
 LOG="$HOME/symptomcalm/.cron/publish.log"
-git add -A 2>/dev/null
+# Stage only publisher outputs. Do not use git add -A: logs, reports, and
+# unrelated user files must never enter a production commit.
+git add .content-queue.json sitemap.xml rss.xml 2>/dev/null || true
+while IFS= read -r changed; do
+  case "$changed" in
+    *.html) git add -- "$changed" ;;
+  esac
+done < <(git status --porcelain=v1 | sed -E 's/^.. //; s/^"//; s/"$//')
 if ! git diff --cached --quiet 2>/dev/null; then
   git commit -m "Auto publish EN+ZH + FAQ" >> "$LOG" 2>&1
   # Bounded push: no credential prompt (GIT_ASKPASS above), abort on slow/stalled link.
