@@ -34,6 +34,11 @@ if ! mkdir "$LOCKDIR" 2>/dev/null; then
   exit 0
 fi
 RUN_DIR=$(mktemp -d "$HOME/symptomcalm/.cron/run.XXXXXX") || exit 1
+BASE_SHA=$(git rev-parse HEAD)
+rollback_run() {
+  git reset --hard "$BASE_SHA" >/dev/null 2>&1 || true
+  git clean -fd >/dev/null 2>&1 || true
+}
 trap 'rmdir "$LOCKDIR" 2>/dev/null || true; rm -rf "$RUN_DIR" 2>/dev/null || true' EXIT INT TERM
 if [ -n "$(git status --porcelain 2>/dev/null)" ]; then
   echo "$(date): DIRTY WORKTREE — refusing to publish or git add -A" >> "$HOME/symptomcalm/.cron/publish.log"
@@ -84,7 +89,8 @@ echo "$(date): Auto-publish 2x EN+ZH complete" >> "$HOME/symptomcalm/.cron/publi
 # actually shrank.
 QUEUE_AFTER=$(python3 .cron/publish-article.py remaining 2>/dev/null)
 if [ -n "$QUEUE_BEFORE" ] && [ -n "$QUEUE_AFTER" ] && [ "$QUEUE_AFTER" -ge "$QUEUE_BEFORE" ]; then
-  echo "$(date): CONTENT GENERATION FAILED — queue $QUEUE_BEFORE -> $QUEUE_AFTER, no article produced. Aborting cycle." >> "$HOME/symptomcalm/.cron/publish.log"
+  echo "$(date): CONTENT GENERATION FAILED — queue $QUEUE_BEFORE -> $QUEUE_AFTER, no article produced. Rolling back cycle." >> "$HOME/symptomcalm/.cron/publish.log"
+  rollback_run
   exit 1
 fi
 echo "$(date): Queue $QUEUE_BEFORE -> $QUEUE_AFTER (published)" >> "$HOME/symptomcalm/.cron/publish.log"
@@ -123,7 +129,8 @@ python3 .cron/rebuild-sitemap.py >> "$HOME/symptomcalm/.cron/publish.log" 2>&1
 
 # Release gate: block the commit if required content/SEO fields are missing
 if ! python3 .cron/content-quality-gate.py >> "$HOME/symptomcalm/.cron/publish.log" 2>&1; then
-  echo "$(date): QUALITY GATE FAILED — refusing to commit" >> "$HOME/symptomcalm/.cron/publish.log"
+  echo "$(date): QUALITY GATE FAILED — refusing to commit; rolling back cycle" >> "$HOME/symptomcalm/.cron/publish.log"
+  rollback_run
   exit 1
 fi
 
@@ -131,7 +138,8 @@ fi
 # duplicate bodies, sitemap pollution, and malformed metadata before any commit.
 echo "$(date): Running final SEO/GEO release gate..." >> "$HOME/symptomcalm/.cron/publish.log"
 if ! python3 .cron/weekly-seo-geo-audit.py >> "$HOME/symptomcalm/.cron/publish.log" 2>&1; then
-  echo "$(date): SEO/GEO RELEASE GATE FAILED — refusing to commit" >> "$HOME/symptomcalm/.cron/publish.log"
+  echo "$(date): SEO/GEO RELEASE GATE FAILED — refusing to commit; rolling back cycle" >> "$HOME/symptomcalm/.cron/publish.log"
+  rollback_run
   exit 1
 fi
 
