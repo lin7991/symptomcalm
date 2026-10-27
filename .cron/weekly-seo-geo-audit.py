@@ -41,6 +41,13 @@ def text_only(s):
     s=re.sub(r"<script.*?</script>|<style.*?</style>|<noscript.*?</noscript>"," ",s,flags=re.I|re.S)
     return re.sub(r"\s+"," ",re.sub(r"<[^>]+>"," ",s)).strip()
 
+def meta_content(t, key_type, key):
+    for tag in re.findall(r"<meta\b[^>]*>", t, re.I|re.S):
+        if re.search(rf"\b{key_type}=[\"']{re.escape(key)}[\"']", tag, re.I):
+            m=re.search(r"\bcontent\s*=\s*([\"'])(.*?)\1", tag, re.I|re.S)
+            if m: return html.unescape(m.group(2).strip())
+    return ""
+
 def page_info(path):
     t=path.read_text(encoding="utf-8",errors="replace")
     rel=path.relative_to(ROOT).as_posix()
@@ -50,9 +57,9 @@ def page_info(path):
     if not can:
         can=first(r'<link\b[^>]*\bhref=["\']([^"\']+)["\'][^>]*\brel=["\']canonical',t)
     title=first(r'<title\b[^>]*>(.*?)</title>',t)
-    ogtitle=first(r'<meta\b[^>]*property=["\']og:title["\'][^>]*content=["\']([^"\']+)',t)
-    desc=first(r'<meta\b[^>]*name=["\']description["\'][^>]*content=["\']([^"\']+)',t)
-    ogdesc=first(r'<meta\b[^>]*property=["\']og:description["\'][^>]*content=["\']([^"\']+)',t)
+    ogtitle=meta_content(t,"property","og:title")
+    desc=meta_content(t,"name","description")
+    ogdesc=meta_content(t,"property","og:description")
     h1=re.findall(r'<h1\b[^>]*>(.*?)</h1>',t,re.I|re.S)
     body=re.sub(r'<(script|style|nav|footer|header)\b.*?</\1>',' ',t,flags=re.I|re.S)
     words=len(re.findall(r"\b[A-Za-z][A-Za-z'-]*\b",text_only(body)))
@@ -74,7 +81,7 @@ def main():
     for p in pages:
         if p["noindex"] and p["url"] in live_urls: blocking.append(("noindex_in_sitemap",p["path"]))
         if p["refresh"] and p["url"] in live_urls: blocking.append(("redirect_in_sitemap",p["path"]))
-        if p["canonical"] and p["canonical"].rstrip("/") != p["url"].rstrip("/") and not p["refresh"]: blocking.append(("canonical_mismatch",p["path"]))
+        if p["canonical"] and p["canonical"].rstrip("/") != p["url"].rstrip("/") and not p["refresh"] and not p["noindex"]: blocking.append(("canonical_mismatch",p["path"]))
         if not p["canonical"] and not p["refresh"]: blocking.append(("missing_canonical",p["path"]))
         if p["title"] != p["og_title"] and not p["refresh"]: warnings.append(("title_og_title_mismatch",p["path"]))
         if p["description"] != p["og_description"] and not p["refresh"]: warnings.append(("description_og_description_mismatch",p["path"]))
