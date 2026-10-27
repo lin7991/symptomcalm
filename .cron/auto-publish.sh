@@ -33,7 +33,8 @@ if ! mkdir "$LOCKDIR" 2>/dev/null; then
   echo "$(date): another auto-publish cycle is running; aborting" >> "$HOME/symptomcalm/.cron/publish.log"
   exit 0
 fi
-trap 'rmdir "$LOCKDIR" 2>/dev/null || true' EXIT INT TERM
+RUN_DIR=$(mktemp -d "$HOME/symptomcalm/.cron/run.XXXXXX") || exit 1
+trap 'rmdir "$LOCKDIR" 2>/dev/null || true; rm -rf "$RUN_DIR" 2>/dev/null || true' EXIT INT TERM
 if [ -n "$(git status --porcelain 2>/dev/null)" ]; then
   echo "$(date): DIRTY WORKTREE — refusing to publish or git add -A" >> "$HOME/symptomcalm/.cron/publish.log"
   git status --short >> "$HOME/symptomcalm/.cron/publish.log"
@@ -56,19 +57,19 @@ A) ENGLISH article:
 - Use .cron/article-template.html
 - Replace <!--NEWSLETTER_SECTION--> with empty string
 - Replace <!--FAQ_SCHEMA--> with empty string
-- Write to /tmp/sc-en.html
-- Run: python3 .cron/publish-article.py publish /tmp/sc-en.html
+- Write to $RUN_DIR/sc-en.html
+- Run: python3 .cron/publish-article.py publish $RUN_DIR/sc-en.html
 - If pillar page exists, update its CTA to link to new article
 
 B) CHINESE version:
-- Read same English article from /tmp/sc-en.html to get title/info
+- Read the same English article from $RUN_DIR/sc-en.html to get title/info
 - Use .cron/article-template-zh.html
 - Replace <!--NEWSLETTER_SECTION--> with empty string
 - Replace <!--FAQ_SCHEMA_ZH--> with empty string
-- Write to /tmp/sc-zh.html
+- Write to $RUN_DIR/sc-zh.html
 - Determine path from queue item, create directory: mkdir -p zh/CURRENT_PATH
-- Copy: cp /tmp/sc-zh.html zh/CURRENT_PATH/index.html
-- Git add and commit
+- Copy: cp $RUN_DIR/sc-zh.html zh/CURRENT_PATH/index.html
+- Do NOT run git add, git commit, git push, reset, checkout, or clean. The outer shell script owns Git and will reject a dirty/failed release.
 
 Repeat A+B for the second article.
 
@@ -123,6 +124,14 @@ python3 .cron/rebuild-sitemap.py >> "$HOME/symptomcalm/.cron/publish.log" 2>&1
 # Release gate: block the commit if required content/SEO fields are missing
 if ! python3 .cron/content-quality-gate.py >> "$HOME/symptomcalm/.cron/publish.log" 2>&1; then
   echo "$(date): QUALITY GATE FAILED — refusing to commit" >> "$HOME/symptomcalm/.cron/publish.log"
+  exit 1
+fi
+
+# Final full-site SEO/GEO release gate. This catches identity drift, same-language
+# duplicate bodies, sitemap pollution, and malformed metadata before any commit.
+echo "$(date): Running final SEO/GEO release gate..." >> "$HOME/symptomcalm/.cron/publish.log"
+if ! python3 .cron/weekly-seo-geo-audit.py >> "$HOME/symptomcalm/.cron/publish.log" 2>&1; then
+  echo "$(date): SEO/GEO RELEASE GATE FAILED — refusing to commit" >> "$HOME/symptomcalm/.cron/publish.log"
   exit 1
 fi
 
