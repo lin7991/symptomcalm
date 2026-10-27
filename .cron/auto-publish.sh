@@ -17,6 +17,14 @@ export GIT_SSH_COMMAND="ssh -o BatchMode=yes -o ConnectTimeout=10"
 
 cd "$HOME/symptomcalm" || exit 1
 
+# Production publishing must run from the branch that is intentionally deployed.
+# A detached/feature branch must never push a stale local `main` ref.
+BRANCH=$(git branch --show-current 2>/dev/null)
+if [ "$BRANCH" != "main" ]; then
+  echo "$(date): WRONG BRANCH ($BRANCH) — refusing production publish" >> "$HOME/symptomcalm/.cron/publish.log"
+  exit 1
+fi
+
 # Single-writer + clean-worktree guard. The old pipeline shared /tmp/sc-*.html
 # and ran git add -A; concurrent/dirty runs could publish one article at another
 # URL and commit unrelated work. Never start a publish cycle in either state.
