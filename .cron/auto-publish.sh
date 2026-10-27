@@ -17,6 +17,21 @@ export GIT_SSH_COMMAND="ssh -o BatchMode=yes -o ConnectTimeout=10"
 
 cd "$HOME/symptomcalm" || exit 1
 
+# Single-writer + clean-worktree guard. The old pipeline shared /tmp/sc-*.html
+# and ran git add -A; concurrent/dirty runs could publish one article at another
+# URL and commit unrelated work. Never start a publish cycle in either state.
+LOCKDIR="$HOME/symptomcalm/.cron/.auto-publish.lock"
+if ! mkdir "$LOCKDIR" 2>/dev/null; then
+  echo "$(date): another auto-publish cycle is running; aborting" >> "$HOME/symptomcalm/.cron/publish.log"
+  exit 0
+fi
+trap 'rmdir "$LOCKDIR" 2>/dev/null || true' EXIT INT TERM
+if [ -n "$(git status --porcelain 2>/dev/null)" ]; then
+  echo "$(date): DIRTY WORKTREE — refusing to publish or git add -A" >> "$HOME/symptomcalm/.cron/publish.log"
+  git status --short >> "$HOME/symptomcalm/.cron/publish.log"
+  exit 1
+fi
+
 REMAINING=$(python3 .cron/publish-article.py remaining 2>/dev/null)
 echo "$(date): Queue has $REMAINING items" >> "$HOME/symptomcalm/.cron/publish.log"
 QUEUE_BEFORE="$REMAINING"

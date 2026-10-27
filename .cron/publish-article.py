@@ -161,9 +161,24 @@ def update_sitemap(article_path):
     print(f"Sitemap updated: {url}")
 
 
-def ensure_parent_dir(path: Path):
-    """Create parent directories if they don't exist."""
-    path.parent.mkdir(parents=True, exist_ok=True)
+def validate_identity(html_content, article_path):
+    """Refuse to write HTML whose declared identity belongs to another URL."""
+    expected = "https://symptomcalm.com/" + str(article_path).strip("/") + "/"
+    canonical = re.search(r"<link\b[^>]*rel=[\"']canonical[\"'][^>]*href=[\"']([^\"']+)", html_content, re.I)
+    if not canonical:
+        canonical = re.search(r"<link\b[^>]*href=[\"']([^\"']+)[\"'][^>]*rel=[\"']canonical", html_content, re.I)
+    if not canonical or canonical.group(1).rstrip("/") != expected.rstrip("/"):
+        got = canonical.group(1) if canonical else "MISSING"
+        raise ValueError(f"identity gate: canonical {got!r} != expected {expected!r}")
+    ogurl = re.search(r"<meta\b[^>]*property=[\"']og:url[\"'][^>]*content=[\"']([^\"']+)", html_content, re.I)
+    if ogurl and ogurl.group(1).rstrip("/") != expected.rstrip("/"):
+        raise ValueError(f"identity gate: og:url {ogurl.group(1)!r} != expected {expected!r}")
+    if len(re.findall(r'<h1\b', html_content, re.I)) != 1:
+        raise ValueError("identity gate: expected exactly one H1")
+    title = re.search(r'<title\b[^>]*>(.*?)</title>', html_content, re.I|re.S)
+    if not title or not re.sub(r'<[^>]+>', '', title.group(1)).strip():
+        raise ValueError("identity gate: missing title")
+
 
 
 def publish(html_content_file: str):
@@ -183,6 +198,13 @@ def publish(html_content_file: str):
             html_content = f.read()
     except FileNotFoundError:
         print(f"ERROR: HTML content file not found: {html_content_file}", file=sys.stderr)
+        return 1
+
+    # Identity gate must pass before touching the target file.
+    try:
+        validate_identity(html_content, item["path"])
+    except ValueError as exc:
+        print(f"ERROR: {exc}", file=sys.stderr)
         return 1
 
     # Ensure directory exists
