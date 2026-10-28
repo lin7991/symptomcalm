@@ -1,19 +1,6 @@
 {
   "queue": [
     {
-      "title": "Tension Headaches After Long Meetings: A TCM Guide",
-      "path": "/symptoms/headaches/meeting-tension-headache-tcm/",
-      "type": "symptom",
-      "parent": "headaches",
-      "estimated_read_time": 8,
-      "keywords": [
-        "tension headache meetings",
-        "neck tension TCM",
-        "desk headache"
-      ],
-      "id": "1220"
-    },
-    {
       "title": "Careful Cupping at Home: A Beginner Safety Guide",
       "path": "/treatments/cupping-home-safety-tcm/",
       "type": "treatment",
@@ -15742,6 +15729,19 @@
         "Lung dryness"
       ],
       "id": "1219"
+    },
+    {
+      "title": "Tension Headaches After Long Meetings: A TCM Guide",
+      "path": "/symptoms/headaches/meeting-tension-headache-tcm/",
+      "type": "symptom",
+      "parent": "headaches",
+      "estimated_read_time": 8,
+      "keywords": [
+        "tension headache meetings",
+        "neck tension TCM",
+        "desk headache"
+      ],
+      "id": "1220"
     }
   ]
 }
