@@ -75,7 +75,14 @@ def main():
     files=sorted(p for p in ROOT.rglob("index.html") if ".git" not in p.parts and ".cron" not in p.parts)
     pages=[page_info(p) for p in files]
     sitemap_status,sitemap=fetch(SITEMAP_URL)
-    live_urls=set(re.findall(r'<(?:\w+:)?loc>\s*(.*?)\s*</(?:\w+:)?loc>',sitemap,re.I|re.S)) if sitemap_status==200 else set()
+    if sitemap_status != 200:
+        # GitHub Pages/Cloudflare can briefly return a WAF response to the
+        # audit User-Agent. Never treat an empty live response as a clean site:
+        # audit the checked-out sitemap and mark the source explicitly.
+        local_sitemap = ROOT / "sitemap.xml"
+        sitemap = local_sitemap.read_text(encoding="utf-8", errors="replace") if local_sitemap.exists() else ""
+        sitemap_status = "local-fallback"
+    live_urls=set(re.findall(r'<(?:\w+:)?loc>\s*(.*?)\s*</(?:\w+:)?loc>',sitemap,re.I|re.S))
     local_urls={p["url"] for p in pages if not p["noindex"] and not p["refresh"]}
     blocking=[]; warnings=[]
     for p in pages:
