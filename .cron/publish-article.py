@@ -12,7 +12,7 @@ Environment:
     WORKDIR: defaults to ~/symptomcalm (or set explicitly)
 """
 
-import json, os, re, shutil, subprocess, sys, time
+import json, os, re, shutil, subprocess, sys, time, html
 from pathlib import Path
 
 WORKDIR = Path(os.environ.get("WORKDIR", os.path.expanduser("~/symptomcalm")))
@@ -161,6 +161,42 @@ def update_sitemap(article_path):
     print(f"Sitemap updated: {url}")
 
 
+def ensure_release_metadata(html_content: str, article_path: str) -> str:
+    """Add deterministic SEO/GEO metadata before a generated page is written."""
+    url = "https://symptomcalm.com/" + article_path.strip("/") + "/"
+    lang = "zh-CN" if article_path.strip("/").startswith("zh/") else "en-US"
+    section = "Symptoms" if "/symptoms/" in "/" + article_path else ("Treatments" if "/treatments/" in "/" + article_path else "TCM Basics")
+    date_modified = time.strftime("%Y-%m-%d")
+    additions = []
+    if 'hreflang="x-default"' not in html_content:
+        additions.append(f'<link rel="alternate" hreflang="x-default" href="{url}" />')
+    if '<meta name="author"' not in html_content:
+        additions.append('<meta name="author" content="SymptomCalm Editorial Team" />')
+    if 'article:modified_time' not in html_content:
+        additions.append(f'<meta property="article:modified_time" content="{date_modified}T00:00:00+00:00" />')
+    if 'article:section' not in html_content:
+        additions.append(f'<meta property="article:section" content="{section}" />')
+    if additions:
+        canonical = re.search(r'<link\b[^>]*rel=["\']canonical["\'][^>]*>', html_content, re.I)
+        if not canonical:
+            canonical = re.search(r'<link\b[^>]*href=["\'][^"\']+["\'][^>]*rel=["\']canonical["\'][^>]*>', html_content, re.I)
+        if canonical:
+            html_content = html_content[:canonical.end()] + "\n" + "\n".join(additions) + html_content[canonical.end():]
+    if '"@type": "Organization"' not in html_content or '"@type": "MedicalWebPage"' not in html_content or '"dateModified"' not in html_content:
+        title_match = re.search(r'<title\b[^>]*>(.*?)</title>', html_content, re.I | re.S)
+        desc_match = re.search(r'<meta\b[^>]*name=["\']description["\'][^>]*content=["\']([^"\']*)', html_content, re.I)
+        title = re.sub(r'<[^>]+>', '', title_match.group(1)).strip() if title_match else "SymptomCalm article"
+        description = html.unescape(desc_match.group(1)).strip() if desc_match else "Educational information about Traditional Chinese Medicine and everyday wellbeing."
+        graph = {"@context":"https://schema.org","@graph":[
+            {"@type":"Organization","@id":"https://symptomcalm.com/#organization","name":"SymptomCalm","url":"https://symptomcalm.com/","logo":{"@type":"ImageObject","url":"https://symptomcalm.com/favicon.svg"},"email":"contact@symptomcalm.com"},
+            {"@type":"MedicalWebPage","@id":url+"#webpage","url":url,"name":title,"description":description,"publisher":{"@id":"https://symptomcalm.com/#organization"},"dateModified":date_modified,"inLanguage":lang}
+        ]}
+        block = '<script type="application/ld+json">\n' + json.dumps(graph, ensure_ascii=False, indent=2) + '\n</script>\n'
+        html_content = re.sub(r'<!--FAQ_SCHEMA(?:_ZH)?-->', block + r'\g<0>', html_content, count=1, flags=re.I)
+    return html_content
+
+
+
 def validate_identity(html_content, article_path):
     """Refuse to write HTML whose declared identity belongs to another URL."""
     expected = "https://symptomcalm.com/" + str(article_path).strip("/") + "/"
@@ -199,6 +235,9 @@ def publish(html_content_file: str):
     except FileNotFoundError:
         print(f"ERROR: HTML content file not found: {html_content_file}", file=sys.stderr)
         return 1
+
+    # Normalize required metadata before identity and release-gate checks.
+    html_content = ensure_release_metadata(html_content, item["path"])
 
     # Identity gate must pass before touching the target file.
     try:
