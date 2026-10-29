@@ -126,6 +126,6 @@ def main():
     (REPORT_DIR/f"weekly-seo-geo-{stamp}.md").write_text("\n".join(lines)+"\n")
     print(f"WEEKLY_SEO_GEO_AUDIT local_html={len(files)} sitemap_urls={len(live_urls)} blocking={len(blocking)} warnings={len(warnings)}")
     print(f"REPORT={REPORT_DIR/f'weekly-seo-geo-{stamp}.md'}")
-    return 1 if blocking else 0
+    return 1 if blocking or warnings else 0
 
 if __name__ == "__main__": sys.exit(main())

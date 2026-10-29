@@ -104,37 +104,23 @@ if [ -n "$QUEUE_BEFORE" ] && [ -n "$QUEUE_AFTER" ] && [ "$QUEUE_AFTER" -ge "$QUE
 fi
 echo "$(date): Queue $QUEUE_BEFORE -> $QUEUE_AFTER (published)" >> "$HOME/symptomcalm/.cron/publish.log"
 
-# Regenerate RSS feed
-echo "$(date): Regenerating RSS feed..." >> "$HOME/symptomcalm/.cron/publish.log"
+# The publisher writes the four new EN/ZH pages directly. Do not run legacy
+# whole-site post-processors here: they rewrite thousands of historical pages,
+# create noisy commits, and can mix unrelated repairs into an article release.
+# RSS and sitemap are rebuilt below from the resulting filesystem.
+
+# RSS is a single derived file and is safe to rebuild after the page writes.
 python3 .cron/gen-rss.py >> "$HOME/symptomcalm/.cron/publish.log" 2>&1
-
-# Update share buttons + og:image for new pages
-echo "$(date): Updating share/images..." >> "$HOME/symptomcalm/.cron/publish.log"
-python3 .cron/add-share-images.py >> "$HOME/symptomcalm/.cron/publish.log" 2>&1
-
-# Add Breadcrumb + Article schema to new pages
-echo "$(date): Adding schemas..." >> "$HOME/symptomcalm/.cron/publish.log"
-python3 .cron/add-schemas.py >> "$HOME/symptomcalm/.cron/publish.log" 2>&1
-
-# Add hreflang bidirectional tags
-echo "$(date): Adding hreflang..." >> "$HOME/symptomcalm/.cron/publish.log"
-python3 .cron/add-hreflang.py >> "$HOME/symptomcalm/.cron/publish.log" 2>&1
-
-# Refresh canonical, hreflang, entity schema and GEO metadata LAST among metadata
-# writers: it rewrites the whole ld+json graph, so anything that adds its own
-# block (add-schemas.py) must already have run or its output gets dropped.
-python3 .cron/refresh-seo-geo.py >> "$HOME/symptomcalm/.cron/publish.log" 2>&1
-
-# Generate FAQ schema last of all: refresh-seo-geo.py strips every ld+json block.
-echo "$(date): Generating FAQ schema last..." >> "$HOME/symptomcalm/.cron/publish.log"
-python3 .cron/add-faq-schema.py >> "$HOME/symptomcalm/.cron/publish.log" 2>&1
-
-# Ensure ZH mirror exists for new articles (batch fallback)
-echo "$(date): Ensuring ZH mirrors..." >> "$HOME/symptomcalm/.cron/publish.log"
-python3 .cron/batch-zh.py >> "$HOME/symptomcalm/.cron/publish.log" 2>&1
-
-# Rebuild sitemap from the actual filesystem after all page writes
 python3 .cron/rebuild-sitemap.py >> "$HOME/symptomcalm/.cron/publish.log" 2>&1
+
+# A two-article EN+ZH cycle may touch the four article pages plus a small
+# number of explicitly linked pillar pages, but never the whole site.
+CHANGED_HTML_COUNT=$(git status --porcelain=v1 | awk '$0 ~ /\.html$/ {count++} END {print count+0}')
+if [ "$CHANGED_HTML_COUNT" -gt 8 ]; then
+  echo "$(date): TOO MANY HTML CHANGES ($CHANGED_HTML_COUNT) — rolling back cycle" >> "$HOME/symptomcalm/.cron/publish.log"
+  rollback_run
+  exit 1
+fi
 
 # Release gate: block the commit if required content/SEO fields are missing
 if ! python3 .cron/content-quality-gate.py >> "$HOME/symptomcalm/.cron/publish.log" 2>&1; then
