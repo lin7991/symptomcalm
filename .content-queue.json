@@ -1,19 +1,6 @@
 {
   "queue": [
     {
-      "title": "Why Restaurant Meals Can Leave You Bloated: A TCM Pattern Guide",
-      "path": "/symptoms/digestion/restaurant-meal-bloating-tcm/",
-      "type": "cluster",
-      "parent": "digestion",
-      "estimated_read_time": 7,
-      "keywords": [
-        "restaurant bloating",
-        "meal-related bloating",
-        "TCM digestion"
-      ],
-      "id": "1226"
-    },
-    {
       "title": "Period-Related Back Pain Through a TCM Lens",
       "path": "/symptoms/womens-health/period-related-back-pain-tcm/",
       "type": "cluster",
@@ -15742,6 +15729,19 @@
         "airway dryness"
       ],
       "id": "1225"
+    },
+    {
+      "title": "Why Restaurant Meals Can Leave You Bloated: A TCM Pattern Guide",
+      "path": "/symptoms/digestion/restaurant-meal-bloating-tcm/",
+      "type": "cluster",
+      "parent": "digestion",
+      "estimated_read_time": 7,
+      "keywords": [
+        "restaurant bloating",
+        "meal-related bloating",
+        "TCM digestion"
+      ],
+      "id": "1226"
     }
   ]
 }
