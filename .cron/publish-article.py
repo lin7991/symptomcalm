@@ -258,7 +258,7 @@ def publish(html_content_file: str):
     update_sitemap(Path(item["path"]))
 
     # Mark as published
-    data["published"].append(item)
+    data["published"].append({**item, "published_at": time.strftime("%Y-%m-%dT%H:%M:%SZ", time.gmtime())})
     data["queue"].pop(0)
     save_queue(data)
     print(f"Queue updated: {item['path']} → published")

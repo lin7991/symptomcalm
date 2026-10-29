@@ -1,0 +1,43 @@
+{
+  "purpose": "Search-led, evidence-curious topic guidance for SymptomCalm. Use trends as question signals, never as medical claims.",
+  "updated": "2026-10-30",
+  "source_notes": [
+    "Soliant Health's 2026 search analysis highlights sleep, bloating, stress, fatigue, back pain, allergies and congestion as recurring consumer questions.",
+    "A Journal of Allergy and Clinical Immunology analysis reports recurring allergy-search peaks in spring and fall, with related sleep and mental-health questions.",
+    "2026 wellness coverage repeatedly emphasizes sleep optimization, circadian rhythm, screen-related restlessness, stress resilience, gut health and metabolic health."
+  ],
+  "priority_lanes": [
+    {
+      "lane": "seasonal allergies and congestion",
+      "keywords": ["seasonal allergies", "allergy congestion", "allergy fatigue", "allergies and sleep", "spring allergies", "fall allergies"],
+      "TCM_angle": "Use TCM as a pattern-language lens for congestion, fatigue and sleep; do not imply treatment or prevention."
+    },
+    {
+      "lane": "sleep optimization and circadian rhythm",
+      "keywords": ["sleep optimization", "circadian rhythm", "tired but wired", "sleeping hot", "screen time and sleep", "waking up at night"],
+      "TCM_angle": "Explain rhythm, recovery and pattern observation with practical low-risk habits and medical safety boundaries."
+    },
+    {
+      "lane": "stress, digital overload and nervous-system language",
+      "keywords": ["digital overload", "notification anxiety", "stress and digestion", "stress-related tension", "mental load", "burnout signs"],
+      "TCM_angle": "Translate Qi-stagnation as a traditional metaphor, not a diagnosis; include evidence limits and clinician red flags."
+    },
+    {
+      "lane": "digestive questions and meal-related symptoms",
+      "keywords": ["bloating after meals", "why am I bloated", "food sensitivity questions", "gut health", "meal timing and digestion", "restaurant bloating"],
+      "TCM_angle": "Focus on observation experiments, meal context and when persistent symptoms need medical assessment."
+    },
+    {
+      "lane": "seasonal body changes and recovery",
+      "keywords": ["travel fatigue", "joint stiffness after sitting", "cold air cough", "hydration and fatigue", "recovery routine"],
+      "TCM_angle": "Connect everyday rhythm and environmental context to TCM theory without claiming a cure."
+    }
+  ],
+  "selection_rules": [
+    "Prefer a real user question with one primary search intent and a specific modifier.",
+    "Use one trend keyword plus one stable evergreen keyword; avoid keyword stuffing.",
+    "Do not chase unrelated viral topics, drugs, supplements, weight-loss promises, or disease-treatment claims.",
+    "Before publishing, check existing titles and bodies for semantic overlap; reject near-duplicates.",
+    "Every article must include evidence limits, practical takeaways, red flags, disclaimer and a comment question."
+  ]
+}

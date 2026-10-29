@@ -55,13 +55,19 @@ REMAINING=$(python3 .cron/publish-article.py remaining 2>/dev/null)
 echo "$(date): Queue has $REMAINING items" >> "$HOME/symptomcalm/.cron/publish.log"
 QUEUE_BEFORE="$REMAINING"
 
-# Run Hermes to publish 2 articles (EN + ZH each)
+# Enforce topic-cluster pacing before content generation.
+if ! python3 .cron/topic-frequency-gate.py >> "$HOME/symptomcalm/.cron/publish.log" 2>&1; then
+  echo "$(date): TOPIC FREQUENCY GATE FAILED — refusing publish" >> "$HOME/symptomcalm/.cron/publish.log"
+  exit 1
+fi
+
+# Run Hermes to publish one article (EN + ZH mirror)
 if ! hermes chat --profile symptomcalm -Q -q "
 You are in ~/symptomcalm.
 
-STEP 1: Check queue. If remaining < 5, generate 15 new ideas and pipe to add command.
+STEP 1: Check queue. If remaining < 5, generate 15 new ideas and pipe to add command. Before generating ideas, read .cron/seo-geo-topic-brief.json and use its priority lanes, search-question framing, seasonal timing, and safety rules. Select one primary keyword plus one stable supporting keyword; avoid unrelated trend-chasing and semantically overlapping existing titles.
 
-STEP 2: Publish TWO articles in this run. For EACH of the next 2 queue items, do:
+STEP 2: Publish ONE article. For the next eligible queue item, do:
 A) ENGLISH article:
 - Read next item from queue
 - Use .cron/article-template.html
@@ -81,8 +87,6 @@ B) CHINESE version:
 - Copy: cp $RUN_DIR/sc-zh.html zh/CURRENT_PATH/index.html
 - Do NOT run git add, git commit, git push, reset, checkout, or clean. The outer shell script owns Git and will reject a dirty/failed release.
 
-Repeat A+B for the second article.
-
 STEP 3: Verify both EN and ZH pages with curl.
 " --skills tcm-content-production >> "$HOME/symptomcalm/.cron/publish.log" 2>&1; then
   echo "$(date): HERMES GENERATION FAILED — rolling back cycle" >> "$HOME/symptomcalm/.cron/publish.log"
@@ -90,7 +94,7 @@ STEP 3: Verify both EN and ZH pages with curl.
   exit 1
 fi
 
-echo "$(date): Auto-publish 2x EN+ZH complete" >> "$HOME/symptomcalm/.cron/publish.log"
+echo "$(date): Auto-publish 1x EN+ZH complete" >> "$HOME/symptomcalm/.cron/publish.log"
 
 # Guard: a failed model/API call makes the generator exit without publishing,
 # yet the cycle used to keep going and commit metadata-only noise. Worse, a
@@ -113,7 +117,7 @@ echo "$(date): Queue $QUEUE_BEFORE -> $QUEUE_AFTER (published)" >> "$HOME/sympto
 python3 .cron/gen-rss.py >> "$HOME/symptomcalm/.cron/publish.log" 2>&1
 python3 .cron/rebuild-sitemap.py >> "$HOME/symptomcalm/.cron/publish.log" 2>&1
 
-# A two-article EN+ZH cycle may touch the four article pages plus a small
+# A one-article EN+ZH cycle may touch the two article pages plus a small
 # number of explicitly linked pillar pages, but never the whole site.
 CHANGED_HTML_COUNT=$(git status --porcelain=v1 | awk '$0 ~ /\.html$/ {count++} END {print count+0}')
 if [ "$CHANGED_HTML_COUNT" -gt 8 ]; then
