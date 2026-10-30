@@ -1,19 +1,6 @@
 {
   "queue": [
     {
-      "title": "Notification Anxiety: A TCM-Inspired Guide to Digital Overload",
-      "path": "/symptoms/anxiety/notification-anxiety-tcm/",
-      "type": "cluster",
-      "parent": "anxiety",
-      "estimated_read_time": 7,
-      "keywords": [
-        "notification anxiety",
-        "digital overload",
-        "TCM anxiety perspective"
-      ],
-      "id": "1233"
-    },
-    {
       "title": "Qi as Your Body's Operating System: A Beginner's TCM Analogy",
       "path": "/tcm-basics/qi-operating-system-tcm/",
       "type": "basics",
@@ -15745,6 +15732,20 @@
       ],
       "id": "1232",
       "published_at": "2026-10-30T13:54:23Z"
+    },
+    {
+      "title": "Notification Anxiety: A TCM-Inspired Guide to Digital Overload",
+      "path": "/symptoms/anxiety/notification-anxiety-tcm/",
+      "type": "cluster",
+      "parent": "anxiety",
+      "estimated_read_time": 7,
+      "keywords": [
+        "notification anxiety",
+        "digital overload",
+        "TCM anxiety perspective"
+      ],
+      "id": "1233",
+      "published_at": "2026-10-30T20:57:16Z"
     }
   ]
 }
