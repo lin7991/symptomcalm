@@ -1,19 +1,6 @@
 {
   "queue": [
     {
-      "title": "Meridians as a Fiber-Optic Network: How TCM Maps the Body",
-      "path": "/tcm-basics/meridians-fiber-optic-network-tcm/",
-      "type": "basics",
-      "parent": "tcm-basics",
-      "estimated_read_time": 7,
-      "keywords": [
-        "TCM meridians",
-        "meridian network",
-        "Chinese medicine basics"
-      ],
-      "id": "1235"
-    },
-    {
       "title": "Ear Seeds for Focus: A Gentle TCM Practice Explained",
       "path": "/treatments/ear-seeds-focus-tcm/",
       "type": "treatment",
@@ -15867,6 +15854,20 @@
       ],
       "id": "1234",
       "published_at": "2026-10-31T03:13:25Z"
+    },
+    {
+      "title": "Meridians as a Fiber-Optic Network: How TCM Maps the Body",
+      "path": "/tcm-basics/meridians-fiber-optic-network-tcm/",
+      "type": "basics",
+      "parent": "tcm-basics",
+      "estimated_read_time": 7,
+      "keywords": [
+        "TCM meridians",
+        "meridian network",
+        "Chinese medicine basics"
+      ],
+      "id": "1235",
+      "published_at": "2026-10-31T09:25:06Z"
     }
   ]
 }
