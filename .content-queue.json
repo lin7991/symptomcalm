@@ -1,19 +1,6 @@
 {
   "queue": [
     {
-      "title": "Ear Seeds for Focus: A Gentle TCM Practice Explained",
-      "path": "/treatments/ear-seeds-focus-tcm/",
-      "type": "treatment",
-      "parent": "treatments",
-      "estimated_read_time": 7,
-      "keywords": [
-        "ear seeds focus",
-        "auricular acupressure",
-        "study focus"
-      ],
-      "id": "1236"
-    },
-    {
       "title": "Warm Compresses for Jaw Tension: A Safety-First TCM Routine",
       "path": "/treatments/warm-compress-jaw-tcm/",
       "type": "treatment",
@@ -15868,6 +15855,20 @@
       ],
       "id": "1235",
       "published_at": "2026-10-31T09:25:06Z"
+    },
+    {
+      "title": "Ear Seeds for Focus: A Gentle TCM Practice Explained",
+      "path": "/treatments/ear-seeds-focus-tcm/",
+      "type": "treatment",
+      "parent": "treatments",
+      "estimated_read_time": 7,
+      "keywords": [
+        "ear seeds focus",
+        "auricular acupressure",
+        "study focus"
+      ],
+      "id": "1236",
+      "published_at": "2026-10-31T15:39:42Z"
     }
   ]
 }
