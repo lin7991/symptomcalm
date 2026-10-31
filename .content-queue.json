@@ -1,19 +1,6 @@
 {
   "queue": [
     {
-      "title": "Qi as Your Body's Operating System: A Beginner's TCM Analogy",
-      "path": "/tcm-basics/qi-operating-system-tcm/",
-      "type": "basics",
-      "parent": "tcm-basics",
-      "estimated_read_time": 7,
-      "keywords": [
-        "what is qi",
-        "qi analogy",
-        "TCM basics"
-      ],
-      "id": "1234"
-    },
-    {
       "title": "Meridians as a Fiber-Optic Network: How TCM Maps the Body",
       "path": "/tcm-basics/meridians-fiber-optic-network-tcm/",
       "type": "basics",
@@ -51,6 +38,126 @@
         "TCM self-care"
       ],
       "id": "1237"
+    },
+    {
+      "title": "How TCM Views Seasonal Allergies: Wind, Wei Qi, and Daily Support",
+      "path": "/symptoms/allergies/seasonal-allergies-tcm/",
+      "type": "cluster",
+      "parent": "allergies",
+      "estimated_read_time": 7,
+      "keywords": [
+        "seasonal allergies TCM",
+        "Wei Qi allergies"
+      ],
+      "id": "1238"
+    },
+    {
+      "title": "TCM for Dry, Itchy Skin: Wind, Blood, and the Skin Barrier",
+      "path": "/symptoms/skin-conditions/dry-itchy-skin-tcm/",
+      "type": "cluster",
+      "parent": "skin-conditions",
+      "estimated_read_time": 7,
+      "keywords": [
+        "dry itchy skin TCM",
+        "Blood Deficiency skin"
+      ],
+      "id": "1239"
+    },
+    {
+      "title": "Cold Weather Fatigue in TCM: Why Winter Can Feel Heavy",
+      "path": "/symptoms/fatigue/cold-weather-fatigue-tcm/",
+      "type": "cluster",
+      "parent": "fatigue",
+      "estimated_read_time": 7,
+      "keywords": [
+        "winter fatigue TCM",
+        "Cold Dampness fatigue"
+      ],
+      "id": "1240"
+    },
+    {
+      "title": "A TCM Morning Routine for Steady Energy",
+      "path": "/symptoms/fatigue/tcm-morning-routine-energy/",
+      "type": "cluster",
+      "parent": "fatigue",
+      "estimated_read_time": 6,
+      "keywords": [
+        "TCM morning routine",
+        "steady energy habits"
+      ],
+      "id": "1241"
+    },
+    {
+      "title": "What Are the Eight Extraordinary Vessels in TCM?",
+      "path": "/tcm-basics/eight-extraordinary-vessels-tcm/",
+      "type": "tcm-basics",
+      "parent": "tcm-basics",
+      "estimated_read_time": 8,
+      "keywords": [
+        "eight extraordinary vessels",
+        "TCM channels"
+      ],
+      "id": "1242"
+    },
+    {
+      "title": "The TCM Body Clock Explained: A Practical 24-Hour Map",
+      "path": "/tcm-basics/tcm-body-clock-explained/",
+      "type": "tcm-basics",
+      "parent": "tcm-basics",
+      "estimated_read_time": 8,
+      "keywords": [
+        "TCM body clock",
+        "organ clock"
+      ],
+      "id": "1243"
+    },
+    {
+      "title": "Gua Sha for Desk Neck Tension: A Gentle Home Guide",
+      "path": "/treatments/guasha-desk-neck-tension/",
+      "type": "treatment",
+      "parent": "treatments",
+      "estimated_read_time": 7,
+      "keywords": [
+        "gua sha neck tension",
+        "desk neck self-care"
+      ],
+      "id": "1244"
+    },
+    {
+      "title": "Moxibustion Basics: How Traditional Heat Therapy Is Framed",
+      "path": "/treatments/moxibustion-basics-tcm/",
+      "type": "treatment",
+      "parent": "treatments",
+      "estimated_read_time": 8,
+      "keywords": [
+        "moxibustion basics",
+        "traditional heat therapy"
+      ],
+      "id": "1245"
+    },
+    {
+      "title": "Qigong for Afternoon Slumps: Gentle Movement and Breath",
+      "path": "/treatments/qigong-afternoon-energy/",
+      "type": "treatment",
+      "parent": "treatments",
+      "estimated_read_time": 7,
+      "keywords": [
+        "qigong afternoon energy",
+        "gentle movement breath"
+      ],
+      "id": "1246"
+    },
+    {
+      "title": "Five-Minute Acupressure for Screen-Related Eye Tension",
+      "path": "/treatments/acupressure-screen-eye-tension/",
+      "type": "treatment",
+      "parent": "treatments",
+      "estimated_read_time": 7,
+      "keywords": [
+        "acupressure eye tension",
+        "screen fatigue"
+      ],
+      "id": "1247"
     }
   ],
   "published": [
@@ -15746,6 +15853,20 @@
       ],
       "id": "1233",
       "published_at": "2026-10-30T20:57:16Z"
+    },
+    {
+      "title": "Qi as Your Body's Operating System: A Beginner's TCM Analogy",
+      "path": "/tcm-basics/qi-operating-system-tcm/",
+      "type": "basics",
+      "parent": "tcm-basics",
+      "estimated_read_time": 7,
+      "keywords": [
+        "what is qi",
+        "qi analogy",
+        "TCM basics"
+      ],
+      "id": "1234",
+      "published_at": "2026-10-31T03:13:25Z"
     }
   ]
 }
