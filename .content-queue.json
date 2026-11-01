@@ -1,18 +1,6 @@
 {
   "queue": [
     {
-      "title": "A TCM Morning Routine for Steady Energy",
-      "path": "/symptoms/fatigue/tcm-morning-routine-energy/",
-      "type": "cluster",
-      "parent": "fatigue",
-      "estimated_read_time": 6,
-      "keywords": [
-        "TCM morning routine",
-        "steady energy habits"
-      ],
-      "id": "1241"
-    },
-    {
       "title": "What Are the Eight Extraordinary Vessels in TCM?",
       "path": "/tcm-basics/eight-extraordinary-vessels-tcm/",
       "type": "tcm-basics",
@@ -15873,6 +15861,19 @@
       ],
       "id": "1240",
       "published_at": "2026-11-01T16:42:36Z"
+    },
+    {
+      "title": "A TCM Morning Routine for Steady Energy",
+      "path": "/symptoms/fatigue/tcm-morning-routine-energy/",
+      "type": "cluster",
+      "parent": "fatigue",
+      "estimated_read_time": 6,
+      "keywords": [
+        "TCM morning routine",
+        "steady energy habits"
+      ],
+      "id": "1241",
+      "published_at": "2026-11-01T22:54:27Z"
     }
   ]
 }
