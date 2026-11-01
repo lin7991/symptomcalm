@@ -1,18 +1,6 @@
 {
   "queue": [
     {
-      "title": "Cold Weather Fatigue in TCM: Why Winter Can Feel Heavy",
-      "path": "/symptoms/fatigue/cold-weather-fatigue-tcm/",
-      "type": "cluster",
-      "parent": "fatigue",
-      "estimated_read_time": 7,
-      "keywords": [
-        "winter fatigue TCM",
-        "Cold Dampness fatigue"
-      ],
-      "id": "1240"
-    },
-    {
       "title": "A TCM Morning Routine for Steady Energy",
       "path": "/symptoms/fatigue/tcm-morning-routine-energy/",
       "type": "cluster",
@@ -15872,6 +15860,19 @@
       ],
       "id": "1239",
       "published_at": "2026-11-01T10:17:18Z"
+    },
+    {
+      "title": "Cold Weather Fatigue in TCM: Why Winter Can Feel Heavy",
+      "path": "/symptoms/fatigue/cold-weather-fatigue-tcm/",
+      "type": "cluster",
+      "parent": "fatigue",
+      "estimated_read_time": 7,
+      "keywords": [
+        "winter fatigue TCM",
+        "Cold Dampness fatigue"
+      ],
+      "id": "1240",
+      "published_at": "2026-11-01T16:42:36Z"
     }
   ]
 }
