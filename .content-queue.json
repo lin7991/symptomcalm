@@ -1,18 +1,6 @@
 {
   "queue": [
     {
-      "title": "Moxibustion Basics: How Traditional Heat Therapy Is Framed",
-      "path": "/treatments/moxibustion-basics-tcm/",
-      "type": "treatment",
-      "parent": "treatments",
-      "estimated_read_time": 8,
-      "keywords": [
-        "moxibustion basics",
-        "traditional heat therapy"
-      ],
-      "id": "1245"
-    },
-    {
       "title": "Qigong for Afternoon Slumps: Gentle Movement and Breath",
       "path": "/treatments/qigong-afternoon-energy/",
       "type": "treatment",
@@ -16072,6 +16060,19 @@
       ],
       "id": "1244",
       "published_at": "2026-11-02T17:24:03Z"
+    },
+    {
+      "title": "Moxibustion Basics: How Traditional Heat Therapy Is Framed",
+      "path": "/treatments/moxibustion-basics-tcm/",
+      "type": "treatment",
+      "parent": "treatments",
+      "estimated_read_time": 8,
+      "keywords": [
+        "moxibustion basics",
+        "traditional heat therapy"
+      ],
+      "id": "1245",
+      "published_at": "2026-11-02T23:28:37Z"
     }
   ]
 }
