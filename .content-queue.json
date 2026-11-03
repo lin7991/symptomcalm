@@ -1,18 +1,6 @@
 {
   "queue": [
     {
-      "title": "Five-Minute Acupressure for Screen-Related Eye Tension",
-      "path": "/treatments/acupressure-screen-eye-tension/",
-      "type": "treatment",
-      "parent": "treatments",
-      "estimated_read_time": 7,
-      "keywords": [
-        "acupressure eye tension",
-        "screen fatigue"
-      ],
-      "id": "1247"
-    },
-    {
       "title": "Eczema Flare Patterns in TCM: A Skin Barrier Conversation",
       "path": "/symptoms/skin-conditions/eczema-flare-tcm/",
       "type": "cluster",
@@ -16074,6 +16062,19 @@
       ],
       "id": "1246",
       "published_at": "2026-11-03T05:33:57Z"
+    },
+    {
+      "title": "Five-Minute Acupressure for Screen-Related Eye Tension",
+      "path": "/treatments/acupressure-screen-eye-tension/",
+      "type": "treatment",
+      "parent": "treatments",
+      "estimated_read_time": 7,
+      "keywords": [
+        "acupressure eye tension",
+        "screen fatigue"
+      ],
+      "id": "1247",
+      "published_at": "2026-11-03T11:44:35Z"
     }
   ]
 }
