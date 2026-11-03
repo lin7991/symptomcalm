@@ -1,18 +1,6 @@
 {
   "queue": [
     {
-      "title": "Qigong for Afternoon Slumps: Gentle Movement and Breath",
-      "path": "/treatments/qigong-afternoon-energy/",
-      "type": "treatment",
-      "parent": "treatments",
-      "estimated_read_time": 7,
-      "keywords": [
-        "qigong afternoon energy",
-        "gentle movement breath"
-      ],
-      "id": "1246"
-    },
-    {
       "title": "Five-Minute Acupressure for Screen-Related Eye Tension",
       "path": "/treatments/acupressure-screen-eye-tension/",
       "type": "treatment",
@@ -16073,6 +16061,19 @@
       ],
       "id": "1245",
       "published_at": "2026-11-02T23:28:37Z"
+    },
+    {
+      "title": "Qigong for Afternoon Slumps: Gentle Movement and Breath",
+      "path": "/treatments/qigong-afternoon-energy/",
+      "type": "treatment",
+      "parent": "treatments",
+      "estimated_read_time": 7,
+      "keywords": [
+        "qigong afternoon energy",
+        "gentle movement breath"
+      ],
+      "id": "1246",
+      "published_at": "2026-11-03T05:33:57Z"
     }
   ]
 }
