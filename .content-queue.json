@@ -1,19 +1,6 @@
 {
   "queue": [
     {
-      "title": "Desk-Related Low Back Tension: A TCM Movement Map",
-      "path": "/symptoms/back-pain/desk-low-back-tension-tcm/",
-      "type": "cluster",
-      "parent": "back-pain",
-      "estimated_read_time": 7,
-      "keywords": [
-        "desk back tension TCM",
-        "low back stiffness sitting",
-        "TCM movement breaks"
-      ],
-      "id": "1250"
-    },
-    {
       "title": "Tongue Diagnosis in TCM: What Practitioners Observe and Why",
       "path": "/tcm-basics/tongue-diagnosis-tcm/",
       "type": "cluster",
@@ -16077,6 +16064,20 @@
       ],
       "id": "1249",
       "published_at": "2026-11-04T00:38:23Z"
+    },
+    {
+      "title": "Desk-Related Low Back Tension: A TCM Movement Map",
+      "path": "/symptoms/back-pain/desk-low-back-tension-tcm/",
+      "type": "cluster",
+      "parent": "back-pain",
+      "estimated_read_time": 7,
+      "keywords": [
+        "desk back tension TCM",
+        "low back stiffness sitting",
+        "TCM movement breaks"
+      ],
+      "id": "1250",
+      "published_at": "2026-11-04T06:53:20Z"
     }
   ]
 }
