@@ -1,19 +1,6 @@
 {
   "queue": [
     {
-      "title": "Tui Na for Foot and Ankle Tension: A Gentle Self-Massage Guide",
-      "path": "/treatments/tui-na-foot-ankle-tension/",
-      "type": "cluster",
-      "parent": "treatments",
-      "estimated_read_time": 7,
-      "keywords": [
-        "tui na foot massage",
-        "ankle tension self massage",
-        "TCM foot massage"
-      ],
-      "id": "1252"
-    },
-    {
       "title": "Qigong Breathing Basics: A Calm Introduction to Coordinated Movement",
       "path": "/treatments/qigong-breathing-basics/",
       "type": "cluster",
@@ -16079,6 +16066,20 @@
       ],
       "id": "1251",
       "published_at": "2026-11-04T13:12:12Z"
+    },
+    {
+      "title": "Tui Na for Foot and Ankle Tension: A Gentle Self-Massage Guide",
+      "path": "/treatments/tui-na-foot-ankle-tension/",
+      "type": "cluster",
+      "parent": "treatments",
+      "estimated_read_time": 7,
+      "keywords": [
+        "tui na foot massage",
+        "ankle tension self massage",
+        "TCM foot massage"
+      ],
+      "id": "1252",
+      "published_at": "2026-11-04T19:27:14Z"
     }
   ]
 }
