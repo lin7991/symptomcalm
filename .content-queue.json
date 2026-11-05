@@ -1,19 +1,6 @@
 {
   "queue": [
     {
-      "title": "Moxibustion and Menstrual Comfort: Traditional Heat, Modern Safety",
-      "path": "/treatments/moxibustion-menstrual-comfort/",
-      "type": "cluster",
-      "parent": "treatments",
-      "estimated_read_time": 8,
-      "keywords": [
-        "moxibustion menstrual comfort",
-        "TCM heat therapy period",
-        "moxibustion safety"
-      ],
-      "id": "1256"
-    },
-    {
       "title": "Presentation Anxiety Through a TCM Lens: Breath, Focus, and Grounding",
       "path": "/symptoms/anxiety/presentation-anxiety-tcm/",
       "type": "cluster",
@@ -16083,6 +16070,20 @@
       ],
       "id": "1255",
       "published_at": "2026-11-05T13:54:34Z"
+    },
+    {
+      "title": "Moxibustion and Menstrual Comfort: Traditional Heat, Modern Safety",
+      "path": "/treatments/moxibustion-menstrual-comfort/",
+      "type": "cluster",
+      "parent": "treatments",
+      "estimated_read_time": 8,
+      "keywords": [
+        "moxibustion menstrual comfort",
+        "TCM heat therapy period",
+        "moxibustion safety"
+      ],
+      "id": "1256",
+      "published_at": "2026-11-05T20:02:06Z"
     }
   ]
 }
