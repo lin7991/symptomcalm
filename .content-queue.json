@@ -1,19 +1,6 @@
 {
   "queue": [
     {
-      "title": "Qigong Breathing Basics: A Calm Introduction to Coordinated Movement",
-      "path": "/treatments/qigong-breathing-basics/",
-      "type": "cluster",
-      "parent": "treatments",
-      "estimated_read_time": 7,
-      "keywords": [
-        "qigong breathing basics",
-        "beginner qigong",
-        "breath coordinated movement"
-      ],
-      "id": "1253"
-    },
-    {
       "title": "Acupressure for Jet Lag: A Gentle Rhythm Reset Routine",
       "path": "/treatments/acupressure-jet-lag-tcm/",
       "type": "cluster",
@@ -16080,6 +16067,20 @@
       ],
       "id": "1252",
       "published_at": "2026-11-04T19:27:14Z"
+    },
+    {
+      "title": "Qigong Breathing Basics: A Calm Introduction to Coordinated Movement",
+      "path": "/treatments/qigong-breathing-basics/",
+      "type": "cluster",
+      "parent": "treatments",
+      "estimated_read_time": 7,
+      "keywords": [
+        "qigong breathing basics",
+        "beginner qigong",
+        "breath coordinated movement"
+      ],
+      "id": "1253",
+      "published_at": "2026-11-05T01:38:56Z"
     }
   ]
 }
