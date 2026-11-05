@@ -1,19 +1,6 @@
 {
   "queue": [
     {
-      "title": "Herbal Steam for Nasal Comfort: A Safety-First TCM Guide",
-      "path": "/treatments/herbal-steam-nasal-comfort/",
-      "type": "cluster",
-      "parent": "treatments",
-      "estimated_read_time": 7,
-      "keywords": [
-        "herbal steam nasal comfort",
-        "TCM steam inhalation",
-        "nasal comfort safety"
-      ],
-      "id": "1255"
-    },
-    {
       "title": "Moxibustion and Menstrual Comfort: Traditional Heat, Modern Safety",
       "path": "/treatments/moxibustion-menstrual-comfort/",
       "type": "cluster",
@@ -16082,6 +16069,20 @@
       ],
       "id": "1254",
       "published_at": "2026-11-05T07:47:22Z"
+    },
+    {
+      "title": "Herbal Steam for Nasal Comfort: A Safety-First TCM Guide",
+      "path": "/treatments/herbal-steam-nasal-comfort/",
+      "type": "cluster",
+      "parent": "treatments",
+      "estimated_read_time": 7,
+      "keywords": [
+        "herbal steam nasal comfort",
+        "TCM steam inhalation",
+        "nasal comfort safety"
+      ],
+      "id": "1255",
+      "published_at": "2026-11-05T13:54:34Z"
     }
   ]
 }
