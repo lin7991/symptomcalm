@@ -1,19 +1,6 @@
 {
   "queue": [
     {
-      "title": "Gua Sha for Upper-Back Tightness: A Gentle Home Guide",
-      "path": "/treatments/gua-sha-upper-back-tension/",
-      "type": "cluster",
-      "parent": "treatments",
-      "estimated_read_time": 7,
-      "keywords": [
-        "gua sha upper back",
-        "upper back tension massage",
-        "TCM gua sha safety"
-      ],
-      "id": "1259"
-    },
-    {
       "title": "Cold Feet Through a TCM Lens: Warmth, Circulation, and Context",
       "path": "/symptoms/joint-pain/cold-feet-tcm/",
       "type": "cluster",
@@ -51,6 +38,201 @@
         "attention recovery"
       ],
       "id": "1262"
+    },
+    {
+      "title": "Jaw Clenching During the Workday: A TCM Lens on Tension and Pauses",
+      "path": "/symptoms/stress/workday-jaw-clenching-tcm/",
+      "type": "cluster",
+      "parent": "stress",
+      "estimated_read_time": 7,
+      "keywords": [
+        "workday jaw clenching",
+        "jaw tension stress",
+        "TCM jaw tension"
+      ],
+      "id": "1263"
+    },
+    {
+      "title": "Why Your Shoulders Creep Up While You Work: A TCM Movement Map",
+      "path": "/symptoms/joint-pain/shoulders-creep-up-desk-tcm/",
+      "type": "cluster",
+      "parent": "joint-pain",
+      "estimated_read_time": 7,
+      "keywords": [
+        "shoulders tense at desk",
+        "desk shoulder tension",
+        "TCM shoulder movement"
+      ],
+      "id": "1264"
+    },
+    {
+      "title": "The Wired-but-Tired Evening: A TCM Perspective on Unwinding",
+      "path": "/symptoms/stress/wired-tired-evening-tcm/",
+      "type": "cluster",
+      "parent": "stress",
+      "estimated_read_time": 8,
+      "keywords": [
+        "wired but tired evening",
+        "evening stress wind down",
+        "TCM evening routine"
+      ],
+      "id": "1265"
+    },
+    {
+      "title": "A TCM-Inspired Reset for Long Video Calls: Eyes, Breath, and Posture",
+      "path": "/symptoms/eye-health/video-call-eye-fatigue-tcm/",
+      "type": "cluster",
+      "parent": "eye-health",
+      "estimated_read_time": 7,
+      "keywords": [
+        "video call eye fatigue",
+        "virtual meeting eye strain",
+        "TCM eye comfort"
+      ],
+      "id": "1266"
+    },
+    {
+      "title": "Why Your Hands Feel Cold at a Desk: A TCM Context Guide",
+      "path": "/symptoms/joint-pain/cold-hands-at-desk-tcm/",
+      "type": "cluster",
+      "parent": "joint-pain",
+      "estimated_read_time": 7,
+      "keywords": [
+        "cold hands at desk",
+        "cold fingers office",
+        "TCM warmth circulation"
+      ],
+      "id": "1267"
+    },
+    {
+      "title": "Travel-Day Neck Stiffness: A TCM Movement and Comfort Map",
+      "path": "/symptoms/joint-pain/travel-day-neck-stiffness-tcm/",
+      "type": "cluster",
+      "parent": "joint-pain",
+      "estimated_read_time": 7,
+      "keywords": [
+        "neck stiffness travel",
+        "travel neck tension",
+        "TCM neck movement"
+      ],
+      "id": "1268"
+    },
+    {
+      "title": "The Sunday-Night Mental Loop: A TCM Perspective on Anticipatory Stress",
+      "path": "/symptoms/stress/sunday-night-stress-tcm/",
+      "type": "cluster",
+      "parent": "stress",
+      "estimated_read_time": 8,
+      "keywords": [
+        "Sunday night stress",
+        "workweek anticipation anxiety",
+        "TCM stress patterns"
+      ],
+      "id": "1269"
+    },
+    {
+      "title": "After-Lunch Sleepiness: A TCM Lens on Meal Rhythm and Energy",
+      "path": "/symptoms/fatigue/after-lunch-sleepiness-tcm/",
+      "type": "cluster",
+      "parent": "fatigue",
+      "estimated_read_time": 8,
+      "keywords": [
+        "sleepy after lunch",
+        "post lunch energy dip",
+        "TCM digestion energy"
+      ],
+      "id": "1270"
+    },
+    {
+      "title": "When Your Voice Feels Tired After Talking: A TCM-Informed Care Map",
+      "path": "/symptoms/respiratory-health/voice-fatigue-after-talking-tcm/",
+      "type": "cluster",
+      "parent": "respiratory-health",
+      "estimated_read_time": 7,
+      "keywords": [
+        "voice tired after talking",
+        "vocal fatigue",
+        "TCM voice care"
+      ],
+      "id": "1271"
+    },
+    {
+      "title": "A TCM Perspective on Restless Legs at Bedtime: Signals, Safety, and Sleep",
+      "path": "/symptoms/insomnia/restless-legs-bedtime-tcm/",
+      "type": "cluster",
+      "parent": "insomnia",
+      "estimated_read_time": 8,
+      "keywords": [
+        "restless legs bedtime",
+        "night leg restlessness",
+        "TCM sleep comfort"
+      ],
+      "id": "1272"
+    },
+    {
+      "title": "Why Your Skin Feels Itchy After a Hot Shower: A TCM Pattern Map",
+      "path": "/symptoms/skin-conditions/itchy-skin-after-hot-shower-tcm/",
+      "type": "cluster",
+      "parent": "skin-conditions",
+      "estimated_read_time": 7,
+      "keywords": [
+        "itchy skin after hot shower",
+        "post shower itching",
+        "TCM skin dryness"
+      ],
+      "id": "1273"
+    },
+    {
+      "title": "Seasonal Transitions in TCM: A Practical Guide to Changing Routines",
+      "path": "/tcm-basics/seasonal-transition-routines-tcm/",
+      "type": "cluster",
+      "parent": "tcm-basics",
+      "estimated_read_time": 8,
+      "keywords": [
+        "seasonal transitions TCM",
+        "seasonal routine changes",
+        "five elements seasons"
+      ],
+      "id": "1274"
+    },
+    {
+      "title": "What Is a TCM Pattern? A Beginner's Guide to the Diagnostic Map",
+      "path": "/tcm-basics/tcm-pattern-identification-explained/",
+      "type": "cluster",
+      "parent": "tcm-basics",
+      "estimated_read_time": 8,
+      "keywords": [
+        "TCM patterns explained",
+        "pattern identification TCM",
+        "TCM diagnosis framework"
+      ],
+      "id": "1275"
+    },
+    {
+      "title": "Gua Sha for Forearm Tension: A Gentle, Safety-First Guide",
+      "path": "/treatments/gua-sha-forearm-tension/",
+      "type": "cluster",
+      "parent": "treatments",
+      "estimated_read_time": 7,
+      "keywords": [
+        "gua sha forearm tension",
+        "forearm self massage",
+        "gua sha safety"
+      ],
+      "id": "1276"
+    },
+    {
+      "title": "A Beginner's Guide to Acupressure Pressure: How Gentle Is Gentle?",
+      "path": "/treatments/acupressure-pressure-guide/",
+      "type": "cluster",
+      "parent": "treatments",
+      "estimated_read_time": 7,
+      "keywords": [
+        "acupressure pressure how much",
+        "safe acupressure pressure",
+        "acupressure beginner guide"
+      ],
+      "id": "1277"
     }
   ],
   "published": [
@@ -16086,6 +16268,20 @@
       ],
       "id": "1258",
       "published_at": "2026-11-06T14:28:02Z"
+    },
+    {
+      "title": "Gua Sha for Upper-Back Tightness: A Gentle Home Guide",
+      "path": "/treatments/gua-sha-upper-back-tension/",
+      "type": "cluster",
+      "parent": "treatments",
+      "estimated_read_time": 7,
+      "keywords": [
+        "gua sha upper back",
+        "upper back tension massage",
+        "TCM gua sha safety"
+      ],
+      "id": "1259",
+      "published_at": "2026-11-06T21:19:43Z"
     }
   ]
 }
