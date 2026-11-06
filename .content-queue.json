@@ -1,19 +1,6 @@
 {
   "queue": [
     {
-      "title": "The Five Elements and Seasonal Living: A TCM Beginner’s Map",
-      "path": "/tcm-basics/five-elements-seasonal-living-tcm/",
-      "type": "cluster",
-      "parent": "tcm-basics",
-      "estimated_read_time": 8,
-      "keywords": [
-        "five elements seasonal living",
-        "TCM elements explained",
-        "seasonal TCM basics"
-      ],
-      "id": "1258"
-    },
-    {
       "title": "Gua Sha for Upper-Back Tightness: A Gentle Home Guide",
       "path": "/treatments/gua-sha-upper-back-tension/",
       "type": "cluster",
@@ -16085,6 +16072,20 @@
       ],
       "id": "1257",
       "published_at": "2026-11-06T02:08:54Z"
+    },
+    {
+      "title": "The Five Elements and Seasonal Living: A TCM Beginner’s Map",
+      "path": "/tcm-basics/five-elements-seasonal-living-tcm/",
+      "type": "cluster",
+      "parent": "tcm-basics",
+      "estimated_read_time": 8,
+      "keywords": [
+        "five elements seasonal living",
+        "TCM elements explained",
+        "seasonal TCM basics"
+      ],
+      "id": "1258",
+      "published_at": "2026-11-06T14:28:02Z"
     }
   ]
 }
