@@ -1,19 +1,6 @@
 {
   "queue": [
     {
-      "title": "Inbox Overload Through a TCM Lens: Attention, Tension, and Recovery",
-      "path": "/symptoms/stress/inbox-overload-tcm/",
-      "type": "cluster",
-      "parent": "stress",
-      "estimated_read_time": 8,
-      "keywords": [
-        "inbox overload stress",
-        "email stress TCM",
-        "attention recovery"
-      ],
-      "id": "1262"
-    },
-    {
       "title": "Jaw Clenching During the Workday: A TCM Lens on Tension and Pauses",
       "path": "/symptoms/stress/workday-jaw-clenching-tcm/",
       "type": "cluster",
@@ -16284,6 +16271,20 @@
       ],
       "id": "1261",
       "published_at": "2026-11-07T09:42:00Z"
+    },
+    {
+      "title": "Inbox Overload Through a TCM Lens: Attention, Tension, and Recovery",
+      "path": "/symptoms/stress/inbox-overload-tcm/",
+      "type": "cluster",
+      "parent": "stress",
+      "estimated_read_time": 8,
+      "keywords": [
+        "inbox overload stress",
+        "email stress TCM",
+        "attention recovery"
+      ],
+      "id": "1262",
+      "published_at": "2026-11-07T16:00:17Z"
     }
   ]
 }
