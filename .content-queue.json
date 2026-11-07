@@ -1,19 +1,6 @@
 {
   "queue": [
     {
-      "title": "Cold Feet Through a TCM Lens: Warmth, Circulation, and Context",
-      "path": "/symptoms/joint-pain/cold-feet-tcm/",
-      "type": "cluster",
-      "parent": "joint-pain",
-      "estimated_read_time": 7,
-      "keywords": [
-        "cold feet TCM",
-        "foot circulation perspective",
-        "TCM cold pattern"
-      ],
-      "id": "1260"
-    },
-    {
       "title": "Knee Tension on Stairs: A TCM Movement Map",
       "path": "/symptoms/joint-pain/stairs-knee-tension-tcm/",
       "type": "cluster",
@@ -16282,6 +16269,20 @@
       ],
       "id": "1259",
       "published_at": "2026-11-06T21:19:43Z"
+    },
+    {
+      "title": "Cold Feet Through a TCM Lens: Warmth, Circulation, and Context",
+      "path": "/symptoms/joint-pain/cold-feet-tcm/",
+      "type": "cluster",
+      "parent": "joint-pain",
+      "estimated_read_time": 7,
+      "keywords": [
+        "cold feet TCM",
+        "foot circulation perspective",
+        "TCM cold pattern"
+      ],
+      "id": "1260",
+      "published_at": "2026-11-07T03:28:21Z"
     }
   ]
 }
