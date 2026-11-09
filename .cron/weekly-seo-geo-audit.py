@@ -63,7 +63,7 @@ def page_info(path):
     h1=re.findall(r'<h1\b[^>]*>(.*?)</h1>',t,re.I|re.S)
     body=re.sub(r'<(script|style|nav|footer|header)\b.*?</\1>',' ',t,flags=re.I|re.S)
     words=len(re.findall(r"\b[A-Za-z][A-Za-z'-]*\b",text_only(body)))
-    noindex=bool(re.search(r'<meta\b[^>]*name=["\']robots["\'][^>]*content=["\'][^"\']*noindex',t,re.I))
+    noindex=bool(re.search(r"<meta\b[^>]*\bname=[\"']robots[\"'][^>]*\bcontent=[\"'][^\"']*\bnoindex\b",t,re.I) or re.search(r"<meta\b[^>]*\bcontent=[\"'][^\"']*\bnoindex\b[^\"']*[\"'][^>]*\bname=[\"']robots[\"']",t,re.I))
     refresh=bool(re.search(r'<meta\b[^>]*http-equiv=["\']refresh["\']',t,re.I))
     lang=first(r'<html\b[^>]*lang=["\']([^"\']+)',t)
     types=re.findall(r'"@type"\s*:\s*"([^"]+)"',t)
