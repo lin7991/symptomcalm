@@ -1,19 +1,6 @@
 {
   "queue": [
     {
-      "title": "The Wired-but-Tired Evening: A TCM Perspective on Unwinding",
-      "path": "/symptoms/stress/wired-tired-evening-tcm/",
-      "type": "cluster",
-      "parent": "stress",
-      "estimated_read_time": 8,
-      "keywords": [
-        "wired but tired evening",
-        "evening stress wind down",
-        "TCM evening routine"
-      ],
-      "id": "1265"
-    },
-    {
       "title": "A TCM-Inspired Reset for Long Video Calls: Eyes, Breath, and Posture",
       "path": "/symptoms/eye-health/video-call-eye-fatigue-tcm/",
       "type": "cluster",
@@ -16287,6 +16274,20 @@
       ],
       "id": "1264",
       "published_at": "2026-11-09T09:03:16Z"
+    },
+    {
+      "title": "The Wired-but-Tired Evening: A TCM Perspective on Unwinding",
+      "path": "/symptoms/stress/wired-tired-evening-tcm/",
+      "type": "cluster",
+      "parent": "stress",
+      "estimated_read_time": 8,
+      "keywords": [
+        "wired but tired evening",
+        "evening stress wind down",
+        "TCM evening routine"
+      ],
+      "id": "1265",
+      "published_at": "2026-11-09T15:37:26Z"
     }
   ]
 }
