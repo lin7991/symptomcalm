@@ -1,19 +1,6 @@
 {
   "queue": [
     {
-      "title": "Jaw Clenching During the Workday: A TCM Lens on Tension and Pauses",
-      "path": "/symptoms/stress/workday-jaw-clenching-tcm/",
-      "type": "cluster",
-      "parent": "stress",
-      "estimated_read_time": 7,
-      "keywords": [
-        "workday jaw clenching",
-        "jaw tension stress",
-        "TCM jaw tension"
-      ],
-      "id": "1263"
-    },
-    {
       "title": "Why Your Shoulders Creep Up While You Work: A TCM Movement Map",
       "path": "/symptoms/joint-pain/shoulders-creep-up-desk-tcm/",
       "type": "cluster",
@@ -16285,6 +16272,20 @@
       ],
       "id": "1262",
       "published_at": "2026-11-07T16:00:17Z"
+    },
+    {
+      "title": "Jaw Clenching During the Workday: A TCM Lens on Tension and Pauses",
+      "path": "/symptoms/stress/workday-jaw-clenching-tcm/",
+      "type": "cluster",
+      "parent": "stress",
+      "estimated_read_time": 7,
+      "keywords": [
+        "workday jaw clenching",
+        "jaw tension stress",
+        "TCM jaw tension"
+      ],
+      "id": "1263",
+      "published_at": "2026-11-09T02:44:31Z"
     }
   ]
 }
