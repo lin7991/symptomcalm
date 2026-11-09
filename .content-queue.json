@@ -1,19 +1,6 @@
 {
   "queue": [
     {
-      "title": "Why Your Shoulders Creep Up While You Work: A TCM Movement Map",
-      "path": "/symptoms/joint-pain/shoulders-creep-up-desk-tcm/",
-      "type": "cluster",
-      "parent": "joint-pain",
-      "estimated_read_time": 7,
-      "keywords": [
-        "shoulders tense at desk",
-        "desk shoulder tension",
-        "TCM shoulder movement"
-      ],
-      "id": "1264"
-    },
-    {
       "title": "The Wired-but-Tired Evening: A TCM Perspective on Unwinding",
       "path": "/symptoms/stress/wired-tired-evening-tcm/",
       "type": "cluster",
@@ -16286,6 +16273,20 @@
       ],
       "id": "1263",
       "published_at": "2026-11-09T02:44:31Z"
+    },
+    {
+      "title": "Why Your Shoulders Creep Up While You Work: A TCM Movement Map",
+      "path": "/symptoms/joint-pain/shoulders-creep-up-desk-tcm/",
+      "type": "cluster",
+      "parent": "joint-pain",
+      "estimated_read_time": 7,
+      "keywords": [
+        "shoulders tense at desk",
+        "desk shoulder tension",
+        "TCM shoulder movement"
+      ],
+      "id": "1264",
+      "published_at": "2026-11-09T09:03:16Z"
     }
   ]
 }
