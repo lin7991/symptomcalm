@@ -1,6 +1,6 @@
 #!/bin/bash
-# SymptomCalm auto-publisher — fired twice daily at 00:05 and 06:05
-# Generates EN + ZH articles, publishes, then runs deterministic SEO post-processing.
+# SymptomCalm auto-publisher — fired Monday, Wednesday, and Friday at 06:05
+# Generates one EN + ZH article pair per cycle, then runs deterministic SEO post-processing.
 
 export HERMES_HOME="$HOME/.hermes"
 export PATH="/usr/local/bin:/opt/homebrew/bin:$HOME/.local/bin:$PATH"
