@@ -1,19 +1,6 @@
 {
   "queue": [
     {
-      "title": "The Sunday-Night Mental Loop: A TCM Perspective on Anticipatory Stress",
-      "path": "/symptoms/stress/sunday-night-stress-tcm/",
-      "type": "cluster",
-      "parent": "stress",
-      "estimated_read_time": 8,
-      "keywords": [
-        "Sunday night stress",
-        "workweek anticipation anxiety",
-        "TCM stress patterns"
-      ],
-      "id": "1269"
-    },
-    {
       "title": "After-Lunch Sleepiness: A TCM Lens on Meal Rhythm and Energy",
       "path": "/symptoms/fatigue/after-lunch-sleepiness-tcm/",
       "type": "cluster",
@@ -16291,6 +16278,20 @@
       ],
       "id": "1268",
       "published_at": "2026-11-10T11:04:37Z"
+    },
+    {
+      "title": "The Sunday-Night Mental Loop: A TCM Perspective on Anticipatory Stress",
+      "path": "/symptoms/stress/sunday-night-stress-tcm/",
+      "type": "cluster",
+      "parent": "stress",
+      "estimated_read_time": 8,
+      "keywords": [
+        "Sunday night stress",
+        "workweek anticipation anxiety",
+        "TCM stress patterns"
+      ],
+      "id": "1269",
+      "published_at": "2026-11-10T17:19:01Z"
     }
   ]
 }
