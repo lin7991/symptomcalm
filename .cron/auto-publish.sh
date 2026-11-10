@@ -113,6 +113,19 @@ echo "$(date): Queue $QUEUE_BEFORE -> $QUEUE_AFTER (published)" >> "$HOME/sympto
 # create noisy commits, and can mix unrelated repairs into an article release.
 # RSS and sitemap are rebuilt below from the resulting filesystem.
 
+# Require a real EN + ZH pair before rebuilding derived files or committing.
+ARTICLE_PATH=$(python3 - <<'PY'
+import json
+with open('.content-queue.json', encoding='utf-8') as f:
+    print(json.load(f)['published'][-1]['path'])
+PY
+)
+if ! python3 .cron/ensure-publish-pair.py "$ARTICLE_PATH" >> "$HOME/symptomcalm/.cron/publish.log" 2>&1; then
+  echo "$(date): EN/ZH PAIR GATE FAILED — rolling back cycle" >> "$HOME/symptomcalm/.cron/publish.log"
+  rollback_run
+  exit 1
+fi
+
 # RSS is a single derived file and is safe to rebuild after the page writes.
 python3 .cron/gen-rss.py >> "$HOME/symptomcalm/.cron/publish.log" 2>&1
 python3 .cron/rebuild-sitemap.py >> "$HOME/symptomcalm/.cron/publish.log" 2>&1
