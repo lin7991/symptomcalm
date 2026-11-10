@@ -1,19 +1,6 @@
 {
   "queue": [
     {
-      "title": "Why Your Hands Feel Cold at a Desk: A TCM Context Guide",
-      "path": "/symptoms/joint-pain/cold-hands-at-desk-tcm/",
-      "type": "cluster",
-      "parent": "joint-pain",
-      "estimated_read_time": 7,
-      "keywords": [
-        "cold hands at desk",
-        "cold fingers office",
-        "TCM warmth circulation"
-      ],
-      "id": "1267"
-    },
-    {
       "title": "Travel-Day Neck Stiffness: A TCM Movement and Comfort Map",
       "path": "/symptoms/joint-pain/travel-day-neck-stiffness-tcm/",
       "type": "cluster",
@@ -16289,6 +16276,20 @@
       ],
       "id": "1266",
       "published_at": "2026-11-09T22:10:23Z"
+    },
+    {
+      "title": "Why Your Hands Feel Cold at a Desk: A TCM Context Guide",
+      "path": "/symptoms/joint-pain/cold-hands-at-desk-tcm/",
+      "type": "cluster",
+      "parent": "joint-pain",
+      "estimated_read_time": 7,
+      "keywords": [
+        "cold hands at desk",
+        "cold fingers office",
+        "TCM warmth circulation"
+      ],
+      "id": "1267",
+      "published_at": "2026-11-10T04:50:49Z"
     }
   ]
 }
