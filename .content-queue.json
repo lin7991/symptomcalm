@@ -1,19 +1,6 @@
 {
   "queue": [
     {
-      "title": "Travel-Day Neck Stiffness: A TCM Movement and Comfort Map",
-      "path": "/symptoms/joint-pain/travel-day-neck-stiffness-tcm/",
-      "type": "cluster",
-      "parent": "joint-pain",
-      "estimated_read_time": 7,
-      "keywords": [
-        "neck stiffness travel",
-        "travel neck tension",
-        "TCM neck movement"
-      ],
-      "id": "1268"
-    },
-    {
       "title": "The Sunday-Night Mental Loop: A TCM Perspective on Anticipatory Stress",
       "path": "/symptoms/stress/sunday-night-stress-tcm/",
       "type": "cluster",
@@ -16290,6 +16277,20 @@
       ],
       "id": "1267",
       "published_at": "2026-11-10T04:50:49Z"
+    },
+    {
+      "title": "Travel-Day Neck Stiffness: A TCM Movement and Comfort Map",
+      "path": "/symptoms/joint-pain/travel-day-neck-stiffness-tcm/",
+      "type": "cluster",
+      "parent": "joint-pain",
+      "estimated_read_time": 7,
+      "keywords": [
+        "neck stiffness travel",
+        "travel neck tension",
+        "TCM neck movement"
+      ],
+      "id": "1268",
+      "published_at": "2026-11-10T11:04:37Z"
     }
   ]
 }
