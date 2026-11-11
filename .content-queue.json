@@ -1,19 +1,6 @@
 {
   "queue": [
     {
-      "title": "A TCM Perspective on Restless Legs at Bedtime: Signals, Safety, and Sleep",
-      "path": "/symptoms/insomnia/restless-legs-bedtime-tcm/",
-      "type": "cluster",
-      "parent": "insomnia",
-      "estimated_read_time": 8,
-      "keywords": [
-        "restless legs bedtime",
-        "night leg restlessness",
-        "TCM sleep comfort"
-      ],
-      "id": "1272"
-    },
-    {
       "title": "Why Your Skin Feels Itchy After a Hot Shower: A TCM Pattern Map",
       "path": "/symptoms/skin-conditions/itchy-skin-after-hot-shower-tcm/",
       "type": "cluster",
@@ -16294,6 +16281,20 @@
       ],
       "id": "1271",
       "published_at": "2026-11-11T12:02:20Z"
+    },
+    {
+      "title": "A TCM Perspective on Restless Legs at Bedtime: Signals, Safety, and Sleep",
+      "path": "/symptoms/insomnia/restless-legs-bedtime-tcm/",
+      "type": "cluster",
+      "parent": "insomnia",
+      "estimated_read_time": 8,
+      "keywords": [
+        "restless legs bedtime",
+        "night leg restlessness",
+        "TCM sleep comfort"
+      ],
+      "id": "1272",
+      "published_at": "2026-11-11T18:13:57Z"
     }
   ]
 }
