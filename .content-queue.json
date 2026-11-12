@@ -1,19 +1,6 @@
 {
   "queue": [
     {
-      "title": "Why Your Skin Feels Itchy After a Hot Shower: A TCM Pattern Map",
-      "path": "/symptoms/skin-conditions/itchy-skin-after-hot-shower-tcm/",
-      "type": "cluster",
-      "parent": "skin-conditions",
-      "estimated_read_time": 7,
-      "keywords": [
-        "itchy skin after hot shower",
-        "post shower itching",
-        "TCM skin dryness"
-      ],
-      "id": "1273"
-    },
-    {
       "title": "Seasonal Transitions in TCM: A Practical Guide to Changing Routines",
       "path": "/tcm-basics/seasonal-transition-routines-tcm/",
       "type": "cluster",
@@ -16295,6 +16282,20 @@
       ],
       "id": "1272",
       "published_at": "2026-11-11T18:13:57Z"
+    },
+    {
+      "title": "Why Your Skin Feels Itchy After a Hot Shower: A TCM Pattern Map",
+      "path": "/symptoms/skin-conditions/itchy-skin-after-hot-shower-tcm/",
+      "type": "cluster",
+      "parent": "skin-conditions",
+      "estimated_read_time": 7,
+      "keywords": [
+        "itchy skin after hot shower",
+        "post shower itching",
+        "TCM skin dryness"
+      ],
+      "id": "1273",
+      "published_at": "2026-11-12T00:29:49Z"
     }
   ]
 }
