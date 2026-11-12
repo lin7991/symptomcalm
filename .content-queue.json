@@ -1,19 +1,6 @@
 {
   "queue": [
     {
-      "title": "Seasonal Transitions in TCM: A Practical Guide to Changing Routines",
-      "path": "/tcm-basics/seasonal-transition-routines-tcm/",
-      "type": "cluster",
-      "parent": "tcm-basics",
-      "estimated_read_time": 8,
-      "keywords": [
-        "seasonal transitions TCM",
-        "seasonal routine changes",
-        "five elements seasons"
-      ],
-      "id": "1274"
-    },
-    {
       "title": "What Is a TCM Pattern? A Beginner's Guide to the Diagnostic Map",
       "path": "/tcm-basics/tcm-pattern-identification-explained/",
       "type": "cluster",
@@ -51,6 +38,201 @@
         "acupressure beginner guide"
       ],
       "id": "1277"
+    },
+    {
+      "title": "TCM and the Body's Adaptation to Time Zones: A Rhythm Guide",
+      "path": "/tcm-basics/time-zone-adjustment-tcm/",
+      "type": "cluster",
+      "parent": "tcm-basics",
+      "estimated_read_time": 7,
+      "keywords": [
+        "TCM time zones",
+        "body clock",
+        "travel rhythm"
+      ],
+      "id": "1278"
+    },
+    {
+      "title": "What Is Defensive Qi? A Beginner's Guide to the Body's Outer Boundary",
+      "path": "/tcm-basics/defensive-qi-explained-tcm/",
+      "type": "cluster",
+      "parent": "tcm-basics",
+      "estimated_read_time": 7,
+      "keywords": [
+        "defensive qi",
+        "wei qi",
+        "TCM immunity"
+      ],
+      "id": "1279"
+    },
+    {
+      "title": "TCM and the Five Tastes: How Flavor Becomes a Food Map",
+      "path": "/tcm-basics/five-tastes-food-map-tcm/",
+      "type": "cluster",
+      "parent": "tcm-basics",
+      "estimated_read_time": 7,
+      "keywords": [
+        "five tastes TCM",
+        "food energetics",
+        "TCM diet"
+      ],
+      "id": "1280"
+    },
+    {
+      "title": "What Is Blood Stasis in TCM? A Clear, Non-Mystical Explanation",
+      "path": "/tcm-basics/blood-stasis-explained-tcm/",
+      "type": "cluster",
+      "parent": "tcm-basics",
+      "estimated_read_time": 7,
+      "keywords": [
+        "blood stasis TCM",
+        "TCM patterns",
+        "circulation"
+      ],
+      "id": "1281"
+    },
+    {
+      "title": "The TCM View of Rest: Why Recovery Is More Than Sleep",
+      "path": "/tcm-basics/rest-and-recovery-tcm/",
+      "type": "cluster",
+      "parent": "tcm-basics",
+      "estimated_read_time": 6,
+      "keywords": [
+        "TCM rest",
+        "recovery",
+        "yin yang"
+      ],
+      "id": "1282"
+    },
+    {
+      "title": "Gua Sha for Calf Tightness: A Gentle, Safety-First Guide",
+      "path": "/treatments/gua-sha-calf-tightness/",
+      "type": "cluster",
+      "parent": "treatments",
+      "estimated_read_time": 7,
+      "keywords": [
+        "gua sha calf",
+        "calf tension",
+        "self-care"
+      ],
+      "id": "1283"
+    },
+    {
+      "title": "Gua Sha for Hand and Finger Tension: A Practical Home Guide",
+      "path": "/treatments/gua-sha-hand-tension-tcm/",
+      "type": "cluster",
+      "parent": "treatments",
+      "estimated_read_time": 7,
+      "keywords": [
+        "gua sha hands",
+        "finger tension",
+        "desk hands"
+      ],
+      "id": "1284"
+    },
+    {
+      "title": "Acupressure for Morning Alertness: A Gentle Routine for Getting Started",
+      "path": "/treatments/acupressure-morning-alertness-tcm/",
+      "type": "cluster",
+      "parent": "treatments",
+      "estimated_read_time": 7,
+      "keywords": [
+        "morning acupressure",
+        "alertness routine",
+        "TCM points"
+      ],
+      "id": "1285"
+    },
+    {
+      "title": "Qigong for Desk Breaks: A Five-Minute Movement Reset",
+      "path": "/treatments/qigong-desk-breaks-tcm/",
+      "type": "cluster",
+      "parent": "treatments",
+      "estimated_read_time": 6,
+      "keywords": [
+        "desk qigong",
+        "movement break",
+        "qigong routine"
+      ],
+      "id": "1286"
+    },
+    {
+      "title": "Warm Compress for Lower-Back Comfort: A Safety-First TCM Guide",
+      "path": "/treatments/warm-compress-lower-back-tcm/",
+      "type": "cluster",
+      "parent": "treatments",
+      "estimated_read_time": 7,
+      "keywords": [
+        "warm compress back",
+        "lower back comfort",
+        "TCM heat"
+      ],
+      "id": "1287"
+    },
+    {
+      "title": "A TCM-Inspired Evening Foot Routine for Busy Minds",
+      "path": "/treatments/foot-soak-busy-mind-tcm/",
+      "type": "cluster",
+      "parent": "treatments",
+      "estimated_read_time": 6,
+      "keywords": [
+        "foot soak evening",
+        "busy mind",
+        "bedtime routine"
+      ],
+      "id": "1288"
+    },
+    {
+      "title": "Why Your Ears Feel Full on Flights: A TCM Context Guide",
+      "path": "/symptoms/ear-health-tinnitus/flight-ear-pressure-tcm/",
+      "type": "cluster",
+      "parent": "ear-health-tinnitus",
+      "estimated_read_time": 7,
+      "keywords": [
+        "flight ear pressure",
+        "ear fullness",
+        "travel"
+      ],
+      "id": "1289"
+    },
+    {
+      "title": "A TCM Perspective on Tight Calves After Sitting",
+      "path": "/symptoms/joint-pain/tight-calves-after-sitting-tcm/",
+      "type": "cluster",
+      "parent": "joint-pain",
+      "estimated_read_time": 7,
+      "keywords": [
+        "tight calves sitting",
+        "leg tension",
+        "movement"
+      ],
+      "id": "1290"
+    },
+    {
+      "title": "Why Your Nose Feels Dry Indoors: A TCM-Informed Comfort Map",
+      "path": "/symptoms/respiratory-health/indoor-dry-nose-tcm/",
+      "type": "cluster",
+      "parent": "respiratory-health",
+      "estimated_read_time": 7,
+      "keywords": [
+        "dry nose indoors",
+        "heating air",
+        "TCM respiratory comfort"
+      ],
+      "id": "1291"
+    },
+    {
+      "title": "A TCM Lens on Afternoon Sugar Cravings: Rhythm, Fuel, and Habit",
+      "path": "/symptoms/digestion/afternoon-sugar-cravings-tcm/",
+      "type": "cluster",
+      "parent": "digestion",
+      "estimated_read_time": 7,
+      "keywords": [
+        "afternoon sugar cravings",
+        "TCM digestion",
+        "meal rhythm"
+      ],
+      "id": "1292"
     }
   ],
   "published": [
@@ -16296,6 +16478,20 @@
       ],
       "id": "1273",
       "published_at": "2026-11-12T00:29:49Z"
+    },
+    {
+      "title": "Seasonal Transitions in TCM: A Practical Guide to Changing Routines",
+      "path": "/tcm-basics/seasonal-transition-routines-tcm/",
+      "type": "cluster",
+      "parent": "tcm-basics",
+      "estimated_read_time": 8,
+      "keywords": [
+        "seasonal transitions TCM",
+        "seasonal routine changes",
+        "five elements seasons"
+      ],
+      "id": "1274",
+      "published_at": "2026-11-12T06:45:46Z"
     }
   ]
 }
