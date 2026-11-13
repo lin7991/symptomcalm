@@ -1,58 +1,6 @@
 {
   "queue": [
     {
-      "title": "What Is Defensive Qi? A Beginner's Guide to the Body's Outer Boundary",
-      "path": "/tcm-basics/defensive-qi-explained-tcm/",
-      "type": "cluster",
-      "parent": "tcm-basics",
-      "estimated_read_time": 7,
-      "keywords": [
-        "defensive qi",
-        "wei qi",
-        "TCM immunity"
-      ],
-      "id": "1279"
-    },
-    {
-      "title": "TCM and the Five Tastes: How Flavor Becomes a Food Map",
-      "path": "/tcm-basics/five-tastes-food-map-tcm/",
-      "type": "cluster",
-      "parent": "tcm-basics",
-      "estimated_read_time": 7,
-      "keywords": [
-        "five tastes TCM",
-        "food energetics",
-        "TCM diet"
-      ],
-      "id": "1280"
-    },
-    {
-      "title": "What Is Blood Stasis in TCM? A Clear, Non-Mystical Explanation",
-      "path": "/tcm-basics/blood-stasis-explained-tcm/",
-      "type": "cluster",
-      "parent": "tcm-basics",
-      "estimated_read_time": 7,
-      "keywords": [
-        "blood stasis TCM",
-        "TCM patterns",
-        "circulation"
-      ],
-      "id": "1281"
-    },
-    {
-      "title": "The TCM View of Rest: Why Recovery Is More Than Sleep",
-      "path": "/tcm-basics/rest-and-recovery-tcm/",
-      "type": "cluster",
-      "parent": "tcm-basics",
-      "estimated_read_time": 6,
-      "keywords": [
-        "TCM rest",
-        "recovery",
-        "yin yang"
-      ],
-      "id": "1282"
-    },
-    {
       "title": "Gua Sha for Calf Tightness: A Gentle, Safety-First Guide",
       "path": "/treatments/gua-sha-calf-tightness/",
       "type": "cluster",
@@ -16496,6 +16444,20 @@
       ],
       "id": "1278",
       "published_at": "2026-11-13T09:04:37Z"
+    },
+    {
+      "title": "The TCM View of Rest: Why Recovery Is More Than Sleep",
+      "path": "/tcm-basics/rest-and-recovery-tcm/",
+      "type": "cluster",
+      "parent": "tcm-basics",
+      "estimated_read_time": 6,
+      "keywords": [
+        "TCM rest",
+        "recovery",
+        "yin yang"
+      ],
+      "id": "1282",
+      "published_at": "2026-11-13T15:35:39Z"
     }
   ]
 }
