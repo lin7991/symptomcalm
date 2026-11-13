@@ -1,19 +1,6 @@
 {
   "queue": [
     {
-      "title": "A Beginner's Guide to Acupressure Pressure: How Gentle Is Gentle?",
-      "path": "/treatments/acupressure-pressure-guide/",
-      "type": "cluster",
-      "parent": "treatments",
-      "estimated_read_time": 7,
-      "keywords": [
-        "acupressure pressure how much",
-        "safe acupressure pressure",
-        "acupressure beginner guide"
-      ],
-      "id": "1277"
-    },
-    {
       "title": "TCM and the Body's Adaptation to Time Zones: A Rhythm Guide",
       "path": "/tcm-basics/time-zone-adjustment-tcm/",
       "type": "cluster",
@@ -16494,6 +16481,20 @@
       ],
       "id": "1276",
       "published_at": "2026-11-12T20:04:12Z"
+    },
+    {
+      "title": "A Beginner's Guide to Acupressure Pressure: How Gentle Is Gentle?",
+      "path": "/treatments/acupressure-pressure-guide/",
+      "type": "cluster",
+      "parent": "treatments",
+      "estimated_read_time": 7,
+      "keywords": [
+        "acupressure pressure how much",
+        "safe acupressure pressure",
+        "acupressure beginner guide"
+      ],
+      "id": "1277",
+      "published_at": "2026-11-13T02:44:15Z"
     }
   ]
 }
