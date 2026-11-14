@@ -1,19 +1,6 @@
 {
   "queue": [
     {
-      "title": "Warm Compress for Lower-Back Comfort: A Safety-First TCM Guide",
-      "path": "/treatments/warm-compress-lower-back-tcm/",
-      "type": "cluster",
-      "parent": "treatments",
-      "estimated_read_time": 7,
-      "keywords": [
-        "warm compress back",
-        "lower back comfort",
-        "TCM heat"
-      ],
-      "id": "1287"
-    },
-    {
       "title": "A TCM-Inspired Evening Foot Routine for Busy Minds",
       "path": "/treatments/foot-soak-busy-mind-tcm/",
       "type": "cluster",
@@ -16462,6 +16449,20 @@
       ],
       "id": "1286",
       "published_at": "2026-11-14T17:38:43Z"
+    },
+    {
+      "title": "Warm Compress for Lower-Back Comfort: A Safety-First TCM Guide",
+      "path": "/treatments/warm-compress-lower-back-tcm/",
+      "type": "cluster",
+      "parent": "treatments",
+      "estimated_read_time": 7,
+      "keywords": [
+        "warm compress back",
+        "lower back comfort",
+        "TCM heat"
+      ],
+      "id": "1287",
+      "published_at": "2026-11-14T23:45:33Z"
     }
   ]
 }
