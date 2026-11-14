@@ -1,19 +1,6 @@
 {
   "queue": [
     {
-      "title": "Acupressure for Morning Alertness: A Gentle Routine for Getting Started",
-      "path": "/treatments/acupressure-morning-alertness-tcm/",
-      "type": "cluster",
-      "parent": "treatments",
-      "estimated_read_time": 7,
-      "keywords": [
-        "morning acupressure",
-        "alertness routine",
-        "TCM points"
-      ],
-      "id": "1285"
-    },
-    {
       "title": "Qigong for Desk Breaks: A Five-Minute Movement Reset",
       "path": "/treatments/qigong-desk-breaks-tcm/",
       "type": "cluster",
@@ -16460,6 +16447,20 @@
       ],
       "id": "1284",
       "published_at": "2026-11-14T04:23:58Z"
+    },
+    {
+      "title": "Acupressure for Morning Alertness: A Gentle Routine for Getting Started",
+      "path": "/treatments/acupressure-morning-alertness-tcm/",
+      "type": "cluster",
+      "parent": "treatments",
+      "estimated_read_time": 7,
+      "keywords": [
+        "morning acupressure",
+        "alertness routine",
+        "TCM points"
+      ],
+      "id": "1285",
+      "published_at": "2026-11-14T11:01:52Z"
     }
   ]
 }
