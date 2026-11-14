@@ -1,19 +1,6 @@
 {
   "queue": [
     {
-      "title": "Qigong for Desk Breaks: A Five-Minute Movement Reset",
-      "path": "/treatments/qigong-desk-breaks-tcm/",
-      "type": "cluster",
-      "parent": "treatments",
-      "estimated_read_time": 6,
-      "keywords": [
-        "desk qigong",
-        "movement break",
-        "qigong routine"
-      ],
-      "id": "1286"
-    },
-    {
       "title": "Warm Compress for Lower-Back Comfort: A Safety-First TCM Guide",
       "path": "/treatments/warm-compress-lower-back-tcm/",
       "type": "cluster",
@@ -16461,6 +16448,20 @@
       ],
       "id": "1285",
       "published_at": "2026-11-14T11:01:52Z"
+    },
+    {
+      "title": "Qigong for Desk Breaks: A Five-Minute Movement Reset",
+      "path": "/treatments/qigong-desk-breaks-tcm/",
+      "type": "cluster",
+      "parent": "treatments",
+      "estimated_read_time": 6,
+      "keywords": [
+        "desk qigong",
+        "movement break",
+        "qigong routine"
+      ],
+      "id": "1286",
+      "published_at": "2026-11-14T17:38:43Z"
     }
   ]
 }
