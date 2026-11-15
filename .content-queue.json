@@ -1,19 +1,6 @@
 {
   "queue": [
     {
-      "title": "A TCM-Inspired Evening Foot Routine for Busy Minds",
-      "path": "/treatments/foot-soak-busy-mind-tcm/",
-      "type": "cluster",
-      "parent": "treatments",
-      "estimated_read_time": 6,
-      "keywords": [
-        "foot soak evening",
-        "busy mind",
-        "bedtime routine"
-      ],
-      "id": "1288"
-    },
-    {
       "title": "Why Your Ears Feel Full on Flights: A TCM Context Guide",
       "path": "/symptoms/ear-health-tinnitus/flight-ear-pressure-tcm/",
       "type": "cluster",
@@ -16463,6 +16450,20 @@
       ],
       "id": "1287",
       "published_at": "2026-11-14T23:45:33Z"
+    },
+    {
+      "title": "A TCM-Inspired Evening Foot Routine for Busy Minds",
+      "path": "/treatments/foot-soak-busy-mind-tcm/",
+      "type": "cluster",
+      "parent": "treatments",
+      "estimated_read_time": 6,
+      "keywords": [
+        "foot soak evening",
+        "busy mind",
+        "bedtime routine"
+      ],
+      "id": "1288",
+      "published_at": "2026-11-15T05:55:47Z"
     }
   ]
 }
