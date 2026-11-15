@@ -1,19 +1,6 @@
 {
   "queue": [
     {
-      "title": "Why Your Ears Feel Full on Flights: A TCM Context Guide",
-      "path": "/symptoms/ear-health-tinnitus/flight-ear-pressure-tcm/",
-      "type": "cluster",
-      "parent": "ear-health-tinnitus",
-      "estimated_read_time": 7,
-      "keywords": [
-        "flight ear pressure",
-        "ear fullness",
-        "travel"
-      ],
-      "id": "1289"
-    },
-    {
       "title": "A TCM Perspective on Tight Calves After Sitting",
       "path": "/symptoms/joint-pain/tight-calves-after-sitting-tcm/",
       "type": "cluster",
@@ -51,6 +38,201 @@
         "meal rhythm"
       ],
       "id": "1292"
+    },
+    {
+      "title": "TCM and Jaw Tension: A Practical Pattern Guide",
+      "path": "/symptoms/joint-pain/jaw-tension-tcm/",
+      "type": "cluster",
+      "parent": "joint-pain",
+      "estimated_read_time": 7,
+      "keywords": [
+        "jaw tension",
+        "TMJ comfort",
+        "stress patterns"
+      ],
+      "id": "1293"
+    },
+    {
+      "title": "A TCM Perspective on Screen-Related Neck Stiffness",
+      "path": "/symptoms/joint-pain/screen-neck-stiffness-tcm/",
+      "type": "cluster",
+      "parent": "joint-pain",
+      "estimated_read_time": 7,
+      "keywords": [
+        "screen neck stiffness",
+        "neck mobility",
+        "desk posture"
+      ],
+      "id": "1294"
+    },
+    {
+      "title": "Why Your Hands Feel Cold: A TCM Pattern Map",
+      "path": "/symptoms/joint-pain/cold-hands-tcm/",
+      "type": "cluster",
+      "parent": "joint-pain",
+      "estimated_read_time": 7,
+      "keywords": [
+        "cold hands",
+        "circulation comfort",
+        "TCM patterns"
+      ],
+      "id": "1295"
+    },
+    {
+      "title": "TCM-Informed Support for Afternoon Brain Fog",
+      "path": "/symptoms/fatigue/afternoon-brain-fog-tcm/",
+      "type": "cluster",
+      "parent": "fatigue",
+      "estimated_read_time": 7,
+      "keywords": [
+        "afternoon brain fog",
+        "mental fatigue",
+        "energy rhythm"
+      ],
+      "id": "1296"
+    },
+    {
+      "title": "Waking Tired After a Full Night: A TCM Context Guide",
+      "path": "/symptoms/fatigue/waking-tired-tcm/",
+      "type": "cluster",
+      "parent": "fatigue",
+      "estimated_read_time": 7,
+      "keywords": [
+        "waking tired",
+        "sleep quality",
+        "morning energy"
+      ],
+      "id": "1297"
+    },
+    {
+      "title": "Bloating After Dinner: A TCM Pattern and Timing Guide",
+      "path": "/symptoms/digestion/evening-bloating-tcm/",
+      "type": "cluster",
+      "parent": "digestion",
+      "estimated_read_time": 7,
+      "keywords": [
+        "evening bloating",
+        "dinner digestion",
+        "meal timing"
+      ],
+      "id": "1298"
+    },
+    {
+      "title": "A TCM Perspective on Stress-Linked Appetite Changes",
+      "path": "/symptoms/digestion/stress-appetite-tcm/",
+      "type": "cluster",
+      "parent": "digestion",
+      "estimated_read_time": 7,
+      "keywords": [
+        "stress appetite",
+        "emotional eating",
+        "TCM digestion"
+      ],
+      "id": "1299"
+    },
+    {
+      "title": "Seasonal Allergies and Itchy Eyes: A TCM Context Guide",
+      "path": "/symptoms/allergies/itchy-eyes-tcm/",
+      "type": "cluster",
+      "parent": "allergies",
+      "estimated_read_time": 7,
+      "keywords": [
+        "itchy eyes allergies",
+        "seasonal allergies",
+        "TCM comfort"
+      ],
+      "id": "1300"
+    },
+    {
+      "title": "Why Allergies Feel Worse at Night: A TCM Pattern Map",
+      "path": "/symptoms/allergies/nighttime-allergies-tcm/",
+      "type": "cluster",
+      "parent": "allergies",
+      "estimated_read_time": 7,
+      "keywords": [
+        "nighttime allergies",
+        "nasal symptoms",
+        "allergy timing"
+      ],
+      "id": "1301"
+    },
+    {
+      "title": "Menstrual Cramps and Low Back Tension: A TCM Lens",
+      "path": "/symptoms/womens-health/menstrual-low-back-tension-tcm/",
+      "type": "cluster",
+      "parent": "womens-health",
+      "estimated_read_time": 7,
+      "keywords": [
+        "menstrual cramps",
+        "low back tension",
+        "cycle comfort"
+      ],
+      "id": "1302"
+    },
+    {
+      "title": "PMS Mood Swings: Understanding the TCM Pattern Map",
+      "path": "/symptoms/womens-health/pms-mood-swings-tcm/",
+      "type": "cluster",
+      "parent": "womens-health",
+      "estimated_read_time": 7,
+      "keywords": [
+        "PMS mood swings",
+        "cycle emotions",
+        "TCM perspective"
+      ],
+      "id": "1303"
+    },
+    {
+      "title": "What TCM Says About Dry, Tight Skin in Winter",
+      "path": "/symptoms/skin-conditions/winter-dry-skin-tcm/",
+      "type": "cluster",
+      "parent": "skin-conditions",
+      "estimated_read_time": 7,
+      "keywords": [
+        "winter dry skin",
+        "tight skin",
+        "TCM skin care"
+      ],
+      "id": "1304"
+    },
+    {
+      "title": "Eczema Flare Patterns: A TCM-Informed Self-Observation Guide",
+      "path": "/symptoms/skin-conditions/eczema-flare-patterns-tcm/",
+      "type": "cluster",
+      "parent": "skin-conditions",
+      "estimated_read_time": 7,
+      "keywords": [
+        "eczema patterns",
+        "itching",
+        "skin observation"
+      ],
+      "id": "1305"
+    },
+    {
+      "title": "A TCM Guide to Restless Legs at Bedtime",
+      "path": "/symptoms/insomnia/restless-legs-bedtime-tcm/",
+      "type": "cluster",
+      "parent": "insomnia",
+      "estimated_read_time": 7,
+      "keywords": [
+        "restless legs bedtime",
+        "sleep comfort",
+        "nighttime tension"
+      ],
+      "id": "1306"
+    },
+    {
+      "title": "Why You Wake With a Racing Heart: A TCM Context Guide",
+      "path": "/symptoms/insomnia/racing-heart-waking-tcm/",
+      "type": "cluster",
+      "parent": "insomnia",
+      "estimated_read_time": 7,
+      "keywords": [
+        "racing heart waking",
+        "night waking",
+        "sleep anxiety"
+      ],
+      "id": "1307"
     }
   ],
   "published": [
@@ -16464,6 +16646,20 @@
       ],
       "id": "1288",
       "published_at": "2026-11-15T05:55:47Z"
+    },
+    {
+      "title": "Why Your Ears Feel Full on Flights: A TCM Context Guide",
+      "path": "/symptoms/ear-health-tinnitus/flight-ear-pressure-tcm/",
+      "type": "cluster",
+      "parent": "ear-health-tinnitus",
+      "estimated_read_time": 7,
+      "keywords": [
+        "flight ear pressure",
+        "ear fullness",
+        "travel"
+      ],
+      "id": "1289",
+      "published_at": "2026-11-15T12:40:00Z"
     }
   ]
 }
