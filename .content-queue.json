@@ -1,19 +1,6 @@
 {
   "queue": [
     {
-      "title": "A TCM Perspective on Screen-Related Neck Stiffness",
-      "path": "/symptoms/joint-pain/screen-neck-stiffness-tcm/",
-      "type": "cluster",
-      "parent": "joint-pain",
-      "estimated_read_time": 7,
-      "keywords": [
-        "screen neck stiffness",
-        "neck mobility",
-        "desk posture"
-      ],
-      "id": "1294"
-    },
-    {
       "title": "Why Your Hands Feel Cold: A TCM Pattern Map",
       "path": "/symptoms/joint-pain/cold-hands-tcm/",
       "type": "cluster",
@@ -16651,6 +16638,20 @@
       ],
       "id": "1293",
       "published_at": "2026-11-16T14:06:05Z"
+    },
+    {
+      "title": "A TCM Perspective on Screen-Related Neck Stiffness",
+      "path": "/symptoms/joint-pain/screen-neck-stiffness-tcm/",
+      "type": "cluster",
+      "parent": "joint-pain",
+      "estimated_read_time": 7,
+      "keywords": [
+        "screen neck stiffness",
+        "neck mobility",
+        "desk posture"
+      ],
+      "id": "1294",
+      "published_at": "2026-11-16T20:15:11Z"
     }
   ]
 }
