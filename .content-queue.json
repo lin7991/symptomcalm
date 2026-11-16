@@ -1,19 +1,6 @@
 {
   "queue": [
     {
-      "title": "Why Your Nose Feels Dry Indoors: A TCM-Informed Comfort Map",
-      "path": "/symptoms/respiratory-health/indoor-dry-nose-tcm/",
-      "type": "cluster",
-      "parent": "respiratory-health",
-      "estimated_read_time": 7,
-      "keywords": [
-        "dry nose indoors",
-        "heating air",
-        "TCM respiratory comfort"
-      ],
-      "id": "1291"
-    },
-    {
       "title": "A TCM Lens on Afternoon Sugar Cravings: Rhythm, Fuel, and Habit",
       "path": "/symptoms/digestion/afternoon-sugar-cravings-tcm/",
       "type": "cluster",
@@ -16648,6 +16635,20 @@
       ],
       "id": "1290",
       "published_at": "2026-11-15T19:22:52Z"
+    },
+    {
+      "title": "Why Your Nose Feels Dry Indoors: A TCM-Informed Comfort Map",
+      "path": "/symptoms/respiratory-health/indoor-dry-nose-tcm/",
+      "type": "cluster",
+      "parent": "respiratory-health",
+      "estimated_read_time": 7,
+      "keywords": [
+        "dry nose indoors",
+        "heating air",
+        "TCM respiratory comfort"
+      ],
+      "id": "1291",
+      "published_at": "2026-11-16T01:31:39Z"
     }
   ]
 }
