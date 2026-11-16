@@ -1,19 +1,6 @@
 {
   "queue": [
     {
-      "title": "A TCM Lens on Afternoon Sugar Cravings: Rhythm, Fuel, and Habit",
-      "path": "/symptoms/digestion/afternoon-sugar-cravings-tcm/",
-      "type": "cluster",
-      "parent": "digestion",
-      "estimated_read_time": 7,
-      "keywords": [
-        "afternoon sugar cravings",
-        "TCM digestion",
-        "meal rhythm"
-      ],
-      "id": "1292"
-    },
-    {
       "title": "TCM and Jaw Tension: A Practical Pattern Guide",
       "path": "/symptoms/joint-pain/jaw-tension-tcm/",
       "type": "cluster",
@@ -16649,6 +16636,20 @@
       ],
       "id": "1291",
       "published_at": "2026-11-16T01:31:39Z"
+    },
+    {
+      "title": "A TCM Lens on Afternoon Sugar Cravings: Rhythm, Fuel, and Habit",
+      "path": "/symptoms/digestion/afternoon-sugar-cravings-tcm/",
+      "type": "cluster",
+      "parent": "digestion",
+      "estimated_read_time": 7,
+      "keywords": [
+        "afternoon sugar cravings",
+        "TCM digestion",
+        "meal rhythm"
+      ],
+      "id": "1292",
+      "published_at": "2026-11-16T07:53:48Z"
     }
   ]
 }
