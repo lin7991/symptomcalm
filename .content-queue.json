@@ -1,19 +1,6 @@
 {
   "queue": [
     {
-      "title": "Waking Tired After a Full Night: A TCM Context Guide",
-      "path": "/symptoms/fatigue/waking-tired-tcm/",
-      "type": "cluster",
-      "parent": "fatigue",
-      "estimated_read_time": 7,
-      "keywords": [
-        "waking tired",
-        "sleep quality",
-        "morning energy"
-      ],
-      "id": "1297"
-    },
-    {
       "title": "Bloating After Dinner: A TCM Pattern and Timing Guide",
       "path": "/symptoms/digestion/evening-bloating-tcm/",
       "type": "cluster",
@@ -16654,6 +16641,20 @@
       ],
       "id": "1296",
       "published_at": "2026-11-17T09:14:31Z"
+    },
+    {
+      "title": "Waking Tired After a Full Night: A TCM Context Guide",
+      "path": "/symptoms/fatigue/waking-tired-tcm/",
+      "type": "cluster",
+      "parent": "fatigue",
+      "estimated_read_time": 7,
+      "keywords": [
+        "waking tired",
+        "sleep quality",
+        "morning energy"
+      ],
+      "id": "1297",
+      "published_at": "2026-11-17T21:29:51Z"
     }
   ]
 }
