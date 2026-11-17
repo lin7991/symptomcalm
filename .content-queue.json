@@ -1,19 +1,6 @@
 {
   "queue": [
     {
-      "title": "TCM-Informed Support for Afternoon Brain Fog",
-      "path": "/symptoms/fatigue/afternoon-brain-fog-tcm/",
-      "type": "cluster",
-      "parent": "fatigue",
-      "estimated_read_time": 7,
-      "keywords": [
-        "afternoon brain fog",
-        "mental fatigue",
-        "energy rhythm"
-      ],
-      "id": "1296"
-    },
-    {
       "title": "Waking Tired After a Full Night: A TCM Context Guide",
       "path": "/symptoms/fatigue/waking-tired-tcm/",
       "type": "cluster",
@@ -16653,6 +16640,20 @@
       ],
       "id": "1295",
       "published_at": "2026-11-17T03:02:20Z"
+    },
+    {
+      "title": "TCM-Informed Support for Afternoon Brain Fog",
+      "path": "/symptoms/fatigue/afternoon-brain-fog-tcm/",
+      "type": "cluster",
+      "parent": "fatigue",
+      "estimated_read_time": 7,
+      "keywords": [
+        "afternoon brain fog",
+        "mental fatigue",
+        "energy rhythm"
+      ],
+      "id": "1296",
+      "published_at": "2026-11-17T09:14:31Z"
     }
   ]
 }
