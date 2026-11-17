@@ -1,19 +1,6 @@
 {
   "queue": [
     {
-      "title": "Why Your Hands Feel Cold: A TCM Pattern Map",
-      "path": "/symptoms/joint-pain/cold-hands-tcm/",
-      "type": "cluster",
-      "parent": "joint-pain",
-      "estimated_read_time": 7,
-      "keywords": [
-        "cold hands",
-        "circulation comfort",
-        "TCM patterns"
-      ],
-      "id": "1295"
-    },
-    {
       "title": "TCM-Informed Support for Afternoon Brain Fog",
       "path": "/symptoms/fatigue/afternoon-brain-fog-tcm/",
       "type": "cluster",
@@ -16652,6 +16639,20 @@
       ],
       "id": "1294",
       "published_at": "2026-11-16T20:15:11Z"
+    },
+    {
+      "title": "Why Your Hands Feel Cold: A TCM Pattern Map",
+      "path": "/symptoms/joint-pain/cold-hands-tcm/",
+      "type": "cluster",
+      "parent": "joint-pain",
+      "estimated_read_time": 7,
+      "keywords": [
+        "cold hands",
+        "circulation comfort",
+        "TCM patterns"
+      ],
+      "id": "1295",
+      "published_at": "2026-11-17T03:02:20Z"
     }
   ]
 }
