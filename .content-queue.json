@@ -1,19 +1,6 @@
 {
   "queue": [
     {
-      "title": "Seasonal Allergies and Itchy Eyes: A TCM Context Guide",
-      "path": "/symptoms/allergies/itchy-eyes-tcm/",
-      "type": "cluster",
-      "parent": "allergies",
-      "estimated_read_time": 7,
-      "keywords": [
-        "itchy eyes allergies",
-        "seasonal allergies",
-        "TCM comfort"
-      ],
-      "id": "1300"
-    },
-    {
       "title": "Why Allergies Feel Worse at Night: A TCM Pattern Map",
       "path": "/symptoms/allergies/nighttime-allergies-tcm/",
       "type": "cluster",
@@ -16657,6 +16644,20 @@
       ],
       "id": "1299",
       "published_at": "2026-11-18T09:48:46Z"
+    },
+    {
+      "title": "Seasonal Allergies and Itchy Eyes: A TCM Context Guide",
+      "path": "/symptoms/allergies/itchy-eyes-tcm/",
+      "type": "cluster",
+      "parent": "allergies",
+      "estimated_read_time": 7,
+      "keywords": [
+        "itchy eyes allergies",
+        "seasonal allergies",
+        "TCM comfort"
+      ],
+      "id": "1300",
+      "published_at": "2026-11-18T16:12:54Z"
     }
   ]
 }
