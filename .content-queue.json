@@ -1,19 +1,6 @@
 {
   "queue": [
     {
-      "title": "A TCM Perspective on Stress-Linked Appetite Changes",
-      "path": "/symptoms/digestion/stress-appetite-tcm/",
-      "type": "cluster",
-      "parent": "digestion",
-      "estimated_read_time": 7,
-      "keywords": [
-        "stress appetite",
-        "emotional eating",
-        "TCM digestion"
-      ],
-      "id": "1299"
-    },
-    {
       "title": "Seasonal Allergies and Itchy Eyes: A TCM Context Guide",
       "path": "/symptoms/allergies/itchy-eyes-tcm/",
       "type": "cluster",
@@ -16656,6 +16643,20 @@
       ],
       "id": "1298",
       "published_at": "2026-11-18T03:38:07Z"
+    },
+    {
+      "title": "A TCM Perspective on Stress-Linked Appetite Changes",
+      "path": "/symptoms/digestion/stress-appetite-tcm/",
+      "type": "cluster",
+      "parent": "digestion",
+      "estimated_read_time": 7,
+      "keywords": [
+        "stress appetite",
+        "emotional eating",
+        "TCM digestion"
+      ],
+      "id": "1299",
+      "published_at": "2026-11-18T09:48:46Z"
     }
   ]
 }
