@@ -1,19 +1,6 @@
 {
   "queue": [
     {
-      "title": "Why Allergies Feel Worse at Night: A TCM Pattern Map",
-      "path": "/symptoms/allergies/nighttime-allergies-tcm/",
-      "type": "cluster",
-      "parent": "allergies",
-      "estimated_read_time": 7,
-      "keywords": [
-        "nighttime allergies",
-        "nasal symptoms",
-        "allergy timing"
-      ],
-      "id": "1301"
-    },
-    {
       "title": "Menstrual Cramps and Low Back Tension: A TCM Lens",
       "path": "/symptoms/womens-health/menstrual-low-back-tension-tcm/",
       "type": "cluster",
@@ -16658,6 +16645,20 @@
       ],
       "id": "1300",
       "published_at": "2026-11-18T16:12:54Z"
+    },
+    {
+      "title": "Why Allergies Feel Worse at Night: A TCM Pattern Map",
+      "path": "/symptoms/allergies/nighttime-allergies-tcm/",
+      "type": "cluster",
+      "parent": "allergies",
+      "estimated_read_time": 7,
+      "keywords": [
+        "nighttime allergies",
+        "nasal symptoms",
+        "allergy timing"
+      ],
+      "id": "1301",
+      "published_at": "2026-11-18T22:24:01Z"
     }
   ]
 }
