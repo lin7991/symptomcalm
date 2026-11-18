@@ -1,19 +1,6 @@
 {
   "queue": [
     {
-      "title": "Bloating After Dinner: A TCM Pattern and Timing Guide",
-      "path": "/symptoms/digestion/evening-bloating-tcm/",
-      "type": "cluster",
-      "parent": "digestion",
-      "estimated_read_time": 7,
-      "keywords": [
-        "evening bloating",
-        "dinner digestion",
-        "meal timing"
-      ],
-      "id": "1298"
-    },
-    {
       "title": "A TCM Perspective on Stress-Linked Appetite Changes",
       "path": "/symptoms/digestion/stress-appetite-tcm/",
       "type": "cluster",
@@ -16655,6 +16642,20 @@
       ],
       "id": "1297",
       "published_at": "2026-11-17T21:29:51Z"
+    },
+    {
+      "title": "Bloating After Dinner: A TCM Pattern and Timing Guide",
+      "path": "/symptoms/digestion/evening-bloating-tcm/",
+      "type": "cluster",
+      "parent": "digestion",
+      "estimated_read_time": 7,
+      "keywords": [
+        "evening bloating",
+        "dinner digestion",
+        "meal timing"
+      ],
+      "id": "1298",
+      "published_at": "2026-11-18T03:38:07Z"
     }
   ]
 }
