@@ -1,19 +1,6 @@
 {
   "queue": [
     {
-      "title": "PMS Mood Swings: Understanding the TCM Pattern Map",
-      "path": "/symptoms/womens-health/pms-mood-swings-tcm/",
-      "type": "cluster",
-      "parent": "womens-health",
-      "estimated_read_time": 7,
-      "keywords": [
-        "PMS mood swings",
-        "cycle emotions",
-        "TCM perspective"
-      ],
-      "id": "1303"
-    },
-    {
       "title": "What TCM Says About Dry, Tight Skin in Winter",
       "path": "/symptoms/skin-conditions/winter-dry-skin-tcm/",
       "type": "cluster",
@@ -51,6 +38,201 @@
         "sleep anxiety"
       ],
       "id": "1307"
+    },
+    {
+      "title": "Seasonal Sneezing: A TCM-Informed Self-Observation Guide",
+      "path": "/symptoms/allergies/seasonal-sneezing-tcm/",
+      "type": "cluster",
+      "parent": "allergies",
+      "estimated_read_time": 7,
+      "keywords": [
+        "seasonal sneezing",
+        "TCM allergies",
+        "allergy patterns"
+      ],
+      "id": "1308"
+    },
+    {
+      "title": "A TCM Lens on Itchy Skin After Showering",
+      "path": "/symptoms/skin-conditions/itchy-skin-after-shower-tcm/",
+      "type": "cluster",
+      "parent": "skin-conditions",
+      "estimated_read_time": 7,
+      "keywords": [
+        "itchy skin after shower",
+        "TCM skin",
+        "dry skin"
+      ],
+      "id": "1309"
+    },
+    {
+      "title": "Understanding Menstrual Headaches Through a TCM Timing Map",
+      "path": "/symptoms/womens-health/menstrual-headaches-tcm/",
+      "type": "cluster",
+      "parent": "womens-health",
+      "estimated_read_time": 8,
+      "keywords": [
+        "menstrual headaches",
+        "TCM period headaches",
+        "cycle timing"
+      ],
+      "id": "1310"
+    },
+    {
+      "title": "A TCM View of Digestive Changes When You Skip Meals",
+      "path": "/symptoms/digestion/skipping-meals-digestion-tcm/",
+      "type": "cluster",
+      "parent": "digestion",
+      "estimated_read_time": 7,
+      "keywords": [
+        "skipping meals digestion",
+        "TCM digestion",
+        "meal rhythm"
+      ],
+      "id": "1311"
+    },
+    {
+      "title": "Why Your Shoulders Feel Heavy: A TCM Pattern Map",
+      "path": "/symptoms/joint-pain/heavy-shoulders-tcm/",
+      "type": "cluster",
+      "parent": "joint-pain",
+      "estimated_read_time": 7,
+      "keywords": [
+        "heavy shoulders",
+        "TCM shoulder tension",
+        "shoulder heaviness"
+      ],
+      "id": "1312"
+    },
+    {
+      "title": "TCM and the Afternoon Energy Dip: A Practical Rhythm Guide",
+      "path": "/symptoms/fatigue/afternoon-energy-dip-tcm/",
+      "type": "cluster",
+      "parent": "fatigue",
+      "estimated_read_time": 7,
+      "keywords": [
+        "afternoon energy dip",
+        "TCM fatigue",
+        "daily rhythm"
+      ],
+      "id": "1313"
+    },
+    {
+      "title": "A TCM Context Guide to a Dry, Tickly Throat",
+      "path": "/symptoms/respiratory-health/dry-tickly-throat-tcm/",
+      "type": "cluster",
+      "parent": "respiratory-health",
+      "estimated_read_time": 7,
+      "keywords": [
+        "dry tickly throat",
+        "TCM throat",
+        "throat comfort"
+      ],
+      "id": "1314"
+    },
+    {
+      "title": "What TCM Can Teach Us About Evening Snacking Patterns",
+      "path": "/symptoms/digestion/evening-snacking-tcm/",
+      "type": "cluster",
+      "parent": "digestion",
+      "estimated_read_time": 7,
+      "keywords": [
+        "evening snacking",
+        "TCM food habits",
+        "night eating"
+      ],
+      "id": "1315"
+    },
+    {
+      "title": "A TCM-Informed Guide to Screen-Related Eye Dryness",
+      "path": "/symptoms/eye-health/screen-eye-dryness-tcm/",
+      "type": "cluster",
+      "parent": "eye-health",
+      "estimated_read_time": 7,
+      "keywords": [
+        "screen eye dryness",
+        "TCM eye health",
+        "dry eyes"
+      ],
+      "id": "1316"
+    },
+    {
+      "title": "Why Stress Can Feel Like a Tight Chest: A TCM Context Guide",
+      "path": "/symptoms/stress/stress-chest-tightness-tcm/",
+      "type": "cluster",
+      "parent": "stress",
+      "estimated_read_time": 7,
+      "keywords": [
+        "stress chest tightness",
+        "TCM stress",
+        "breathing tension"
+      ],
+      "id": "1317"
+    },
+    {
+      "title": "A TCM Pattern Map for Cold Feet in the Evening",
+      "path": "/symptoms/cold-hands-feet/cold-feet-evening-tcm/",
+      "type": "cluster",
+      "parent": "cold-hands-feet",
+      "estimated_read_time": 7,
+      "keywords": [
+        "cold feet evening",
+        "TCM cold feet",
+        "temperature patterns"
+      ],
+      "id": "1318"
+    },
+    {
+      "title": "What Is the Ren Mai? The Front-Line Meridian Explained",
+      "path": "/tcm-basics/ren-mai-meridian-tcm/",
+      "type": "tcm-basics",
+      "parent": "tcm-basics",
+      "estimated_read_time": 8,
+      "keywords": [
+        "Ren Mai",
+        "Conception Vessel",
+        "TCM meridians"
+      ],
+      "id": "1319"
+    },
+    {
+      "title": "A TCM Perspective on Changes in Your Sense of Smell",
+      "path": "/symptoms/sinus-health/sense-of-smell-tcm/",
+      "type": "cluster",
+      "parent": "sinus-health",
+      "estimated_read_time": 7,
+      "keywords": [
+        "sense of smell",
+        "TCM sinus",
+        "smell changes"
+      ],
+      "id": "1320"
+    },
+    {
+      "title": "Why Your Hands Feel Puffy in the Morning: A TCM Context Guide",
+      "path": "/symptoms/joint-pain/morning-hand-puffiness-tcm/",
+      "type": "cluster",
+      "parent": "joint-pain",
+      "estimated_read_time": 7,
+      "keywords": [
+        "morning hand puffiness",
+        "TCM swelling",
+        "hand discomfort"
+      ],
+      "id": "1321"
+    },
+    {
+      "title": "A TCM Perspective on Brain Fog After Poor Sleep",
+      "path": "/symptoms/fatigue/brain-fog-poor-sleep-tcm/",
+      "type": "cluster",
+      "parent": "fatigue",
+      "estimated_read_time": 7,
+      "keywords": [
+        "brain fog poor sleep",
+        "TCM fatigue",
+        "morning clarity"
+      ],
+      "id": "1322"
     }
   ],
   "published": [
@@ -16660,6 +16842,20 @@
       ],
       "id": "1302",
       "published_at": "2026-11-19T04:40:17Z"
+    },
+    {
+      "title": "PMS Mood Swings: Understanding the TCM Pattern Map",
+      "path": "/symptoms/womens-health/pms-mood-swings-tcm/",
+      "type": "cluster",
+      "parent": "womens-health",
+      "estimated_read_time": 7,
+      "keywords": [
+        "PMS mood swings",
+        "cycle emotions",
+        "TCM perspective"
+      ],
+      "id": "1303",
+      "published_at": "2026-11-19T17:22:17Z"
     }
   ]
 }
