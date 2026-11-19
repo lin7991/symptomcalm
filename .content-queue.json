@@ -1,19 +1,6 @@
 {
   "queue": [
     {
-      "title": "Menstrual Cramps and Low Back Tension: A TCM Lens",
-      "path": "/symptoms/womens-health/menstrual-low-back-tension-tcm/",
-      "type": "cluster",
-      "parent": "womens-health",
-      "estimated_read_time": 7,
-      "keywords": [
-        "menstrual cramps",
-        "low back tension",
-        "cycle comfort"
-      ],
-      "id": "1302"
-    },
-    {
       "title": "PMS Mood Swings: Understanding the TCM Pattern Map",
       "path": "/symptoms/womens-health/pms-mood-swings-tcm/",
       "type": "cluster",
@@ -16659,6 +16646,20 @@
       ],
       "id": "1301",
       "published_at": "2026-11-18T22:24:01Z"
+    },
+    {
+      "title": "Menstrual Cramps and Low Back Tension: A TCM Lens",
+      "path": "/symptoms/womens-health/menstrual-low-back-tension-tcm/",
+      "type": "cluster",
+      "parent": "womens-health",
+      "estimated_read_time": 7,
+      "keywords": [
+        "menstrual cramps",
+        "low back tension",
+        "cycle comfort"
+      ],
+      "id": "1302",
+      "published_at": "2026-11-19T04:40:17Z"
     }
   ]
 }
