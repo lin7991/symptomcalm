@@ -1,19 +1,6 @@
 {
   "queue": [
     {
-      "title": "Eczema Flare Patterns: A TCM-Informed Self-Observation Guide",
-      "path": "/symptoms/skin-conditions/eczema-flare-patterns-tcm/",
-      "type": "cluster",
-      "parent": "skin-conditions",
-      "estimated_read_time": 7,
-      "keywords": [
-        "eczema patterns",
-        "itching",
-        "skin observation"
-      ],
-      "id": "1305"
-    },
-    {
       "title": "Why You Wake With a Racing Heart: A TCM Context Guide",
       "path": "/symptoms/insomnia/racing-heart-waking-tcm/",
       "type": "cluster",
@@ -16857,6 +16844,20 @@
       ],
       "id": "1304",
       "published_at": "2026-11-20T00:02:44Z"
+    },
+    {
+      "title": "Eczema Flare Patterns: A TCM-Informed Self-Observation Guide",
+      "path": "/symptoms/skin-conditions/eczema-flare-patterns-tcm/",
+      "type": "cluster",
+      "parent": "skin-conditions",
+      "estimated_read_time": 7,
+      "keywords": [
+        "eczema patterns",
+        "itching",
+        "skin observation"
+      ],
+      "id": "1305",
+      "published_at": "2026-11-20T06:12:27Z"
     }
   ]
 }
