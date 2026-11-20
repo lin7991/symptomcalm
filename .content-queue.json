@@ -1,32 +1,6 @@
 {
   "queue": [
     {
-      "title": "Why You Wake With a Racing Heart: A TCM Context Guide",
-      "path": "/symptoms/insomnia/racing-heart-waking-tcm/",
-      "type": "cluster",
-      "parent": "insomnia",
-      "estimated_read_time": 7,
-      "keywords": [
-        "racing heart waking",
-        "night waking",
-        "sleep anxiety"
-      ],
-      "id": "1307"
-    },
-    {
-      "title": "Seasonal Sneezing: A TCM-Informed Self-Observation Guide",
-      "path": "/symptoms/allergies/seasonal-sneezing-tcm/",
-      "type": "cluster",
-      "parent": "allergies",
-      "estimated_read_time": 7,
-      "keywords": [
-        "seasonal sneezing",
-        "TCM allergies",
-        "allergy patterns"
-      ],
-      "id": "1308"
-    },
-    {
       "title": "A TCM Lens on Itchy Skin After Showering",
       "path": "/symptoms/skin-conditions/itchy-skin-after-shower-tcm/",
       "type": "cluster",
@@ -16858,6 +16832,20 @@
       ],
       "id": "1305",
       "published_at": "2026-11-20T06:12:27Z"
+    },
+    {
+      "title": "Seasonal Sneezing: A TCM-Informed Self-Observation Guide",
+      "path": "/symptoms/allergies/seasonal-sneezing-tcm/",
+      "type": "cluster",
+      "parent": "allergies",
+      "estimated_read_time": 7,
+      "keywords": [
+        "seasonal sneezing",
+        "TCM allergies",
+        "allergy patterns"
+      ],
+      "id": "1308",
+      "published_at": "2026-11-20T12:52:27Z"
     }
   ]
 }
