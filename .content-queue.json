@@ -1,19 +1,6 @@
 {
   "queue": [
     {
-      "title": "Understanding Menstrual Headaches Through a TCM Timing Map",
-      "path": "/symptoms/womens-health/menstrual-headaches-tcm/",
-      "type": "cluster",
-      "parent": "womens-health",
-      "estimated_read_time": 8,
-      "keywords": [
-        "menstrual headaches",
-        "TCM period headaches",
-        "cycle timing"
-      ],
-      "id": "1310"
-    },
-    {
       "title": "A TCM View of Digestive Changes When You Skip Meals",
       "path": "/symptoms/digestion/skipping-meals-digestion-tcm/",
       "type": "cluster",
@@ -16847,6 +16834,20 @@
       ],
       "id": "1309",
       "published_at": "2026-11-20T19:14:16Z"
+    },
+    {
+      "title": "Understanding Menstrual Headaches Through a TCM Timing Map",
+      "path": "/symptoms/womens-health/menstrual-headaches-tcm/",
+      "type": "cluster",
+      "parent": "womens-health",
+      "estimated_read_time": 8,
+      "keywords": [
+        "menstrual headaches",
+        "TCM period headaches",
+        "cycle timing"
+      ],
+      "id": "1310",
+      "published_at": "2026-11-21T01:49:35Z"
     }
   ]
 }
