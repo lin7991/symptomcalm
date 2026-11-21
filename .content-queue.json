@@ -1,19 +1,6 @@
 {
   "queue": [
     {
-      "title": "TCM and the Afternoon Energy Dip: A Practical Rhythm Guide",
-      "path": "/symptoms/fatigue/afternoon-energy-dip-tcm/",
-      "type": "cluster",
-      "parent": "fatigue",
-      "estimated_read_time": 7,
-      "keywords": [
-        "afternoon energy dip",
-        "TCM fatigue",
-        "daily rhythm"
-      ],
-      "id": "1313"
-    },
-    {
       "title": "A TCM Context Guide to a Dry, Tickly Throat",
       "path": "/symptoms/respiratory-health/dry-tickly-throat-tcm/",
       "type": "cluster",
@@ -16850,6 +16837,20 @@
       ],
       "id": "1312",
       "published_at": "2026-11-21T14:10:58Z"
+    },
+    {
+      "title": "TCM and the Afternoon Energy Dip: A Practical Rhythm Guide",
+      "path": "/symptoms/fatigue/afternoon-energy-dip-tcm/",
+      "type": "cluster",
+      "parent": "fatigue",
+      "estimated_read_time": 7,
+      "keywords": [
+        "afternoon energy dip",
+        "TCM fatigue",
+        "daily rhythm"
+      ],
+      "id": "1313",
+      "published_at": "2026-11-21T20:30:02Z"
     }
   ]
 }
