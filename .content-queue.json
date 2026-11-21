@@ -1,19 +1,6 @@
 {
   "queue": [
     {
-      "title": "A TCM View of Digestive Changes When You Skip Meals",
-      "path": "/symptoms/digestion/skipping-meals-digestion-tcm/",
-      "type": "cluster",
-      "parent": "digestion",
-      "estimated_read_time": 7,
-      "keywords": [
-        "skipping meals digestion",
-        "TCM digestion",
-        "meal rhythm"
-      ],
-      "id": "1311"
-    },
-    {
       "title": "Why Your Shoulders Feel Heavy: A TCM Pattern Map",
       "path": "/symptoms/joint-pain/heavy-shoulders-tcm/",
       "type": "cluster",
@@ -16848,6 +16835,20 @@
       ],
       "id": "1310",
       "published_at": "2026-11-21T01:49:35Z"
+    },
+    {
+      "title": "A TCM View of Digestive Changes When You Skip Meals",
+      "path": "/symptoms/digestion/skipping-meals-digestion-tcm/",
+      "type": "cluster",
+      "parent": "digestion",
+      "estimated_read_time": 7,
+      "keywords": [
+        "skipping meals digestion",
+        "TCM digestion",
+        "meal rhythm"
+      ],
+      "id": "1311",
+      "published_at": "2026-11-21T08:00:47Z"
     }
   ]
 }
