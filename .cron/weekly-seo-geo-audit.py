@@ -91,7 +91,15 @@ def main():
     live_urls=set(re.findall(r'<(?:\w+:)?loc>\s*(.*?)\s*</(?:\w+:)?loc>',sitemap,re.I|re.S))
     fetched_urls=set(re.findall(r'<(?:\w+:)?loc>\s*(.*?)\s*</(?:\w+:)?loc>',live_sitemap,re.I|re.S)) if sitemap_status != "local-fallback" else set()
     local_urls={p["url"] for p in pages if not p["noindex"] and not p["refresh"]}
+    page_urls={p["url"] for p in pages}
+    missing_zh_mirrors=[]
+    for p in pages:
+        if p["path"].startswith(("zh/", ".cron/")) or p["noindex"] or p["refresh"]: continue
+        if p["path"].startswith(("symptoms/", "treatments/", "tcm-basics/")):
+            zh_path=ROOT / "zh" / p["path"]
+            if not zh_path.exists(): missing_zh_mirrors.append(p["path"])
     blocking=[]; warnings=[]
+    for path in missing_zh_mirrors: blocking.append(("missing_zh_mirror", path))
     noindex_pages=[p for p in pages if p["noindex"]]
     expected_noindex=[p for p in noindex_pages if p["refresh"] or p["canonical"]]
     unexpected_noindex=[p for p in noindex_pages if p not in expected_noindex]
