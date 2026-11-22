@@ -1,19 +1,6 @@
 {
   "queue": [
     {
-      "title": "A TCM-Informed Guide to Screen-Related Eye Dryness",
-      "path": "/symptoms/eye-health/screen-eye-dryness-tcm/",
-      "type": "cluster",
-      "parent": "eye-health",
-      "estimated_read_time": 7,
-      "keywords": [
-        "screen eye dryness",
-        "TCM eye health",
-        "dry eyes"
-      ],
-      "id": "1316"
-    },
-    {
       "title": "Why Stress Can Feel Like a Tight Chest: A TCM Context Guide",
       "path": "/symptoms/stress/stress-chest-tightness-tcm/",
       "type": "cluster",
@@ -16853,6 +16840,20 @@
       ],
       "id": "1315",
       "published_at": "2026-11-22T08:48:04Z"
+    },
+    {
+      "title": "A TCM-Informed Guide to Screen-Related Eye Dryness",
+      "path": "/symptoms/eye-health/screen-eye-dryness-tcm/",
+      "type": "cluster",
+      "parent": "eye-health",
+      "estimated_read_time": 7,
+      "keywords": [
+        "screen eye dryness",
+        "TCM eye health",
+        "dry eyes"
+      ],
+      "id": "1316",
+      "published_at": "2026-11-22T14:57:40Z"
     }
   ]
 }

@@ -187,6 +187,12 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://symptomcalm.com/symptoms/allergies/itchy-eyes-tcm/</loc>
+    <lastmod>2026-11-22</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://symptomcalm.com/symptoms/allergies/latex-allergy-tcm/</loc>
     <lastmod>2026-10-28</lastmod>
     <changefreq>monthly</changefreq>
@@ -213,6 +219,12 @@
   <url>
     <loc>https://symptomcalm.com/symptoms/allergies/nickel-allergy-tcm/</loc>
     <lastmod>2026-10-28</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://symptomcalm.com/symptoms/allergies/nighttime-allergies-tcm/</loc>
+    <lastmod>2026-11-22</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -285,6 +297,12 @@
   <url>
     <loc>https://symptomcalm.com/symptoms/allergies/seasonal-sinus-pressure-tcm/</loc>
     <lastmod>2026-10-28</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://symptomcalm.com/symptoms/allergies/seasonal-sneezing-tcm/</loc>
+    <lastmod>2026-11-22</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -1021,6 +1039,12 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://symptomcalm.com/symptoms/digestion/afternoon-sugar-cravings-tcm/</loc>
+    <lastmod>2026-11-22</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://symptomcalm.com/symptoms/digestion/anal-fissure-tcm/</loc>
     <lastmod>2026-10-28</lastmod>
     <changefreq>monthly</changefreq>
@@ -1141,8 +1165,20 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://symptomcalm.com/symptoms/digestion/evening-bloating-tcm/</loc>
+    <lastmod>2026-11-22</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://symptomcalm.com/symptoms/digestion/evening-digestive-routine-tcm/</loc>
     <lastmod>2026-10-28</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://symptomcalm.com/symptoms/digestion/evening-snacking-tcm/</loc>
+    <lastmod>2026-11-22</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -1405,6 +1441,12 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://symptomcalm.com/symptoms/digestion/skipping-meals-digestion-tcm/</loc>
+    <lastmod>2026-11-22</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://symptomcalm.com/symptoms/digestion/slow-digestion-tcm/</loc>
     <lastmod>2026-10-28</lastmod>
     <changefreq>monthly</changefreq>
@@ -1437,6 +1479,12 @@
   <url>
     <loc>https://symptomcalm.com/symptoms/digestion/stomach-yin-deficiency/</loc>
     <lastmod>2026-10-28</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://symptomcalm.com/symptoms/digestion/stress-appetite-tcm/</loc>
+    <lastmod>2026-11-22</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -1527,6 +1575,12 @@
   <url>
     <loc>https://symptomcalm.com/symptoms/ear-health-tinnitus/eustachian-tube-dysfunction-tcm/</loc>
     <lastmod>2026-10-28</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://symptomcalm.com/symptoms/ear-health-tinnitus/flight-ear-pressure-tcm/</loc>
+    <lastmod>2026-11-22</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -1903,8 +1957,26 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://symptomcalm.com/symptoms/fatigue/after-lunch-sleepiness-tcm/</loc>
+    <lastmod>2026-11-22</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://symptomcalm.com/symptoms/fatigue/afternoon-brain-fog-tcm/</loc>
+    <lastmod>2026-11-22</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://symptomcalm.com/symptoms/fatigue/afternoon-crash-tcm/</loc>
     <lastmod>2026-10-28</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://symptomcalm.com/symptoms/fatigue/afternoon-energy-dip-tcm/</loc>
+    <lastmod>2026-11-22</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -2181,6 +2253,12 @@
   <url>
     <loc>https://symptomcalm.com/symptoms/fatigue/video-call-fatigue-tcm/</loc>
     <lastmod>2026-10-28</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://symptomcalm.com/symptoms/fatigue/waking-tired-tcm/</loc>
+    <lastmod>2026-11-22</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -2683,6 +2761,12 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://symptomcalm.com/symptoms/insomnia/restless-legs-bedtime-tcm/</loc>
+    <lastmod>2026-11-22</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://symptomcalm.com/symptoms/insomnia/restless-legs-tcm/</loc>
     <lastmod>2026-10-28</lastmod>
     <changefreq>monthly</changefreq>
@@ -2881,6 +2965,12 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://symptomcalm.com/symptoms/joint-pain/cold-hands-tcm/</loc>
+    <lastmod>2026-11-22</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://symptomcalm.com/symptoms/joint-pain/commute-stiffness-tcm/</loc>
     <lastmod>2026-10-28</lastmod>
     <changefreq>monthly</changefreq>
@@ -2947,6 +3037,12 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://symptomcalm.com/symptoms/joint-pain/heavy-shoulders-tcm/</loc>
+    <lastmod>2026-11-22</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://symptomcalm.com/symptoms/joint-pain/heel-pain-tcm/</loc>
     <lastmod>2026-10-28</lastmod>
     <changefreq>monthly</changefreq>
@@ -2967,6 +3063,12 @@
   <url>
     <loc>https://symptomcalm.com/symptoms/joint-pain/</loc>
     <lastmod>2026-10-28</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://symptomcalm.com/symptoms/joint-pain/jaw-tension-tcm/</loc>
+    <lastmod>2026-11-22</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -3061,6 +3163,12 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://symptomcalm.com/symptoms/joint-pain/screen-neck-stiffness-tcm/</loc>
+    <lastmod>2026-11-22</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://symptomcalm.com/symptoms/joint-pain/shin-splints-tcm/</loc>
     <lastmod>2026-10-28</lastmod>
     <changefreq>monthly</changefreq>
@@ -3103,8 +3211,20 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://symptomcalm.com/symptoms/joint-pain/tight-calves-after-sitting-tcm/</loc>
+    <lastmod>2026-11-22</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://symptomcalm.com/symptoms/joint-pain/tmj-tcm/</loc>
     <lastmod>2026-10-28</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://symptomcalm.com/symptoms/joint-pain/travel-day-neck-stiffness-tcm/</loc>
+    <lastmod>2026-11-22</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -3517,6 +3637,12 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://symptomcalm.com/symptoms/respiratory-health/dry-tickly-throat-tcm/</loc>
+    <lastmod>2026-11-22</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://symptomcalm.com/symptoms/respiratory-health/globus-sensation-tcm/</loc>
     <lastmod>2026-10-28</lastmod>
     <changefreq>monthly</changefreq>
@@ -3537,6 +3663,12 @@
   <url>
     <loc>https://symptomcalm.com/symptoms/respiratory-health/</loc>
     <lastmod>2026-10-28</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://symptomcalm.com/symptoms/respiratory-health/indoor-dry-nose-tcm/</loc>
+    <lastmod>2026-11-22</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -3705,6 +3837,12 @@
   <url>
     <loc>https://symptomcalm.com/symptoms/respiratory-health/vocal-cord-dysfunction-tcm/</loc>
     <lastmod>2026-10-28</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://symptomcalm.com/symptoms/respiratory-health/voice-fatigue-after-talking-tcm/</loc>
+    <lastmod>2026-11-22</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -3895,6 +4033,12 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://symptomcalm.com/symptoms/skin-conditions/eczema-flare-patterns-tcm/</loc>
+    <lastmod>2026-11-22</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://symptomcalm.com/symptoms/skin-conditions/eczema-flare-tcm/</loc>
     <lastmod>2026-11-09</lastmod>
     <changefreq>monthly</changefreq>
@@ -4005,6 +4149,18 @@
   <url>
     <loc>https://symptomcalm.com/symptoms/skin-conditions/itchy-scalp-tcm/</loc>
     <lastmod>2026-10-28</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://symptomcalm.com/symptoms/skin-conditions/itchy-skin-after-hot-shower-tcm/</loc>
+    <lastmod>2026-11-22</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://symptomcalm.com/symptoms/skin-conditions/itchy-skin-after-shower-tcm/</loc>
+    <lastmod>2026-11-22</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -4233,6 +4389,12 @@
   <url>
     <loc>https://symptomcalm.com/symptoms/skin-conditions/warts-tcm/</loc>
     <lastmod>2026-10-28</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://symptomcalm.com/symptoms/skin-conditions/winter-dry-skin-tcm/</loc>
+    <lastmod>2026-11-22</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -4495,6 +4657,12 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://symptomcalm.com/symptoms/stress/sunday-night-stress-tcm/</loc>
+    <lastmod>2026-11-22</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://symptomcalm.com/symptoms/stress/sunday-scaries-tcm/</loc>
     <lastmod>2026-10-28</lastmod>
     <changefreq>monthly</changefreq>
@@ -4753,8 +4921,20 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://symptomcalm.com/symptoms/womens-health/menstrual-headaches-tcm/</loc>
+    <lastmod>2026-11-22</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://symptomcalm.com/symptoms/womens-health/menstrual-irregularity-tcm/</loc>
     <lastmod>2026-10-28</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://symptomcalm.com/symptoms/womens-health/menstrual-low-back-tension-tcm/</loc>
+    <lastmod>2026-11-22</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -4869,6 +5049,12 @@
   <url>
     <loc>https://symptomcalm.com/symptoms/womens-health/pms-liver-qi/</loc>
     <lastmod>2026-10-28</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://symptomcalm.com/symptoms/womens-health/pms-mood-swings-tcm/</loc>
+    <lastmod>2026-11-22</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -5455,6 +5641,12 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://symptomcalm.com/tcm-basics/rest-and-recovery-tcm/</loc>
+    <lastmod>2026-11-22</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://symptomcalm.com/tcm-basics/seasonal-appetite-tcm/</loc>
     <lastmod>2026-10-28</lastmod>
     <changefreq>monthly</changefreq>
@@ -5463,6 +5655,12 @@
   <url>
     <loc>https://symptomcalm.com/tcm-basics/seasonal-living-tcm/</loc>
     <lastmod>2026-10-28</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://symptomcalm.com/tcm-basics/seasonal-transition-routines-tcm/</loc>
+    <lastmod>2026-11-22</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -5599,6 +5797,12 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://symptomcalm.com/tcm-basics/tcm-pattern-identification-explained/</loc>
+    <lastmod>2026-11-22</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://symptomcalm.com/tcm-basics/tcm-view-of-exercise/</loc>
     <lastmod>2026-10-28</lastmod>
     <changefreq>monthly</changefreq>
@@ -5631,6 +5835,12 @@
   <url>
     <loc>https://symptomcalm.com/tcm-basics/three-treasures-tcm/</loc>
     <lastmod>2026-10-28</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://symptomcalm.com/tcm-basics/time-zone-adjustment-tcm/</loc>
+    <lastmod>2026-11-22</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -5887,6 +6097,12 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://symptomcalm.com/treatments/acupressure-morning-alertness-tcm/</loc>
+    <lastmod>2026-11-22</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://symptomcalm.com/treatments/acupressure-neck-pain-tcm/</loc>
     <lastmod>2026-10-28</lastmod>
     <changefreq>monthly</changefreq>
@@ -5895,6 +6111,12 @@
   <url>
     <loc>https://symptomcalm.com/treatments/acupressure-pain-management/</loc>
     <lastmod>2026-10-28</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://symptomcalm.com/treatments/acupressure-pressure-guide/</loc>
+    <lastmod>2026-11-22</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -6409,6 +6631,12 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://symptomcalm.com/treatments/foot-soak-busy-mind-tcm/</loc>
+    <lastmod>2026-11-22</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://symptomcalm.com/treatments/foot-soak-night-routine-tcm/</loc>
     <lastmod>2026-10-28</lastmod>
     <changefreq>monthly</changefreq>
@@ -6433,6 +6661,12 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://symptomcalm.com/treatments/gua-sha-calf-tightness/</loc>
+    <lastmod>2026-11-22</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://symptomcalm.com/treatments/gua-sha-face-tcm/</loc>
     <lastmod>2026-10-28</lastmod>
     <changefreq>monthly</changefreq>
@@ -6451,8 +6685,20 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://symptomcalm.com/treatments/gua-sha-forearm-tension/</loc>
+    <lastmod>2026-11-22</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://symptomcalm.com/treatments/gua-sha-forearm-wrist-tcm/</loc>
     <lastmod>2026-10-28</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://symptomcalm.com/treatments/gua-sha-hand-tension-tcm/</loc>
+    <lastmod>2026-11-22</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -7039,6 +7285,12 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://symptomcalm.com/treatments/qigong-desk-breaks-tcm/</loc>
+    <lastmod>2026-11-22</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://symptomcalm.com/treatments/qigong-digestion-tcm/</loc>
     <lastmod>2026-10-28</lastmod>
     <changefreq>monthly</changefreq>
@@ -7363,6 +7615,12 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://symptomcalm.com/treatments/warm-compress-lower-back-tcm/</loc>
+    <lastmod>2026-11-22</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://symptomcalm.com/treatments/warm-compress-tcm-guide/</loc>
     <lastmod>2026-10-28</lastmod>
     <changefreq>monthly</changefreq>
@@ -7419,6 +7677,12 @@
   <url>
     <loc>https://symptomcalm.com/zh/symptoms/allergies/allergy-diet-tcm/</loc>
     <lastmod>2026-10-28</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://symptomcalm.com/zh/symptoms/allergies/allergy-ear-pressure-tcm/</loc>
+    <lastmod>2026-11-21</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -7483,6 +7747,12 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://symptomcalm.com/zh/symptoms/allergies/dust-allergy-tcm/</loc>
+    <lastmod>2026-11-21</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://symptomcalm.com/zh/symptoms/allergies/dust-mite-allergy-tcm/</loc>
     <lastmod>2026-10-28</lastmod>
     <changefreq>monthly</changefreq>
@@ -7537,6 +7807,18 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://symptomcalm.com/zh/symptoms/allergies/itchy-eyes-seasonal-tcm/</loc>
+    <lastmod>2026-11-21</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://symptomcalm.com/zh/symptoms/allergies/itchy-eyes-tcm/</loc>
+    <lastmod>2026-11-22</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://symptomcalm.com/zh/symptoms/allergies/latex-allergy-tcm/</loc>
     <lastmod>2026-10-28</lastmod>
     <changefreq>monthly</changefreq>
@@ -7567,8 +7849,20 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://symptomcalm.com/zh/symptoms/allergies/nighttime-allergies-tcm/</loc>
+    <lastmod>2026-11-22</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://symptomcalm.com/zh/symptoms/allergies/pet-allergies-tcm/</loc>
     <lastmod>2026-10-28</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://symptomcalm.com/zh/symptoms/allergies/pet-allergy-tcm/</loc>
+    <lastmod>2026-11-22</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -7591,6 +7885,12 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://symptomcalm.com/zh/symptoms/allergies/pollen-season-patterns-tcm/</loc>
+    <lastmod>2026-11-22</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://symptomcalm.com/zh/symptoms/allergies/ragweed-allergy-tcm/</loc>
     <lastmod>2026-10-28</lastmod>
     <changefreq>monthly</changefreq>
@@ -7603,14 +7903,44 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://symptomcalm.com/zh/symptoms/allergies/seasonal-allergies-tcm/</loc>
+    <lastmod>2026-11-22</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://symptomcalm.com/zh/symptoms/allergies/seasonal-allergy-patterns-tcm/</loc>
+    <lastmod>2026-11-22</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://symptomcalm.com/zh/symptoms/allergies/seasonal-allergy-prep-tcm/</loc>
     <lastmod>2026-10-28</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://symptomcalm.com/zh/symptoms/allergies/seasonal-sinus-pressure-tcm/</loc>
+    <lastmod>2026-11-22</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://symptomcalm.com/zh/symptoms/allergies/seasonal-sneezing-tcm/</loc>
+    <lastmod>2026-11-22</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://symptomcalm.com/zh/symptoms/allergies/skin-allergy-tcm/</loc>
     <lastmod>2026-10-28</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://symptomcalm.com/zh/symptoms/allergies/solar-urticaria-tcm/</loc>
+    <lastmod>2026-11-22</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -7657,6 +7987,12 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://symptomcalm.com/zh/symptoms/anxiety/afternoon-anxiety-acupressure-tcm/</loc>
+    <lastmod>2026-11-22</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://symptomcalm.com/zh/symptoms/anxiety/agoraphobia-tcm/</loc>
     <lastmod>2026-10-28</lastmod>
     <changefreq>monthly</changefreq>
@@ -7699,6 +8035,12 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://symptomcalm.com/zh/symptoms/anxiety/breathing-exercises-tcm/</loc>
+    <lastmod>2026-11-22</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://symptomcalm.com/zh/symptoms/anxiety/catastrophizing-tcm/</loc>
     <lastmod>2026-10-28</lastmod>
     <changefreq>monthly</changefreq>
@@ -7713,6 +8055,12 @@
   <url>
     <loc>https://symptomcalm.com/zh/symptoms/anxiety/death-anxiety-tcm/</loc>
     <lastmod>2026-10-28</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://symptomcalm.com/zh/symptoms/anxiety/decision-fatigue-tcm/</loc>
+    <lastmod>2026-11-22</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -7737,6 +8085,12 @@
   <url>
     <loc>https://symptomcalm.com/zh/symptoms/anxiety/emetophobia-tcm/</loc>
     <lastmod>2026-10-28</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://symptomcalm.com/zh/symptoms/anxiety/evening-anxiety-transition-tcm/</loc>
+    <lastmod>2026-11-22</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -7819,6 +8173,12 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://symptomcalm.com/zh/symptoms/anxiety/notification-anxiety-tcm/</loc>
+    <lastmod>2026-11-22</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://symptomcalm.com/zh/symptoms/anxiety/overthinking-tcm/</loc>
     <lastmod>2026-10-28</lastmod>
     <changefreq>monthly</changefreq>
@@ -7869,6 +8229,12 @@
   <url>
     <loc>https://symptomcalm.com/zh/symptoms/anxiety/relationship-anxiety-tcm/</loc>
     <lastmod>2026-10-28</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://symptomcalm.com/zh/symptoms/anxiety/remote-work-anxiety-tcm/</loc>
+    <lastmod>2026-11-22</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -7951,6 +8317,12 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://symptomcalm.com/zh/symptoms/anxiety/workday-anxiety-tcm/</loc>
+    <lastmod>2026-11-22</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://symptomcalm.com/zh/symptoms/back-pain/acupressure-back-pain-tcm/</loc>
     <lastmod>2026-10-28</lastmod>
     <changefreq>monthly</changefreq>
@@ -8005,8 +8377,20 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://symptomcalm.com/zh/symptoms/back-pain/cervical-spondylosis-tcm/</loc>
+    <lastmod>2026-11-22</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://symptomcalm.com/zh/symptoms/back-pain/coccyx-pain-tcm/</loc>
     <lastmod>2026-10-28</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://symptomcalm.com/zh/symptoms/back-pain/cold-feet-night-tcm/</loc>
+    <lastmod>2026-11-22</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -8023,8 +8407,26 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://symptomcalm.com/zh/symptoms/back-pain/desk-low-back-tension-tcm/</loc>
+    <lastmod>2026-11-22</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://symptomcalm.com/zh/symptoms/back-pain/desk-neck-mobility-tcm/</loc>
+    <lastmod>2026-11-22</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://symptomcalm.com/zh/symptoms/back-pain/desk-posture-tcm/</loc>
     <lastmod>2026-10-28</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://symptomcalm.com/zh/symptoms/back-pain/driving-back-pain-tcm/</loc>
+    <lastmod>2026-11-22</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -8173,6 +8575,12 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://symptomcalm.com/zh/symptoms/back-pain/sitting-back-pain-tcm/</loc>
+    <lastmod>2026-11-22</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://symptomcalm.com/zh/symptoms/back-pain/sitting-back-stiffness-tcm/</loc>
     <lastmod>2026-10-28</lastmod>
     <changefreq>monthly</changefreq>
@@ -8233,6 +8641,12 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://symptomcalm.com/zh/symptoms/back-pain/weather-joint-stiffness-tcm/</loc>
+    <lastmod>2026-11-22</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://symptomcalm.com/zh/symptoms/back-pain/whiplash-tcm/</loc>
     <lastmod>2026-10-28</lastmod>
     <changefreq>monthly</changefreq>
@@ -8257,6 +8671,12 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://symptomcalm.com/zh/symptoms/digestion/afternoon-sugar-cravings-tcm/</loc>
+    <lastmod>2026-11-22</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://symptomcalm.com/zh/symptoms/digestion/anal-fissure-tcm/</loc>
     <lastmod>2026-10-28</lastmod>
     <changefreq>monthly</changefreq>
@@ -8277,6 +8697,12 @@
   <url>
     <loc>https://symptomcalm.com/zh/symptoms/digestion/belching-bloating-tcm/</loc>
     <lastmod>2026-10-28</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://symptomcalm.com/zh/symptoms/digestion/belching-tcm/</loc>
+    <lastmod>2026-11-22</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -8371,8 +8797,20 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://symptomcalm.com/zh/symptoms/digestion/evening-bloating-tcm/</loc>
+    <lastmod>2026-11-22</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://symptomcalm.com/zh/symptoms/digestion/evening-digestive-routine-tcm/</loc>
     <lastmod>2026-10-28</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://symptomcalm.com/zh/symptoms/digestion/evening-snacking-tcm/</loc>
+    <lastmod>2026-11-22</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -8575,6 +9013,12 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://symptomcalm.com/zh/symptoms/digestion/meal-timing-digestion-tcm/</loc>
+    <lastmod>2026-11-22</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://symptomcalm.com/zh/symptoms/digestion/morning-nausea-tcm/</loc>
     <lastmod>2026-10-28</lastmod>
     <changefreq>monthly</changefreq>
@@ -8599,8 +9043,20 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://symptomcalm.com/zh/symptoms/digestion/post-meal-bloating-tcm/</loc>
+    <lastmod>2026-11-22</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://symptomcalm.com/zh/symptoms/digestion/post-meal-sleepiness-tcm/</loc>
     <lastmod>2026-10-28</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://symptomcalm.com/zh/symptoms/digestion/restaurant-meal-bloating-tcm/</loc>
+    <lastmod>2026-11-22</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -8613,6 +9069,12 @@
   <url>
     <loc>https://symptomcalm.com/zh/symptoms/digestion/sibo-tcm/</loc>
     <lastmod>2026-10-28</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://symptomcalm.com/zh/symptoms/digestion/skipping-meals-digestion-tcm/</loc>
+    <lastmod>2026-11-22</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -8653,8 +9115,20 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://symptomcalm.com/zh/symptoms/digestion/stress-appetite-tcm/</loc>
+    <lastmod>2026-11-22</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://symptomcalm.com/zh/symptoms/digestion/sugar-addiction-tcm/</loc>
     <lastmod>2026-10-28</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://symptomcalm.com/zh/symptoms/digestion/travel-constipation-tcm/</loc>
+    <lastmod>2026-11-22</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -8725,8 +9199,20 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://symptomcalm.com/zh/symptoms/ear-health-tinnitus/elevator-ear-pressure-tcm/</loc>
+    <lastmod>2026-11-22</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://symptomcalm.com/zh/symptoms/ear-health-tinnitus/eustachian-tube-dysfunction-tcm/</loc>
     <lastmod>2026-10-28</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://symptomcalm.com/zh/symptoms/ear-health-tinnitus/flight-ear-pressure-tcm/</loc>
+    <lastmod>2026-11-22</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -9079,6 +9565,12 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://symptomcalm.com/zh/symptoms/eye-health/video-call-eye-fatigue-tcm/</loc>
+    <lastmod>2026-11-22</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://symptomcalm.com/zh/symptoms/eye-health/vision-protection-tcm/</loc>
     <lastmod>2026-10-28</lastmod>
     <changefreq>monthly</changefreq>
@@ -9097,8 +9589,26 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://symptomcalm.com/zh/symptoms/fatigue/after-lunch-sleepiness-tcm/</loc>
+    <lastmod>2026-11-22</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://symptomcalm.com/zh/symptoms/fatigue/afternoon-brain-fog-tcm/</loc>
+    <lastmod>2026-11-22</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://symptomcalm.com/zh/symptoms/fatigue/afternoon-crash-tcm/</loc>
     <lastmod>2026-10-28</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://symptomcalm.com/zh/symptoms/fatigue/afternoon-energy-dip-tcm/</loc>
+    <lastmod>2026-11-22</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -9147,6 +9657,12 @@
   <url>
     <loc>https://symptomcalm.com/zh/symptoms/fatigue/cold-hands-feet-tcm/</loc>
     <lastmod>2026-10-28</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://symptomcalm.com/zh/symptoms/fatigue/cold-weather-fatigue-tcm/</loc>
+    <lastmod>2026-11-22</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -9225,6 +9741,12 @@
   <url>
     <loc>https://symptomcalm.com/zh/symptoms/fatigue/menstrual-fatigue-tcm/</loc>
     <lastmod>2026-10-28</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://symptomcalm.com/zh/symptoms/fatigue/mental-fatigue-tcm/</loc>
+    <lastmod>2026-11-22</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -9349,8 +9871,26 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://symptomcalm.com/zh/symptoms/fatigue/tcm-morning-routine-energy/</loc>
+    <lastmod>2026-11-22</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://symptomcalm.com/zh/symptoms/fatigue/travel-fatigue-tcm/</loc>
+    <lastmod>2026-11-22</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://symptomcalm.com/zh/symptoms/fatigue/video-call-fatigue-tcm/</loc>
     <lastmod>2026-10-28</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://symptomcalm.com/zh/symptoms/fatigue/waking-tired-tcm/</loc>
+    <lastmod>2026-11-22</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -9363,6 +9903,12 @@
   <url>
     <loc>https://symptomcalm.com/zh/symptoms/headaches/abdominal-migraine-tcm/</loc>
     <lastmod>2026-10-28</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://symptomcalm.com/zh/symptoms/headaches/afternoon-headaches-tcm/</loc>
+    <lastmod>2026-11-22</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -9427,6 +9973,12 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://symptomcalm.com/zh/symptoms/headaches/headache-after-screen-break-tcm/</loc>
+    <lastmod>2026-11-22</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://symptomcalm.com/zh/symptoms/headaches/headache-behind-eye-tcm/</loc>
     <lastmod>2026-10-28</lastmod>
     <changefreq>monthly</changefreq>
@@ -9483,6 +10035,12 @@
   <url>
     <loc>https://symptomcalm.com/zh/symptoms/headaches/liver-fire-headaches/</loc>
     <lastmod>2026-10-28</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://symptomcalm.com/zh/symptoms/headaches/meeting-tension-headache-tcm/</loc>
+    <lastmod>2026-11-22</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -9589,6 +10147,12 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://symptomcalm.com/zh/symptoms/headaches/weather-pressure-headache-tcm/</loc>
+    <lastmod>2026-11-22</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://symptomcalm.com/zh/symptoms/headaches/weekend-headache-tcm/</loc>
     <lastmod>2026-10-28</lastmod>
     <changefreq>monthly</changefreq>
@@ -9633,6 +10197,12 @@
   <url>
     <loc>https://symptomcalm.com/zh/symptoms/insomnia/circadian-rhythm-tcm/</loc>
     <lastmod>2026-10-28</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://symptomcalm.com/zh/symptoms/insomnia/dry-mouth-sleep-tcm/</loc>
+    <lastmod>2026-11-22</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -9775,6 +10345,12 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://symptomcalm.com/zh/symptoms/insomnia/orthosomnia-tcm/</loc>
+    <lastmod>2026-11-22</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://symptomcalm.com/zh/symptoms/insomnia/oversleeping-tcm/</loc>
     <lastmod>2026-10-28</lastmod>
     <changefreq>monthly</changefreq>
@@ -9817,8 +10393,20 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://symptomcalm.com/zh/symptoms/insomnia/restless-legs-bedtime-tcm/</loc>
+    <lastmod>2026-11-22</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://symptomcalm.com/zh/symptoms/insomnia/restless-legs-tcm/</loc>
     <lastmod>2026-10-28</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://symptomcalm.com/zh/symptoms/insomnia/screens-bedtime-restlessness-tcm/</loc>
+    <lastmod>2026-11-22</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -9913,6 +10501,12 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://symptomcalm.com/zh/symptoms/insomnia/sunday-scaries-sleep-tcm/</loc>
+    <lastmod>2026-11-22</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://symptomcalm.com/zh/symptoms/insomnia/teeth-grinding-tcm/</loc>
     <lastmod>2026-10-28</lastmod>
     <changefreq>monthly</changefreq>
@@ -9921,6 +10515,12 @@
   <url>
     <loc>https://symptomcalm.com/zh/symptoms/insomnia/travel-sleep-tcm/</loc>
     <lastmod>2026-10-28</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://symptomcalm.com/zh/symptoms/insomnia/weekend-sleep-tcm/</loc>
+    <lastmod>2026-11-22</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -9979,8 +10579,32 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://symptomcalm.com/zh/symptoms/joint-pain/cold-feet-tcm/</loc>
+    <lastmod>2026-11-22</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://symptomcalm.com/zh/symptoms/joint-pain/cold-hands-at-desk-tcm/</loc>
+    <lastmod>2026-11-22</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://symptomcalm.com/zh/symptoms/joint-pain/cold-hands-tcm/</loc>
+    <lastmod>2026-11-22</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://symptomcalm.com/zh/symptoms/joint-pain/commute-stiffness-tcm/</loc>
     <lastmod>2026-10-28</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://symptomcalm.com/zh/symptoms/joint-pain/desk-neck-tension-tcm/</loc>
+    <lastmod>2026-11-22</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -10039,6 +10663,12 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://symptomcalm.com/zh/symptoms/joint-pain/heavy-shoulders-tcm/</loc>
+    <lastmod>2026-11-22</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://symptomcalm.com/zh/symptoms/joint-pain/heel-pain-tcm/</loc>
     <lastmod>2026-10-28</lastmod>
     <changefreq>monthly</changefreq>
@@ -10063,6 +10693,12 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://symptomcalm.com/zh/symptoms/joint-pain/jaw-tension-tcm/</loc>
+    <lastmod>2026-11-22</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://symptomcalm.com/zh/symptoms/joint-pain/joint-health-diet-tcm/</loc>
     <lastmod>2026-10-28</lastmod>
     <changefreq>monthly</changefreq>
@@ -10077,6 +10713,18 @@
   <url>
     <loc>https://symptomcalm.com/zh/symptoms/joint-pain/leg-cramps-tcm/</loc>
     <lastmod>2026-10-28</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://symptomcalm.com/zh/symptoms/joint-pain/morning-stiffness-tcm/</loc>
+    <lastmod>2026-11-22</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://symptomcalm.com/zh/symptoms/joint-pain/mortons-neuroma-tcm/</loc>
+    <lastmod>2026-11-22</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -10123,6 +10771,12 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://symptomcalm.com/zh/symptoms/joint-pain/screen-neck-stiffness-tcm/</loc>
+    <lastmod>2026-11-22</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://symptomcalm.com/zh/symptoms/joint-pain/shin-splints-tcm/</loc>
     <lastmod>2026-10-28</lastmod>
     <changefreq>monthly</changefreq>
@@ -10131,6 +10785,18 @@
   <url>
     <loc>https://symptomcalm.com/zh/symptoms/joint-pain/shoulder-pain-tcm/</loc>
     <lastmod>2026-10-28</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://symptomcalm.com/zh/symptoms/joint-pain/shoulders-creep-up-desk-tcm/</loc>
+    <lastmod>2026-11-22</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://symptomcalm.com/zh/symptoms/joint-pain/stairs-knee-tension-tcm/</loc>
+    <lastmod>2026-11-22</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -10153,8 +10819,20 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://symptomcalm.com/zh/symptoms/joint-pain/tight-calves-after-sitting-tcm/</loc>
+    <lastmod>2026-11-22</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://symptomcalm.com/zh/symptoms/joint-pain/tmj-tcm/</loc>
     <lastmod>2026-10-28</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://symptomcalm.com/zh/symptoms/joint-pain/travel-day-neck-stiffness-tcm/</loc>
+    <lastmod>2026-11-22</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -10209,6 +10887,12 @@
   <url>
     <loc>https://symptomcalm.com/zh/symptoms/mental-emotional-health/brain-fog-tcm/</loc>
     <lastmod>2026-10-28</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://symptomcalm.com/zh/symptoms/mental-emotional-health/crying-tcm/</loc>
+    <lastmod>2026-11-22</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -10327,6 +11011,12 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://symptomcalm.com/zh/symptoms/mental-emotional-health/inner-critic-tcm/</loc>
+    <lastmod>2026-11-22</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://symptomcalm.com/zh/symptoms/mental-emotional-health/jealousy-tcm/</loc>
     <lastmod>2026-10-28</lastmod>
     <changefreq>monthly</changefreq>
@@ -10417,6 +11107,12 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://symptomcalm.com/zh/symptoms/mental-emotional-health/self-esteem-tcm/</loc>
+    <lastmod>2026-11-22</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://symptomcalm.com/zh/symptoms/mental-emotional-health/shame-tcm/</loc>
     <lastmod>2026-10-28</lastmod>
     <changefreq>monthly</changefreq>
@@ -10489,6 +11185,12 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://symptomcalm.com/zh/symptoms/respiratory-health/cold-air-cough-tcm/</loc>
+    <lastmod>2026-11-22</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://symptomcalm.com/zh/symptoms/respiratory-health/cold-flu-tcm/</loc>
     <lastmod>2026-10-28</lastmod>
     <changefreq>monthly</changefreq>
@@ -10513,6 +11215,18 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://symptomcalm.com/zh/symptoms/respiratory-health/croup-tcm/</loc>
+    <lastmod>2026-11-22</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://symptomcalm.com/zh/symptoms/respiratory-health/dry-air-nasal-irritation-tcm/</loc>
+    <lastmod>2026-11-22</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://symptomcalm.com/zh/symptoms/respiratory-health/dry-cough-tcm/</loc>
     <lastmod>2026-10-28</lastmod>
     <changefreq>monthly</changefreq>
@@ -10521,6 +11235,12 @@
   <url>
     <loc>https://symptomcalm.com/zh/symptoms/respiratory-health/dry-nose-tcm/</loc>
     <lastmod>2026-10-28</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://symptomcalm.com/zh/symptoms/respiratory-health/dry-tickly-throat-tcm/</loc>
+    <lastmod>2026-11-22</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -10549,6 +11269,12 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://symptomcalm.com/zh/symptoms/respiratory-health/indoor-dry-nose-tcm/</loc>
+    <lastmod>2026-11-22</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://symptomcalm.com/zh/symptoms/respiratory-health/laryngitis-tcm/</loc>
     <lastmod>2026-10-28</lastmod>
     <changefreq>monthly</changefreq>
@@ -10569,6 +11295,12 @@
   <url>
     <loc>https://symptomcalm.com/zh/symptoms/respiratory-health/lung-qi-exercises-tcm/</loc>
     <lastmod>2026-10-28</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://symptomcalm.com/zh/symptoms/respiratory-health/morning-nasal-congestion-tcm/</loc>
+    <lastmod>2026-11-22</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -10663,6 +11395,12 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://symptomcalm.com/zh/symptoms/respiratory-health/sinus-pressure-tcm/</loc>
+    <lastmod>2026-11-22</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://symptomcalm.com/zh/symptoms/respiratory-health/sinus-rinse-tcm/</loc>
     <lastmod>2026-10-28</lastmod>
     <changefreq>monthly</changefreq>
@@ -10705,6 +11443,12 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://symptomcalm.com/zh/symptoms/respiratory-health/voice-fatigue-after-talking-tcm/</loc>
+    <lastmod>2026-11-22</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://symptomcalm.com/zh/symptoms/respiratory-health/voice-fatigue-tcm/</loc>
     <lastmod>2026-10-28</lastmod>
     <changefreq>monthly</changefreq>
@@ -10743,6 +11487,12 @@
   <url>
     <loc>https://symptomcalm.com/zh/symptoms/sinus-health/sinus-pressure-facial-tension-tcm/</loc>
     <lastmod>2026-10-28</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://symptomcalm.com/zh/symptoms/sinus-health/sinus-pressure-tcm/</loc>
+    <lastmod>2026-11-22</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -10825,6 +11575,12 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://symptomcalm.com/zh/symptoms/skin-conditions/corns-calluses-tcm/</loc>
+    <lastmod>2026-11-22</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://symptomcalm.com/zh/symptoms/skin-conditions/cracked-heels-tcm/</loc>
     <lastmod>2026-10-28</lastmod>
     <changefreq>monthly</changefreq>
@@ -10855,6 +11611,12 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://symptomcalm.com/zh/symptoms/skin-conditions/dry-itchy-skin-tcm/</loc>
+    <lastmod>2026-11-22</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://symptomcalm.com/zh/symptoms/skin-conditions/dry-skin-tcm/</loc>
     <lastmod>2026-10-28</lastmod>
     <changefreq>monthly</changefreq>
@@ -10869,6 +11631,18 @@
   <url>
     <loc>https://symptomcalm.com/zh/symptoms/skin-conditions/eczema-diet-tcm/</loc>
     <lastmod>2026-10-28</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://symptomcalm.com/zh/symptoms/skin-conditions/eczema-flare-patterns-tcm/</loc>
+    <lastmod>2026-11-22</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://symptomcalm.com/zh/symptoms/skin-conditions/eczema-flare-tcm/</loc>
+    <lastmod>2026-11-22</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -10971,6 +11745,30 @@
   <url>
     <loc>https://symptomcalm.com/zh/symptoms/skin-conditions/ingrown-hairs-tcm/</loc>
     <lastmod>2026-10-28</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://symptomcalm.com/zh/symptoms/skin-conditions/itchy-scalp-tcm/</loc>
+    <lastmod>2026-11-22</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://symptomcalm.com/zh/symptoms/skin-conditions/itchy-skin-after-hot-shower-tcm/</loc>
+    <lastmod>2026-11-22</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://symptomcalm.com/zh/symptoms/skin-conditions/itchy-skin-after-shower-tcm/</loc>
+    <lastmod>2026-11-22</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://symptomcalm.com/zh/symptoms/skin-conditions/itchy-skin-at-night-tcm/</loc>
+    <lastmod>2026-11-22</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -11083,6 +11881,12 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://symptomcalm.com/zh/symptoms/skin-conditions/seasonal-dry-skin-tcm/</loc>
+    <lastmod>2026-11-22</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://symptomcalm.com/zh/symptoms/skin-conditions/seasonal-skin-dryness-tcm/</loc>
     <lastmod>2026-10-28</lastmod>
     <changefreq>monthly</changefreq>
@@ -11107,6 +11911,12 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://symptomcalm.com/zh/symptoms/skin-conditions/skin-dryness-after-shower-tcm/</loc>
+    <lastmod>2026-11-22</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://symptomcalm.com/zh/symptoms/skin-conditions/skin-picking-tcm/</loc>
     <lastmod>2026-10-28</lastmod>
     <changefreq>monthly</changefreq>
@@ -11115,6 +11925,12 @@
   <url>
     <loc>https://symptomcalm.com/zh/symptoms/skin-conditions/skin-tags-tcm/</loc>
     <lastmod>2026-10-28</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://symptomcalm.com/zh/symptoms/skin-conditions/skin-tightness-tcm/</loc>
+    <lastmod>2026-11-22</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -11179,6 +11995,12 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://symptomcalm.com/zh/symptoms/skin-conditions/winter-dry-skin-tcm/</loc>
+    <lastmod>2026-11-22</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://symptomcalm.com/zh/symptoms/skin-conditions/winter-eczema-tcm/</loc>
     <lastmod>2026-10-28</lastmod>
     <changefreq>monthly</changefreq>
@@ -11187,6 +12009,12 @@
   <url>
     <loc>https://symptomcalm.com/zh/symptoms/skin-conditions/winter-skin-care-tcm/</loc>
     <lastmod>2026-10-28</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://symptomcalm.com/zh/symptoms/skin-conditions/winter-skin-tightness-tcm/</loc>
+    <lastmod>2026-11-22</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -11223,6 +12051,12 @@
   <url>
     <loc>https://symptomcalm.com/zh/symptoms/stress/chronic-stress-physical-tcm/</loc>
     <lastmod>2026-10-28</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://symptomcalm.com/zh/symptoms/stress/clutter-stress-tcm/</loc>
+    <lastmod>2026-11-22</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -11275,8 +12109,26 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://symptomcalm.com/zh/symptoms/stress/inbox-overload-tcm/</loc>
+    <lastmod>2026-11-22</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://symptomcalm.com/zh/symptoms/stress/inbox-stress-tcm/</loc>
+    <lastmod>2026-11-22</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://symptomcalm.com/zh/symptoms/stress/</loc>
     <lastmod>2026-10-28</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://symptomcalm.com/zh/symptoms/stress/jaw-clenching-sleep-tcm/</loc>
+    <lastmod>2026-11-22</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -11365,6 +12217,12 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://symptomcalm.com/zh/symptoms/stress/stress-heavy-chest-tcm/</loc>
+    <lastmod>2026-11-22</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://symptomcalm.com/zh/symptoms/stress/stress-hormones-tcm/</loc>
     <lastmod>2026-10-28</lastmod>
     <changefreq>monthly</changefreq>
@@ -11379,6 +12237,12 @@
   <url>
     <loc>https://symptomcalm.com/zh/symptoms/stress/stress-skin-tcm/</loc>
     <lastmod>2026-10-28</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://symptomcalm.com/zh/symptoms/stress/sunday-night-stress-tcm/</loc>
+    <lastmod>2026-11-22</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -11409,6 +12273,18 @@
   <url>
     <loc>https://symptomcalm.com/zh/symptoms/stress/wedding-stress-tcm/</loc>
     <lastmod>2026-10-28</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://symptomcalm.com/zh/symptoms/stress/wired-tired-evening-tcm/</loc>
+    <lastmod>2026-11-22</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://symptomcalm.com/zh/symptoms/stress/workday-jaw-clenching-tcm/</loc>
+    <lastmod>2026-11-22</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -11457,6 +12333,12 @@
   <url>
     <loc>https://symptomcalm.com/zh/symptoms/womens-health/chronic-pelvic-pain-tcm/</loc>
     <lastmod>2026-10-28</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://symptomcalm.com/zh/symptoms/womens-health/cycle-related-bloating-tcm/</loc>
+    <lastmod>2026-11-22</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -11533,6 +12415,12 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://symptomcalm.com/zh/symptoms/womens-health/luteal-phase-mood-tcm/</loc>
+    <lastmod>2026-11-22</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://symptomcalm.com/zh/symptoms/womens-health/mastitis-tcm/</loc>
     <lastmod>2026-10-28</lastmod>
     <changefreq>monthly</changefreq>
@@ -11587,8 +12475,32 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://symptomcalm.com/zh/symptoms/womens-health/menstrual-cramps-cold-tcm/</loc>
+    <lastmod>2026-11-22</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://symptomcalm.com/zh/symptoms/womens-health/menstrual-cramps-cycle-map-tcm/</loc>
+    <lastmod>2026-11-22</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://symptomcalm.com/zh/symptoms/womens-health/menstrual-headaches-tcm/</loc>
+    <lastmod>2026-11-22</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://symptomcalm.com/zh/symptoms/womens-health/menstrual-irregularity-tcm/</loc>
     <lastmod>2026-10-28</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://symptomcalm.com/zh/symptoms/womens-health/menstrual-low-back-tension-tcm/</loc>
+    <lastmod>2026-11-22</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -11653,6 +12565,12 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://symptomcalm.com/zh/symptoms/womens-health/period-cramps-tcm/</loc>
+    <lastmod>2026-11-22</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://symptomcalm.com/zh/symptoms/womens-health/period-diarrhea-tcm/</loc>
     <lastmod>2026-10-28</lastmod>
     <changefreq>monthly</changefreq>
@@ -11685,6 +12603,18 @@
   <url>
     <loc>https://symptomcalm.com/zh/symptoms/womens-health/pms-diet-tcm/</loc>
     <lastmod>2026-10-28</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://symptomcalm.com/zh/symptoms/womens-health/pms-mood-swings-tcm/</loc>
+    <lastmod>2026-11-22</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://symptomcalm.com/zh/symptoms/womens-health/pms-mood-tcm/</loc>
+    <lastmod>2026-11-22</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -11733,6 +12663,12 @@
   <url>
     <loc>https://symptomcalm.com/zh/symptoms/womens-health/pregnancy-tcm/</loc>
     <lastmod>2026-10-28</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://symptomcalm.com/zh/symptoms/womens-health/premature-ovarian-insufficiency-tcm/</loc>
+    <lastmod>2026-11-22</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -11851,6 +12787,12 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://symptomcalm.com/zh/tcm-basics/constitution-types-tcm/</loc>
+    <lastmod>2026-11-22</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://symptomcalm.com/zh/tcm-basics/damp-heat-tcm/</loc>
     <lastmod>2026-10-28</lastmod>
     <changefreq>monthly</changefreq>
@@ -11871,6 +12813,12 @@
   <url>
     <loc>https://symptomcalm.com/zh/tcm-basics/dreams-tcm/</loc>
     <lastmod>2026-10-28</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://symptomcalm.com/zh/tcm-basics/eight-extraordinary-vessels-tcm/</loc>
+    <lastmod>2026-11-22</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -11929,6 +12877,24 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://symptomcalm.com/zh/tcm-basics/five-elements-seasonal-calendar/</loc>
+    <lastmod>2026-11-22</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://symptomcalm.com/zh/tcm-basics/five-elements-seasonal-living-tcm/</loc>
+    <lastmod>2026-11-22</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://symptomcalm.com/zh/tcm-basics/five-elements-tcm/</loc>
+    <lastmod>2026-11-22</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://symptomcalm.com/zh/tcm-basics/five-flavors-tcm/</loc>
     <lastmod>2026-10-28</lastmod>
     <changefreq>monthly</changefreq>
@@ -11937,6 +12903,12 @@
   <url>
     <loc>https://symptomcalm.com/zh/tcm-basics/five-senses-tcm/</loc>
     <lastmod>2026-10-28</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://symptomcalm.com/zh/tcm-basics/five-shen-tcm/</loc>
+    <lastmod>2026-11-22</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -12079,6 +13051,12 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://symptomcalm.com/zh/tcm-basics/meridian-pathways-tcm/</loc>
+    <lastmod>2026-11-22</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://symptomcalm.com/zh/tcm-basics/meridian-system/</loc>
     <lastmod>2026-10-28</lastmod>
     <changefreq>monthly</changefreq>
@@ -12097,8 +13075,26 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://symptomcalm.com/zh/tcm-basics/meridians-fiber-optic-network-tcm/</loc>
+    <lastmod>2026-11-22</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://symptomcalm.com/zh/tcm-basics/ming-men-life-gate-tcm/</loc>
     <lastmod>2026-10-28</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://symptomcalm.com/zh/tcm-basics/nervous-system-tcm-explained/</loc>
+    <lastmod>2026-11-22</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://symptomcalm.com/zh/tcm-basics/organ-clock-explained-tcm/</loc>
+    <lastmod>2026-11-22</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -12109,8 +13105,20 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://symptomcalm.com/zh/tcm-basics/organ-clock-timing-tcm/</loc>
+    <lastmod>2026-11-22</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://symptomcalm.com/zh/tcm-basics/pattern-differentiation-explained/</loc>
     <lastmod>2026-10-28</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://symptomcalm.com/zh/tcm-basics/pericardium-boundaries-tcm/</loc>
+    <lastmod>2026-11-22</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -12145,6 +13153,12 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://symptomcalm.com/zh/tcm-basics/qi-blood-relationship-explained-tcm/</loc>
+    <lastmod>2026-11-22</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://symptomcalm.com/zh/tcm-basics/qi-blood-relationship-tcm/</loc>
     <lastmod>2026-10-28</lastmod>
     <changefreq>monthly</changefreq>
@@ -12153,6 +13167,12 @@
   <url>
     <loc>https://symptomcalm.com/zh/tcm-basics/qi-deficiency-explained/</loc>
     <lastmod>2026-10-28</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://symptomcalm.com/zh/tcm-basics/qi-operating-system-tcm/</loc>
+    <lastmod>2026-11-22</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -12169,6 +13189,12 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://symptomcalm.com/zh/tcm-basics/rest-and-recovery-tcm/</loc>
+    <lastmod>2026-11-22</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://symptomcalm.com/zh/tcm-basics/seasonal-appetite-tcm/</loc>
     <lastmod>2026-10-28</lastmod>
     <changefreq>monthly</changefreq>
@@ -12177,6 +13203,12 @@
   <url>
     <loc>https://symptomcalm.com/zh/tcm-basics/seasonal-living-tcm/</loc>
     <lastmod>2026-10-28</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://symptomcalm.com/zh/tcm-basics/seasonal-transition-routines-tcm/</loc>
+    <lastmod>2026-11-22</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -12259,8 +13291,20 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://symptomcalm.com/zh/tcm-basics/spleen-stomach-pair-tcm/</loc>
+    <lastmod>2026-11-22</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://symptomcalm.com/zh/tcm-basics/stomach-in-tcm/</loc>
     <lastmod>2026-10-28</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://symptomcalm.com/zh/tcm-basics/stress-response-tcm/</loc>
+    <lastmod>2026-11-22</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -12277,6 +13321,18 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://symptomcalm.com/zh/tcm-basics/tcm-body-clock-explained/</loc>
+    <lastmod>2026-11-22</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://symptomcalm.com/zh/tcm-basics/tcm-body-clock-timing/</loc>
+    <lastmod>2026-11-22</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://symptomcalm.com/zh/tcm-basics/tcm-body-constitution/</loc>
     <lastmod>2026-10-28</lastmod>
     <changefreq>monthly</changefreq>
@@ -12285,6 +13341,12 @@
   <url>
     <loc>https://symptomcalm.com/zh/tcm-basics/tcm-diagnosis-methods/</loc>
     <lastmod>2026-10-28</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://symptomcalm.com/zh/tcm-basics/tcm-pattern-identification-explained/</loc>
+    <lastmod>2026-11-22</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -12325,14 +13387,38 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://symptomcalm.com/zh/tcm-basics/time-zone-adjustment-tcm/</loc>
+    <lastmod>2026-11-22</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://symptomcalm.com/zh/tcm-basics/tongue-coating-tcm/</loc>
+    <lastmod>2026-11-22</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://symptomcalm.com/zh/tcm-basics/tongue-diagnosis-complete-guide/</loc>
     <lastmod>2026-10-28</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://symptomcalm.com/zh/tcm-basics/tongue-diagnosis-explained-tcm/</loc>
+    <lastmod>2026-11-22</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://symptomcalm.com/zh/tcm-basics/tongue-diagnosis-guide/</loc>
     <lastmod>2026-10-28</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://symptomcalm.com/zh/tcm-basics/tongue-diagnosis-tcm/</loc>
+    <lastmod>2026-11-22</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -12363,6 +13449,12 @@
   <url>
     <loc>https://symptomcalm.com/zh/tcm-basics/what-is-qi/</loc>
     <lastmod>2026-10-28</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://symptomcalm.com/zh/tcm-basics/what-is-yang-tcm/</loc>
+    <lastmod>2026-11-22</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -12529,6 +13621,18 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://symptomcalm.com/zh/treatments/acupressure-jaw-tension-tcm/</loc>
+    <lastmod>2026-11-22</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://symptomcalm.com/zh/treatments/acupressure-jet-lag-tcm/</loc>
+    <lastmod>2026-11-22</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://symptomcalm.com/zh/treatments/acupressure-menopause-tcm/</loc>
     <lastmod>2026-10-28</lastmod>
     <changefreq>monthly</changefreq>
@@ -12541,6 +13645,12 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://symptomcalm.com/zh/treatments/acupressure-morning-alertness-tcm/</loc>
+    <lastmod>2026-11-22</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://symptomcalm.com/zh/treatments/acupressure-neck-pain-tcm/</loc>
     <lastmod>2026-10-28</lastmod>
     <changefreq>monthly</changefreq>
@@ -12549,6 +13659,24 @@
   <url>
     <loc>https://symptomcalm.com/zh/treatments/acupressure-pain-management/</loc>
     <lastmod>2026-10-28</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://symptomcalm.com/zh/treatments/acupressure-pressure-guide/</loc>
+    <lastmod>2026-11-22</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://symptomcalm.com/zh/treatments/acupressure-pressure-sensation-guide/</loc>
+    <lastmod>2026-11-22</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://symptomcalm.com/zh/treatments/acupressure-screen-eye-tension/</loc>
+    <lastmod>2026-11-22</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -12573,6 +13701,12 @@
   <url>
     <loc>https://symptomcalm.com/zh/treatments/acupressure-stress-tcm/</loc>
     <lastmod>2026-10-28</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://symptomcalm.com/zh/treatments/acupressure-study-focus-tcm/</loc>
+    <lastmod>2026-11-22</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -12729,6 +13863,12 @@
   <url>
     <loc>https://symptomcalm.com/zh/treatments/cupping-home-guide/</loc>
     <lastmod>2026-10-28</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://symptomcalm.com/zh/treatments/cupping-home-safety-tcm/</loc>
+    <lastmod>2026-11-22</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -12913,6 +14053,12 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://symptomcalm.com/zh/treatments/ear-seeds-focus-tcm/</loc>
+    <lastmod>2026-11-22</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://symptomcalm.com/zh/treatments/foot-baths-anxiety-tcm/</loc>
     <lastmod>2026-10-28</lastmod>
     <changefreq>monthly</changefreq>
@@ -12921,6 +14067,12 @@
   <url>
     <loc>https://symptomcalm.com/zh/treatments/foot-baths-cold-feet-tcm/</loc>
     <lastmod>2026-10-28</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://symptomcalm.com/zh/treatments/foot-baths-cold-hands-tcm/</loc>
+    <lastmod>2026-11-22</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -13027,6 +14179,24 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://symptomcalm.com/zh/treatments/foot-soak-busy-mind-tcm/</loc>
+    <lastmod>2026-11-22</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://symptomcalm.com/zh/treatments/foot-soak-night-routine-tcm/</loc>
+    <lastmod>2026-11-22</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://symptomcalm.com/zh/treatments/foot-soak-safety-tcm/</loc>
+    <lastmod>2026-11-22</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://symptomcalm.com/zh/treatments/gua-sha/</loc>
     <lastmod>2026-10-28</lastmod>
     <changefreq>monthly</changefreq>
@@ -13035,6 +14205,12 @@
   <url>
     <loc>https://symptomcalm.com/zh/treatments/gua-sha-back-pain-tcm/</loc>
     <lastmod>2026-10-28</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://symptomcalm.com/zh/treatments/gua-sha-calf-tightness/</loc>
+    <lastmod>2026-11-22</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -13057,8 +14233,20 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://symptomcalm.com/zh/treatments/gua-sha-forearm-tension/</loc>
+    <lastmod>2026-11-22</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://symptomcalm.com/zh/treatments/gua-sha-forearm-wrist-tcm/</loc>
     <lastmod>2026-10-28</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://symptomcalm.com/zh/treatments/gua-sha-hand-tension-tcm/</loc>
+    <lastmod>2026-11-22</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -13075,8 +14263,20 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://symptomcalm.com/zh/treatments/gua-sha-jaw-tension-tcm/</loc>
+    <lastmod>2026-11-22</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://symptomcalm.com/zh/treatments/gua-sha-joint-pain-tcm/</loc>
     <lastmod>2026-10-28</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://symptomcalm.com/zh/treatments/gua-sha-shoulder-mobility-tcm/</loc>
+    <lastmod>2026-11-22</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -13087,14 +14287,32 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://symptomcalm.com/zh/treatments/gua-sha-temple-tension-tcm/</loc>
+    <lastmod>2026-11-22</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://symptomcalm.com/zh/treatments/gua-sha-therapy/</loc>
     <lastmod>2026-10-28</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://symptomcalm.com/zh/treatments/gua-sha-upper-back-tension/</loc>
+    <lastmod>2026-11-22</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://symptomcalm.com/zh/treatments/gua-sha-womens-health-tcm/</loc>
     <lastmod>2026-10-28</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://symptomcalm.com/zh/treatments/guasha-desk-neck-tension/</loc>
+    <lastmod>2026-11-22</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -13207,6 +14425,12 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://symptomcalm.com/zh/treatments/herbal-compress-basics-tcm/</loc>
+    <lastmod>2026-11-22</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://symptomcalm.com/zh/treatments/herbal-compress-joint-pain-tcm/</loc>
     <lastmod>2026-10-28</lastmod>
     <changefreq>monthly</changefreq>
@@ -13231,6 +14455,12 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://symptomcalm.com/zh/treatments/herbal-steam-nasal-comfort/</loc>
+    <lastmod>2026-11-22</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://symptomcalm.com/zh/treatments/herbal-tea-allergies-tcm/</loc>
     <lastmod>2026-10-28</lastmod>
     <changefreq>monthly</changefreq>
@@ -13245,6 +14475,12 @@
   <url>
     <loc>https://symptomcalm.com/zh/treatments/herbal-tea-digestion-tcm/</loc>
     <lastmod>2026-10-28</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://symptomcalm.com/zh/treatments/herbal-tea-dry-throat-tcm/</loc>
+    <lastmod>2026-11-22</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -13393,6 +14629,12 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://symptomcalm.com/zh/treatments/moxibustion-basics-tcm/</loc>
+    <lastmod>2026-11-22</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://symptomcalm.com/zh/treatments/moxibustion-breech-baby/</loc>
     <lastmod>2026-10-28</lastmod>
     <changefreq>monthly</changefreq>
@@ -13419,6 +14661,12 @@
   <url>
     <loc>https://symptomcalm.com/zh/treatments/moxibustion-fertility-tcm/</loc>
     <lastmod>2026-10-28</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://symptomcalm.com/zh/treatments/moxibustion-hands-feet-tcm/</loc>
+    <lastmod>2026-11-22</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -13461,6 +14709,12 @@
   <url>
     <loc>https://symptomcalm.com/zh/treatments/moxibustion-menopause-tcm/</loc>
     <lastmod>2026-10-28</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://symptomcalm.com/zh/treatments/moxibustion-menstrual-comfort/</loc>
+    <lastmod>2026-11-22</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -13513,6 +14767,18 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://symptomcalm.com/zh/treatments/moxibustion-warming-method-tcm/</loc>
+    <lastmod>2026-11-22</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://symptomcalm.com/zh/treatments/qigong-afternoon-energy/</loc>
+    <lastmod>2026-11-22</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://symptomcalm.com/zh/treatments/qigong-anxiety-tcm/</loc>
     <lastmod>2026-10-28</lastmod>
     <changefreq>monthly</changefreq>
@@ -13531,6 +14797,12 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://symptomcalm.com/zh/treatments/qigong-beginner-practice-tcm/</loc>
+    <lastmod>2026-11-22</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://symptomcalm.com/zh/treatments/qigong-beginners/</loc>
     <lastmod>2026-10-28</lastmod>
     <changefreq>monthly</changefreq>
@@ -13539,6 +14811,12 @@
   <url>
     <loc>https://symptomcalm.com/zh/treatments/qigong-beginners-guide/</loc>
     <lastmod>2026-10-28</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://symptomcalm.com/zh/treatments/qigong-breathing-basics/</loc>
+    <lastmod>2026-11-22</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -13555,8 +14833,38 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://symptomcalm.com/zh/treatments/qigong-busy-morning-breathing-tcm/</loc>
+    <lastmod>2026-11-22</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://symptomcalm.com/zh/treatments/qigong-desk-breaks-tcm/</loc>
+    <lastmod>2026-11-22</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://symptomcalm.com/zh/treatments/qigong-digestion-tcm/</loc>
     <lastmod>2026-10-28</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://symptomcalm.com/zh/treatments/qigong-evening-breathing/</loc>
+    <lastmod>2026-11-22</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://symptomcalm.com/zh/treatments/qigong-evening-unwinding-tcm/</loc>
+    <lastmod>2026-11-22</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://symptomcalm.com/zh/treatments/qigong-evening-wind-down-tcm/</loc>
+    <lastmod>2026-11-22</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -13615,6 +14923,12 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://symptomcalm.com/zh/treatments/qigong-morning-mobility-tcm/</loc>
+    <lastmod>2026-11-22</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://symptomcalm.com/zh/treatments/qigong-posture-tcm/</loc>
     <lastmod>2026-10-28</lastmod>
     <changefreq>monthly</changefreq>
@@ -13629,6 +14943,12 @@
   <url>
     <loc>https://symptomcalm.com/zh/treatments/qigong-stress-tcm/</loc>
     <lastmod>2026-10-28</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://symptomcalm.com/zh/treatments/seasonal-dietary-therapy-tcm/</loc>
+    <lastmod>2026-11-22</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -13711,6 +15031,12 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://symptomcalm.com/zh/treatments/tcm-food-energetics-grocery-guide/</loc>
+    <lastmod>2026-11-22</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://symptomcalm.com/zh/treatments/tcm-seasonal-wellness/</loc>
     <lastmod>2026-10-28</lastmod>
     <changefreq>monthly</changefreq>
@@ -13743,6 +15069,12 @@
   <url>
     <loc>https://symptomcalm.com/zh/treatments/tui-na-fatigue-tcm/</loc>
     <lastmod>2026-10-28</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://symptomcalm.com/zh/treatments/tui-na-foot-ankle-tension/</loc>
+    <lastmod>2026-11-22</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -13831,223 +15163,31 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://symptomcalm.com/zh/treatments/warm-compress-jaw-tcm/</loc>
+    <lastmod>2026-11-22</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://symptomcalm.com/zh/treatments/warm-compress-lower-back-tcm/</loc>
+    <lastmod>2026-11-22</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://symptomcalm.com/zh/treatments/warm-compress-tcm-guide/</loc>
     <lastmod>2026-10-28</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://symptomcalm.com/symptoms/joint-pain/travel-day-neck-stiffness-tcm/</loc>
+    <loc>https://symptomcalm.com/zh/treatments/warm-foot-bath-tcm/</loc>
+    <lastmod>2026-11-22</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://symptomcalm.com/symptoms/stress/sunday-night-stress-tcm/</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://symptomcalm.com/symptoms/fatigue/after-lunch-sleepiness-tcm/</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://symptomcalm.com/symptoms/respiratory-health/voice-fatigue-after-talking-tcm/</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://symptomcalm.com/symptoms/insomnia/restless-legs-bedtime-tcm/</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://symptomcalm.com/symptoms/skin-conditions/itchy-skin-after-hot-shower-tcm/</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://symptomcalm.com/tcm-basics/seasonal-transition-routines-tcm/</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://symptomcalm.com/tcm-basics/tcm-pattern-identification-explained/</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://symptomcalm.com/treatments/gua-sha-forearm-tension/</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://symptomcalm.com/treatments/acupressure-pressure-guide/</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://symptomcalm.com/tcm-basics/time-zone-adjustment-tcm/</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://symptomcalm.com/tcm-basics/rest-and-recovery-tcm/</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://symptomcalm.com/treatments/gua-sha-calf-tightness/</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://symptomcalm.com/treatments/gua-sha-hand-tension-tcm/</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://symptomcalm.com/treatments/acupressure-morning-alertness-tcm/</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://symptomcalm.com/treatments/qigong-desk-breaks-tcm/</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://symptomcalm.com/treatments/warm-compress-lower-back-tcm/</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://symptomcalm.com/treatments/foot-soak-busy-mind-tcm/</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://symptomcalm.com/symptoms/ear-health-tinnitus/flight-ear-pressure-tcm/</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://symptomcalm.com/symptoms/joint-pain/tight-calves-after-sitting-tcm/</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://symptomcalm.com/symptoms/respiratory-health/indoor-dry-nose-tcm/</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://symptomcalm.com/symptoms/digestion/afternoon-sugar-cravings-tcm/</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://symptomcalm.com/symptoms/joint-pain/jaw-tension-tcm/</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://symptomcalm.com/symptoms/joint-pain/screen-neck-stiffness-tcm/</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://symptomcalm.com/symptoms/joint-pain/cold-hands-tcm/</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://symptomcalm.com/symptoms/fatigue/afternoon-brain-fog-tcm/</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://symptomcalm.com/symptoms/fatigue/waking-tired-tcm/</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://symptomcalm.com/symptoms/digestion/evening-bloating-tcm/</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://symptomcalm.com/symptoms/digestion/stress-appetite-tcm/</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://symptomcalm.com/symptoms/allergies/itchy-eyes-tcm/</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://symptomcalm.com/symptoms/allergies/nighttime-allergies-tcm/</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://symptomcalm.com/symptoms/womens-health/menstrual-low-back-tension-tcm/</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://symptomcalm.com/symptoms/womens-health/pms-mood-swings-tcm/</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://symptomcalm.com/symptoms/skin-conditions/winter-dry-skin-tcm/</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://symptomcalm.com/symptoms/skin-conditions/eczema-flare-patterns-tcm/</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://symptomcalm.com/symptoms/allergies/seasonal-sneezing-tcm/</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://symptomcalm.com/symptoms/skin-conditions/itchy-skin-after-shower-tcm/</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://symptomcalm.com/symptoms/womens-health/menstrual-headaches-tcm/</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://symptomcalm.com/symptoms/digestion/skipping-meals-digestion-tcm/</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://symptomcalm.com/symptoms/joint-pain/heavy-shoulders-tcm/</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://symptomcalm.com/symptoms/fatigue/afternoon-energy-dip-tcm/</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://symptomcalm.com/symptoms/respiratory-health/dry-tickly-throat-tcm/</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://symptomcalm.com/symptoms/digestion/evening-snacking-tcm/</loc>
+    <loc>https://symptomcalm.com/symptoms/eye-health/screen-eye-dryness-tcm/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
