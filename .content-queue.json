@@ -1,19 +1,6 @@
 {
   "queue": [
     {
-      "title": "A TCM Context Guide to a Dry, Tickly Throat",
-      "path": "/symptoms/respiratory-health/dry-tickly-throat-tcm/",
-      "type": "cluster",
-      "parent": "respiratory-health",
-      "estimated_read_time": 7,
-      "keywords": [
-        "dry tickly throat",
-        "TCM throat",
-        "throat comfort"
-      ],
-      "id": "1314"
-    },
-    {
       "title": "What TCM Can Teach Us About Evening Snacking Patterns",
       "path": "/symptoms/digestion/evening-snacking-tcm/",
       "type": "cluster",
@@ -16851,6 +16838,20 @@
       ],
       "id": "1313",
       "published_at": "2026-11-21T20:30:02Z"
+    },
+    {
+      "title": "A TCM Context Guide to a Dry, Tickly Throat",
+      "path": "/symptoms/respiratory-health/dry-tickly-throat-tcm/",
+      "type": "cluster",
+      "parent": "respiratory-health",
+      "estimated_read_time": 7,
+      "keywords": [
+        "dry tickly throat",
+        "TCM throat",
+        "throat comfort"
+      ],
+      "id": "1314",
+      "published_at": "2026-11-22T02:40:38Z"
     }
   ]
 }
