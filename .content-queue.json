@@ -1,19 +1,6 @@
 {
   "queue": [
     {
-      "title": "What TCM Can Teach Us About Evening Snacking Patterns",
-      "path": "/symptoms/digestion/evening-snacking-tcm/",
-      "type": "cluster",
-      "parent": "digestion",
-      "estimated_read_time": 7,
-      "keywords": [
-        "evening snacking",
-        "TCM food habits",
-        "night eating"
-      ],
-      "id": "1315"
-    },
-    {
       "title": "A TCM-Informed Guide to Screen-Related Eye Dryness",
       "path": "/symptoms/eye-health/screen-eye-dryness-tcm/",
       "type": "cluster",
@@ -16852,6 +16839,20 @@
       ],
       "id": "1314",
       "published_at": "2026-11-22T02:40:38Z"
+    },
+    {
+      "title": "What TCM Can Teach Us About Evening Snacking Patterns",
+      "path": "/symptoms/digestion/evening-snacking-tcm/",
+      "type": "cluster",
+      "parent": "digestion",
+      "estimated_read_time": 7,
+      "keywords": [
+        "evening snacking",
+        "TCM food habits",
+        "night eating"
+      ],
+      "id": "1315",
+      "published_at": "2026-11-22T08:48:04Z"
     }
   ]
 }
