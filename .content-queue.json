@@ -1,19 +1,6 @@
 {
   "queue": [
     {
-      "title": "Why Stress Can Feel Like a Tight Chest: A TCM Context Guide",
-      "path": "/symptoms/stress/stress-chest-tightness-tcm/",
-      "type": "cluster",
-      "parent": "stress",
-      "estimated_read_time": 7,
-      "keywords": [
-        "stress chest tightness",
-        "TCM stress",
-        "breathing tension"
-      ],
-      "id": "1317"
-    },
-    {
       "title": "A TCM Pattern Map for Cold Feet in the Evening",
       "path": "/symptoms/cold-hands-feet/cold-feet-evening-tcm/",
       "type": "cluster",
@@ -16854,6 +16841,20 @@
       ],
       "id": "1316",
       "published_at": "2026-11-22T14:57:40Z"
+    },
+    {
+      "title": "Why Stress Can Feel Like a Tight Chest: A TCM Context Guide",
+      "path": "/symptoms/stress/stress-chest-tightness-tcm/",
+      "type": "cluster",
+      "parent": "stress",
+      "estimated_read_time": 7,
+      "keywords": [
+        "stress chest tightness",
+        "TCM stress",
+        "breathing tension"
+      ],
+      "id": "1317",
+      "published_at": "2026-11-23T03:13:23Z"
     }
   ]
 }
