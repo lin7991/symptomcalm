@@ -1,19 +1,6 @@
 {
   "queue": [
     {
-      "title": "A TCM Perspective on Changes in Your Sense of Smell",
-      "path": "/symptoms/sinus-health/sense-of-smell-tcm/",
-      "type": "cluster",
-      "parent": "sinus-health",
-      "estimated_read_time": 7,
-      "keywords": [
-        "sense of smell",
-        "TCM sinus",
-        "smell changes"
-      ],
-      "id": "1320"
-    },
-    {
       "title": "Why Your Hands Feel Puffy in the Morning: A TCM Context Guide",
       "path": "/symptoms/joint-pain/morning-hand-puffiness-tcm/",
       "type": "cluster",
@@ -66,19 +53,6 @@
       "id": "1324"
     },
     {
-      "title": "Constipation After Travel: A TCM Perspective",
-      "path": "/symptoms/digestion/travel-constipation-tcm/",
-      "type": "cluster",
-      "parent": "digestion",
-      "estimated_read_time": 7,
-      "keywords": [
-        "travel constipation",
-        "TCM digestion",
-        "bowel routine"
-      ],
-      "id": "1325"
-    },
-    {
       "title": "Why Your Hands Feel Cold: A TCM Perspective",
       "path": "/symptoms/fatigue/cold-hands-tcm/",
       "type": "cluster",
@@ -90,19 +64,6 @@
         "Yang deficiency"
       ],
       "id": "1326"
-    },
-    {
-      "title": "Restless Legs at Night Through a TCM Lens",
-      "path": "/symptoms/insomnia/restless-legs-tcm/",
-      "type": "cluster",
-      "parent": "insomnia",
-      "estimated_read_time": 8,
-      "keywords": [
-        "restless legs",
-        "night leg discomfort",
-        "TCM sleep"
-      ],
-      "id": "1327"
     },
     {
       "title": "Post-Meal Sleepiness: What TCM Looks For",
@@ -17052,6 +17013,20 @@
       ],
       "id": "1319",
       "published_at": "2026-11-24T03:56:47Z"
+    },
+    {
+      "title": "A TCM Perspective on Changes in Your Sense of Smell",
+      "path": "/symptoms/sinus-health/sense-of-smell-tcm/",
+      "type": "cluster",
+      "parent": "sinus-health",
+      "estimated_read_time": 7,
+      "keywords": [
+        "sense of smell",
+        "TCM sinus",
+        "smell changes"
+      ],
+      "id": "1320",
+      "published_at": "2026-11-24T16:16:34Z"
     }
   ]
 }
