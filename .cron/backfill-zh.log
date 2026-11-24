@@ -1,0 +1,230 @@
+FAIL symptoms/allergies/allergy-ear-pressure-tcm: usage: hermes chat [-h] [-q QUERY | --query-file PATH] [--oneshot]
+                   [--image IMAGE] [-m MODEL] [-t TOOLSETS]
+                   [--reasoning LEVEL] [-s SKILLS] [--provider PROVIDER] [-v]
+                   [-Q] [--format {text,stream-json}] [--resume SESSION_ID]
+                   [--no-restore-cwd] [--in DIR] [--continue [SESSION_NAME]]
+                   [--create-if-missing] [--worktree] [--accept-hooks]
+                   [--checkpoints] [--max-turns N] [--run-budget SECONDS]
+                   [--yolo] [--pass-session-id] [--ignore-user-config]
+                   [--ignore-rules] [--safe-mode] [--source SOURCE] [--tui]
+                   [--cli] [--dev]
+hermes chat: error: argument -q/--query: expected one argument
+usage: hermes chat [-h] [-q QUERY | --query-file PATH] [--oneshot]
+                   [--image IMAGE] [-m MODEL] [-t TOOLSETS]
+                   [--reasoning LEVEL] [-s SKILLS] [--provider PROVIDER] [-v]
+                   [-Q] [--format {text,stream-json}] [--resume SESSION_ID]
+                   [--no-restore-cwd] [--in DIR] [--continue [SESSION_NAME]]
+                   [--create-if-missing] [--worktree] [--accept-hooks]
+                   [--checkpoints] [--max-turns N] [--run-budget SECONDS]
+                   [--yolo] [--pass-session-id] [--ignore-user-config]
+                   [--ignore-rules] [--safe-mode] [--source SOURCE] [--tui]
+                   [--cli] [--dev]
+hermes chat: error: argument -q/--query: expected one argument
+FAIL symptoms/allergies/allergy-ear-pressure-tcm: hermes: 'ask' is not a `hermes` command.
+Run `hermes --help` to see all commands.
+FAIL symptoms/allergies/allergy-ear-pressure-tcm: usage: hermes chat [-h] [-q QUERY | --query-file PATH] [--oneshot]
+                   [--image IMAGE] [-m MODEL] [-t TOOLSETS]
+                   [--reasoning LEVEL] [-s SKILLS] [--provider PROVIDER] [-v]
+                   [-Q] [--format {text,stream-json}] [--resume SESSION_ID]
+                   [--no-restore-cwd] [--in DIR] [--continue [SESSION_NAME]]
+                   [--create-if-missing] [--worktree] [--accept-hooks]
+                   [--checkpoints] [--max-turns N] [--run-budget SECONDS]
+                   [--yolo] [--pass-session-id] [--ignore-user-config]
+                   [--ignore-rules] [--safe-mode] [--source SOURCE] [--tui]
+                   [--cli] [--dev]
+hermes chat: error: argument -q/--query: expected one argument
+usage: hermes chat [-h] [-q QUERY | --query-file PATH] [--oneshot]
+                   [--image IMAGE] [-m MODEL] [-t TOOLSETS]
+                   [--reasoning LEVEL] [-s SKILLS] [--provider PROVIDER] [-v]
+                   [-Q] [--format {text,stream-json}] [--resume SESSION_ID]
+                   [--no-restore-cwd] [--in DIR] [--continue [SESSION_NAME]]
+                   [--create-if-missing] [--worktree] [--accept-hooks]
+                   [--checkpoints] [--max-turns N] [--run-budget SECONDS]
+                   [--yolo] [--pass-session-id] [--ignore-user-config]
+                   [--ignore-rules] [--safe-mode] [--source SOURCE] [--tui]
+                   [--cli] [--dev]
+hermes chat: error: argument -q/--query: expected one argument
+OK symptoms/allergies/allergy-ear-pressure-tcm
+OK symptoms/allergies/dust-allergy-tcm
+OK symptoms/allergies/itchy-eyes-seasonal-tcm
+OK symptoms/allergies/itchy-eyes-tcm
+OK symptoms/allergies/nighttime-allergies-tcm
+FAIL symptoms/allergies/pet-allergy-tcm: Command '['hermes', '-p', 'symptomcalm', 'chat', '-Q', '--source', 'tool', '--query-file', '-']' timed out after 360 seconds
+OK symptoms/allergies/pollen-season-patterns-tcm
+OK symptoms/allergies/seasonal-allergies-tcm
+OK symptoms/allergies/seasonal-allergy-patterns-tcm
+OK symptoms/allergies/seasonal-sinus-pressure-tcm
+OK symptoms/allergies/seasonal-sneezing-tcm
+FAIL symptoms/allergies/seasonal-sneezing-tcm: [Errno 32] Broken pipe
+OK symptoms/insomnia/screens-bedtime-restlessness-tcm
+OK treatments/acupressure-morning-alertness-tcm
+OK symptoms/stress/jaw-clenching-sleep-tcm
+OK symptoms/allergies/pet-allergy-tcm
+OK treatments/acupressure-pressure-guide
+OK symptoms/insomnia/sunday-scaries-sleep-tcm
+OK symptoms/stress/stress-heavy-chest-tcm
+OK symptoms/allergies/solar-urticaria-tcm
+OK symptoms/insomnia/weekend-sleep-tcm
+OK treatments/acupressure-pressure-sensation-guide
+OK symptoms/stress/sunday-night-stress-tcm
+OK symptoms/anxiety/afternoon-anxiety-acupressure-tcm
+OK symptoms/joint-pain/cold-feet-tcm
+OK symptoms/stress/wired-tired-evening-tcm
+OK treatments/acupressure-screen-eye-tension
+OK symptoms/anxiety/breathing-exercises-tcm
+OK symptoms/stress/workday-jaw-clenching-tcm
+OK symptoms/joint-pain/cold-hands-at-desk-tcm
+OK treatments/acupressure-study-focus-tcm
+OK symptoms/anxiety/decision-fatigue-tcm
+OK symptoms/womens-health/cycle-related-bloating-tcm
+OK symptoms/joint-pain/cold-hands-tcm
+OK treatments/cupping-home-safety-tcm
+OK symptoms/anxiety/evening-anxiety-transition-tcm
+OK symptoms/womens-health/luteal-phase-mood-tcm
+OK symptoms/joint-pain/desk-neck-tension-tcm
+OK treatments/ear-seeds-focus-tcm
+OK symptoms/anxiety/notification-anxiety-tcm
+OK symptoms/womens-health/menstrual-cramps-cold-tcm
+OK symptoms/joint-pain/heavy-shoulders-tcm
+OK treatments/foot-baths-cold-hands-tcm
+OK symptoms/anxiety/remote-work-anxiety-tcm
+OK symptoms/womens-health/menstrual-cramps-cycle-map-tcm
+OK treatments/foot-soak-busy-mind-tcm
+OK symptoms/joint-pain/jaw-tension-tcm
+OK symptoms/anxiety/workday-anxiety-tcm
+OK symptoms/womens-health/menstrual-headaches-tcm
+OK treatments/foot-soak-night-routine-tcm
+OK symptoms/joint-pain/morning-stiffness-tcm
+OK symptoms/womens-health/menstrual-low-back-tension-tcm
+OK treatments/foot-soak-safety-tcm
+OK symptoms/back-pain/cervical-spondylosis-tcm
+OK symptoms/joint-pain/mortons-neuroma-tcm
+OK treatments/gua-sha-calf-tightness
+OK symptoms/back-pain/cold-feet-night-tcm
+OK symptoms/womens-health/period-cramps-tcm
+OK symptoms/joint-pain/screen-neck-stiffness-tcm
+OK treatments/gua-sha-forearm-tension
+OK symptoms/back-pain/desk-low-back-tension-tcm
+OK symptoms/joint-pain/shoulders-creep-up-desk-tcm
+OK symptoms/womens-health/pms-mood-swings-tcm
+OK symptoms/back-pain/desk-neck-mobility-tcm
+OK treatments/gua-sha-hand-tension-tcm
+OK symptoms/joint-pain/stairs-knee-tension-tcm
+OK symptoms/womens-health/pms-mood-tcm
+OK symptoms/back-pain/driving-back-pain-tcm
+OK treatments/gua-sha-jaw-tension-tcm
+OK symptoms/womens-health/premature-ovarian-insufficiency-tcm
+OK symptoms/joint-pain/tight-calves-after-sitting-tcm
+OK symptoms/back-pain/sitting-back-pain-tcm
+OK symptoms/joint-pain/travel-day-neck-stiffness-tcm
+OK tcm-basics/constitution-types-tcm
+OK treatments/gua-sha-shoulder-mobility-tcm
+OK symptoms/back-pain/weather-joint-stiffness-tcm
+OK symptoms/mental-emotional-health/crying-tcm
+OK treatments/gua-sha-temple-tension-tcm
+OK tcm-basics/eight-extraordinary-vessels-tcm
+OK symptoms/digestion/afternoon-sugar-cravings-tcm
+OK symptoms/mental-emotional-health/inner-critic-tcm
+OK treatments/gua-sha-upper-back-tension
+OK tcm-basics/five-elements-seasonal-calendar
+OK symptoms/digestion/belching-tcm
+OK treatments/guasha-desk-neck-tension
+OK symptoms/mental-emotional-health/self-esteem-tcm
+OK tcm-basics/five-elements-seasonal-living-tcm
+OK symptoms/digestion/evening-bloating-tcm
+OK treatments/herbal-compress-basics-tcm
+OK symptoms/respiratory-health/cold-air-cough-tcm
+OK tcm-basics/five-elements-tcm
+OK symptoms/digestion/meal-timing-digestion-tcm
+OK symptoms/respiratory-health/croup-tcm
+OK treatments/herbal-steam-nasal-comfort
+OK tcm-basics/five-shen-tcm
+OK treatments/herbal-tea-dry-throat-tcm
+OK symptoms/digestion/post-meal-bloating-tcm
+OK tcm-basics/meridian-pathways-tcm
+OK symptoms/respiratory-health/dry-air-nasal-irritation-tcm
+OK treatments/moxibustion-basics-tcm
+OK symptoms/digestion/restaurant-meal-bloating-tcm
+OK tcm-basics/meridians-fiber-optic-network-tcm
+OK symptoms/respiratory-health/indoor-dry-nose-tcm
+OK treatments/moxibustion-hands-feet-tcm
+OK tcm-basics/nervous-system-tcm-explained
+OK symptoms/digestion/skipping-meals-digestion-tcm
+OK symptoms/respiratory-health/morning-nasal-congestion-tcm
+OK treatments/moxibustion-menstrual-comfort
+OK tcm-basics/organ-clock-explained-tcm
+OK symptoms/digestion/stress-appetite-tcm
+OK symptoms/respiratory-health/sinus-pressure-tcm
+OK treatments/moxibustion-warming-method-tcm
+OK tcm-basics/organ-clock-timing-tcm
+OK symptoms/digestion/travel-constipation-tcm
+OK symptoms/respiratory-health/voice-fatigue-after-talking-tcm
+OK treatments/qigong-afternoon-energy
+OK tcm-basics/pericardium-boundaries-tcm
+OK symptoms/ear-health-tinnitus/elevator-ear-pressure-tcm
+OK symptoms/sinus-health/sinus-pressure-tcm
+OK treatments/qigong-beginner-practice-tcm
+OK tcm-basics/qi-blood-relationship-explained-tcm
+OK symptoms/ear-health-tinnitus/flight-ear-pressure-tcm
+OK symptoms/skin-conditions/corns-calluses-tcm
+OK treatments/qigong-breathing-basics
+OK tcm-basics/qi-operating-system-tcm
+OK symptoms/eye-health/video-call-eye-fatigue-tcm
+OK symptoms/skin-conditions/dry-itchy-skin-tcm
+OK treatments/qigong-busy-morning-breathing-tcm
+OK tcm-basics/rest-and-recovery-tcm
+OK symptoms/fatigue/after-lunch-sleepiness-tcm
+OK treatments/qigong-desk-breaks-tcm
+OK symptoms/skin-conditions/eczema-flare-patterns-tcm
+OK tcm-basics/seasonal-transition-routines-tcm
+OK treatments/qigong-evening-breathing
+OK symptoms/skin-conditions/eczema-flare-tcm
+OK tcm-basics/spleen-stomach-pair-tcm
+OK treatments/qigong-evening-unwinding-tcm
+OK symptoms/skin-conditions/itchy-scalp-tcm
+OK symptoms/fatigue/afternoon-brain-fog-tcm
+OK tcm-basics/stress-response-tcm
+OK symptoms/fatigue/afternoon-energy-dip-tcm
+OK treatments/qigong-evening-wind-down-tcm
+OK tcm-basics/tcm-body-clock-explained
+OK symptoms/skin-conditions/itchy-skin-after-hot-shower-tcm
+OK tcm-basics/tcm-body-clock-timing
+OK treatments/qigong-morning-mobility-tcm
+OK symptoms/fatigue/cold-weather-fatigue-tcm
+OK tcm-basics/tcm-pattern-identification-explained
+OK treatments/seasonal-dietary-therapy-tcm
+OK symptoms/fatigue/mental-fatigue-tcm
+OK symptoms/skin-conditions/itchy-skin-after-shower-tcm
+OK treatments/tcm-food-energetics-grocery-guide
+OK symptoms/fatigue/tcm-morning-routine-energy
+OK symptoms/skin-conditions/itchy-skin-at-night-tcm
+OK tcm-basics/time-zone-adjustment-tcm
+OK symptoms/skin-conditions/seasonal-dry-skin-tcm
+OK treatments/tui-na-foot-ankle-tension
+OK tcm-basics/tongue-coating-tcm
+OK treatments/warm-compress-jaw-tcm
+OK symptoms/skin-conditions/skin-dryness-after-shower-tcm
+OK tcm-basics/tongue-diagnosis-explained-tcm
+OK symptoms/fatigue/travel-fatigue-tcm
+OK treatments/warm-compress-lower-back-tcm
+OK symptoms/skin-conditions/skin-tightness-tcm
+OK tcm-basics/tongue-diagnosis-tcm
+OK symptoms/fatigue/waking-tired-tcm
+OK treatments/warm-foot-bath-tcm
+OK symptoms/skin-conditions/winter-dry-skin-tcm
+OK tcm-basics/what-is-yang-tcm
+OK symptoms/headaches/afternoon-headaches-tcm
+OK symptoms/skin-conditions/winter-skin-tightness-tcm
+OK treatments/acupressure-jaw-tension-tcm
+OK symptoms/headaches/headache-after-screen-break-tcm
+OK symptoms/stress/clutter-stress-tcm
+OK treatments/acupressure-jet-lag-tcm
+OK symptoms/headaches/meeting-tension-headache-tcm
+OK symptoms/stress/inbox-overload-tcm
+OK symptoms/headaches/weather-pressure-headache-tcm
+OK symptoms/stress/inbox-stress-tcm
+OK symptoms/insomnia/dry-mouth-sleep-tcm
+OK symptoms/insomnia/orthosomnia-tcm
+OK symptoms/insomnia/restless-legs-bedtime-tcm
+OK symptoms/respiratory-health/dry-tickly-throat-tcm
+OK symptoms/digestion/evening-snacking-tcm
