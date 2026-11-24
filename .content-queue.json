@@ -1,19 +1,6 @@
 {
   "queue": [
     {
-      "title": "Why Your Hands Feel Puffy in the Morning: A TCM Context Guide",
-      "path": "/symptoms/joint-pain/morning-hand-puffiness-tcm/",
-      "type": "cluster",
-      "parent": "joint-pain",
-      "estimated_read_time": 7,
-      "keywords": [
-        "morning hand puffiness",
-        "TCM swelling",
-        "hand discomfort"
-      ],
-      "id": "1321"
-    },
-    {
       "title": "A TCM Perspective on Brain Fog After Poor Sleep",
       "path": "/symptoms/fatigue/brain-fog-poor-sleep-tcm/",
       "type": "cluster",
@@ -17027,6 +17014,20 @@
       ],
       "id": "1320",
       "published_at": "2026-11-24T16:16:34Z"
+    },
+    {
+      "title": "Why Your Hands Feel Puffy in the Morning: A TCM Context Guide",
+      "path": "/symptoms/joint-pain/morning-hand-puffiness-tcm/",
+      "type": "cluster",
+      "parent": "joint-pain",
+      "estimated_read_time": 7,
+      "keywords": [
+        "morning hand puffiness",
+        "TCM swelling",
+        "hand discomfort"
+      ],
+      "id": "1321",
+      "published_at": "2026-11-24T23:11:50Z"
     }
   ]
 }
