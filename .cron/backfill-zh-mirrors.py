@@ -89,7 +89,7 @@ def make_page(rel, en, zhmeta, body, m):
   <meta name="author" content="SymptomCalm Editorial Team" />
   <meta property="article:modified_time" content="{date}T00:00:00+00:00" />
   <meta property="article:section" content="{section}" />'''
-    graph = {"@context":"https://schema.org","@graph":[
+    graph = {"@context":"https://schema.org","@graph": [
         {"@type":"Organization","@id":"https://symptomcalm.com/#organization","name":"SymptomCalm","url":"https://symptomcalm.com/","logo":{"@type":"ImageObject","url":"https://symptomcalm.com/favicon.svg"},"email":"contact@symptomcalm.com"},
         {"@type":"MedicalWebPage","@id":url+"#webpage","url":url,"name":zhmeta['zh_title'],"description":zhmeta['zh_desc'],"publisher":{"@id":"https://symptomcalm.com/#organization"},"dateModified":date,"inLanguage":"zh-CN"},
         {"@type":"Article","@id":url+"#article","headline":zhmeta['zh_title'],"description":zhmeta['zh_desc'],"inLanguage":"zh-CN","author":{"@type":"Organization","name":"SymptomCalm Editorial Team"},"publisher":{"@id":"https://symptomcalm.com/#organization"},"dateModified":date,"mainEntityOfPage":{"@id":url+"#webpage"}}

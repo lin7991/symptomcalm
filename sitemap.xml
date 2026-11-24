@@ -15192,7 +15192,19 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://symptomcalm.com/zh/symptoms/eye-health/screen-eye-dryness-tcm/</loc>
+    <lastmod>2026-11-25</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://symptomcalm.com/symptoms/stress/stress-chest-tightness-tcm/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://symptomcalm.com/zh/symptoms/stress/stress-chest-tightness-tcm/</loc>
+    <lastmod>2026-11-25</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -15202,12 +15214,30 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://symptomcalm.com/zh/symptoms/cold-hands-feet/cold-feet-evening-tcm/</loc>
+    <lastmod>2026-11-25</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://symptomcalm.com/tcm-basics/ren-mai-meridian-tcm/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://symptomcalm.com/zh/tcm-basics/ren-mai-meridian-tcm/</loc>
+    <lastmod>2026-11-25</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://symptomcalm.com/symptoms/sinus-health/sense-of-smell-tcm/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://symptomcalm.com/zh/symptoms/sinus-health/sense-of-smell-tcm/</loc>
+    <lastmod>2026-11-25</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
