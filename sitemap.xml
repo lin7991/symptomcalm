@@ -15247,12 +15247,30 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://symptomcalm.com/zh/symptoms/joint-pain/morning-hand-puffiness-tcm/</loc>
+    <lastmod>2026-11-25</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://symptomcalm.com/symptoms/fatigue/brain-fog-poor-sleep-tcm/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://symptomcalm.com/zh/symptoms/fatigue/brain-fog-poor-sleep-tcm/</loc>
+    <lastmod>2026-11-25</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://symptomcalm.com/symptoms/back-pain/back-pain-deep-breathing-tcm/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://symptomcalm.com/zh/symptoms/back-pain/back-pain-deep-breathing-tcm/</loc>
+    <lastmod>2026-11-25</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
