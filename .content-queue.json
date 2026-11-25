@@ -1,19 +1,6 @@
 {
   "queue": [
     {
-      "title": "Why Your Hands Feel Cold: A TCM Perspective",
-      "path": "/symptoms/fatigue/cold-hands-tcm/",
-      "type": "cluster",
-      "parent": "fatigue",
-      "estimated_read_time": 7,
-      "keywords": [
-        "cold hands",
-        "TCM cold hands",
-        "Yang deficiency"
-      ],
-      "id": "1326"
-    },
-    {
       "title": "Post-Meal Sleepiness: What TCM Looks For",
       "path": "/symptoms/fatigue/post-meal-sleepiness-tcm/",
       "type": "cluster",
@@ -17032,6 +17019,20 @@
       ],
       "id": "1329",
       "published_at": "2026-11-25T16:38:00Z"
+    },
+    {
+      "title": "Why Your Hands Feel Cold: A TCM Perspective",
+      "path": "/symptoms/fatigue/cold-hands-tcm/",
+      "type": "cluster",
+      "parent": "fatigue",
+      "estimated_read_time": 7,
+      "keywords": [
+        "cold hands",
+        "TCM cold hands",
+        "Yang deficiency"
+      ],
+      "id": "1326",
+      "published_at": "2026-11-25T18:37:56Z"
     }
   ]
 }
