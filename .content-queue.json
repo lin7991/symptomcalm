@@ -1,19 +1,6 @@
 {
   "queue": [
     {
-      "title": "Back Pain and Deep Breathing: A TCM Perspective",
-      "path": "/symptoms/back-pain/back-pain-deep-breathing-tcm/",
-      "type": "cluster",
-      "parent": "back-pain",
-      "estimated_read_time": 7,
-      "keywords": [
-        "back pain breathing",
-        "TCM back tension",
-        "diaphragmatic breathing"
-      ],
-      "id": "1323"
-    },
-    {
       "title": "Why Your Sleep Position Matters in TCM",
       "path": "/symptoms/insomnia/sleep-position-tcm/",
       "type": "cluster",
@@ -17029,6 +17016,20 @@
       ],
       "id": "1322",
       "published_at": "2026-11-25T05:26:34Z"
+    },
+    {
+      "title": "Back Pain and Deep Breathing: A TCM Perspective",
+      "path": "/symptoms/back-pain/back-pain-deep-breathing-tcm/",
+      "type": "cluster",
+      "parent": "back-pain",
+      "estimated_read_time": 7,
+      "keywords": [
+        "back pain breathing",
+        "TCM back tension",
+        "diaphragmatic breathing"
+      ],
+      "id": "1323",
+      "published_at": "2026-11-25T12:19:17Z"
     }
   ]
 }
