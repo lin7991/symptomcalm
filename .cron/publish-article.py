@@ -189,7 +189,8 @@ def ensure_release_metadata(html_content: str, article_path: str) -> str:
         description = html.unescape(desc_match.group(1)).strip() if desc_match else "Educational information about Traditional Chinese Medicine and everyday wellbeing."
         graph = {"@context":"https://schema.org","@graph":[
             {"@type":"Organization","@id":"https://symptomcalm.com/#organization","name":"SymptomCalm","url":"https://symptomcalm.com/","logo":{"@type":"ImageObject","url":"https://symptomcalm.com/favicon.svg"},"email":"contact@symptomcalm.com"},
-            {"@type":"MedicalWebPage","@id":url+"#webpage","url":url,"name":title,"description":description,"publisher":{"@id":"https://symptomcalm.com/#organization"},"dateModified":date_modified,"inLanguage":lang}
+            {"@type":"MedicalWebPage","@id":url+"#webpage","url":url,"name":title,"description":description,"publisher":{"@id":"https://symptomcalm.com/#organization"},"dateModified":date_modified,"inLanguage":lang},
+            {"@type":"Article","@id":url+"#article","headline":title.replace(' — SymptomCalm',''),"description":description,"author":{"@type":"Organization","name":"SymptomCalm Editorial Team"},"publisher":{"@id":"https://symptomcalm.com/#organization"},"dateModified":date_modified,"mainEntityOfPage":{"@id":url+"#webpage"},"inLanguage":lang}
         ]}
         block = '<script type="application/ld+json">\n' + json.dumps(graph, ensure_ascii=False, indent=2) + '\n</script>\n'
         updated = re.sub(r'<!--FAQ_SCHEMA(?:_ZH)?-->', block + r'\g<0>', html_content, count=1, flags=re.I)
