@@ -85,6 +85,7 @@ B) CHINESE version:
 - Write to $RUN_DIR/sc-zh.html
 - Determine path from queue item, create directory: mkdir -p zh/CURRENT_PATH
 - Copy: cp $RUN_DIR/sc-zh.html zh/CURRENT_PATH/index.html
+- Run: python3 .cron/ensure-release-metadata.py zh/CURRENT_PATH/index.html
 - Do NOT run git add, git commit, git push, reset, checkout, or clean. The outer shell script owns Git and will reject a dirty/failed release.
 
 STEP 3: Verify both EN and ZH pages with curl.
