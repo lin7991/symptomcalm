@@ -192,7 +192,11 @@ def ensure_release_metadata(html_content: str, article_path: str) -> str:
             {"@type":"MedicalWebPage","@id":url+"#webpage","url":url,"name":title,"description":description,"publisher":{"@id":"https://symptomcalm.com/#organization"},"dateModified":date_modified,"inLanguage":lang}
         ]}
         block = '<script type="application/ld+json">\n' + json.dumps(graph, ensure_ascii=False, indent=2) + '\n</script>\n'
-        html_content = re.sub(r'<!--FAQ_SCHEMA(?:_ZH)?-->', block + r'\g<0>', html_content, count=1, flags=re.I)
+        updated = re.sub(r'<!--FAQ_SCHEMA(?:_ZH)?-->', block + r'\g<0>', html_content, count=1, flags=re.I)
+        # Some generated pages omit the FAQ marker; metadata is still mandatory.
+        if updated == html_content and '</head>' in html_content.lower():
+            updated = re.sub(r'</head>', block + '</head>', html_content, count=1, flags=re.I)
+        html_content = updated
     return html_content
 
 
