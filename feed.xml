@@ -5,13 +5,20 @@
     <link>https://symptomcalm.com/</link>
     <description>Understand your symptoms through the lens of Traditional Chinese Medicine. No jargon, no miracle claims — clear, grounded wisdom.</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 25 Nov 2026 16:09:51 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 25 Nov 2026 16:45:55 +0000</lastBuildDate>
     <atom:link href="https://symptomcalm.com/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title><![CDATA[Jaw Tension and Headaches: A TCM Perspective]]></title>
+      <link>https://symptomcalm.com/symptoms/headaches/jaw-tension-headaches-tcm/</link>
+      <guid>https://symptomcalm.com/symptoms/headaches/jaw-tension-headaches-tcm/</guid>
+      <pubDate>Wed, 25 Nov 2026 16:45:55 +0000</pubDate>
+      <description><![CDATA[Explore Jaw Tension and Headaches: A TCM Perspective through the lens of Traditional Chinese Medicine at SymptomCalm.]]></description>
+    </item>
     <item>
       <title><![CDATA[Why Your Sleep Position Matters in TCM]]></title>
       <link>https://symptomcalm.com/symptoms/insomnia/sleep-position-tcm/</link>
       <guid>https://symptomcalm.com/symptoms/insomnia/sleep-position-tcm/</guid>
-      <pubDate>Wed, 25 Nov 2026 16:09:51 +0000</pubDate>
+      <pubDate>Wed, 25 Nov 2026 16:13:18 +0000</pubDate>
       <description><![CDATA[Explore Why Your Sleep Position Matters in TCM through the lens of Traditional Chinese Medicine at SymptomCalm.]]></description>
     </item>
     <item>
@@ -139,13 +146,6 @@
       <guid>https://symptomcalm.com/symptoms/skin-conditions/winter-dry-skin-tcm/</guid>
       <pubDate>Fri, 20 Nov 2026 00:02:46 +0000</pubDate>
       <description><![CDATA[Explore What TCM Says About Dry, Tight Skin in Winter through the lens of Traditional Chinese Medicine at SymptomCalm.]]></description>
-    </item>
-    <item>
-      <title><![CDATA[PMS Mood Swings: Understanding the TCM Pattern Map]]></title>
-      <link>https://symptomcalm.com/symptoms/womens-health/pms-mood-swings-tcm/</link>
-      <guid>https://symptomcalm.com/symptoms/womens-health/pms-mood-swings-tcm/</guid>
-      <pubDate>Thu, 19 Nov 2026 17:22:17 +0000</pubDate>
-      <description><![CDATA[Explore PMS Mood Swings: Understanding the TCM Pattern Map through the lens of Traditional Chinese Medicine at SymptomCalm.]]></description>
     </item>
   </channel>
 </rss>

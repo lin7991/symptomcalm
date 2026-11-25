@@ -27,19 +27,6 @@
       "id": "1328"
     },
     {
-      "title": "Jaw Tension and Headaches: A TCM Perspective",
-      "path": "/symptoms/headaches/jaw-tension-headaches-tcm/",
-      "type": "cluster",
-      "parent": "headaches",
-      "estimated_read_time": 7,
-      "keywords": [
-        "jaw tension headache",
-        "TMJ headache",
-        "Liver Qi"
-      ],
-      "id": "1329"
-    },
-    {
       "title": "Cold Weather and Stiff Fingers in TCM",
       "path": "/symptoms/joint-pain/cold-weather-stiff-fingers-tcm/",
       "type": "cluster",
@@ -17031,6 +17018,20 @@
       ],
       "id": "1324",
       "published_at": "2026-11-25T16:06:44Z"
+    },
+    {
+      "title": "Jaw Tension and Headaches: A TCM Perspective",
+      "path": "/symptoms/headaches/jaw-tension-headaches-tcm/",
+      "type": "cluster",
+      "parent": "headaches",
+      "estimated_read_time": 7,
+      "keywords": [
+        "jaw tension headache",
+        "TMJ headache",
+        "Liver Qi"
+      ],
+      "id": "1329",
+      "published_at": "2026-11-25T16:38:00Z"
     }
   ]
 }
