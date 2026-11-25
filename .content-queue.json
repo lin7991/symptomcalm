@@ -1,19 +1,6 @@
 {
   "queue": [
     {
-      "title": "A TCM Perspective on Brain Fog After Poor Sleep",
-      "path": "/symptoms/fatigue/brain-fog-poor-sleep-tcm/",
-      "type": "cluster",
-      "parent": "fatigue",
-      "estimated_read_time": 7,
-      "keywords": [
-        "brain fog poor sleep",
-        "TCM fatigue",
-        "morning clarity"
-      ],
-      "id": "1322"
-    },
-    {
       "title": "Back Pain and Deep Breathing: A TCM Perspective",
       "path": "/symptoms/back-pain/back-pain-deep-breathing-tcm/",
       "type": "cluster",
@@ -17028,6 +17015,20 @@
       ],
       "id": "1321",
       "published_at": "2026-11-24T23:11:50Z"
+    },
+    {
+      "title": "A TCM Perspective on Brain Fog After Poor Sleep",
+      "path": "/symptoms/fatigue/brain-fog-poor-sleep-tcm/",
+      "type": "cluster",
+      "parent": "fatigue",
+      "estimated_read_time": 7,
+      "keywords": [
+        "brain fog poor sleep",
+        "TCM fatigue",
+        "morning clarity"
+      ],
+      "id": "1322",
+      "published_at": "2026-11-25T05:26:34Z"
     }
   ]
 }
