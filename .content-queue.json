@@ -1,19 +1,6 @@
 {
   "queue": [
     {
-      "title": "Post-Meal Sleepiness: What TCM Looks For",
-      "path": "/symptoms/fatigue/post-meal-sleepiness-tcm/",
-      "type": "cluster",
-      "parent": "fatigue",
-      "estimated_read_time": 7,
-      "keywords": [
-        "post meal sleepiness",
-        "food coma",
-        "Spleen Qi"
-      ],
-      "id": "1328"
-    },
-    {
       "title": "Cold Weather and Stiff Fingers in TCM",
       "path": "/symptoms/joint-pain/cold-weather-stiff-fingers-tcm/",
       "type": "cluster",
@@ -17033,6 +17020,20 @@
       ],
       "id": "1326",
       "published_at": "2026-11-25T18:37:56Z"
+    },
+    {
+      "title": "Post-Meal Sleepiness: What TCM Looks For",
+      "path": "/symptoms/fatigue/post-meal-sleepiness-tcm/",
+      "type": "cluster",
+      "parent": "fatigue",
+      "estimated_read_time": 7,
+      "keywords": [
+        "post meal sleepiness",
+        "food coma",
+        "Spleen Qi"
+      ],
+      "id": "1328",
+      "published_at": "2026-11-26T00:50:20Z"
     }
   ]
 }
