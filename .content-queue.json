@@ -1,19 +1,6 @@
 {
   "queue": [
     {
-      "title": "Bloating Before Your Period: A TCM Perspective",
-      "path": "/symptoms/womens-health/premenstrual-bloating-tcm/",
-      "type": "cluster",
-      "parent": "womens-health",
-      "estimated_read_time": 7,
-      "keywords": [
-        "premenstrual bloating",
-        "period bloating",
-        "TCM PMS"
-      ],
-      "id": "1331"
-    },
-    {
       "title": "A TCM Guide to Postnasal Drip Patterns",
       "path": "/symptoms/respiratory-health/postnasal-drip-patterns-tcm/",
       "type": "cluster",
@@ -17035,6 +17022,20 @@
       ],
       "id": "1330",
       "published_at": "2026-11-26T07:00:16Z"
+    },
+    {
+      "title": "Bloating Before Your Period: A TCM Perspective",
+      "path": "/symptoms/womens-health/premenstrual-bloating-tcm/",
+      "type": "cluster",
+      "parent": "womens-health",
+      "estimated_read_time": 7,
+      "keywords": [
+        "premenstrual bloating",
+        "period bloating",
+        "TCM PMS"
+      ],
+      "id": "1331",
+      "published_at": "2026-11-26T13:27:25Z"
     }
   ]
 }
