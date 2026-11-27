@@ -1,19 +1,6 @@
 {
   "queue": [
     {
-      "title": "A Beginner's Guide to TCM Moxibustion Safety",
-      "path": "/treatments/moxibustion-safety-beginners/",
-      "type": "treatment",
-      "parent": "treatments",
-      "estimated_read_time": 8,
-      "keywords": [
-        "moxibustion safety",
-        "moxa beginners",
-        "heat therapy safety"
-      ],
-      "id": "1336"
-    },
-    {
       "title": "Gua Sha for Upper Back Tension: A Home Guide",
       "path": "/treatments/guasha-upper-back-home-guide/",
       "type": "treatment",
@@ -17235,6 +17222,20 @@
       ],
       "id": "1335",
       "published_at": "2026-11-27T16:12:20Z"
+    },
+    {
+      "title": "A Beginner's Guide to TCM Moxibustion Safety",
+      "path": "/treatments/moxibustion-safety-beginners/",
+      "type": "treatment",
+      "parent": "treatments",
+      "estimated_read_time": 8,
+      "keywords": [
+        "moxibustion safety",
+        "moxa beginners",
+        "heat therapy safety"
+      ],
+      "id": "1336",
+      "published_at": "2026-11-27T22:42:42Z"
     }
   ]
 }
