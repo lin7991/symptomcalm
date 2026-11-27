@@ -167,6 +167,22 @@ def ensure_release_metadata(html_content: str, article_path: str) -> str:
     lang = "zh-CN" if article_path.strip("/").startswith("zh/") else "en-US"
     section = "Symptoms" if "/symptoms/" in "/" + article_path else ("Treatments" if "/treatments/" in "/" + article_path else "TCM Basics")
     date_modified = time.strftime("%Y-%m-%d")
+    # Keep future English titles search-snippet friendly and keep EN/OG title aligned.
+    title_match = re.search(r'<title\b[^>]*>(.*?)</title>', html_content, re.I | re.S)
+    if title_match and not article_path.strip('/').startswith('zh/'):
+        raw_title = html.unescape(re.sub(r'<[^>]+>', '', title_match.group(1))).strip()
+        core = re.sub(r'\s*(?:—|\||-)\s*SymptomCalm\s*$', '', raw_title, flags=re.I).strip()
+        suffix = ' | SymptomCalm'; limit = 58 - len(suffix)
+        if len(core) > limit:
+            words=[]
+            for word in core.split():
+                candidate=(' '.join(words+[word])).strip()
+                if len(candidate) > limit: break
+                words.append(word)
+            core=' '.join(words) or core[:limit].rstrip()
+        normalized = core + suffix
+        html_content = html_content[:title_match.start(1)] + html.escape(normalized, quote=False) + html_content[title_match.end(1):]
+        html_content = re.sub(r'(<meta\b[^>]*property=["\']og:title["\'][^>]*content=["\'])[^"\']*(["\'])', lambda m: m.group(1)+html.escape(normalized, quote=True)+m.group(2), html_content, count=1, flags=re.I)
     additions = []
     if 'hreflang="x-default"' not in html_content:
         additions.append(f'<link rel="alternate" hreflang="x-default" href="{url}" />')

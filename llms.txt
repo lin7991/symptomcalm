@@ -1,0 +1,18 @@
+# SymptomCalm
+
+> SymptomCalm explains Traditional Chinese Medicine for Western readers through clear analogies, modern context, and practical safety boundaries.
+
+SymptomCalm is an English-first health education site covering everyday symptoms, TCM basics, and traditional practices. Articles distinguish traditional theory from modern evidence and never replace diagnosis, treatment, or advice from a qualified healthcare professional.
+
+## Primary sections
+- [Symptoms](https://symptomcalm.com/symptoms/): Plain-English guides to common health concerns through Western and TCM lenses.
+- [TCM Basics](https://symptomcalm.com/tcm-basics/): Explanations of Qi, Yin-Yang, meridians, patterns, and other foundational concepts.
+- [Treatments and practices](https://symptomcalm.com/treatments/): Educational guides to traditional practices with safety notes and appropriate limits.
+- [About](https://symptomcalm.com/about/): Editorial approach and site background.
+- [Medical disclaimer](https://symptomcalm.com/about/medical-disclaimer/): Health and safety boundaries.
+
+## Editorial approach
+Each guide starts with a real reader question, explains TCM concepts with accessible Western analogies, separates traditional claims from modern evidence, flags red-flag symptoms, and offers questions readers can discuss with qualified professionals. TCM terms such as Qi, Yin, Yang, and meridians are presented as a traditional framework rather than as literal biomedical anatomy.
+
+## Safety
+Educational content only; not medical advice. Do not delay urgent care, stop prescribed medication, or begin herbs, supplements, acupuncture, or other practices based only on an article. Seek qualified medical care for persistent, severe, rapidly worsening, or concerning symptoms.

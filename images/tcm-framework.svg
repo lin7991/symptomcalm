@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630" role="img" aria-labelledby="title desc">
+  <title id="title">Traditional Chinese Medicine framework</title>
+  <desc id="desc">A calm educational diagram connecting symptoms, patterns, and practical context.</desc>
+  <rect width="1200" height="630" fill="#f4efe6"/>
+  <circle cx="600" cy="315" r="190" fill="#244b45"/>
+  <circle cx="600" cy="315" r="132" fill="#f4efe6"/>
+  <path d="M600 183a132 132 0 0 1 0 264a66 66 0 0 0 0-132a66 66 0 0 1 0-132z" fill="#d89562"/>
+  <circle cx="600" cy="249" r="13" fill="#244b45"/><circle cx="600" cy="381" r="13" fill="#f4efe6"/>
+  <g font-family="Arial, sans-serif" fill="#244b45" text-anchor="middle">
+    <text x="600" y="70" font-size="34" font-weight="700">A Different Lens on Health</text>
+    <text x="600" y="115" font-size="21">Symptoms • Patterns • Context</text>
+    <text x="235" y="300" font-size="27" font-weight="700">Everyday symptom</text><text x="235" y="335" font-size="21">what you notice</text>
+    <text x="965" y="300" font-size="27" font-weight="700">TCM pattern</text><text x="965" y="335" font-size="21">a traditional framework</text>
+    <text x="600" y="560" font-size="24">Traditional theory, modern context, practical safety</text>
+  </g>
+  <path d="M390 315h-80m500 0h80" stroke="#d89562" stroke-width="8" stroke-linecap="round"/>
+  <path d="m320 315-25-18v36zM880 315l25-18v36z" fill="#d89562"/>
+</svg>
